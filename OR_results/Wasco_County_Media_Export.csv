@@ -1,0 +1,75 @@
+ContestID,ContestName,PartyCode,AreaType,AreaNum,OfficeSeqNo,BallotOrder,CandidateID,CandidateName,CurrentDateTime,VoteFor,CandidateVotes,CandidatePercentage,PrecinctsReporting
+100036377,"US Representative, District 2 - Independent Party","IND","","US Congressional District 2",2,,9901,"Write-in",6/11/2018 12:02:17 PM,1,41,0.312977099236641,381/381
+100036377,"US Representative, District 2 - Independent Party","IND","","US Congressional District 2",2,,100060602,"Mark R Roberts",6/11/2018 12:02:17 PM,1,90,0.687022900763359,381/381
+100036378,"US Representative, District 2 - Democrat","DEM","","US Congressional District 2",1,,9901,"Write-in",6/11/2018 12:02:17 PM,1,42,0.0193905817174515,381/381
+100036378,"US Representative, District 2 - Democrat","DEM","","US Congressional District 2",1,,100060594,"Eric Burnette",6/11/2018 12:02:17 PM,1,137,0.0632502308402585,381/381
+100036378,"US Representative, District 2 - Democrat","DEM","","US Congressional District 2",1,,100060595,"Michael Byrne",6/11/2018 12:02:17 PM,1,313,0.144506001846722,381/381
+100036378,"US Representative, District 2 - Democrat","DEM","","US Congressional District 2",1,,100060596,"James (Jim) Crary",6/11/2018 12:02:17 PM,1,214,0.0987996306555863,381/381
+100036378,"US Representative, District 2 - Democrat","DEM","","US Congressional District 2",1,,100060597,"Raz Mason",6/11/2018 12:02:17 PM,1,147,0.0678670360110803,381/381
+100036378,"US Representative, District 2 - Democrat","DEM","","US Congressional District 2",1,,100060598,"Jamie McLeod-Skinner",6/11/2018 12:02:17 PM,1,707,0.326408125577101,381/381
+100036378,"US Representative, District 2 - Democrat","DEM","","US Congressional District 2",1,,100060599,"Jennifer (Jenni) Neahring",6/11/2018 12:02:17 PM,1,484,0.223453370267775,381/381
+100036378,"US Representative, District 2 - Democrat","DEM","","US Congressional District 2",1,,100060600,"Tim S White",6/11/2018 12:02:17 PM,1,122,0.0563250230840259,381/381
+100036379,"US Representative, District 2 - Republican","REP","","US Congressional District 2",7,,9901,"Write-in",6/11/2018 12:02:17 PM,1,8,0.00341296928327645,381/381
+100036379,"US Representative, District 2 - Republican","REP","","US Congressional District 2",7,,100060601,"Paul J Romero Jr",6/11/2018 12:02:17 PM,1,294,0.12542662116041,381/381
+100036379,"US Representative, District 2 - Republican","REP","","US Congressional District 2",7,,100061493,"Randy Pollock",6/11/2018 12:02:17 PM,1,167,0.0712457337883959,381/381
+100036379,"US Representative, District 2 - Republican","REP","","US Congressional District 2",7,,100061546,"Greg Walden",6/11/2018 12:02:17 PM,1,1875,0.799914675767918,381/381
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,9901,"Write-in",6/11/2018 12:02:17 PM,1,87,0.505813953488372,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061547,"Dan (Mr P) Pistoresi",6/11/2018 12:02:17 PM,1,20,0.116279069767442,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061846,"Skye J Allen",6/11/2018 12:02:17 PM,1,15,0.0872093023255814,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061848,"Patrick Starnes",6/11/2018 12:02:17 PM,1,50,0.290697674418605,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,9901,"Write-in",6/11/2018 12:02:17 PM,1,87,0.0360099337748344,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,100060704,"Candace Neville",6/11/2018 12:02:17 PM,1,234,0.0968543046357616,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,100061152,"Ed Jones",6/11/2018 12:02:17 PM,1,337,0.139486754966887,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,300027544,"Kate Brown",6/11/2018 12:02:17 PM,1,1758,0.727649006622517,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,9901,"Write-in",6/11/2018 12:02:17 PM,1,16,0.00664451827242525,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060615,"Keenan W Bohach",6/11/2018 12:02:17 PM,1,8,0.00332225913621262,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060616,"Knute Buehler",6/11/2018 12:02:17 PM,1,1050,0.436046511627907,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060617,"Sam Carpenter",6/11/2018 12:02:17 PM,1,765,0.317691029900332,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060618,"Bruce Cuff",6/11/2018 12:02:17 PM,1,39,0.0161960132890365,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060619,"Jonathan I Edwards III",6/11/2018 12:02:17 PM,1,4,0.00166112956810631,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060620,"Jeff Smith",6/11/2018 12:02:17 PM,1,48,0.0199335548172757,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060621,"Jack W Tacy",6/11/2018 12:02:17 PM,1,6,0.00249169435215947,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060705,"Greg C Wooldridge",6/11/2018 12:02:17 PM,1,439,0.182308970099668,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100061153,"David W Stauffer",6/11/2018 12:02:17 PM,1,27,0.0112126245847176,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100061849,"Brett Hyland",6/11/2018 12:02:17 PM,1,6,0.00249169435215947,1302/1335
+100036605,"State Representative, 57th District - Independent Party","IND","","HD 57",6,,9901,"Write-in",6/11/2018 12:02:17 PM,1,3,1,40/40
+100036606,"State Representative, 57th District - Democrat","DEM","","HD 57",3,,9901,"Write-in",6/11/2018 12:02:17 PM,1,7,1,40/40
+100036607,"State Representative, 57th District - Republican","REP","","HD 57",9,,9901,"Write-in",6/11/2018 12:02:17 PM,1,2,0.00732600732600733,40/40
+100036607,"State Representative, 57th District - Republican","REP","","HD 57",9,,100061558,"Greg Smith",6/11/2018 12:02:17 PM,1,271,0.992673992673993,40/40
+100036611,"State Representative, 59th District - Independent Party","IND","","HD 59",7,,9901,"Write-in",6/11/2018 12:02:17 PM,1,60,1,38/38
+100036612,"State Representative, 59th District - Democrat","DEM","","HD 59",4,,9901,"Write-in",6/11/2018 12:02:17 PM,1,62,0.0366430260047281,38/38
+100036612,"State Representative, 59th District - Democrat","DEM","","HD 59",4,,100061893,"Darcy Long-Curtiss",6/11/2018 12:02:17 PM,1,1630,0.963356973995272,38/38
+100036613,"State Representative, 59th District - Republican","REP","","HD 59",11,,9901,"Write-in",6/11/2018 12:02:17 PM,1,20,0.0128452151573539,38/38
+100036613,"State Representative, 59th District - Republican","REP","","HD 59",11,,100060562,"Daniel G Bonham",6/11/2018 12:02:17 PM,1,1537,0.987154784842646,38/38
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,9901,"Write-in",6/11/2018 12:02:17 PM,1,18,0.00379027163613392,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100060665,"Val Hoyle",6/11/2018 12:02:17 PM,1,2081,0.438197515266372,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100060666,"Jack Howard",6/11/2018 12:02:17 PM,1,845,0.177932196251843,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100061211,"Lou Ogden",6/11/2018 12:02:17 PM,1,1805,0.380080016845652,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,9901,"Write-in",6/11/2018 12:02:17 PM,1,18,0.00398230088495575,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,100060699,"Kyle L Krohn",6/11/2018 12:02:17 PM,1,1732,0.383185840707965,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,300019649,"Rex Armstrong",6/11/2018 12:02:17 PM,1,2770,0.61283185840708,1302/1335
+100036621,"Judge of the Court of Appeals, Position 6","NON","","Statewide Nonpartisan",13,,9901,"Write-in",6/11/2018 12:02:17 PM,1,38,0.0105584884690192,1302/1335
+100036621,"Judge of the Court of Appeals, Position 6","NON","","Statewide Nonpartisan",13,,300021775,"James (Jim) C Egan",6/11/2018 12:02:17 PM,1,3561,0.989441511530981,1302/1335
+100036623,"Judge of the Court of Appeals, Position 9","NON","","Statewide Nonpartisan",14,,9901,"Write-in",6/11/2018 12:02:17 PM,1,37,0.0106905518636232,1302/1335
+100036623,"Judge of the Court of Appeals, Position 9","NON","","Statewide Nonpartisan",14,,300019653,"Erika Hadlock",6/11/2018 12:02:17 PM,1,3424,0.989309448136377,1302/1335
+100036625,"Judge of the Supreme Court, Position 2","NON","","Statewide Nonpartisan",11,,9901,"Write-in",6/11/2018 12:02:17 PM,1,47,0.0125133120340788,1302/1335
+100036625,"Judge of the Supreme Court, Position 2","NON","","Statewide Nonpartisan",11,,100060566,"Rebecca Duncan",6/11/2018 12:02:17 PM,1,3709,0.987486687965921,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,9901,"Write-in",6/11/2018 12:02:17 PM,1,25,0.00534416417272339,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,100060567,"Meagan A Flynn",6/11/2018 12:02:17 PM,1,3172,0.678067550235143,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,100061619,"Van Pounds",6/11/2018 12:02:17 PM,1,1481,0.316588285592133,1302/1335
+100036665,"Judge of the Circuit Court, 7th District, Position 1","NON","","Circuit Court District 07",16,,9901,"Write-in",6/11/2018 12:02:17 PM,1,42,0.0118677592540266,38/38
+100036665,"Judge of the Circuit Court, 7th District, Position 1","NON","","Circuit Court District 07",16,,300021461,"John A Olson",6/11/2018 12:02:17 PM,1,3497,0.988132240745973,38/38
+100036716,"State Senator, 30th District - Democrat","DEM","","SD 30",3,,9901,"Write-in",6/11/2018 12:02:17 PM,1,48,0.0297951582867784,93/93
+100036716,"State Senator, 30th District - Democrat","DEM","","SD 30",3,,100061851,"Solea Kabakov",6/11/2018 12:02:17 PM,1,1563,0.970204841713222,93/93
+100036717,"State Senator, 30th District - Republican","REP","","SD 30",10,,9901,"Write-in",6/11/2018 12:02:17 PM,1,12,0.00834492350486787,93/93
+100036717,"State Senator, 30th District - Republican","REP","","SD 30",10,,100060701,"Cliff Bentz",6/11/2018 12:02:17 PM,1,1426,0.991655076495132,93/93
+300000990,"33-94 White River Health District 5-year local option tax for general operations","","","White River Health District",25,,1,"Yes",6/11/2018 12:02:17 PM,1,309,0.492822966507177,4/4
+300000990,"33-94 White River Health District 5-year local option tax for general operations","","","White River Health District",25,,2,"No",6/11/2018 12:02:17 PM,1,318,0.507177033492823,4/4
+300000991,"33-95 Dufur Recreation District Renewal of Current Three-year Local Option Tax for Operating Purposes.","","","Dufur Recreation District",24,,1,"Yes",6/11/2018 12:02:17 PM,1,271,0.813813813813814,2/2
+300000991,"33-95 Dufur Recreation District Renewal of Current Three-year Local Option Tax for Operating Purposes.","","","Dufur Recreation District",24,,2,"No",6/11/2018 12:02:17 PM,1,62,0.186186186186186,2/2
+300020029,"Commissioner Position #1","NON","","Wasco",22,,9901,"Write-in",6/11/2018 12:02:17 PM,1,31,0.00592168099331423,14/14
+300020029,"Commissioner Position #1","NON","","Wasco",22,,100062015,"Roy Justesen",6/11/2018 12:02:17 PM,1,1704,0.325501432664756,14/14
+300020029,"Commissioner Position #1","NON","","Wasco",22,,300017225,"Scott Hege",6/11/2018 12:02:17 PM,1,3500,0.668576886341929,14/14
+300020030,"Commissioner Position #3","NON","","Wasco",23,,9901,"Write-in",6/11/2018 12:02:17 PM,1,15,0.0025385005923168,14/14
+300020030,"Commissioner Position #3","NON","","Wasco",23,,300017227,"Rod Runyon",6/11/2018 12:02:17 PM,1,2410,0.4078524284989,14/14
+300020030,"Commissioner Position #3","NON","","Wasco",23,,300028872,"Kathy Schwartz",6/11/2018 12:02:17 PM,1,3484,0.589609070908783,14/14

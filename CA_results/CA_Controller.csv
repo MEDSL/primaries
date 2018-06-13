@@ -1,0 +1,178 @@
+,county,candidate,party,votes,race name,state
+0,Statewide,Betty T. Yee,DEM,"2,294,904",Controller,CA
+1,Statewide,Konstantinos Roditis,REP,"1,321,334",Controller,CA
+2,Statewide,Mary Lou Finley,P&F,"153,753",Controller,CA
+3,Alameda,Betty T. Yee,DEM,"123,669",Controller,CA
+4,Alameda,Konstantinos Roditis,REP,"26,402",Controller,CA
+5,Alameda,Mary Lou Finley,P&F,"6,659",Controller,CA
+6,Alpine,Betty T. Yee,DEM,239,Controller,CA
+7,Alpine,Konstantinos Roditis,REP,107,Controller,CA
+8,Alpine,Mary Lou Finley,P&F,11,Controller,CA
+9,Amador,Betty T. Yee,DEM,"1,708",Controller,CA
+10,Amador,Konstantinos Roditis,REP,"2,243",Controller,CA
+11,Amador,Mary Lou Finley,P&F,199,Controller,CA
+12,Butte,Betty T. Yee,DEM,"18,864",Controller,CA
+13,Butte,Konstantinos Roditis,REP,"15,143",Controller,CA
+14,Butte,Mary Lou Finley,P&F,"1,834",Controller,CA
+15,Calaveras,Betty T. Yee,DEM,"3,855",Controller,CA
+16,Calaveras,Konstantinos Roditis,REP,"4,585",Controller,CA
+17,Calaveras,Mary Lou Finley,P&F,434,Controller,CA
+18,Colusa,Betty T. Yee,DEM,"1,016",Controller,CA
+19,Colusa,Konstantinos Roditis,REP,"1,292",Controller,CA
+20,Colusa,Mary Lou Finley,P&F,98,Controller,CA
+21,Contra Costa,Betty T. Yee,DEM,"72,621",Controller,CA
+22,Contra Costa,Konstantinos Roditis,REP,"27,326",Controller,CA
+23,Contra Costa,Mary Lou Finley,P&F,"4,662",Controller,CA
+24,Del Norte,Betty T. Yee,DEM,"2,045",Controller,CA
+25,Del Norte,Konstantinos Roditis,REP,"2,166",Controller,CA
+26,Del Norte,Mary Lou Finley,P&F,229,Controller,CA
+27,El Dorado,Betty T. Yee,DEM,"16,081",Controller,CA
+28,El Dorado,Konstantinos Roditis,REP,"16,276",Controller,CA
+29,El Dorado,Mary Lou Finley,P&F,"1,061",Controller,CA
+30,Fresno,Betty T. Yee,DEM,"42,002",Controller,CA
+31,Fresno,Konstantinos Roditis,REP,"34,160",Controller,CA
+32,Fresno,Mary Lou Finley,P&F,"3,521",Controller,CA
+33,Glenn,Betty T. Yee,DEM,"1,153",Controller,CA
+34,Glenn,Konstantinos Roditis,REP,"2,013",Controller,CA
+35,Glenn,Mary Lou Finley,P&F,165,Controller,CA
+36,Humboldt,Betty T. Yee,DEM,"12,329",Controller,CA
+37,Humboldt,Konstantinos Roditis,REP,"5,463",Controller,CA
+38,Humboldt,Mary Lou Finley,P&F,"1,007",Controller,CA
+39,Imperial,Betty T. Yee,DEM,"6,202",Controller,CA
+40,Imperial,Konstantinos Roditis,REP,"3,420",Controller,CA
+41,Imperial,Mary Lou Finley,P&F,"1,156",Controller,CA
+42,Inyo,Betty T. Yee,DEM,"1,672",Controller,CA
+43,Inyo,Konstantinos Roditis,REP,"1,617",Controller,CA
+44,Inyo,Mary Lou Finley,P&F,206,Controller,CA
+45,Kern,Betty T. Yee,DEM,"28,384",Controller,CA
+46,Kern,Konstantinos Roditis,REP,"45,287",Controller,CA
+47,Kern,Mary Lou Finley,P&F,"3,851",Controller,CA
+48,Kings,Betty T. Yee,DEM,"5,210",Controller,CA
+49,Kings,Konstantinos Roditis,REP,"7,053",Controller,CA
+50,Kings,Mary Lou Finley,P&F,529,Controller,CA
+51,Lake,Betty T. Yee,DEM,"4,215",Controller,CA
+52,Lake,Konstantinos Roditis,REP,"2,933",Controller,CA
+53,Lake,Mary Lou Finley,P&F,408,Controller,CA
+54,Lassen,Betty T. Yee,DEM,"1,040",Controller,CA
+55,Lassen,Konstantinos Roditis,REP,"1,896",Controller,CA
+56,Lassen,Mary Lou Finley,P&F,126,Controller,CA
+57,Los Angeles,Betty T. Yee,DEM,"603,206",Controller,CA
+58,Los Angeles,Konstantinos Roditis,REP,"224,477",Controller,CA
+59,Los Angeles,Mary Lou Finley,P&F,"38,369",Controller,CA
+60,Madera,Betty T. Yee,DEM,"7,177",Controller,CA
+61,Madera,Konstantinos Roditis,REP,"9,254",Controller,CA
+62,Madera,Mary Lou Finley,P&F,942,Controller,CA
+63,Marin,Betty T. Yee,DEM,"28,773",Controller,CA
+64,Marin,Konstantinos Roditis,REP,"6,147",Controller,CA
+65,Marin,Mary Lou Finley,P&F,"1,112",Controller,CA
+66,Mariposa,Betty T. Yee,DEM,"1,970",Controller,CA
+67,Mariposa,Konstantinos Roditis,REP,"2,418",Controller,CA
+68,Mariposa,Mary Lou Finley,P&F,215,Controller,CA
+69,Mendocino,Betty T. Yee,DEM,"5,985",Controller,CA
+70,Mendocino,Konstantinos Roditis,REP,"2,284",Controller,CA
+71,Mendocino,Mary Lou Finley,P&F,445,Controller,CA
+72,Merced,Betty T. Yee,DEM,"8,780",Controller,CA
+73,Merced,Konstantinos Roditis,REP,"7,219",Controller,CA
+74,Merced,Mary Lou Finley,P&F,864,Controller,CA
+75,Modoc,Betty T. Yee,DEM,646,Controller,CA
+76,Modoc,Konstantinos Roditis,REP,"1,276",Controller,CA
+77,Modoc,Mary Lou Finley,P&F,99,Controller,CA
+78,Mono,Betty T. Yee,DEM,"1,635",Controller,CA
+79,Mono,Konstantinos Roditis,REP,"1,023",Controller,CA
+80,Mono,Mary Lou Finley,P&F,107,Controller,CA
+81,Monterey,Betty T. Yee,DEM,"20,804",Controller,CA
+82,Monterey,Konstantinos Roditis,REP,"8,586",Controller,CA
+83,Monterey,Mary Lou Finley,P&F,"1,320",Controller,CA
+84,Napa,Betty T. Yee,DEM,"8,904",Controller,CA
+85,Napa,Konstantinos Roditis,REP,"4,242",Controller,CA
+86,Napa,Mary Lou Finley,P&F,547,Controller,CA
+87,Nevada,Betty T. Yee,DEM,"8,395",Controller,CA
+88,Nevada,Konstantinos Roditis,REP,"6,284",Controller,CA
+89,Nevada,Mary Lou Finley,P&F,532,Controller,CA
+90,Orange,Betty T. Yee,DEM,"160,282",Controller,CA
+91,Orange,Konstantinos Roditis,REP,"158,160",Controller,CA
+92,Orange,Mary Lou Finley,P&F,"12,778",Controller,CA
+93,Placer,Betty T. Yee,DEM,"28,590",Controller,CA
+94,Placer,Konstantinos Roditis,REP,"27,050",Controller,CA
+95,Placer,Mary Lou Finley,P&F,"1,874",Controller,CA
+96,Plumas,Betty T. Yee,DEM,"2,486",Controller,CA
+97,Plumas,Konstantinos Roditis,REP,"2,518",Controller,CA
+98,Plumas,Mary Lou Finley,P&F,175,Controller,CA
+99,Riverside,Betty T. Yee,DEM,"84,446",Controller,CA
+100,Riverside,Konstantinos Roditis,REP,"87,275",Controller,CA
+101,Riverside,Mary Lou Finley,P&F,"6,626",Controller,CA
+102,Sacramento,Betty T. Yee,DEM,"71,484",Controller,CA
+103,Sacramento,Konstantinos Roditis,REP,"36,958",Controller,CA
+104,Sacramento,Mary Lou Finley,P&F,"4,337",Controller,CA
+105,San Benito,Betty T. Yee,DEM,"3,752",Controller,CA
+106,San Benito,Konstantinos Roditis,REP,"2,248",Controller,CA
+107,San Benito,Mary Lou Finley,P&F,352,Controller,CA
+108,San Bernardino,Betty T. Yee,DEM,"78,800",Controller,CA
+109,San Bernardino,Konstantinos Roditis,REP,"79,214",Controller,CA
+110,San Bernardino,Mary Lou Finley,P&F,"7,701",Controller,CA
+111,San Diego,Betty T. Yee,DEM,"217,044",Controller,CA
+112,San Diego,Konstantinos Roditis,REP,"159,486",Controller,CA
+113,San Diego,Mary Lou Finley,P&F,"11,724",Controller,CA
+114,San Francisco,Betty T. Yee,DEM,"105,300",Controller,CA
+115,San Francisco,Konstantinos Roditis,REP,"12,830",Controller,CA
+116,San Francisco,Mary Lou Finley,P&F,"5,897",Controller,CA
+117,San Joaquin,Betty T. Yee,DEM,"30,055",Controller,CA
+118,San Joaquin,Konstantinos Roditis,REP,"22,676",Controller,CA
+119,San Joaquin,Mary Lou Finley,P&F,"2,534",Controller,CA
+120,San Luis Obispo,Betty T. Yee,DEM,"29,185",Controller,CA
+121,San Luis Obispo,Konstantinos Roditis,REP,"22,248",Controller,CA
+122,San Luis Obispo,Mary Lou Finley,P&F,"1,851",Controller,CA
+123,San Mateo,Betty T. Yee,DEM,"45,383",Controller,CA
+124,San Mateo,Konstantinos Roditis,REP,"13,083",Controller,CA
+125,San Mateo,Mary Lou Finley,P&F,"2,160",Controller,CA
+126,Santa Barbara,Betty T. Yee,DEM,"31,757",Controller,CA
+127,Santa Barbara,Konstantinos Roditis,REP,"19,482",Controller,CA
+128,Santa Barbara,Mary Lou Finley,P&F,"1,751",Controller,CA
+129,Santa Clara,Betty T. Yee,DEM,"118,216",Controller,CA
+130,Santa Clara,Konstantinos Roditis,REP,"41,404",Controller,CA
+131,Santa Clara,Mary Lou Finley,P&F,"5,520",Controller,CA
+132,Santa Cruz,Betty T. Yee,DEM,"26,849",Controller,CA
+133,Santa Cruz,Konstantinos Roditis,REP,"6,633",Controller,CA
+134,Santa Cruz,Mary Lou Finley,P&F,"1,457",Controller,CA
+135,Shasta,Betty T. Yee,DEM,"7,104",Controller,CA
+136,Shasta,Konstantinos Roditis,REP,"12,102",Controller,CA
+137,Shasta,Mary Lou Finley,P&F,995,Controller,CA
+138,Sierra,Betty T. Yee,DEM,561,Controller,CA
+139,Sierra,Konstantinos Roditis,REP,598,Controller,CA
+140,Sierra,Mary Lou Finley,P&F,72,Controller,CA
+141,Siskiyou,Betty T. Yee,DEM,"3,155",Controller,CA
+142,Siskiyou,Konstantinos Roditis,REP,"3,454",Controller,CA
+143,Siskiyou,Mary Lou Finley,P&F,379,Controller,CA
+144,Solano,Betty T. Yee,DEM,"39,155",Controller,CA
+145,Solano,Konstantinos Roditis,REP,"20,280",Controller,CA
+146,Solano,Mary Lou Finley,P&F,"2,808",Controller,CA
+147,Sonoma,Betty T. Yee,DEM,"48,411",Controller,CA
+148,Sonoma,Konstantinos Roditis,REP,"14,985",Controller,CA
+149,Sonoma,Mary Lou Finley,P&F,"2,301",Controller,CA
+150,Stanislaus,Betty T. Yee,DEM,"22,666",Controller,CA
+151,Stanislaus,Konstantinos Roditis,REP,"19,962",Controller,CA
+152,Stanislaus,Mary Lou Finley,P&F,"1,958",Controller,CA
+153,Sutter,Betty T. Yee,DEM,"4,187",Controller,CA
+154,Sutter,Konstantinos Roditis,REP,"5,212",Controller,CA
+155,Sutter,Mary Lou Finley,P&F,489,Controller,CA
+156,Tehama,Betty T. Yee,DEM,"3,298",Controller,CA
+157,Tehama,Konstantinos Roditis,REP,"5,476",Controller,CA
+158,Tehama,Mary Lou Finley,P&F,537,Controller,CA
+159,Trinity,Betty T. Yee,DEM,"1,535",Controller,CA
+160,Trinity,Konstantinos Roditis,REP,"1,374",Controller,CA
+161,Trinity,Mary Lou Finley,P&F,175,Controller,CA
+162,Tulare,Betty T. Yee,DEM,"11,995",Controller,CA
+163,Tulare,Konstantinos Roditis,REP,"15,752",Controller,CA
+164,Tulare,Mary Lou Finley,P&F,"1,221",Controller,CA
+165,Tuolumne,Betty T. Yee,DEM,"4,683",Controller,CA
+166,Tuolumne,Konstantinos Roditis,REP,"5,012",Controller,CA
+167,Tuolumne,Mary Lou Finley,P&F,412,Controller,CA
+168,Ventura,Betty T. Yee,DEM,"55,582",Controller,CA
+169,Ventura,Konstantinos Roditis,REP,"43,275",Controller,CA
+170,Ventura,Mary Lou Finley,P&F,"3,771",Controller,CA
+171,Yolo,Betty T. Yee,DEM,"17,900",Controller,CA
+172,Yolo,Konstantinos Roditis,REP,"6,569",Controller,CA
+173,Yolo,Mary Lou Finley,P&F,848,Controller,CA
+174,Yuba,Betty T. Yee,DEM,"2,463",Controller,CA
+175,Yuba,Konstantinos Roditis,REP,"3,426",Controller,CA
+176,Yuba,Mary Lou Finley,P&F,342,Controller,CA

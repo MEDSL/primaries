@@ -1,0 +1,740 @@
+county,district name,candidate,party,votes,race name,state
+Districtwide,District 1,Audrey Denney,DEM,"18,840",U.S. House of Representatives,CA
+Districtwide,District 1,Jessica Jones Holcombe,DEM,"12,604",U.S. House of Representatives,CA
+Districtwide,District 1,David Peterson,DEM,"3,337",U.S. House of Representatives,CA
+Districtwide,District 1,Marty Walters,DEM,"9,296",U.S. House of Representatives,CA
+Districtwide,District 1,Gregory Edward Cheadle,REP,"6,761",U.S. House of Representatives,CA
+Districtwide,District 1,Doug La Malfa,REP,"55,783",U.S. House of Representatives,CA
+Districtwide,District 1,Lewis Elbinger,GRN,"1,201",U.S. House of Representatives,CA
+Butte,District 1,Audrey Denney,DEM,"9,679",U.S. House of Representatives,CA
+Butte,District 1,Jessica Jones Holcombe,DEM,"4,904",U.S. House of Representatives,CA
+Butte,District 1,David Peterson,DEM,795,U.S. House of Representatives,CA
+Butte,District 1,Marty Walters,DEM,"2,730",U.S. House of Representatives,CA
+Butte,District 1,Gregory Edward Cheadle,REP,"1,637",U.S. House of Representatives,CA
+Butte,District 1,Doug La Malfa,REP,"17,004",U.S. House of Representatives,CA
+Butte,District 1,Lewis Elbinger,GRN,377,U.S. House of Representatives,CA
+Glenn,District 1,Audrey Denney,DEM,58,U.S. House of Representatives,CA
+Glenn,District 1,Jessica Jones Holcombe,DEM,14,U.S. House of Representatives,CA
+Glenn,District 1,David Peterson,DEM,2,U.S. House of Representatives,CA
+Glenn,District 1,Marty Walters,DEM,6,U.S. House of Representatives,CA
+Glenn,District 1,Gregory Edward Cheadle,REP,10,U.S. House of Representatives,CA
+Glenn,District 1,Doug La Malfa,REP,287,U.S. House of Representatives,CA
+Glenn,District 1,Lewis Elbinger,GRN,0,U.S. House of Representatives,CA
+Lassen,District 1,Audrey Denney,DEM,236,U.S. House of Representatives,CA
+Lassen,District 1,Jessica Jones Holcombe,DEM,275,U.S. House of Representatives,CA
+Lassen,District 1,David Peterson,DEM,97,U.S. House of Representatives,CA
+Lassen,District 1,Marty Walters,DEM,160,U.S. House of Representatives,CA
+Lassen,District 1,Gregory Edward Cheadle,REP,173,U.S. House of Representatives,CA
+Lassen,District 1,Doug La Malfa,REP,"2,128",U.S. House of Representatives,CA
+Lassen,District 1,Lewis Elbinger,GRN,16,U.S. House of Representatives,CA
+Modoc,District 1,Audrey Denney,DEM,343,U.S. House of Representatives,CA
+Modoc,District 1,Jessica Jones Holcombe,DEM,113,U.S. House of Representatives,CA
+Modoc,District 1,David Peterson,DEM,60,U.S. House of Representatives,CA
+Modoc,District 1,Marty Walters,DEM,125,U.S. House of Representatives,CA
+Modoc,District 1,Gregory Edward Cheadle,REP,154,U.S. House of Representatives,CA
+Modoc,District 1,Doug La Malfa,REP,"1,336",U.S. House of Representatives,CA
+Modoc,District 1,Lewis Elbinger,GRN,10,U.S. House of Representatives,CA
+Nevada,District 1,Audrey Denney,DEM,"2,378",U.S. House of Representatives,CA
+Nevada,District 1,Jessica Jones Holcombe,DEM,"2,040",U.S. House of Representatives,CA
+Nevada,District 1,David Peterson,DEM,523,U.S. House of Representatives,CA
+Nevada,District 1,Marty Walters,DEM,"1,757",U.S. House of Representatives,CA
+Nevada,District 1,Gregory Edward Cheadle,REP,535,U.S. House of Representatives,CA
+Nevada,District 1,Doug La Malfa,REP,"6,323",U.S. House of Representatives,CA
+Nevada,District 1,Lewis Elbinger,GRN,155,U.S. House of Representatives,CA
+Placer,District 1,Audrey Denney,DEM,646,U.S. House of Representatives,CA
+Placer,District 1,Jessica Jones Holcombe,DEM,"1,297",U.S. House of Representatives,CA
+Placer,District 1,David Peterson,DEM,228,U.S. House of Representatives,CA
+Placer,District 1,Marty Walters,DEM,613,U.S. House of Representatives,CA
+Placer,District 1,Gregory Edward Cheadle,REP,357,U.S. House of Representatives,CA
+Placer,District 1,Doug La Malfa,REP,"3,741",U.S. House of Representatives,CA
+Placer,District 1,Lewis Elbinger,GRN,76,U.S. House of Representatives,CA
+Plumas,District 1,Audrey Denney,DEM,482,U.S. House of Representatives,CA
+Plumas,District 1,Jessica Jones Holcombe,DEM,386,U.S. House of Representatives,CA
+Plumas,District 1,David Peterson,DEM,148,U.S. House of Representatives,CA
+Plumas,District 1,Marty Walters,DEM,"1,210",U.S. House of Representatives,CA
+Plumas,District 1,Gregory Edward Cheadle,REP,218,U.S. House of Representatives,CA
+Plumas,District 1,Doug La Malfa,REP,"2,768",U.S. House of Representatives,CA
+Plumas,District 1,Lewis Elbinger,GRN,51,U.S. House of Representatives,CA
+Shasta,District 1,Audrey Denney,DEM,"2,591",U.S. House of Representatives,CA
+Shasta,District 1,Jessica Jones Holcombe,DEM,"1,790",U.S. House of Representatives,CA
+Shasta,District 1,David Peterson,DEM,937,U.S. House of Representatives,CA
+Shasta,District 1,Marty Walters,DEM,"1,292",U.S. House of Representatives,CA
+Shasta,District 1,Gregory Edward Cheadle,REP,"2,453",U.S. House of Representatives,CA
+Shasta,District 1,Doug La Malfa,REP,"11,732",U.S. House of Representatives,CA
+Shasta,District 1,Lewis Elbinger,GRN,184,U.S. House of Representatives,CA
+Sierra,District 1,Audrey Denney,DEM,180,U.S. House of Representatives,CA
+Sierra,District 1,Jessica Jones Holcombe,DEM,116,U.S. House of Representatives,CA
+Sierra,District 1,David Peterson,DEM,56,U.S. House of Representatives,CA
+Sierra,District 1,Marty Walters,DEM,129,U.S. House of Representatives,CA
+Sierra,District 1,Gregory Edward Cheadle,REP,56,U.S. House of Representatives,CA
+Sierra,District 1,Doug La Malfa,REP,725,U.S. House of Representatives,CA
+Sierra,District 1,Lewis Elbinger,GRN,16,U.S. House of Representatives,CA
+Siskiyou,District 1,Audrey Denney,DEM,"1,131",U.S. House of Representatives,CA
+Siskiyou,District 1,Jessica Jones Holcombe,DEM,813,U.S. House of Representatives,CA
+Siskiyou,District 1,David Peterson,DEM,301,U.S. House of Representatives,CA
+Siskiyou,District 1,Marty Walters,DEM,642,U.S. House of Representatives,CA
+Siskiyou,District 1,Gregory Edward Cheadle,REP,452,U.S. House of Representatives,CA
+Siskiyou,District 1,Doug La Malfa,REP,"3,690",U.S. House of Representatives,CA
+Siskiyou,District 1,Lewis Elbinger,GRN,249,U.S. House of Representatives,CA
+Tehama,District 1,Audrey Denney,DEM,"1,116",U.S. House of Representatives,CA
+Tehama,District 1,Jessica Jones Holcombe,DEM,856,U.S. House of Representatives,CA
+Tehama,District 1,David Peterson,DEM,190,U.S. House of Representatives,CA
+Tehama,District 1,Marty Walters,DEM,632,U.S. House of Representatives,CA
+Tehama,District 1,Gregory Edward Cheadle,REP,716,U.S. House of Representatives,CA
+Tehama,District 1,Doug La Malfa,REP,"6,049",U.S. House of Representatives,CA
+Tehama,District 1,Lewis Elbinger,GRN,67,U.S. House of Representatives,CA
+Districtwide,District 2,Andy Caffrey,DEM,"6,534",U.S. House of Representatives,CA
+Districtwide,District 2,Jared Huffman,DEM,"71,983",U.S. House of Representatives,CA
+Districtwide,District 2,Dale K. Mensing,REP,"24,052",U.S. House of Representatives,CA
+Del Norte,District 2,Andy Caffrey,DEM,245,U.S. House of Representatives,CA
+Del Norte,District 2,Jared Huffman,DEM,"2,008",U.S. House of Representatives,CA
+Del Norte,District 2,Dale K. Mensing,REP,"2,215",U.S. House of Representatives,CA
+Humboldt,District 2,Andy Caffrey,DEM,"1,420",U.S. House of Representatives,CA
+Humboldt,District 2,Jared Huffman,DEM,"11,843",U.S. House of Representatives,CA
+Humboldt,District 2,Dale K. Mensing,REP,"5,767",U.S. House of Representatives,CA
+Marin,District 2,Andy Caffrey,DEM,"1,799",U.S. House of Representatives,CA
+Marin,District 2,Jared Huffman,DEM,"29,722",U.S. House of Representatives,CA
+Marin,District 2,Dale K. Mensing,REP,"5,835",U.S. House of Representatives,CA
+Mendocino,District 2,Andy Caffrey,DEM,753,U.S. House of Representatives,CA
+Mendocino,District 2,Jared Huffman,DEM,"5,752",U.S. House of Representatives,CA
+Mendocino,District 2,Dale K. Mensing,REP,"2,354",U.S. House of Representatives,CA
+Sonoma,District 2,Andy Caffrey,DEM,"2,079",U.S. House of Representatives,CA
+Sonoma,District 2,Jared Huffman,DEM,"21,248",U.S. House of Representatives,CA
+Sonoma,District 2,Dale K. Mensing,REP,"6,439",U.S. House of Representatives,CA
+Trinity,District 2,Andy Caffrey,DEM,238,U.S. House of Representatives,CA
+Trinity,District 2,Jared Huffman,DEM,"1,410",U.S. House of Representatives,CA
+Trinity,District 2,Dale K. Mensing,REP,"1,442",U.S. House of Representatives,CA
+Districtwide,District 3,John Garamendi,DEM,"48,778",U.S. House of Representatives,CA
+Districtwide,District 3,Kevin Puett,DEM,"3,790",U.S. House of Representatives,CA
+Districtwide,District 3,Charlie Schaupp,REP,"38,199",U.S. House of Representatives,CA
+Colusa,District 3,John Garamendi,DEM,"1,020",U.S. House of Representatives,CA
+Colusa,District 3,Kevin Puett,DEM,95,U.S. House of Representatives,CA
+Colusa,District 3,Charlie Schaupp,REP,"1,436",U.S. House of Representatives,CA
+Glenn,District 3,John Garamendi,DEM,994,U.S. House of Representatives,CA
+Glenn,District 3,Kevin Puett,DEM,136,U.S. House of Representatives,CA
+Glenn,District 3,Charlie Schaupp,REP,"1,824",U.S. House of Representatives,CA
+Lake,District 3,John Garamendi,DEM,"1,821",U.S. House of Representatives,CA
+Lake,District 3,Kevin Puett,DEM,250,U.S. House of Representatives,CA
+Lake,District 3,Charlie Schaupp,REP,"1,560",U.S. House of Representatives,CA
+Sacramento,District 3,John Garamendi,DEM,"1,169",U.S. House of Representatives,CA
+Sacramento,District 3,Kevin Puett,DEM,128,U.S. House of Representatives,CA
+Sacramento,District 3,Charlie Schaupp,REP,"1,362",U.S. House of Representatives,CA
+Solano,District 3,John Garamendi,DEM,"22,771",U.S. House of Representatives,CA
+Solano,District 3,Kevin Puett,DEM,"1,713",U.S. House of Representatives,CA
+Solano,District 3,Charlie Schaupp,REP,"16,933",U.S. House of Representatives,CA
+Sutter,District 3,John Garamendi,DEM,"4,131",U.S. House of Representatives,CA
+Sutter,District 3,Kevin Puett,DEM,424,U.S. House of Representatives,CA
+Sutter,District 3,Charlie Schaupp,REP,"5,498",U.S. House of Representatives,CA
+Yolo,District 3,John Garamendi,DEM,"14,495",U.S. House of Representatives,CA
+Yolo,District 3,Kevin Puett,DEM,751,U.S. House of Representatives,CA
+Yolo,District 3,Charlie Schaupp,REP,"5,882",U.S. House of Representatives,CA
+Yuba,District 3,John Garamendi,DEM,"2,377",U.S. House of Representatives,CA
+Yuba,District 3,Kevin Puett,DEM,293,U.S. House of Representatives,CA
+Yuba,District 3,Charlie Schaupp,REP,"3,704",U.S. House of Representatives,CA
+Districtwide,District 4,Regina Bateson,DEM,"15,657",U.S. House of Representatives,CA
+Districtwide,District 4,Roza Calderon,DEM,"7,751",U.S. House of Representatives,CA
+Districtwide,District 4,Robert Lawton,DEM,"2,900",U.S. House of Representatives,CA
+Districtwide,District 4,Jessica Morse,DEM,"24,865",U.S. House of Representatives,CA
+Districtwide,District 4,Tom McClintock,REP,"64,954",U.S. House of Representatives,CA
+Districtwide,District 4,Mitchell White,REP,"8,586",U.S. House of Representatives,CA
+Alpine,District 4,Regina Bateson,DEM,36,U.S. House of Representatives,CA
+Alpine,District 4,Roza Calderon,DEM,28,U.S. House of Representatives,CA
+Alpine,District 4,Robert Lawton,DEM,16,U.S. House of Representatives,CA
+Alpine,District 4,Jessica Morse,DEM,155,U.S. House of Representatives,CA
+Alpine,District 4,Tom McClintock,REP,125,U.S. House of Representatives,CA
+Alpine,District 4,Mitchell White,REP,8,U.S. House of Representatives,CA
+Amador,District 4,Regina Bateson,DEM,426,U.S. House of Representatives,CA
+Amador,District 4,Roza Calderon,DEM,195,U.S. House of Representatives,CA
+Amador,District 4,Robert Lawton,DEM,157,U.S. House of Representatives,CA
+Amador,District 4,Jessica Morse,DEM,789,U.S. House of Representatives,CA
+Amador,District 4,Tom McClintock,REP,"2,404",U.S. House of Representatives,CA
+Amador,District 4,Mitchell White,REP,311,U.S. House of Representatives,CA
+Calaveras,District 4,Regina Bateson,DEM,810,U.S. House of Representatives,CA
+Calaveras,District 4,Roza Calderon,DEM,456,U.S. House of Representatives,CA
+Calaveras,District 4,Robert Lawton,DEM,299,U.S. House of Representatives,CA
+Calaveras,District 4,Jessica Morse,DEM,"1,918",U.S. House of Representatives,CA
+Calaveras,District 4,Tom McClintock,REP,"4,864",U.S. House of Representatives,CA
+Calaveras,District 4,Mitchell White,REP,748,U.S. House of Representatives,CA
+El Dorado,District 4,Regina Bateson,DEM,"4,119",U.S. House of Representatives,CA
+El Dorado,District 4,Roza Calderon,DEM,"2,234",U.S. House of Representatives,CA
+El Dorado,District 4,Robert Lawton,DEM,862,U.S. House of Representatives,CA
+El Dorado,District 4,Jessica Morse,DEM,"6,592",U.S. House of Representatives,CA
+El Dorado,District 4,Tom McClintock,REP,"17,248",U.S. House of Representatives,CA
+El Dorado,District 4,Mitchell White,REP,"2,498",U.S. House of Representatives,CA
+Fresno,District 4,Regina Bateson,DEM,134,U.S. House of Representatives,CA
+Fresno,District 4,Roza Calderon,DEM,127,U.S. House of Representatives,CA
+Fresno,District 4,Robert Lawton,DEM,36,U.S. House of Representatives,CA
+Fresno,District 4,Jessica Morse,DEM,320,U.S. House of Representatives,CA
+Fresno,District 4,Tom McClintock,REP,"1,769",U.S. House of Representatives,CA
+Fresno,District 4,Mitchell White,REP,134,U.S. House of Representatives,CA
+Madera,District 4,Regina Bateson,DEM,652,U.S. House of Representatives,CA
+Madera,District 4,Roza Calderon,DEM,345,U.S. House of Representatives,CA
+Madera,District 4,Robert Lawton,DEM,215,U.S. House of Representatives,CA
+Madera,District 4,Jessica Morse,DEM,"1,142",U.S. House of Representatives,CA
+Madera,District 4,Tom McClintock,REP,"4,373",U.S. House of Representatives,CA
+Madera,District 4,Mitchell White,REP,553,U.S. House of Representatives,CA
+Mariposa,District 4,Regina Bateson,DEM,395,U.S. House of Representatives,CA
+Mariposa,District 4,Roza Calderon,DEM,169,U.S. House of Representatives,CA
+Mariposa,District 4,Robert Lawton,DEM,100,U.S. House of Representatives,CA
+Mariposa,District 4,Jessica Morse,DEM,"1,109",U.S. House of Representatives,CA
+Mariposa,District 4,Tom McClintock,REP,"2,764",U.S. House of Representatives,CA
+Mariposa,District 4,Mitchell White,REP,196,U.S. House of Representatives,CA
+Nevada,District 4,Regina Bateson,DEM,328,U.S. House of Representatives,CA
+Nevada,District 4,Roza Calderon,DEM,75,U.S. House of Representatives,CA
+Nevada,District 4,Robert Lawton,DEM,28,U.S. House of Representatives,CA
+Nevada,District 4,Jessica Morse,DEM,983,U.S. House of Representatives,CA
+Nevada,District 4,Tom McClintock,REP,512,U.S. House of Representatives,CA
+Nevada,District 4,Mitchell White,REP,57,U.S. House of Representatives,CA
+Placer,District 4,Regina Bateson,DEM,"7,658",U.S. House of Representatives,CA
+Placer,District 4,Roza Calderon,DEM,"3,652",U.S. House of Representatives,CA
+Placer,District 4,Robert Lawton,DEM,817,U.S. House of Representatives,CA
+Placer,District 4,Jessica Morse,DEM,"9,323",U.S. House of Representatives,CA
+Placer,District 4,Tom McClintock,REP,"25,740",U.S. House of Representatives,CA
+Placer,District 4,Mitchell White,REP,"3,382",U.S. House of Representatives,CA
+Tuolumne,District 4,Regina Bateson,DEM,"1,099",U.S. House of Representatives,CA
+Tuolumne,District 4,Roza Calderon,DEM,470,U.S. House of Representatives,CA
+Tuolumne,District 4,Robert Lawton,DEM,370,U.S. House of Representatives,CA
+Tuolumne,District 4,Jessica Morse,DEM,"2,534",U.S. House of Representatives,CA
+Tuolumne,District 4,Tom McClintock,REP,"5,155",U.S. House of Representatives,CA
+Tuolumne,District 4,Mitchell White,REP,699,U.S. House of Representatives,CA
+Districtwide,District 5,Mike Thompson,DEM,"66,621",U.S. House of Representatives,CA
+Districtwide,District 5,Jason Kishineff,GRN,"2,887",U.S. House of Representatives,CA
+Districtwide,District 5,Anthony Mills,NPP,"7,843",U.S. House of Representatives,CA
+Districtwide,District 5,Nils Palsson,NPP,"6,884",U.S. House of Representatives,CA
+Contra Costa,District 5,Mike Thompson,DEM,"6,872",U.S. House of Representatives,CA
+Contra Costa,District 5,Jason Kishineff,GRN,375,U.S. House of Representatives,CA
+Contra Costa,District 5,Anthony Mills,NPP,852,U.S. House of Representatives,CA
+Contra Costa,District 5,Nils Palsson,NPP,989,U.S. House of Representatives,CA
+Lake,District 5,Mike Thompson,DEM,"2,745",U.S. House of Representatives,CA
+Lake,District 5,Jason Kishineff,GRN,129,U.S. House of Representatives,CA
+Lake,District 5,Anthony Mills,NPP,549,U.S. House of Representatives,CA
+Lake,District 5,Nils Palsson,NPP,588,U.S. House of Representatives,CA
+Napa,District 5,Mike Thompson,DEM,"11,082",U.S. House of Representatives,CA
+Napa,District 5,Jason Kishineff,GRN,492,U.S. House of Representatives,CA
+Napa,District 5,Anthony Mills,NPP,"1,291",U.S. House of Representatives,CA
+Napa,District 5,Nils Palsson,NPP,843,U.S. House of Representatives,CA
+Solano,District 5,Mike Thompson,DEM,"16,499",U.S. House of Representatives,CA
+Solano,District 5,Jason Kishineff,GRN,658,U.S. House of Representatives,CA
+Solano,District 5,Anthony Mills,NPP,"2,037",U.S. House of Representatives,CA
+Solano,District 5,Nils Palsson,NPP,"1,617",U.S. House of Representatives,CA
+Sonoma,District 5,Mike Thompson,DEM,"29,423",U.S. House of Representatives,CA
+Sonoma,District 5,Jason Kishineff,GRN,"1,233",U.S. House of Representatives,CA
+Sonoma,District 5,Anthony Mills,NPP,"3,114",U.S. House of Representatives,CA
+Sonoma,District 5,Nils Palsson,NPP,"2,847",U.S. House of Representatives,CA
+Districtwide,District 6,Jrmar Jefferson,DEM,"6,062",U.S. House of Representatives,CA
+Districtwide,District 6,Doris Matsui,DEM,"40,949",U.S. House of Representatives,CA
+Sacramento,District 6,Jrmar Jefferson,DEM,"5,459",U.S. House of Representatives,CA
+Sacramento,District 6,Doris Matsui,DEM,"37,303",U.S. House of Representatives,CA
+Yolo,District 6,Jrmar Jefferson,DEM,603,U.S. House of Representatives,CA
+Yolo,District 6,Doris Matsui,DEM,"3,646",U.S. House of Representatives,CA
+Sacramento,District 7,Ami Bera,DEM,"34,122",U.S. House of Representatives,CA
+Sacramento,District 7,Yona Barash,REP,"8,087",U.S. House of Representatives,CA
+Sacramento,District 7,Andrew Grant,REP,"21,753",U.S. House of Representatives,CA
+Sacramento,District 7,"Robert Christian ""Chris"" Richardson",GRN,"1,249",U.S. House of Representatives,CA
+Sacramento,District 7,Reginald H. Claytor,NPP,865,U.S. House of Representatives,CA
+Districtwide,District 8,"Marjorie ""Marge"" Doyle",DEM,"15,264",U.S. House of Representatives,CA
+Districtwide,District 8,Ronald J. ODonnell,DEM,"3,343",U.S. House of Representatives,CA
+Districtwide,District 8,Rita Ramirez,DEM,"6,845",U.S. House of Representatives,CA
+Districtwide,District 8,Paul Cook,REP,"29,403",U.S. House of Representatives,CA
+Districtwide,District 8,Tim Donnelly,REP,"16,024",U.S. House of Representatives,CA
+Inyo,District 8,"Marjorie ""Marge"" Doyle",DEM,"1,269",U.S. House of Representatives,CA
+Inyo,District 8,Ronald J. ODonnell,DEM,92,U.S. House of Representatives,CA
+Inyo,District 8,Rita Ramirez,DEM,269,U.S. House of Representatives,CA
+Inyo,District 8,Paul Cook,REP,"1,169",U.S. House of Representatives,CA
+Inyo,District 8,Tim Donnelly,REP,840,U.S. House of Representatives,CA
+Mono,District 8,"Marjorie ""Marge"" Doyle",DEM,"1,318",U.S. House of Representatives,CA
+Mono,District 8,Ronald J. ODonnell,DEM,56,U.S. House of Representatives,CA
+Mono,District 8,Rita Ramirez,DEM,252,U.S. House of Representatives,CA
+Mono,District 8,Paul Cook,REP,860,U.S. House of Representatives,CA
+Mono,District 8,Tim Donnelly,REP,355,U.S. House of Representatives,CA
+San Bernardino,District 8,"Marjorie ""Marge"" Doyle",DEM,"12,677",U.S. House of Representatives,CA
+San Bernardino,District 8,Ronald J. ODonnell,DEM,"3,195",U.S. House of Representatives,CA
+San Bernardino,District 8,Rita Ramirez,DEM,"6,324",U.S. House of Representatives,CA
+San Bernardino,District 8,Paul Cook,REP,"27,374",U.S. House of Representatives,CA
+San Bernardino,District 8,Tim Donnelly,REP,"14,829",U.S. House of Representatives,CA
+Districtwide,District 9,Jerry McNerney,DEM,"29,280",U.S. House of Representatives,CA
+Districtwide,District 9,Marla Livengood,REP,"22,706",U.S. House of Representatives,CA
+Districtwide,District 9,Mike A. Tsarnas,AI,"3,205",U.S. House of Representatives,CA
+Contra Costa,District 9,Jerry McNerney,DEM,"9,556",U.S. House of Representatives,CA
+Contra Costa,District 9,Marla Livengood,REP,"6,368",U.S. House of Representatives,CA
+Contra Costa,District 9,Mike A. Tsarnas,AI,"1,028",U.S. House of Representatives,CA
+Sacramento,District 9,Jerry McNerney,DEM,794,U.S. House of Representatives,CA
+Sacramento,District 9,Marla Livengood,REP,946,U.S. House of Representatives,CA
+Sacramento,District 9,Mike A. Tsarnas,AI,127,U.S. House of Representatives,CA
+San Joaquin,District 9,Jerry McNerney,DEM,"18,930",U.S. House of Representatives,CA
+San Joaquin,District 9,Marla Livengood,REP,"15,392",U.S. House of Representatives,CA
+San Joaquin,District 9,Mike A. Tsarnas,AI,"2,050",U.S. House of Representatives,CA
+Districtwide,District 10,"Michael J. ""Mike"" Barkley",DEM,"1,663",U.S. House of Representatives,CA
+Districtwide,District 10,Michael Eggman,DEM,"7,180",U.S. House of Representatives,CA
+Districtwide,District 10,Josh Harder,DEM,"10,244",U.S. House of Representatives,CA
+Districtwide,District 10,Virginia MadueÃ±o,DEM,"5,885",U.S. House of Representatives,CA
+Districtwide,District 10,Dotty Nygard,DEM,636,U.S. House of Representatives,CA
+Districtwide,District 10,Sue Zwahlen,DEM,"5,700",U.S. House of Representatives,CA
+Districtwide,District 10,Jeff Denham,REP,"24,640",U.S. House of Representatives,CA
+Districtwide,District 10,Ted D. Howze,REP,"9,394",U.S. House of Representatives,CA
+San Joaquin,District 10,"Michael J. ""Mike"" Barkley",DEM,742,U.S. House of Representatives,CA
+San Joaquin,District 10,Michael Eggman,DEM,"2,715",U.S. House of Representatives,CA
+San Joaquin,District 10,Josh Harder,DEM,"2,809",U.S. House of Representatives,CA
+San Joaquin,District 10,Virginia MadueÃ±o,DEM,"1,341",U.S. House of Representatives,CA
+San Joaquin,District 10,Dotty Nygard,DEM,238,U.S. House of Representatives,CA
+San Joaquin,District 10,Sue Zwahlen,DEM,"1,215",U.S. House of Representatives,CA
+San Joaquin,District 10,Jeff Denham,REP,"7,073",U.S. House of Representatives,CA
+San Joaquin,District 10,Ted D. Howze,REP,"2,362",U.S. House of Representatives,CA
+Stanislaus,District 10,"Michael J. ""Mike"" Barkley",DEM,921,U.S. House of Representatives,CA
+Stanislaus,District 10,Michael Eggman,DEM,"4,465",U.S. House of Representatives,CA
+Stanislaus,District 10,Josh Harder,DEM,"7,435",U.S. House of Representatives,CA
+Stanislaus,District 10,Virginia MadueÃ±o,DEM,"4,544",U.S. House of Representatives,CA
+Stanislaus,District 10,Dotty Nygard,DEM,398,U.S. House of Representatives,CA
+Stanislaus,District 10,Sue Zwahlen,DEM,"4,485",U.S. House of Representatives,CA
+Stanislaus,District 10,Jeff Denham,REP,"17,567",U.S. House of Representatives,CA
+Stanislaus,District 10,Ted D. Howze,REP,"7,032",U.S. House of Representatives,CA
+Contra Costa,District 11,Mark DeSaulnier,DEM,"54,786",U.S. House of Representatives,CA
+Contra Costa,District 11,Dennis Lytton,DEM,"4,215",U.S. House of Representatives,CA
+Contra Costa,District 11,John Fitzgerald,REP,"20,354",U.S. House of Representatives,CA
+Contra Costa,District 11,Chris Wood,NPP,"2,566",U.S. House of Representatives,CA
+San Francisco,District 12,Shahid Buttar,DEM,"9,809",U.S. House of Representatives,CA
+San Francisco,District 12,Stephen Jaffe,DEM,"7,425",U.S. House of Representatives,CA
+San Francisco,District 12,Ryan A. Khojasteh,DEM,"5,414",U.S. House of Representatives,CA
+San Francisco,District 12,Nancy Pelosi,DEM,"86,696",U.S. House of Representatives,CA
+San Francisco,District 12,Lisa Remmer,REP,"12,613",U.S. House of Representatives,CA
+San Francisco,District 12,Barry Hermanson,GRN,"2,688",U.S. House of Representatives,CA
+San Francisco,District 12,Michael Goldstein,NPP,"1,902",U.S. House of Representatives,CA
+Districtwide,District 13,Barbara Lee,DEM,"76,567",U.S. House of Representatives,CA
+Alameda,District 13,Barbara Lee,DEM,"76,567",U.S. House of Representatives,CA
+San Francisco,District 13,Barbara Lee,DEM,0,U.S. House of Representatives,CA
+Districtwide,District 14,Jackie Speier,DEM,"57,373",U.S. House of Representatives,CA
+Districtwide,District 14,Cristina OsmeÃ±a,REP,"16,407",U.S. House of Representatives,CA
+San Francisco,District 14,Jackie Speier,DEM,"12,833",U.S. House of Representatives,CA
+San Francisco,District 14,Cristina OsmeÃ±a,REP,"3,026",U.S. House of Representatives,CA
+San Mateo,District 14,Jackie Speier,DEM,"44,540",U.S. House of Representatives,CA
+San Mateo,District 14,Cristina OsmeÃ±a,REP,"13,381",U.S. House of Representatives,CA
+Districtwide,District 15,Eric Swalwell,DEM,"47,629",U.S. House of Representatives,CA
+Districtwide,District 15,Rudy L. Peters Jr.,REP,"19,394",U.S. House of Representatives,CA
+Districtwide,District 15,Brendan St. John,NPP,"2,241",U.S. House of Representatives,CA
+Alameda,District 15,Eric Swalwell,DEM,"42,884",U.S. House of Representatives,CA
+Alameda,District 15,Rudy L. Peters Jr.,REP,"16,867",U.S. House of Representatives,CA
+Alameda,District 15,Brendan St. John,NPP,"2,013",U.S. House of Representatives,CA
+Contra Costa,District 15,Eric Swalwell,DEM,"4,745",U.S. House of Representatives,CA
+Contra Costa,District 15,Rudy L. Peters Jr.,REP,"2,527",U.S. House of Representatives,CA
+Contra Costa,District 15,Brendan St. John,NPP,228,U.S. House of Representatives,CA
+Districtwide,District 16,Jim Costa,DEM,"24,139",U.S. House of Representatives,CA
+Districtwide,District 16,Elizabeth Heng,REP,"21,491",U.S. House of Representatives,CA
+Fresno,District 16,Jim Costa,DEM,"11,028",U.S. House of Representatives,CA
+Fresno,District 16,Elizabeth Heng,REP,"6,311",U.S. House of Representatives,CA
+Madera,District 16,Jim Costa,DEM,"4,010",U.S. House of Representatives,CA
+Madera,District 16,Elizabeth Heng,REP,"6,403",U.S. House of Representatives,CA
+Merced,District 16,Jim Costa,DEM,"9,101",U.S. House of Representatives,CA
+Merced,District 16,Elizabeth Heng,REP,"8,777",U.S. House of Representatives,CA
+Districtwide,District 17,Stephen Forbes,DEM,"3,621",U.S. House of Representatives,CA
+Districtwide,District 17,Ro Khanna,DEM,"35,575",U.S. House of Representatives,CA
+Districtwide,District 17,Khanh Tran,DEM,"4,579",U.S. House of Representatives,CA
+Districtwide,District 17,Ron Cohen,REP,"14,923",U.S. House of Representatives,CA
+Districtwide,District 17,Kennita Watson,LIB,"1,520",U.S. House of Representatives,CA
+Alameda,District 17,Stephen Forbes,DEM,983,U.S. House of Representatives,CA
+Alameda,District 17,Ro Khanna,DEM,"8,571",U.S. House of Representatives,CA
+Alameda,District 17,Khanh Tran,DEM,783,U.S. House of Representatives,CA
+Alameda,District 17,Ron Cohen,REP,"3,805",U.S. House of Representatives,CA
+Alameda,District 17,Kennita Watson,LIB,365,U.S. House of Representatives,CA
+Santa Clara,District 17,Stephen Forbes,DEM,"2,638",U.S. House of Representatives,CA
+Santa Clara,District 17,Ro Khanna,DEM,"27,004",U.S. House of Representatives,CA
+Santa Clara,District 17,Khanh Tran,DEM,"3,796",U.S. House of Representatives,CA
+Santa Clara,District 17,Ron Cohen,REP,"11,118",U.S. House of Representatives,CA
+Santa Clara,District 17,Kennita Watson,LIB,"1,155",U.S. House of Representatives,CA
+Districtwide,District 18,Anna G. Eshoo,DEM,"62,986",U.S. House of Representatives,CA
+Districtwide,District 18,Christine Russell,REP,"22,556",U.S. House of Representatives,CA
+Districtwide,District 18,John Karl Fredrich,NPP,"2,818",U.S. House of Representatives,CA
+San Mateo,District 18,Anna G. Eshoo,DEM,"9,244",U.S. House of Representatives,CA
+San Mateo,District 18,Christine Russell,REP,"2,903",U.S. House of Representatives,CA
+San Mateo,District 18,John Karl Fredrich,NPP,391,U.S. House of Representatives,CA
+Santa Clara,District 18,Anna G. Eshoo,DEM,"47,337",U.S. House of Representatives,CA
+Santa Clara,District 18,Christine Russell,REP,"17,462",U.S. House of Representatives,CA
+Santa Clara,District 18,John Karl Fredrich,NPP,"2,092",U.S. House of Representatives,CA
+Santa Cruz,District 18,Anna G. Eshoo,DEM,"6,405",U.S. House of Representatives,CA
+Santa Cruz,District 18,Christine Russell,REP,"2,191",U.S. House of Representatives,CA
+Santa Cruz,District 18,John Karl Fredrich,NPP,335,U.S. House of Representatives,CA
+Santa Clara,District 19,Zoe Lofgren,DEM,"49,719",U.S. House of Representatives,CA
+Districtwide,District 20,Douglas Deitch,DEM,"2,541",U.S. House of Representatives,CA
+Districtwide,District 20,Jimmy Panetta,DEM,"51,527",U.S. House of Representatives,CA
+Districtwide,District 20,Ronald Paul Kabat,NPP,"10,173",U.S. House of Representatives,CA
+Monterey,District 20,Douglas Deitch,DEM,977,U.S. House of Representatives,CA
+Monterey,District 20,Jimmy Panetta,DEM,"24,297",U.S. House of Representatives,CA
+Monterey,District 20,Ronald Paul Kabat,NPP,"5,349",U.S. House of Representatives,CA
+San Benito,District 20,Douglas Deitch,DEM,192,U.S. House of Representatives,CA
+San Benito,District 20,Jimmy Panetta,DEM,"4,540",U.S. House of Representatives,CA
+San Benito,District 20,Ronald Paul Kabat,NPP,"1,498",U.S. House of Representatives,CA
+Santa Clara,District 20,Douglas Deitch,DEM,122,U.S. House of Representatives,CA
+Santa Clara,District 20,Jimmy Panetta,DEM,662,U.S. House of Representatives,CA
+Santa Clara,District 20,Ronald Paul Kabat,NPP,165,U.S. House of Representatives,CA
+Santa Cruz,District 20,Douglas Deitch,DEM,"1,250",U.S. House of Representatives,CA
+Santa Cruz,District 20,Jimmy Panetta,DEM,"22,028",U.S. House of Representatives,CA
+Santa Cruz,District 20,Ronald Paul Kabat,NPP,"3,161",U.S. House of Representatives,CA
+Districtwide,District 21,TJ Cox,DEM,"13,263",U.S. House of Representatives,CA
+Districtwide,District 21,David G. Valadao,REP,"23,509",U.S. House of Representatives,CA
+Fresno,District 21,TJ Cox,DEM,"4,340",U.S. House of Representatives,CA
+Fresno,District 21,David G. Valadao,REP,"7,260",U.S. House of Representatives,CA
+Kern,District 21,TJ Cox,DEM,"4,939",U.S. House of Representatives,CA
+Kern,District 21,David G. Valadao,REP,"6,057",U.S. House of Representatives,CA
+Kings,District 21,TJ Cox,DEM,"3,684",U.S. House of Representatives,CA
+Kings,District 21,David G. Valadao,REP,"9,615",U.S. House of Representatives,CA
+Tulare,District 21,TJ Cox,DEM,300,U.S. House of Representatives,CA
+Tulare,District 21,David G. Valadao,REP,577,U.S. House of Representatives,CA
+Districtwide,District 22,Bobby Bliatout,DEM,"3,411",U.S. House of Representatives,CA
+Districtwide,District 22,"Ricardo ""Rico"" Franco",DEM,"2,440",U.S. House of Representatives,CA
+Districtwide,District 22,Andrew Janz,DEM,"23,555",U.S. House of Representatives,CA
+Districtwide,District 22,Devin G. Nunes,REP,"42,554",U.S. House of Representatives,CA
+Districtwide,District 22,Bill Merryman,LIB,650,U.S. House of Representatives,CA
+Districtwide,District 22,Brian T. Carroll,NPP,924,U.S. House of Representatives,CA
+Fresno,District 22,Bobby Bliatout,DEM,"2,417",U.S. House of Representatives,CA
+Fresno,District 22,"Ricardo ""Rico"" Franco",DEM,"1,369",U.S. House of Representatives,CA
+Fresno,District 22,Andrew Janz,DEM,"17,293",U.S. House of Representatives,CA
+Fresno,District 22,Devin G. Nunes,REP,"28,575",U.S. House of Representatives,CA
+Fresno,District 22,Bill Merryman,LIB,439,U.S. House of Representatives,CA
+Fresno,District 22,Brian T. Carroll,NPP,647,U.S. House of Representatives,CA
+Tulare,District 22,Bobby Bliatout,DEM,994,U.S. House of Representatives,CA
+Tulare,District 22,"Ricardo ""Rico"" Franco",DEM,"1,071",U.S. House of Representatives,CA
+Tulare,District 22,Andrew Janz,DEM,"6,262",U.S. House of Representatives,CA
+Tulare,District 22,Devin G. Nunes,REP,"13,979",U.S. House of Representatives,CA
+Tulare,District 22,Bill Merryman,LIB,211,U.S. House of Representatives,CA
+Tulare,District 22,Brian T. Carroll,NPP,277,U.S. House of Representatives,CA
+Districtwide,District 23,Mary Helen Barro,DEM,"4,275",U.S. House of Representatives,CA
+Districtwide,District 23,Tatiana Matta,DEM,"9,416",U.S. House of Representatives,CA
+Districtwide,District 23,Wendy Reed,DEM,"7,937",U.S. House of Representatives,CA
+Districtwide,District 23,Kurtis Wilson,DEM,"1,132",U.S. House of Representatives,CA
+Districtwide,District 23,Kevin McCarthy,REP,"56,089",U.S. House of Representatives,CA
+Districtwide,District 23,James Davis,NPP,"1,464",U.S. House of Representatives,CA
+Kern,District 23,Mary Helen Barro,DEM,"3,382",U.S. House of Representatives,CA
+Kern,District 23,Tatiana Matta,DEM,"7,603",U.S. House of Representatives,CA
+Kern,District 23,Wendy Reed,DEM,"6,247",U.S. House of Representatives,CA
+Kern,District 23,Kurtis Wilson,DEM,809,U.S. House of Representatives,CA
+Kern,District 23,Kevin McCarthy,REP,"47,388",U.S. House of Representatives,CA
+Kern,District 23,James Davis,NPP,"1,287",U.S. House of Representatives,CA
+Los Angeles,District 23,Mary Helen Barro,DEM,495,U.S. House of Representatives,CA
+Los Angeles,District 23,Tatiana Matta,DEM,"1,136",U.S. House of Representatives,CA
+Los Angeles,District 23,Wendy Reed,DEM,893,U.S. House of Representatives,CA
+Los Angeles,District 23,Kurtis Wilson,DEM,136,U.S. House of Representatives,CA
+Los Angeles,District 23,Kevin McCarthy,REP,"4,695",U.S. House of Representatives,CA
+Los Angeles,District 23,James Davis,NPP,98,U.S. House of Representatives,CA
+Tulare,District 23,Mary Helen Barro,DEM,398,U.S. House of Representatives,CA
+Tulare,District 23,Tatiana Matta,DEM,677,U.S. House of Representatives,CA
+Tulare,District 23,Wendy Reed,DEM,797,U.S. House of Representatives,CA
+Tulare,District 23,Kurtis Wilson,DEM,187,U.S. House of Representatives,CA
+Tulare,District 23,Kevin McCarthy,REP,"4,006",U.S. House of Representatives,CA
+Tulare,District 23,James Davis,NPP,79,U.S. House of Representatives,CA
+Districtwide,District 24,Salud Carbajal,DEM,"58,730",U.S. House of Representatives,CA
+Districtwide,District 24,Justin Fareed,REP,"41,254",U.S. House of Representatives,CA
+Districtwide,District 24,Michael Erin Woody,REP,"11,726",U.S. House of Representatives,CA
+San Luis Obispo,District 24,Salud Carbajal,DEM,"27,433",U.S. House of Representatives,CA
+San Luis Obispo,District 24,Justin Fareed,REP,"20,195",U.S. House of Representatives,CA
+San Luis Obispo,District 24,Michael Erin Woody,REP,"6,930",U.S. House of Representatives,CA
+Santa Barbara,District 24,Salud Carbajal,DEM,"30,481",U.S. House of Representatives,CA
+Santa Barbara,District 24,Justin Fareed,REP,"20,742",U.S. House of Representatives,CA
+Santa Barbara,District 24,Michael Erin Woody,REP,"4,636",U.S. House of Representatives,CA
+Ventura,District 24,Salud Carbajal,DEM,816,U.S. House of Representatives,CA
+Ventura,District 24,Justin Fareed,REP,317,U.S. House of Representatives,CA
+Ventura,District 24,Michael Erin Woody,REP,160,U.S. House of Representatives,CA
+Districtwide,District 25,Bryan Caforio,DEM,"14,305",U.S. House of Representatives,CA
+Districtwide,District 25,Katie Hill,DEM,"15,833",U.S. House of Representatives,CA
+Districtwide,District 25,Mary Pallant,DEM,"2,075",U.S. House of Representatives,CA
+Districtwide,District 25,Jess Pelaez Phoenix,DEM,"4,682",U.S. House of Representatives,CA
+Districtwide,District 25,Steve Knight,REP,"41,310",U.S. House of Representatives,CA
+Los Angeles,District 25,Bryan Caforio,DEM,"11,147",U.S. House of Representatives,CA
+Los Angeles,District 25,Katie Hill,DEM,"11,943",U.S. House of Representatives,CA
+Los Angeles,District 25,Mary Pallant,DEM,"1,745",U.S. House of Representatives,CA
+Los Angeles,District 25,Jess Pelaez Phoenix,DEM,"3,646",U.S. House of Representatives,CA
+Los Angeles,District 25,Steve Knight,REP,"31,187",U.S. House of Representatives,CA
+Ventura,District 25,Bryan Caforio,DEM,"3,158",U.S. House of Representatives,CA
+Ventura,District 25,Katie Hill,DEM,"3,890",U.S. House of Representatives,CA
+Ventura,District 25,Mary Pallant,DEM,330,U.S. House of Representatives,CA
+Ventura,District 25,Jess Pelaez Phoenix,DEM,"1,036",U.S. House of Representatives,CA
+Ventura,District 25,Steve Knight,REP,"10,123",U.S. House of Representatives,CA
+Districtwide,District 26,Julia Brownley,DEM,"46,375",U.S. House of Representatives,CA
+Districtwide,District 26,John Nelson,DEM,"3,090",U.S. House of Representatives,CA
+Districtwide,District 26,Jeffrey D. Burum,REP,"17,917",U.S. House of Representatives,CA
+Districtwide,District 26,"Antonio Sabato, Jr.",REP,"20,226",U.S. House of Representatives,CA
+Los Angeles,District 26,Julia Brownley,DEM,750,U.S. House of Representatives,CA
+Los Angeles,District 26,John Nelson,DEM,40,U.S. House of Representatives,CA
+Los Angeles,District 26,Jeffrey D. Burum,REP,296,U.S. House of Representatives,CA
+Los Angeles,District 26,"Antonio Sabato, Jr.",REP,395,U.S. House of Representatives,CA
+Ventura,District 26,Julia Brownley,DEM,"45,625",U.S. House of Representatives,CA
+Ventura,District 26,John Nelson,DEM,"3,050",U.S. House of Representatives,CA
+Ventura,District 26,Jeffrey D. Burum,REP,"17,621",U.S. House of Representatives,CA
+Ventura,District 26,"Antonio Sabato, Jr.",REP,"19,831",U.S. House of Representatives,CA
+Districtwide,District 27,Judy Chu,DEM,"54,677",U.S. House of Representatives,CA
+Districtwide,District 27,Bryan Witt,DEM,"11,441",U.S. House of Representatives,CA
+Los Angeles,District 27,Judy Chu,DEM,"51,805",U.S. House of Representatives,CA
+Los Angeles,District 27,Bryan Witt,DEM,"10,319",U.S. House of Representatives,CA
+San Bernardino,District 27,Judy Chu,DEM,"2,872",U.S. House of Representatives,CA
+San Bernardino,District 27,Bryan Witt,DEM,"1,122",U.S. House of Representatives,CA
+Los Angeles,District 28,Sal Genovese,DEM,"4,614",U.S. House of Representatives,CA
+Los Angeles,District 28,Adam B. Schiff,DEM,"58,726",U.S. House of Representatives,CA
+Los Angeles,District 28,Johnny J. Nalbandian,REP,"17,865",U.S. House of Representatives,CA
+Los Angeles,District 29,Tony Cardenas,DEM,"28,098",U.S. House of Representatives,CA
+Los Angeles,District 29,"Joseph ""Joe"" Shammas",DEM,"3,351",U.S. House of Representatives,CA
+Los Angeles,District 29,Benito Benny Bernal,REP,"7,483",U.S. House of Representatives,CA
+Los Angeles,District 29,Angelica Maria DueÃ±as,GRN,"2,456",U.S. House of Representatives,CA
+Los Angeles,District 29,Juan Rey,NPP,566,U.S. House of Representatives,CA
+Districtwide,District 30,Jon Pelzer,DEM,"4,135",U.S. House of Representatives,CA
+Districtwide,District 30,Raji Rab,DEM,"4,218",U.S. House of Representatives,CA
+Districtwide,District 30,Brad Sherman,DEM,"50,648",U.S. House of Representatives,CA
+Districtwide,District 30,Mark S. Reed,REP,"23,543",U.S. House of Representatives,CA
+Los Angeles,District 30,Jon Pelzer,DEM,"4,126",U.S. House of Representatives,CA
+Los Angeles,District 30,Raji Rab,DEM,"4,202",U.S. House of Representatives,CA
+Los Angeles,District 30,Brad Sherman,DEM,"50,464",U.S. House of Representatives,CA
+Los Angeles,District 30,Mark S. Reed,REP,"23,373",U.S. House of Representatives,CA
+Ventura,District 30,Jon Pelzer,DEM,9,U.S. House of Representatives,CA
+Ventura,District 30,Raji Rab,DEM,16,U.S. House of Representatives,CA
+Ventura,District 30,Brad Sherman,DEM,184,U.S. House of Representatives,CA
+Ventura,District 30,Mark S. Reed,REP,170,U.S. House of Representatives,CA
+San Bernardino,District 31,Pete Aguilar,DEM,"25,969",U.S. House of Representatives,CA
+San Bernardino,District 31,Kaisar Ahmed,DEM,"4,696",U.S. House of Representatives,CA
+San Bernardino,District 31,Sean Flynn,REP,"26,052",U.S. House of Representatives,CA
+Los Angeles,District 32,Grace Flores Napolitano,DEM,"38,137",U.S. House of Representatives,CA
+Los Angeles,District 33,Ted W. Lieu,DEM,"62,714",U.S. House of Representatives,CA
+Los Angeles,District 33,Emory P. Rodgers,DEM,"8,219",U.S. House of Representatives,CA
+Los Angeles,District 33,Kenneth Weston Wright,REP,"32,368",U.S. House of Representatives,CA
+Los Angeles,District 34,Jimmy Gomez,DEM,"34,551",U.S. House of Representatives,CA
+Los Angeles,District 34,Kenneth Mejia,GRN,"5,275",U.S. House of Representatives,CA
+Los Angeles,District 34,Angela Elise McArdle,LIB,"3,680",U.S. House of Representatives,CA
+Districtwide,District 35,Joe Baca,DEM,"5,669",U.S. House of Representatives,CA
+Districtwide,District 35,Norma J. Torres,DEM,"19,868",U.S. House of Representatives,CA
+Districtwide,District 35,Christian Leonel Valiente,REP,"13,456",U.S. House of Representatives,CA
+Los Angeles,District 35,Joe Baca,DEM,"1,155",U.S. House of Representatives,CA
+Los Angeles,District 35,Norma J. Torres,DEM,"5,227",U.S. House of Representatives,CA
+Los Angeles,District 35,Christian Leonel Valiente,REP,"2,120",U.S. House of Representatives,CA
+San Bernardino,District 35,Joe Baca,DEM,"4,514",U.S. House of Representatives,CA
+San Bernardino,District 35,Norma J. Torres,DEM,"14,641",U.S. House of Representatives,CA
+San Bernardino,District 35,Christian Leonel Valiente,REP,"11,336",U.S. House of Representatives,CA
+Riverside,District 36,Raul Ruiz,DEM,"39,527",U.S. House of Representatives,CA
+Riverside,District 36,Dan Ball,REP,"5,783",U.S. House of Representatives,CA
+Riverside,District 36,Robert Bentley,REP,"3,184",U.S. House of Representatives,CA
+Riverside,District 36,Douglas Hassett,REP,"3,683",U.S. House of Representatives,CA
+Riverside,District 36,Kimberlin Brown Pelzer,REP,"16,539",U.S. House of Representatives,CA
+Riverside,District 36,Stephan J. Wolkowicz,REP,"3,528",U.S. House of Representatives,CA
+Los Angeles,District 37,Karen Bass,DEM,"61,136",U.S. House of Representatives,CA
+Los Angeles,District 37,Ron J. Bassilian,REP,"7,837",U.S. House of Representatives,CA
+Districtwide,District 38,Linda T. SÃ¡nchez,DEM,"37,508",U.S. House of Representatives,CA
+Districtwide,District 38,Ryan Downing,REP,"22,809",U.S. House of Representatives,CA
+Los Angeles,District 38,Linda T. SÃ¡nchez,DEM,"36,632",U.S. House of Representatives,CA
+Los Angeles,District 38,Ryan Downing,REP,"21,817",U.S. House of Representatives,CA
+Orange,District 38,Linda T. SÃ¡nchez,DEM,876,U.S. House of Representatives,CA
+Orange,District 38,Ryan Downing,REP,992,U.S. House of Representatives,CA
+Districtwide,District 39,Gil Cisneros,DEM,"16,506",U.S. House of Representatives,CA
+Districtwide,District 39,Sam Jammal,DEM,"4,486",U.S. House of Representatives,CA
+Districtwide,District 39,Herbert H. Lee,DEM,"3,492",U.S. House of Representatives,CA
+Districtwide,District 39,Suzi Park Leggett,DEM,"1,284",U.S. House of Representatives,CA
+Districtwide,District 39,Andy Thorburn,DEM,"7,656",U.S. House of Representatives,CA
+Districtwide,District 39,Mai Khanh Tran,DEM,"4,133",U.S. House of Representatives,CA
+Districtwide,District 39,John J. Cullum,REP,"1,110",U.S. House of Representatives,CA
+Districtwide,District 39,Bob Huff,REP,"5,330",U.S. House of Representatives,CA
+Districtwide,District 39,Young Kim,REP,"18,637",U.S. House of Representatives,CA
+Districtwide,District 39,Phil Liberatore,REP,"11,876",U.S. House of Representatives,CA
+Districtwide,District 39,Shawn Nelson,REP,"5,867",U.S. House of Representatives,CA
+Districtwide,District 39,Andrew Sarega,REP,497,U.S. House of Representatives,CA
+Districtwide,District 39,Steven C. Vargas,REP,"2,616",U.S. House of Representatives,CA
+Districtwide,District 39,Ted M. Alemayhu,AI,106,U.S. House of Representatives,CA
+Districtwide,District 39,Sophia J. Alexander,AI,300,U.S. House of Representatives,CA
+Districtwide,District 39,Steve Cox,NPP,533,U.S. House of Representatives,CA
+Districtwide,District 39,Karen Lee Schatzle,NPP,556,U.S. House of Representatives,CA
+Los Angeles,District 39,Gil Cisneros,DEM,"4,968",U.S. House of Representatives,CA
+Los Angeles,District 39,Sam Jammal,DEM,948,U.S. House of Representatives,CA
+Los Angeles,District 39,Herbert H. Lee,DEM,"1,545",U.S. House of Representatives,CA
+Los Angeles,District 39,Suzi Park Leggett,DEM,277,U.S. House of Representatives,CA
+Los Angeles,District 39,Andy Thorburn,DEM,"2,004",U.S. House of Representatives,CA
+Los Angeles,District 39,Mai Khanh Tran,DEM,"1,356",U.S. House of Representatives,CA
+Los Angeles,District 39,John J. Cullum,REP,252,U.S. House of Representatives,CA
+Los Angeles,District 39,Bob Huff,REP,"2,221",U.S. House of Representatives,CA
+Los Angeles,District 39,Young Kim,REP,"3,275",U.S. House of Representatives,CA
+Los Angeles,District 39,Phil Liberatore,REP,"2,287",U.S. House of Representatives,CA
+Los Angeles,District 39,Shawn Nelson,REP,879,U.S. House of Representatives,CA
+Los Angeles,District 39,Andrew Sarega,REP,108,U.S. House of Representatives,CA
+Los Angeles,District 39,Steven C. Vargas,REP,655,U.S. House of Representatives,CA
+Los Angeles,District 39,Ted M. Alemayhu,AI,28,U.S. House of Representatives,CA
+Los Angeles,District 39,Sophia J. Alexander,AI,53,U.S. House of Representatives,CA
+Los Angeles,District 39,Steve Cox,NPP,149,U.S. House of Representatives,CA
+Los Angeles,District 39,Karen Lee Schatzle,NPP,169,U.S. House of Representatives,CA
+Orange,District 39,Gil Cisneros,DEM,"10,071",U.S. House of Representatives,CA
+Orange,District 39,Sam Jammal,DEM,"3,211",U.S. House of Representatives,CA
+Orange,District 39,Herbert H. Lee,DEM,"1,595",U.S. House of Representatives,CA
+Orange,District 39,Suzi Park Leggett,DEM,889,U.S. House of Representatives,CA
+Orange,District 39,Andy Thorburn,DEM,"4,760",U.S. House of Representatives,CA
+Orange,District 39,Mai Khanh Tran,DEM,"2,423",U.S. House of Representatives,CA
+Orange,District 39,John J. Cullum,REP,755,U.S. House of Representatives,CA
+Orange,District 39,Bob Huff,REP,"2,370",U.S. House of Representatives,CA
+Orange,District 39,Young Kim,REP,"14,176",U.S. House of Representatives,CA
+Orange,District 39,Phil Liberatore,REP,"7,850",U.S. House of Representatives,CA
+Orange,District 39,Shawn Nelson,REP,"4,601",U.S. House of Representatives,CA
+Orange,District 39,Andrew Sarega,REP,355,U.S. House of Representatives,CA
+Orange,District 39,Steven C. Vargas,REP,"1,735",U.S. House of Representatives,CA
+Orange,District 39,Ted M. Alemayhu,AI,64,U.S. House of Representatives,CA
+Orange,District 39,Sophia J. Alexander,AI,223,U.S. House of Representatives,CA
+Orange,District 39,Steve Cox,NPP,299,U.S. House of Representatives,CA
+Orange,District 39,Karen Lee Schatzle,NPP,324,U.S. House of Representatives,CA
+San Bernardino,District 39,Gil Cisneros,DEM,"1,467",U.S. House of Representatives,CA
+San Bernardino,District 39,Sam Jammal,DEM,327,U.S. House of Representatives,CA
+San Bernardino,District 39,Herbert H. Lee,DEM,352,U.S. House of Representatives,CA
+San Bernardino,District 39,Suzi Park Leggett,DEM,118,U.S. House of Representatives,CA
+San Bernardino,District 39,Andy Thorburn,DEM,892,U.S. House of Representatives,CA
+San Bernardino,District 39,Mai Khanh Tran,DEM,354,U.S. House of Representatives,CA
+San Bernardino,District 39,John J. Cullum,REP,103,U.S. House of Representatives,CA
+San Bernardino,District 39,Bob Huff,REP,739,U.S. House of Representatives,CA
+San Bernardino,District 39,Young Kim,REP,"1,186",U.S. House of Representatives,CA
+San Bernardino,District 39,Phil Liberatore,REP,"1,739",U.S. House of Representatives,CA
+San Bernardino,District 39,Shawn Nelson,REP,387,U.S. House of Representatives,CA
+San Bernardino,District 39,Andrew Sarega,REP,34,U.S. House of Representatives,CA
+San Bernardino,District 39,Steven C. Vargas,REP,226,U.S. House of Representatives,CA
+San Bernardino,District 39,Ted M. Alemayhu,AI,14,U.S. House of Representatives,CA
+San Bernardino,District 39,Sophia J. Alexander,AI,24,U.S. House of Representatives,CA
+San Bernardino,District 39,Steve Cox,NPP,85,U.S. House of Representatives,CA
+San Bernardino,District 39,Karen Lee Schatzle,NPP,63,U.S. House of Representatives,CA
+Los Angeles,District 40,Lucille Roybal-Allard,DEM,"23,822",U.S. House of Representatives,CA
+Los Angeles,District 40,Rodolfo Cortes Barragan,GRN,"5,817",U.S. House of Representatives,CA
+Riverside,District 41,Mark Takano,DEM,"23,945",U.S. House of Representatives,CA
+Riverside,District 41,Aja Smith,REP,"18,119",U.S. House of Representatives,CA
+Riverside,District 42,Julia C Peacock,DEM,"15,040",U.S. House of Representatives,CA
+Riverside,District 42,Norman Quintero,DEM,"4,831",U.S. House of Representatives,CA
+Riverside,District 42,Ken Calvert,REP,"36,702",U.S. House of Representatives,CA
+Riverside,District 42,Matt Woody,NPP,"2,660",U.S. House of Representatives,CA
+Los Angeles,District 43,Maxine Waters,DEM,"41,789",U.S. House of Representatives,CA
+Los Angeles,District 43,Frank T. DeMartini,REP,"4,167",U.S. House of Representatives,CA
+Los Angeles,District 43,Edwin P. Duterte,REP,"2,485",U.S. House of Representatives,CA
+Los Angeles,District 43,Omar Navarro,REP,"8,591",U.S. House of Representatives,CA
+Los Angeles,District 43,Miguel Angel Zuniga,GRN,"1,326",U.S. House of Representatives,CA
+Los Angeles,District 44,Nanette Diaz BarragÃ¡n,DEM,"26,356",U.S. House of Representatives,CA
+Los Angeles,District 44,Aja L. Brown,DEM,"6,700",U.S. House of Representatives,CA
+Los Angeles,District 44,Stacey Dash,REP,"2,927",U.S. House of Representatives,CA
+Los Angeles,District 44,Jazmina Saavedra,REP,"4,058",U.S. House of Representatives,CA
+Orange,District 45,Brian Forde,DEM,"5,506",U.S. House of Representatives,CA
+Orange,District 45,Kia Hamadanchy,DEM,"1,673",U.S. House of Representatives,CA
+Orange,District 45,Dave Min,DEM,"16,854",U.S. House of Representatives,CA
+Orange,District 45,Katie Porter,DEM,"19,453",U.S. House of Representatives,CA
+Orange,District 45,Mimi Walters,REP,"52,098",U.S. House of Representatives,CA
+Orange,District 45,John Graham,NPP,"2,304",U.S. House of Representatives,CA
+Orange,District 46,Lou Correa,DEM,"23,079",U.S. House of Representatives,CA
+Orange,District 46,Russell Rene Lambert,REP,"13,605",U.S. House of Representatives,CA
+Orange,District 46,Will Johnson,NPP,813,U.S. House of Representatives,CA
+Orange,District 46,Ed Rushman,NPP,"1,167",U.S. House of Representatives,CA
+Districtwide,District 47,Alan Lowenthal,DEM,"40,792",U.S. House of Representatives,CA
+Districtwide,District 47,John Briscoe,REP,"15,086",U.S. House of Representatives,CA
+Districtwide,District 47,David Michael Clifford,REP,"12,726",U.S. House of Representatives,CA
+Los Angeles,District 47,Alan Lowenthal,DEM,"27,205",U.S. House of Representatives,CA
+Los Angeles,District 47,John Briscoe,REP,"7,740",U.S. House of Representatives,CA
+Los Angeles,District 47,David Michael Clifford,REP,"5,615",U.S. House of Representatives,CA
+Orange,District 47,Alan Lowenthal,DEM,"13,587",U.S. House of Representatives,CA
+Orange,District 47,John Briscoe,REP,"7,346",U.S. House of Representatives,CA
+Orange,District 47,David Michael Clifford,REP,"7,111",U.S. House of Representatives,CA
+Orange,District 48,Hans Keirstead,DEM,"18,109",U.S. House of Representatives,CA
+Orange,District 48,Michael Kotick,DEM,"1,671",U.S. House of Representatives,CA
+Orange,District 48,Laura Oatman,DEM,"1,504",U.S. House of Representatives,CA
+Orange,District 48,Rachel Payne,DEM,"2,215",U.S. House of Representatives,CA
+Orange,District 48,Harley Rouda,DEM,"18,182",U.S. House of Representatives,CA
+Orange,District 48,Deanie Schaarsmith,DEM,895,U.S. House of Representatives,CA
+Orange,District 48,Omar A. Siddiqui,DEM,"5,110",U.S. House of Representatives,CA
+Orange,District 48,Tony Zarkades,DEM,831,U.S. House of Representatives,CA
+Orange,District 48,Scott Baugh,REP,"16,963",U.S. House of Representatives,CA
+Orange,District 48,John Gabbard,REP,"3,381",U.S. House of Representatives,CA
+Orange,District 48,Paul Martin,REP,"1,672",U.S. House of Representatives,CA
+Orange,District 48,Stelian Onufrei,REP,421,U.S. House of Representatives,CA
+Orange,District 48,Dana Rohrabacher,REP,"31,886",U.S. House of Representatives,CA
+Orange,District 48,Shastina Sandman,REP,"1,519",U.S. House of Representatives,CA
+Orange,District 48,Brandon Reiser,LIB,532,U.S. House of Representatives,CA
+Orange,District 48,Kevin Kensinger,NPP,427,U.S. House of Representatives,CA
+Districtwide,District 49,Doug Applegate,DEM,"14,592",U.S. House of Representatives,CA
+Districtwide,District 49,Sara Jacobs,DEM,"17,099",U.S. House of Representatives,CA
+Districtwide,District 49,Paul G. Kerr,DEM,"5,278",U.S. House of Representatives,CA
+Districtwide,District 49,Mike Levin,DEM,"18,958",U.S. House of Representatives,CA
+Districtwide,District 49,Rocky J. ChÃ¡vez,REP,"8,581",U.S. House of Representatives,CA
+Districtwide,District 49,Kristin Gaspar,REP,"9,670",U.S. House of Representatives,CA
+Districtwide,District 49,Diane L. Harkey,REP,"28,191",U.S. House of Representatives,CA
+Districtwide,District 49,Brian Maryott,REP,"3,273",U.S. House of Representatives,CA
+Districtwide,District 49,David Medway,REP,637,U.S. House of Representatives,CA
+Districtwide,District 49,Craig A. Nordal,REP,674,U.S. House of Representatives,CA
+Districtwide,District 49,Mike Schmitt,REP,"1,479",U.S. House of Representatives,CA
+Districtwide,District 49,Joshua Schoonover,REP,838,U.S. House of Representatives,CA
+Districtwide,District 49,Danielle St. John,GRN,391,U.S. House of Representatives,CA
+Districtwide,District 49,Joshua L. Hancock,LIB,313,U.S. House of Representatives,CA
+Districtwide,District 49,Jordan P. Mills,P&F,129,U.S. House of Representatives,CA
+Districtwide,District 49,Robert Pendleton,NPP,529,U.S. House of Representatives,CA
+Orange,District 49,Doug Applegate,DEM,"2,182",U.S. House of Representatives,CA
+Orange,District 49,Sara Jacobs,DEM,"3,265",U.S. House of Representatives,CA
+Orange,District 49,Paul G. Kerr,DEM,813,U.S. House of Representatives,CA
+Orange,District 49,Mike Levin,DEM,"5,324",U.S. House of Representatives,CA
+Orange,District 49,Rocky J. ChÃ¡vez,REP,"1,569",U.S. House of Representatives,CA
+Orange,District 49,Kristin Gaspar,REP,"1,792",U.S. House of Representatives,CA
+Orange,District 49,Diane L. Harkey,REP,"8,806",U.S. House of Representatives,CA
+Orange,District 49,Brian Maryott,REP,"2,059",U.S. House of Representatives,CA
+Orange,District 49,David Medway,REP,169,U.S. House of Representatives,CA
+Orange,District 49,Craig A. Nordal,REP,219,U.S. House of Representatives,CA
+Orange,District 49,Mike Schmitt,REP,674,U.S. House of Representatives,CA
+Orange,District 49,Joshua Schoonover,REP,305,U.S. House of Representatives,CA
+Orange,District 49,Danielle St. John,GRN,84,U.S. House of Representatives,CA
+Orange,District 49,Joshua L. Hancock,LIB,85,U.S. House of Representatives,CA
+Orange,District 49,Jordan P. Mills,P&F,22,U.S. House of Representatives,CA
+Orange,District 49,Robert Pendleton,NPP,132,U.S. House of Representatives,CA
+San Diego,District 49,Doug Applegate,DEM,"12,410",U.S. House of Representatives,CA
+San Diego,District 49,Sara Jacobs,DEM,"13,834",U.S. House of Representatives,CA
+San Diego,District 49,Paul G. Kerr,DEM,"4,465",U.S. House of Representatives,CA
+San Diego,District 49,Mike Levin,DEM,"13,634",U.S. House of Representatives,CA
+San Diego,District 49,Rocky J. ChÃ¡vez,REP,"7,012",U.S. House of Representatives,CA
+San Diego,District 49,Kristin Gaspar,REP,"7,878",U.S. House of Representatives,CA
+San Diego,District 49,Diane L. Harkey,REP,"19,385",U.S. House of Representatives,CA
+San Diego,District 49,Brian Maryott,REP,"1,214",U.S. House of Representatives,CA
+San Diego,District 49,David Medway,REP,468,U.S. House of Representatives,CA
+San Diego,District 49,Craig A. Nordal,REP,455,U.S. House of Representatives,CA
+San Diego,District 49,Mike Schmitt,REP,805,U.S. House of Representatives,CA
+San Diego,District 49,Joshua Schoonover,REP,533,U.S. House of Representatives,CA
+San Diego,District 49,Danielle St. John,GRN,307,U.S. House of Representatives,CA
+San Diego,District 49,Joshua L. Hancock,LIB,228,U.S. House of Representatives,CA
+San Diego,District 49,Jordan P. Mills,P&F,107,U.S. House of Representatives,CA
+San Diego,District 49,Robert Pendleton,NPP,397,U.S. House of Representatives,CA
+Districtwide,District 50,Josh Butner,DEM,"11,333",U.S. House of Representatives,CA
+Districtwide,District 50,Ammar Campa-Najjar,DEM,"14,445",U.S. House of Representatives,CA
+Districtwide,District 50,Patrick Malloy,DEM,"5,324",U.S. House of Representatives,CA
+Districtwide,District 50,Duncan Hunter,REP,"43,233",U.S. House of Representatives,CA
+Districtwide,District 50,"S. ""Shamus"" Sayed",REP,"1,846",U.S. House of Representatives,CA
+Districtwide,District 50,Bill Wells,REP,"11,626",U.S. House of Representatives,CA
+Districtwide,District 50,Richard Kahle,NPP,975,U.S. House of Representatives,CA
+Riverside,District 50,Josh Butner,DEM,850,U.S. House of Representatives,CA
+Riverside,District 50,Ammar Campa-Najjar,DEM,999,U.S. House of Representatives,CA
+Riverside,District 50,Patrick Malloy,DEM,587,U.S. House of Representatives,CA
+Riverside,District 50,Duncan Hunter,REP,"3,598",U.S. House of Representatives,CA
+Riverside,District 50,"S. ""Shamus"" Sayed",REP,184,U.S. House of Representatives,CA
+Riverside,District 50,Bill Wells,REP,871,U.S. House of Representatives,CA
+Riverside,District 50,Richard Kahle,NPP,81,U.S. House of Representatives,CA
+San Diego,District 50,Josh Butner,DEM,"10,483",U.S. House of Representatives,CA
+San Diego,District 50,Ammar Campa-Najjar,DEM,"13,446",U.S. House of Representatives,CA
+San Diego,District 50,Patrick Malloy,DEM,"4,737",U.S. House of Representatives,CA
+San Diego,District 50,Duncan Hunter,REP,"39,635",U.S. House of Representatives,CA
+San Diego,District 50,"S. ""Shamus"" Sayed",REP,"1,662",U.S. House of Representatives,CA
+San Diego,District 50,Bill Wells,REP,"10,755",U.S. House of Representatives,CA
+San Diego,District 50,Richard Kahle,NPP,894,U.S. House of Representatives,CA
+Districtwide,District 51,Juan Vargas,DEM,"29,476",U.S. House of Representatives,CA
+Districtwide,District 51,Louis A. Fuentes,REP,820,U.S. House of Representatives,CA
+Districtwide,District 51,Juan M. Hidalgo Jr.,REP,"7,277",U.S. House of Representatives,CA
+Districtwide,District 51,John R. Renison Jr.,REP,"7,078",U.S. House of Representatives,CA
+Districtwide,District 51,"Juan Carlos ""Charlie"" Mercado",NPP,"1,387",U.S. House of Representatives,CA
+Districtwide,District 51,Kevin Mitchell,NPP,900,U.S. House of Representatives,CA
+Imperial,District 51,Juan Vargas,DEM,"6,219",U.S. House of Representatives,CA
+Imperial,District 51,Louis A. Fuentes,REP,315,U.S. House of Representatives,CA
+Imperial,District 51,Juan M. Hidalgo Jr.,REP,"1,850",U.S. House of Representatives,CA
+Imperial,District 51,John R. Renison Jr.,REP,"2,065",U.S. House of Representatives,CA
+Imperial,District 51,"Juan Carlos ""Charlie"" Mercado",NPP,279,U.S. House of Representatives,CA
+Imperial,District 51,Kevin Mitchell,NPP,155,U.S. House of Representatives,CA
+San Diego,District 51,Juan Vargas,DEM,"23,257",U.S. House of Representatives,CA
+San Diego,District 51,Louis A. Fuentes,REP,505,U.S. House of Representatives,CA
+San Diego,District 51,Juan M. Hidalgo Jr.,REP,"5,427",U.S. House of Representatives,CA
+San Diego,District 51,John R. Renison Jr.,REP,"5,013",U.S. House of Representatives,CA
+San Diego,District 51,"Juan Carlos ""Charlie"" Mercado",NPP,"1,108",U.S. House of Representatives,CA
+San Diego,District 51,Kevin Mitchell,NPP,745,U.S. House of Representatives,CA
+San Diego,District 52,Scott Peters,DEM,"58,358",U.S. House of Representatives,CA
+San Diego,District 52,Michael Allman,REP,"4,297",U.S. House of Representatives,CA
+San Diego,District 52,Danny Casara,REP,"5,061",U.S. House of Representatives,CA
+San Diego,District 52,Jeffrey Cullen,REP,"2,669",U.S. House of Representatives,CA
+San Diego,District 52,John Horst,REP,"3,629",U.S. House of Representatives,CA
+San Diego,District 52,Omar Qudrat,REP,"15,716",U.S. House of Representatives,CA
+San Diego,District 52,James Veltmeyer,REP,"12,452",U.S. House of Representatives,CA
+San Diego,District 53,Susan A. Davis,DEM,"54,481",U.S. House of Representatives,CA
+San Diego,District 53,Brett A. Goda,REP,"1,831",U.S. House of Representatives,CA
+San Diego,District 53,Shawn Gino Kane,REP,"3,523",U.S. House of Representatives,CA
+San Diego,District 53,Matt Mendoza,REP,"12,509",U.S. House of Representatives,CA
+San Diego,District 53,Morgan Murtaugh,REP,"13,142",U.S. House of Representatives,CA
+San Diego,District 53,Bryan Kim,NPP,"1,863",U.S. House of Representatives,CA

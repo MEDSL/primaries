@@ -1,0 +1,108 @@
+ContestID,ContestName,PartyCode,AreaType,AreaNum,OfficeSeqNo,BallotOrder,CandidateID,CandidateName,CurrentDateTime,VoteFor,CandidateVotes,CandidatePercentage,PrecinctsReporting
+100001864,"36-192 CITY OF CARLTON Measure Proposing Sale of Bonds for Public Safety Facility Construction","","","CITY OF CARLTON",37,,1,"Yes",6/11/2018 12:02:22 PM,1,295,0.395973154362416,1/1
+100001864,"36-192 CITY OF CARLTON Measure Proposing Sale of Bonds for Public Safety Facility Construction","","","CITY OF CARLTON",37,,2,"No",6/11/2018 12:02:22 PM,1,450,0.604026845637584,1/1
+100001865,"36-193 WEST VALLEY FIRE DISTRICT Five Year Local Option Tax for District Operations, Capital Projects.","","","WEST VALLEY FIRE DISTRICT",41,,1,"Yes",6/11/2018 12:02:22 PM,1,221,0.460416666666667,4/4
+100001865,"36-193 WEST VALLEY FIRE DISTRICT Five Year Local Option Tax for District Operations, Capital Projects.","","","WEST VALLEY FIRE DISTRICT",41,,2,"No",6/11/2018 12:02:22 PM,1,259,0.539583333333333,4/4
+100001866,"36-194 CITY OF SHERIDAN City Charter Amendment relating fees for new and added development.","","","CITY OF SHERIDAN",39,,1,"Yes",6/11/2018 12:02:22 PM,1,310,0.462686567164179,1/1
+100001866,"36-194 CITY OF SHERIDAN City Charter Amendment relating fees for new and added development.","","","CITY OF SHERIDAN",39,,2,"No",6/11/2018 12:02:22 PM,1,360,0.537313432835821,1/1
+100001884,"36-195 CITY OF LAFAYETTE Construction of intertie to expand water supply to the City","","","CITY OF LAFAYETTE",38,,1,"Yes",6/11/2018 12:02:22 PM,1,669,0.883751651254954,1/1
+100001884,"36-195 CITY OF LAFAYETTE Construction of intertie to expand water supply to the City","","","CITY OF LAFAYETTE",38,,2,"No",6/11/2018 12:02:22 PM,1,88,0.116248348745046,1/1
+100001885,"36-153 NESTUCCA VALLEY SCHOOL NO 101 Authorizes General Obligation Bonds to Construct and Renovate School Facilites","","","NESTUCCA VALLEY SD #101",40,,1,"Yes",6/11/2018 12:02:22 PM,1,0,0,6/6
+100001885,"36-153 NESTUCCA VALLEY SCHOOL NO 101 Authorizes General Obligation Bonds to Construct and Renovate School Facilites","","","NESTUCCA VALLEY SD #101",40,,2,"No",6/11/2018 12:02:22 PM,1,0,0,6/6
+100036283,"Yamhill County Commissioner - Position 1","NON","","YAMHILL",35,,9901,"Write-in",6/11/2018 12:02:22 PM,1,42,0.00204688337638286,22/22
+100036283,"Yamhill County Commissioner - Position 1","NON","","YAMHILL",35,,100044763,"Stan Primozich",6/11/2018 12:02:22 PM,1,6672,0.325162044933964,22/22
+100036283,"Yamhill County Commissioner - Position 1","NON","","YAMHILL",35,,100061113,"Josh Rojas",6/11/2018 12:02:22 PM,1,2669,0.130074565037283,22/22
+100036283,"Yamhill County Commissioner - Position 1","NON","","YAMHILL",35,,100061149,"Casey Kulla",6/11/2018 12:02:22 PM,1,6517,0.317608070568741,22/22
+100036283,"Yamhill County Commissioner - Position 1","NON","","YAMHILL",35,,100061842,"Jason Yates",6/11/2018 12:02:22 PM,1,4619,0.22510843608363,22/22
+100036284,"Yamhill County Commissioner - Position 3","NON","","YAMHILL",36,,9901,"Write-in",6/11/2018 12:02:22 PM,1,66,0.00318686624818928,22/22
+100036284,"Yamhill County Commissioner - Position 3","NON","","YAMHILL",36,,100038458,"Mary Starrett",6/11/2018 12:02:22 PM,1,12642,0.610429744084983,22/22
+100036284,"Yamhill County Commissioner - Position 3","NON","","YAMHILL",36,,100060913,"Chelsey L Williams",6/11/2018 12:02:22 PM,1,5008,0.241815548044423,22/22
+100036284,"Yamhill County Commissioner - Position 3","NON","","YAMHILL",36,,100061568,"David S Wall",6/11/2018 12:02:22 PM,1,2994,0.144567841622405,22/22
+100036374,"US Representative, District 1 - Independent Party","IND","","US Congressional District 1",5,,9901,"Write-in",6/11/2018 12:02:22 PM,1,218,1,210/243
+100036375,"US Representative, District 1 - Democrat","DEM","","US Congressional District 1",1,,9901,"Write-in",6/11/2018 12:02:22 PM,1,71,0.00897484515231955,210/243
+100036375,"US Representative, District 1 - Democrat","DEM","","US Congressional District 1",1,,100060592,"Ricky Barajas",6/11/2018 12:02:22 PM,1,407,0.0514473517886487,210/243
+100036375,"US Representative, District 1 - Democrat","DEM","","US Congressional District 1",1,,100060593,"Michael E Stansfield",6/11/2018 12:02:22 PM,1,466,0.0589053217039565,210/243
+100036375,"US Representative, District 1 - Democrat","DEM","","US Congressional District 1",1,,300024797,"Suzanne Bonamici",6/11/2018 12:02:22 PM,1,6967,0.880672481355075,210/243
+100036376,"US Representative, District 1 - Republican","REP","","US Congressional District 1",9,,9901,"Write-in",6/11/2018 12:02:22 PM,1,71,0.00916247257710672,210/243
+100036376,"US Representative, District 1 - Republican","REP","","US Congressional District 1",9,,100061544,"Preston L Miller",6/11/2018 12:02:22 PM,1,745,0.0961414376048522,210/243
+100036376,"US Representative, District 1 - Republican","REP","","US Congressional District 1",9,,100061545,"John Verbeek",6/11/2018 12:02:22 PM,1,3913,0.504968383017164,210/243
+100036376,"US Representative, District 1 - Republican","REP","","US Congressional District 1",9,,100061566,"George Griffith",6/11/2018 12:02:22 PM,1,3020,0.389727706800878,210/243
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,9901,"Write-in",6/11/2018 12:02:22 PM,1,378,0.575342465753425,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061547,"Dan (Mr P) Pistoresi",6/11/2018 12:02:22 PM,1,47,0.0715372907153729,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061846,"Skye J Allen",6/11/2018 12:02:22 PM,1,49,0.0745814307458143,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061848,"Patrick Starnes",6/11/2018 12:02:22 PM,1,183,0.278538812785388,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,9901,"Write-in",6/11/2018 12:02:22 PM,1,263,0.0325173095944609,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,100060704,"Candace Neville",6/11/2018 12:02:22 PM,1,794,0.0981701285855588,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,100061152,"Ed Jones",6/11/2018 12:02:22 PM,1,878,0.108555885262117,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,300027544,"Kate Brown",6/11/2018 12:02:22 PM,1,6153,0.760756676557864,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,9901,"Write-in",6/11/2018 12:02:22 PM,1,50,0.00513663447709061,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060615,"Keenan W Bohach",6/11/2018 12:02:22 PM,1,22,0.00226011916991987,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060616,"Knute Buehler",6/11/2018 12:02:22 PM,1,4096,0.420793096363263,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060617,"Sam Carpenter",6/11/2018 12:02:22 PM,1,2881,0.295972878569961,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060618,"Bruce Cuff",6/11/2018 12:02:22 PM,1,171,0.0175672899116499,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060619,"Jonathan I Edwards III",6/11/2018 12:02:22 PM,1,21,0.00215738648037806,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060620,"Jeff Smith",6/11/2018 12:02:22 PM,1,144,0.014793507294021,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060621,"Jack W Tacy",6/11/2018 12:02:22 PM,1,12,0.00123279227450175,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060705,"Greg C Wooldridge",6/11/2018 12:02:22 PM,1,2227,0.228785699609616,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100061153,"David W Stauffer",6/11/2018 12:02:22 PM,1,89,0.00914320936922129,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100061849,"Brett Hyland",6/11/2018 12:02:22 PM,1,21,0.00215738648037806,1302/1335
+100036413,"State Senator, 13th District - Independent Party","IND","","SD 13",12,,9901,"Write-in",6/11/2018 12:02:22 PM,1,48,1,39/39
+100036414,"State Senator, 13th District - Democrat","DEM","","SD 13",3,,9901,"Write-in",6/11/2018 12:02:22 PM,1,13,0.00854139290407359,39/39
+100036414,"State Senator, 13th District - Democrat","DEM","","SD 13",3,,100061431,"Paul Diller",6/11/2018 12:02:22 PM,1,793,0.521024967148489,39/39
+100036414,"State Senator, 13th District - Democrat","DEM","","SD 13",3,,100061489,"Sarah Grider",6/11/2018 12:02:22 PM,1,716,0.470433639947438,39/39
+100036415,"State Senator, 13th District - Republican","REP","","SD 13",21,,9901,"Write-in",6/11/2018 12:02:22 PM,1,18,0.00880195599022005,39/39
+100036415,"State Senator, 13th District - Republican","REP","","SD 13",21,,100043071,"Kim Thatcher",6/11/2018 12:02:22 PM,1,2027,0.99119804400978,39/39
+100036419,"State Senator, 16th District - Independent Party","IND","","SD 16",7,,9901,"Write-in",6/11/2018 12:02:22 PM,1,0,0,70/103
+100036420,"State Senator, 16th District - Democrat","DEM","","SD 16",3,,9901,"Write-in",6/11/2018 12:02:22 PM,1,0,0,70/103
+100036420,"State Senator, 16th District - Democrat","DEM","","SD 16",3,,300025032,"Betsy Johnson",6/11/2018 12:02:22 PM,1,0,0,70/103
+100036421,"State Senator, 16th District - Republican","REP","","SD 16",11,,9901,"Write-in",6/11/2018 12:02:22 PM,1,0,0,70/103
+100036464,"State Representative, 10th District - Independent Party","IND","","HD 10",8,,9901,"Write-in",6/11/2018 12:02:22 PM,1,3,1,47/47
+100036465,"State Representative, 10th District - Democrat","DEM","","HD 10",4,,9901,"Write-in",6/11/2018 12:02:22 PM,1,9,0.0310344827586207,47/47
+100036465,"State Representative, 10th District - Democrat","DEM","","HD 10",4,,300025042,"David Gomberg",6/11/2018 12:02:22 PM,1,281,0.968965517241379,47/47
+100036466,"State Representative, 10th District - Republican","REP","","HD 10",12,,9901,"Write-in",6/11/2018 12:02:22 PM,1,2,0.00666666666666667,47/47
+100036466,"State Representative, 10th District - Republican","REP","","HD 10",12,,100061470,"Thomas M Donohue",6/11/2018 12:02:22 PM,1,298,0.993333333333333,47/47
+100036503,"State Representative, 23rd District - Independent Party","IND","","HD 23",12,,9901,"Write-in",6/11/2018 12:02:22 PM,1,31,1,22/22
+100036504,"State Representative, 23rd District - Democrat","DEM","","HD 23",6,,9901,"Write-in",6/11/2018 12:02:22 PM,1,19,0.0244215938303342,22/22
+100036504,"State Representative, 23rd District - Democrat","DEM","","HD 23",6,,100060648,"Danny Jaffer",6/11/2018 12:02:22 PM,1,759,0.975578406169666,22/22
+100036505,"State Representative, 23rd District - Republican","REP","","HD 23",18,,9901,"Write-in",6/11/2018 12:02:22 PM,1,6,0.00407055630936228,22/22
+100036505,"State Representative, 23rd District - Republican","REP","","HD 23",18,,100060649,"Kris Morse Bledsoe",6/11/2018 12:02:22 PM,1,408,0.276797829036635,22/22
+100036505,"State Representative, 23rd District - Republican","REP","","HD 23",18,,300027692,"Mike Nearman",6/11/2018 12:02:22 PM,1,1060,0.719131614654003,22/22
+100036506,"State Representative, 24th District - Independent Party","IND","","HD 24",16,,9901,"Write-in",6/11/2018 12:02:22 PM,1,143,1,16/16
+100036507,"State Representative, 24th District - Democrat","DEM","","HD 24",7,,9901,"Write-in",6/11/2018 12:02:22 PM,1,637,1,16/16
+100036508,"State Representative, 24th District - Republican","REP","","HD 24",25,,9901,"Write-in",6/11/2018 12:02:22 PM,1,46,0.0113105483157118,16/16
+100036508,"State Representative, 24th District - Republican","REP","","HD 24",25,,300027693,"Ron Noble",6/11/2018 12:02:22 PM,1,4021,0.988689451684288,16/16
+100036509,"State Representative, 25th District - Independent Party","IND","","HD 25",17,,9901,"Write-in",6/11/2018 12:02:22 PM,1,40,1,17/17
+100036510,"State Representative, 25th District - Democrat","DEM","","HD 25",8,,9901,"Write-in",6/11/2018 12:02:22 PM,1,26,0.023963133640553,17/17
+100036510,"State Representative, 25th District - Democrat","DEM","","HD 25",8,,100060650,"Dave McCall",6/11/2018 12:02:22 PM,1,1059,0.976036866359447,17/17
+100036511,"State Representative, 25th District - Republican","REP","","HD 25",26,,9901,"Write-in",6/11/2018 12:02:22 PM,1,17,0.0083743842364532,17/17
+100036511,"State Representative, 25th District - Republican","REP","","HD 25",26,,100043141,"Bill Post",6/11/2018 12:02:22 PM,1,2013,0.991625615763547,17/17
+100036530,"State Representative, 32nd District - Independent Party","IND","","HD 32",8,,9901,"Write-in",6/11/2018 12:02:22 PM,1,0,0,26/59
+100036530,"State Representative, 32nd District - Independent Party","IND","","HD 32",8,,100060652,"Brian P Halvorsen",6/11/2018 12:02:22 PM,1,0,0,26/59
+100036531,"State Representative, 32nd District - Democrat","DEM","","HD 32",4,,9901,"Write-in",6/11/2018 12:02:22 PM,1,0,0,26/59
+100036531,"State Representative, 32nd District - Democrat","DEM","","HD 32",4,,100060653,"Tim Josi",6/11/2018 12:02:22 PM,1,0,0,26/59
+100036531,"State Representative, 32nd District - Democrat","DEM","","HD 32",4,,100061475,"John F Orr",6/11/2018 12:02:22 PM,1,0,0,26/59
+100036531,"State Representative, 32nd District - Democrat","DEM","","HD 32",4,,100061862,"Tiffiny K Mitchell",6/11/2018 12:02:22 PM,1,0,0,26/59
+100036532,"State Representative, 32nd District - Republican","REP","","HD 32",12,,9901,"Write-in",6/11/2018 12:02:22 PM,1,0,0,26/59
+100036532,"State Representative, 32nd District - Republican","REP","","HD 32",12,,100061556,"Vineeta Lower",6/11/2018 12:02:22 PM,1,0,0,26/59
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,9901,"Write-in",6/11/2018 12:02:22 PM,1,64,0.00343882650045672,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100060665,"Val Hoyle",6/11/2018 12:02:22 PM,1,7935,0.426360754392564,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100060666,"Jack Howard",6/11/2018 12:02:22 PM,1,2305,0.123851485680512,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100061211,"Lou Ogden",6/11/2018 12:02:22 PM,1,8307,0.446348933426468,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,9901,"Write-in",6/11/2018 12:02:22 PM,1,53,0.00313609467455621,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,100060699,"Kyle L Krohn",6/11/2018 12:02:22 PM,1,6643,0.393076923076923,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,300019649,"Rex Armstrong",6/11/2018 12:02:22 PM,1,10204,0.603786982248521,1302/1335
+100036621,"Judge of the Court of Appeals, Position 6","NON","","Statewide Nonpartisan",13,,9901,"Write-in",6/11/2018 12:02:22 PM,1,140,0.0106902871105681,1302/1335
+100036621,"Judge of the Court of Appeals, Position 6","NON","","Statewide Nonpartisan",13,,300021775,"James (Jim) C Egan",6/11/2018 12:02:22 PM,1,12956,0.989309712889432,1302/1335
+100036623,"Judge of the Court of Appeals, Position 9","NON","","Statewide Nonpartisan",14,,9901,"Write-in",6/11/2018 12:02:22 PM,1,154,0.0124043495771244,1302/1335
+100036623,"Judge of the Court of Appeals, Position 9","NON","","Statewide Nonpartisan",14,,300019653,"Erika Hadlock",6/11/2018 12:02:22 PM,1,12261,0.987595650422876,1302/1335
+100036625,"Judge of the Supreme Court, Position 2","NON","","Statewide Nonpartisan",11,,9901,"Write-in",6/11/2018 12:02:22 PM,1,192,0.0142401542683379,1302/1335
+100036625,"Judge of the Supreme Court, Position 2","NON","","Statewide Nonpartisan",11,,100060566,"Rebecca Duncan",6/11/2018 12:02:22 PM,1,13291,0.985759845731662,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,9901,"Write-in",6/11/2018 12:02:22 PM,1,43,0.00243047705177481,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,100060567,"Meagan A Flynn",6/11/2018 12:02:22 PM,1,12155,0.687033687542392,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,100061619,"Van Pounds",6/11/2018 12:02:22 PM,1,5494,0.310535835405833,1302/1335
+100036696,"Judge of the Circuit Court, 25th District, Position 2","NON","","Circuit Court District 25",34,,9901,"Write-in",6/11/2018 12:02:22 PM,1,44,0.00233868395875412,22/22
+100036696,"Judge of the Circuit Court, 25th District, Position 2","NON","","Circuit Court District 25",34,,100060683,"Jennifer Chapman",6/11/2018 12:02:22 PM,1,4619,0.245508663761029,22/22
+100036696,"Judge of the Circuit Court, 25th District, Position 2","NON","","Circuit Court District 25",34,,100060685,"J Mark Lawrence",6/11/2018 12:02:22 PM,1,2991,0.158977357287127,22/22
+100036696,"Judge of the Circuit Court, 25th District, Position 2","NON","","Circuit Court District 25",34,,100061158,"Mark Pihl",6/11/2018 12:02:22 PM,1,2129,0.113160412458807,22/22
+100036696,"Judge of the Circuit Court, 25th District, Position 2","NON","","Circuit Court District 25",34,,100061502,"Carol J Fredrick",6/11/2018 12:02:22 PM,1,2652,0.140958860423089,22/22
+100036696,"Judge of the Circuit Court, 25th District, Position 2","NON","","Circuit Court District 25",34,,100061503,"Lisl Miller",6/11/2018 12:02:22 PM,1,6379,0.339056022111194,22/22

@@ -1,0 +1,256 @@
+county,district name,candidate,party,votes,race name,state
+Districtwide,District 2,"Veronica ""Roni"" Jacobi",DEM,"26,673",State Senate,CA
+Districtwide,District 2,Mike McGuire,DEM,"83,940",State Senate,CA
+Del Norte,District 2,"Veronica ""Roni"" Jacobi",DEM,907,State Senate,CA
+Del Norte,District 2,Mike McGuire,DEM,"2,465",State Senate,CA
+Humboldt,District 2,"Veronica ""Roni"" Jacobi",DEM,"3,992",State Senate,CA
+Humboldt,District 2,Mike McGuire,DEM,"12,120",State Senate,CA
+Lake,District 2,"Veronica ""Roni"" Jacobi",DEM,"1,833",State Senate,CA
+Lake,District 2,Mike McGuire,DEM,"4,543",State Senate,CA
+Marin,District 2,"Veronica ""Roni"" Jacobi",DEM,"8,214",State Senate,CA
+Marin,District 2,Mike McGuire,DEM,"24,225",State Senate,CA
+Mendocino,District 2,"Veronica ""Roni"" Jacobi",DEM,"2,038",State Senate,CA
+Mendocino,District 2,Mike McGuire,DEM,"5,785",State Senate,CA
+Sonoma,District 2,"Veronica ""Roni"" Jacobi",DEM,"9,043",State Senate,CA
+Sonoma,District 2,Mike McGuire,DEM,"33,058",State Senate,CA
+Trinity,District 2,"Veronica ""Roni"" Jacobi",DEM,646,State Senate,CA
+Trinity,District 2,Mike McGuire,DEM,"1,744",State Senate,CA
+Districtwide,District 4,Phillip Kim,DEM,"23,196",State Senate,CA
+Districtwide,District 4,"Michael ""Mike"" Worley",DEM,"20,958",State Senate,CA
+Districtwide,District 4,James Nielsen,REP,"67,849",State Senate,CA
+Butte,District 4,Phillip Kim,DEM,"7,418",State Senate,CA
+Butte,District 4,"Michael ""Mike"" Worley",DEM,"7,993",State Senate,CA
+Butte,District 4,James Nielsen,REP,"20,187",State Senate,CA
+Colusa,District 4,Phillip Kim,DEM,307,State Senate,CA
+Colusa,District 4,"Michael ""Mike"" Worley",DEM,442,State Senate,CA
+Colusa,District 4,James Nielsen,REP,"1,750",State Senate,CA
+Glenn,District 4,Phillip Kim,DEM,376,State Senate,CA
+Glenn,District 4,"Michael ""Mike"" Worley",DEM,440,State Senate,CA
+Glenn,District 4,James Nielsen,REP,"2,550",State Senate,CA
+Placer,District 4,Phillip Kim,DEM,"4,428",State Senate,CA
+Placer,District 4,"Michael ""Mike"" Worley",DEM,"3,441",State Senate,CA
+Placer,District 4,James Nielsen,REP,"12,081",State Senate,CA
+Sacramento,District 4,Phillip Kim,DEM,"7,133",State Senate,CA
+Sacramento,District 4,"Michael ""Mike"" Worley",DEM,"4,577",State Senate,CA
+Sacramento,District 4,James Nielsen,REP,"13,226",State Senate,CA
+Sutter,District 4,Phillip Kim,DEM,"1,443",State Senate,CA
+Sutter,District 4,"Michael ""Mike"" Worley",DEM,"1,635",State Senate,CA
+Sutter,District 4,James Nielsen,REP,"6,873",State Senate,CA
+Tehama,District 4,Phillip Kim,DEM,"1,187",State Senate,CA
+Tehama,District 4,"Michael ""Mike"" Worley",DEM,"1,361",State Senate,CA
+Tehama,District 4,James Nielsen,REP,"6,880",State Senate,CA
+Yuba,District 4,Phillip Kim,DEM,904,State Senate,CA
+Yuba,District 4,"Michael ""Mike"" Worley",DEM,"1,069",State Senate,CA
+Yuba,District 4,James Nielsen,REP,"4,302",State Senate,CA
+Districtwide,District 6,Jacob Mason,DEM,"7,138",State Senate,CA
+Districtwide,District 6,Richard Pan,DEM,"43,478",State Senate,CA
+Districtwide,District 6,Janine DeRose,LIB,"6,977",State Senate,CA
+Districtwide,District 6,Eric Frame,NPP,"9,810",State Senate,CA
+Sacramento,District 6,Jacob Mason,DEM,"6,778",State Senate,CA
+Sacramento,District 6,Richard Pan,DEM,"40,503",State Senate,CA
+Sacramento,District 6,Janine DeRose,LIB,"6,361",State Senate,CA
+Sacramento,District 6,Eric Frame,NPP,"9,019",State Senate,CA
+Yolo,District 6,Jacob Mason,DEM,360,State Senate,CA
+Yolo,District 6,Richard Pan,DEM,"2,975",State Senate,CA
+Yolo,District 6,Janine DeRose,LIB,616,State Senate,CA
+Yolo,District 6,Eric Frame,NPP,791,State Senate,CA
+Districtwide,District 8,Paulina Miranda,DEM,"25,505",State Senate,CA
+Districtwide,District 8,Tom Pratt,DEM,"18,791",State Senate,CA
+Districtwide,District 8,Andreas Borgeas,REP,"71,300",State Senate,CA
+Districtwide,District 8,Mark Belden,NPP,"4,376",State Senate,CA
+Amador,District 8,Paulina Miranda,DEM,705,State Senate,CA
+Amador,District 8,Tom Pratt,DEM,738,State Senate,CA
+Amador,District 8,Andreas Borgeas,REP,"2,521",State Senate,CA
+Amador,District 8,Mark Belden,NPP,210,State Senate,CA
+Calaveras,District 8,Paulina Miranda,DEM,"1,419",State Senate,CA
+Calaveras,District 8,Tom Pratt,DEM,"1,953",State Senate,CA
+Calaveras,District 8,Andreas Borgeas,REP,"5,039",State Senate,CA
+Calaveras,District 8,Mark Belden,NPP,426,State Senate,CA
+Fresno,District 8,Paulina Miranda,DEM,"13,629",State Senate,CA
+Fresno,District 8,Tom Pratt,DEM,"8,071",State Senate,CA
+Fresno,District 8,Andreas Borgeas,REP,"36,136",State Senate,CA
+Fresno,District 8,Mark Belden,NPP,"1,613",State Senate,CA
+Inyo,District 8,Paulina Miranda,DEM,859,State Senate,CA
+Inyo,District 8,Tom Pratt,DEM,600,State Senate,CA
+Inyo,District 8,Andreas Borgeas,REP,"1,792",State Senate,CA
+Inyo,District 8,Mark Belden,NPP,212,State Senate,CA
+Madera,District 8,Paulina Miranda,DEM,"1,175",State Senate,CA
+Madera,District 8,Tom Pratt,DEM,960,State Senate,CA
+Madera,District 8,Andreas Borgeas,REP,"4,681",State Senate,CA
+Madera,District 8,Mark Belden,NPP,312,State Senate,CA
+Mariposa,District 8,Paulina Miranda,DEM,786,State Senate,CA
+Mariposa,District 8,Tom Pratt,DEM,845,State Senate,CA
+Mariposa,District 8,Andreas Borgeas,REP,"2,789",State Senate,CA
+Mariposa,District 8,Mark Belden,NPP,207,State Senate,CA
+Mono,District 8,Paulina Miranda,DEM,602,State Senate,CA
+Mono,District 8,Tom Pratt,DEM,702,State Senate,CA
+Mono,District 8,Andreas Borgeas,REP,"1,093",State Senate,CA
+Mono,District 8,Mark Belden,NPP,92,State Senate,CA
+Sacramento,District 8,Paulina Miranda,DEM,"1,021",State Senate,CA
+Sacramento,District 8,Tom Pratt,DEM,614,State Senate,CA
+Sacramento,District 8,Andreas Borgeas,REP,"2,412",State Senate,CA
+Sacramento,District 8,Mark Belden,NPP,195,State Senate,CA
+Stanislaus,District 8,Paulina Miranda,DEM,"3,185",State Senate,CA
+Stanislaus,District 8,Tom Pratt,DEM,"2,131",State Senate,CA
+Stanislaus,District 8,Andreas Borgeas,REP,"8,917",State Senate,CA
+Stanislaus,District 8,Mark Belden,NPP,596,State Senate,CA
+Tulare,District 8,Paulina Miranda,DEM,150,State Senate,CA
+Tulare,District 8,Tom Pratt,DEM,115,State Senate,CA
+Tulare,District 8,Andreas Borgeas,REP,403,State Senate,CA
+Tulare,District 8,Mark Belden,NPP,23,State Senate,CA
+Tuolumne,District 8,Paulina Miranda,DEM,"1,974",State Senate,CA
+Tuolumne,District 8,Tom Pratt,DEM,"2,062",State Senate,CA
+Tuolumne,District 8,Andreas Borgeas,REP,"5,517",State Senate,CA
+Tuolumne,District 8,Mark Belden,NPP,490,State Senate,CA
+Districtwide,District 10,Bob Wieckowski,DEM,"52,459",State Senate,CA
+Districtwide,District 10,Victor G. San Vicente,REP,"19,111",State Senate,CA
+Districtwide,District 10,Ali Sarsak,LIB,"3,198",State Senate,CA
+Alameda,District 10,Bob Wieckowski,DEM,"35,402",State Senate,CA
+Alameda,District 10,Victor G. San Vicente,REP,"12,353",State Senate,CA
+Alameda,District 10,Ali Sarsak,LIB,"2,024",State Senate,CA
+Santa Clara,District 10,Bob Wieckowski,DEM,"17,057",State Senate,CA
+Santa Clara,District 10,Victor G. San Vicente,REP,"6,758",State Senate,CA
+Santa Clara,District 10,Ali Sarsak,LIB,"1,174",State Senate,CA
+Districtwide,District 12,Anna Caballero,DEM,"25,017",State Senate,CA
+Districtwide,District 12,Daniel Parra,DEM,"5,109",State Senate,CA
+Districtwide,District 12,Rob Poythress,REP,"16,277",State Senate,CA
+Districtwide,District 12,Johnny Tacherra,REP,"14,343",State Senate,CA
+Fresno,District 12,Anna Caballero,DEM,"2,017",State Senate,CA
+Fresno,District 12,Daniel Parra,DEM,"1,246",State Senate,CA
+Fresno,District 12,Rob Poythress,REP,"2,403",State Senate,CA
+Fresno,District 12,Johnny Tacherra,REP,"2,448",State Senate,CA
+Madera,District 12,Anna Caballero,DEM,"2,645",State Senate,CA
+Madera,District 12,Daniel Parra,DEM,914,State Senate,CA
+Madera,District 12,Rob Poythress,REP,"4,041",State Senate,CA
+Madera,District 12,Johnny Tacherra,REP,"2,847",State Senate,CA
+Merced,District 12,Anna Caballero,DEM,"6,785",State Senate,CA
+Merced,District 12,Daniel Parra,DEM,"1,143",State Senate,CA
+Merced,District 12,Rob Poythress,REP,"4,156",State Senate,CA
+Merced,District 12,Johnny Tacherra,REP,"5,597",State Senate,CA
+Monterey,District 12,Anna Caballero,DEM,"6,328",State Senate,CA
+Monterey,District 12,Daniel Parra,DEM,851,State Senate,CA
+Monterey,District 12,Rob Poythress,REP,"2,003",State Senate,CA
+Monterey,District 12,Johnny Tacherra,REP,898,State Senate,CA
+San Benito,District 12,Anna Caballero,DEM,"3,428",State Senate,CA
+San Benito,District 12,Daniel Parra,DEM,263,State Senate,CA
+San Benito,District 12,Rob Poythress,REP,"1,763",State Senate,CA
+San Benito,District 12,Johnny Tacherra,REP,"1,050",State Senate,CA
+Stanislaus,District 12,Anna Caballero,DEM,"3,814",State Senate,CA
+Stanislaus,District 12,Daniel Parra,DEM,692,State Senate,CA
+Stanislaus,District 12,Rob Poythress,REP,"1,911",State Senate,CA
+Stanislaus,District 12,Johnny Tacherra,REP,"1,503",State Senate,CA
+Districtwide,District 14,Melissa Hurtado,DEM,"10,030",State Senate,CA
+Districtwide,District 14,Ruben Macareno,DEM,"3,418",State Senate,CA
+Districtwide,District 14,Abigail Solis,DEM,"6,190",State Senate,CA
+Districtwide,District 14,Andy Vidak,REP,"24,404",State Senate,CA
+Fresno,District 14,Melissa Hurtado,DEM,"3,879",State Senate,CA
+Fresno,District 14,Ruben Macareno,DEM,"1,039",State Senate,CA
+Fresno,District 14,Abigail Solis,DEM,"2,324",State Senate,CA
+Fresno,District 14,Andy Vidak,REP,"5,291",State Senate,CA
+Kern,District 14,Melissa Hurtado,DEM,"2,807",State Senate,CA
+Kern,District 14,Ruben Macareno,DEM,761,State Senate,CA
+Kern,District 14,Abigail Solis,DEM,"1,520",State Senate,CA
+Kern,District 14,Andy Vidak,REP,"4,272",State Senate,CA
+Kings,District 14,Melissa Hurtado,DEM,"1,870",State Senate,CA
+Kings,District 14,Ruben Macareno,DEM,776,State Senate,CA
+Kings,District 14,Abigail Solis,DEM,"1,182",State Senate,CA
+Kings,District 14,Andy Vidak,REP,"9,474",State Senate,CA
+Tulare,District 14,Melissa Hurtado,DEM,"1,474",State Senate,CA
+Tulare,District 14,Ruben Macareno,DEM,842,State Senate,CA
+Tulare,District 14,Abigail Solis,DEM,"1,164",State Senate,CA
+Tulare,District 14,Andy Vidak,REP,"5,367",State Senate,CA
+Districtwide,District 16,Ruth Musser-Lopez,DEM,"28,552",State Senate,CA
+Districtwide,District 16,Shannon Grove,REP,"60,735",State Senate,CA
+Districtwide,District 16,Gregory Tatum,REP,"12,105",State Senate,CA
+Kern,District 16,Ruth Musser-Lopez,DEM,"17,360",State Senate,CA
+Kern,District 16,Shannon Grove,REP,"44,859",State Senate,CA
+Kern,District 16,Gregory Tatum,REP,"5,275",State Senate,CA
+San Bernardino,District 16,Ruth Musser-Lopez,DEM,"5,032",State Senate,CA
+San Bernardino,District 16,Shannon Grove,REP,"6,023",State Senate,CA
+San Bernardino,District 16,Gregory Tatum,REP,"3,243",State Senate,CA
+Tulare,District 16,Ruth Musser-Lopez,DEM,"6,160",State Senate,CA
+Tulare,District 16,Shannon Grove,REP,"9,853",State Senate,CA
+Tulare,District 16,Gregory Tatum,REP,"3,587",State Senate,CA
+Los Angeles,District 18,Bob Hertzberg,DEM,"46,025",State Senate,CA
+Los Angeles,District 18,Roger James Sayegh,DEM,"7,584",State Senate,CA
+Los Angeles,District 18,Rudy Melendez,REP,"8,510",State Senate,CA
+Los Angeles,District 18,Brandon Saario,REP,"8,064",State Senate,CA
+Districtwide,District 20,Paul Vincent Avila,DEM,"9,844",State Senate,CA
+Districtwide,District 20,Connie Leyva,DEM,"25,296",State Senate,CA
+Districtwide,District 20,Matthew Munson,REP,"19,486",State Senate,CA
+Los Angeles,District 20,Paul Vincent Avila,DEM,"1,527",State Senate,CA
+Los Angeles,District 20,Connie Leyva,DEM,"4,578",State Senate,CA
+Los Angeles,District 20,Matthew Munson,REP,"2,276",State Senate,CA
+San Bernardino,District 20,Paul Vincent Avila,DEM,"8,317",State Senate,CA
+San Bernardino,District 20,Connie Leyva,DEM,"20,718",State Senate,CA
+San Bernardino,District 20,Matthew Munson,REP,"17,210",State Senate,CA
+Los Angeles,District 22,Mike Eng,DEM,"24,377",State Senate,CA
+Los Angeles,District 22,Monica Garcia,DEM,"11,662",State Senate,CA
+Los Angeles,District 22,Susan Rubio,DEM,"15,133",State Senate,CA
+Los Angeles,District 22,Ruben Sierra,DEM,"4,340",State Senate,CA
+Los Angeles,District 24,Peter Choi,DEM,"17,218",State Senate,CA
+Los Angeles,District 24,Maria Elena Durazo,DEM,"40,360",State Senate,CA
+Los Angeles,District 26,Ben Allen,DEM,"89,571",State Senate,CA
+Los Angeles,District 26,Mark Matthew Herd,LIB,"13,518",State Senate,CA
+Los Angeles,District 26,Baron Bruno,NPP,"15,650",State Senate,CA
+Riverside,District 28,Anna Nevenic,DEM,"8,470",State Senate,CA
+Riverside,District 28,Joy Silver,DEM,"31,760",State Senate,CA
+Riverside,District 28,Jeff Stone,REP,"51,026",State Senate,CA
+Los Angeles,District 30,Holly J. Mitchell,DEM,"57,836",State Senate,CA
+Districtwide,District 32,Bob J. Archuleta,DEM,"14,564",State Senate,CA
+Districtwide,District 32,Rudy Bermudez,DEM,"3,863",State Senate,CA
+Districtwide,District 32,David Castellanos,DEM,"1,060",State Senate,CA
+Districtwide,District 32,Vanessa Delgado,DEM,"12,745",State Senate,CA
+Districtwide,District 32,Tony Mendoza,DEM,"8,130",State Senate,CA
+Districtwide,District 32,Vivian Romero,DEM,"3,609",State Senate,CA
+Districtwide,District 32,Vicky Santana,DEM,"5,440",State Senate,CA
+Districtwide,District 32,Ali S. Taj,DEM,"4,162",State Senate,CA
+Districtwide,District 32,Ion Sarega,REP,"8,015",State Senate,CA
+Districtwide,District 32,Rita Topalian,REP,"20,077",State Senate,CA
+Los Angeles,District 32,Bob J. Archuleta,DEM,"14,280",State Senate,CA
+Los Angeles,District 32,Rudy Bermudez,DEM,"3,691",State Senate,CA
+Los Angeles,District 32,David Castellanos,DEM,991,State Senate,CA
+Los Angeles,District 32,Vanessa Delgado,DEM,"12,086",State Senate,CA
+Los Angeles,District 32,Tony Mendoza,DEM,"7,676",State Senate,CA
+Los Angeles,District 32,Vivian Romero,DEM,"3,327",State Senate,CA
+Los Angeles,District 32,Vicky Santana,DEM,"5,138",State Senate,CA
+Los Angeles,District 32,Ali S. Taj,DEM,"3,815",State Senate,CA
+Los Angeles,District 32,Ion Sarega,REP,"7,550",State Senate,CA
+Los Angeles,District 32,Rita Topalian,REP,"18,562",State Senate,CA
+Orange,District 32,Bob J. Archuleta,DEM,284,State Senate,CA
+Orange,District 32,Rudy Bermudez,DEM,172,State Senate,CA
+Orange,District 32,David Castellanos,DEM,69,State Senate,CA
+Orange,District 32,Vanessa Delgado,DEM,659,State Senate,CA
+Orange,District 32,Tony Mendoza,DEM,454,State Senate,CA
+Orange,District 32,Vivian Romero,DEM,282,State Senate,CA
+Orange,District 32,Vicky Santana,DEM,302,State Senate,CA
+Orange,District 32,Ali S. Taj,DEM,347,State Senate,CA
+Orange,District 32,Ion Sarega,REP,465,State Senate,CA
+Orange,District 32,Rita Topalian,REP,"1,515",State Senate,CA
+Districtwide,District 34,Akash A. Hawkins,DEM,"4,832",State Senate,CA
+Districtwide,District 34,Jestin L. Samson,DEM,"7,249",State Senate,CA
+Districtwide,District 34,Tom Umberg,DEM,"22,219",State Senate,CA
+Districtwide,District 34,Janet Nguyen,REP,"49,501",State Senate,CA
+Los Angeles,District 34,Akash A. Hawkins,DEM,958,State Senate,CA
+Los Angeles,District 34,Jestin L. Samson,DEM,967,State Senate,CA
+Los Angeles,District 34,Tom Umberg,DEM,"2,798",State Senate,CA
+Los Angeles,District 34,Janet Nguyen,REP,"6,045",State Senate,CA
+Orange,District 34,Akash A. Hawkins,DEM,"3,874",State Senate,CA
+Orange,District 34,Jestin L. Samson,DEM,"6,282",State Senate,CA
+Orange,District 34,Tom Umberg,DEM,"19,421",State Senate,CA
+Orange,District 34,Janet Nguyen,REP,"43,456",State Senate,CA
+Districtwide,District 36,Marggie Castellano,DEM,"63,254",State Senate,CA
+Districtwide,District 36,Patricia C. 'Pat' Bates,REP,"76,244",State Senate,CA
+Orange,District 36,Marggie Castellano,DEM,"29,070",State Senate,CA
+Orange,District 36,Patricia C. 'Pat' Bates,REP,"43,053",State Senate,CA
+San Diego,District 36,Marggie Castellano,DEM,"34,184",State Senate,CA
+San Diego,District 36,Patricia C. 'Pat' Bates,REP,"33,191",State Senate,CA
+San Diego,District 38,Jeff Griffith,DEM,"47,251",State Senate,CA
+San Diego,District 38,Brian W. Jones,REP,"71,654",State Senate,CA
+San Diego,District 38,Antonio Salguero,LIB,"3,096",State Senate,CA
+Districtwide,District 40,Ben Hueso,DEM,"41,081",State Senate,CA
+Districtwide,District 40,Luis R. Vargas,REP,"29,208",State Senate,CA
+Imperial,District 40,Ben Hueso,DEM,"5,952",State Senate,CA
+Imperial,District 40,Luis R. Vargas,REP,"4,894",State Senate,CA
+San Diego,District 40,Ben Hueso,DEM,"35,129",State Senate,CA
+San Diego,District 40,Luis R. Vargas,REP,"24,314",State Senate,CA

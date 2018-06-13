@@ -1,0 +1,63 @@
+ContestID,ContestName,PartyCode,AreaType,AreaNum,OfficeSeqNo,BallotOrder,CandidateID,CandidateName,CurrentDateTime,VoteFor,CandidateVotes,CandidatePercentage,PrecinctsReporting
+100036383,"US Representative, District 4 - Independent Party","IND","","US Congressional District 4",2,,9901,"Write-in",6/11/2018 12:01:18 PM,1,164,1,285/285
+100036384,"US Representative, District 4 - Democrat","DEM","","US Congressional District 4",1,,9901,"Write-in",6/11/2018 12:01:18 PM,1,60,0.0263388937664618,285/285
+100036384,"US Representative, District 4 - Democrat","DEM","","US Congressional District 4",1,,100061699,"Daniel R Arcangel",6/11/2018 12:01:18 PM,1,206,0.0904302019315189,285/285
+100036384,"US Representative, District 4 - Democrat","DEM","","US Congressional District 4",1,,300025017,"Peter A DeFazio",6/11/2018 12:01:18 PM,1,2012,0.883230904302019,285/285
+100036385,"US Representative, District 4 - Republican","REP","","US Congressional District 4",3,,9901,"Write-in",6/11/2018 12:01:18 PM,1,17,0.00584393262289447,285/285
+100036385,"US Representative, District 4 - Republican","REP","","US Congressional District 4",3,,100060606,"Jo Rae Perkins",6/11/2018 12:01:18 PM,1,363,0.124785149535923,285/285
+100036385,"US Representative, District 4 - Republican","REP","","US Congressional District 4",3,,100060607,"Arthur B Robinson",6/11/2018 12:01:18 PM,1,731,0.251289102784462,285/285
+100036385,"US Representative, District 4 - Republican","REP","","US Congressional District 4",3,,100060608,"Stefan G Strek",6/11/2018 12:01:18 PM,1,79,0.0271570986593331,285/285
+100036385,"US Representative, District 4 - Republican","REP","","US Congressional District 4",3,,100061151,"Court Boice",6/11/2018 12:01:18 PM,1,1619,0.556548642145067,285/285
+100036385,"US Representative, District 4 - Republican","REP","","US Congressional District 4",3,,100061427,"Michael Polen",6/11/2018 12:01:18 PM,1,100,0.0343760742523204,285/285
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,9901,"Write-in",6/11/2018 12:01:18 PM,1,183,0.644366197183099,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061547,"Dan (Mr P) Pistoresi",6/11/2018 12:01:18 PM,1,23,0.0809859154929578,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061846,"Skye J Allen",6/11/2018 12:01:18 PM,1,17,0.0598591549295775,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061848,"Patrick Starnes",6/11/2018 12:01:18 PM,1,61,0.214788732394366,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,9901,"Write-in",6/11/2018 12:01:18 PM,1,92,0.0406899601946042,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,100060704,"Candace Neville",6/11/2018 12:01:18 PM,1,179,0.0791685095090668,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,100061152,"Ed Jones",6/11/2018 12:01:18 PM,1,245,0.108359133126935,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,300027544,"Kate Brown",6/11/2018 12:01:18 PM,1,1745,0.771782397169394,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,9901,"Write-in",6/11/2018 12:01:18 PM,1,14,0.00475705062861026,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060615,"Keenan W Bohach",6/11/2018 12:01:18 PM,1,6,0.00203873598369011,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060616,"Knute Buehler",6/11/2018 12:01:18 PM,1,1355,0.46041454298335,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060617,"Sam Carpenter",6/11/2018 12:01:18 PM,1,862,0.292898402990146,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060618,"Bruce Cuff",6/11/2018 12:01:18 PM,1,43,0.0146109412164458,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060619,"Jonathan I Edwards III",6/11/2018 12:01:18 PM,1,9,0.00305810397553517,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060620,"Jeff Smith",6/11/2018 12:01:18 PM,1,74,0.0251444104655114,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060621,"Jack W Tacy",6/11/2018 12:01:18 PM,1,5,0.00169894665307509,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060705,"Greg C Wooldridge",6/11/2018 12:01:18 PM,1,550,0.18688413183826,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100061153,"David W Stauffer",6/11/2018 12:01:18 PM,1,15,0.00509683995922528,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100061849,"Brett Hyland",6/11/2018 12:01:18 PM,1,10,0.00339789330615019,1302/1335
+100036437,"State Representative, 1st District - Independent Party","IND","","HD 01",6,,9901,"Write-in",6/11/2018 12:01:18 PM,1,131,1,47/47
+100036438,"State Representative, 1st District - Democrat","DEM","","HD 01",3,,9901,"Write-in",6/11/2018 12:01:18 PM,1,42,0.024376088218224,47/47
+100036438,"State Representative, 1st District - Democrat","DEM","","HD 01",3,,100061433,"Shannon M Souza",6/11/2018 12:01:18 PM,1,1681,0.975623911781776,47/47
+100036439,"State Representative, 1st District - Republican","REP","","HD 01",9,,9901,"Write-in",6/11/2018 12:01:18 PM,1,73,0.0319195452557936,47/47
+100036439,"State Representative, 1st District - Republican","REP","","HD 01",9,,300027661,"David Brock Smith",6/11/2018 12:01:18 PM,1,2214,0.968080454744206,47/47
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,9901,"Write-in",6/11/2018 12:01:18 PM,1,18,0.0035835158271949,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100060665,"Val Hoyle",6/11/2018 12:01:18 PM,1,2160,0.430021899263388,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100060666,"Jack Howard",6/11/2018 12:01:18 PM,1,784,0.1560820226956,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100061211,"Lou Ogden",6/11/2018 12:01:18 PM,1,2061,0.410312562213816,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,9901,"Write-in",6/11/2018 12:01:18 PM,1,11,0.00225133033155956,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,100060699,"Kyle L Krohn",6/11/2018 12:01:18 PM,1,2002,0.40974212034384,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,300019649,"Rex Armstrong",6/11/2018 12:01:18 PM,1,2873,0.588006549324601,1302/1335
+100036621,"Judge of the Court of Appeals, Position 6","NON","","Statewide Nonpartisan",13,,9901,"Write-in",6/11/2018 12:01:18 PM,1,30,0.00750938673341677,1302/1335
+100036621,"Judge of the Court of Appeals, Position 6","NON","","Statewide Nonpartisan",13,,300021775,"James (Jim) C Egan",6/11/2018 12:01:18 PM,1,3965,0.992490613266583,1302/1335
+100036623,"Judge of the Court of Appeals, Position 9","NON","","Statewide Nonpartisan",14,,9901,"Write-in",6/11/2018 12:01:18 PM,1,38,0.0100983258038799,1302/1335
+100036623,"Judge of the Court of Appeals, Position 9","NON","","Statewide Nonpartisan",14,,300019653,"Erika Hadlock",6/11/2018 12:01:18 PM,1,3725,0.98990167419612,1302/1335
+100036625,"Judge of the Supreme Court, Position 2","NON","","Statewide Nonpartisan",11,,9901,"Write-in",6/11/2018 12:01:18 PM,1,51,0.012301013024602,1302/1335
+100036625,"Judge of the Supreme Court, Position 2","NON","","Statewide Nonpartisan",11,,100060566,"Rebecca Duncan",6/11/2018 12:01:18 PM,1,4095,0.987698986975398,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,9901,"Write-in",6/11/2018 12:01:18 PM,1,16,0.00315146740200906,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,100060567,"Meagan A Flynn",6/11/2018 12:01:18 PM,1,3551,0.699428796533386,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,100061619,"Van Pounds",6/11/2018 12:01:18 PM,1,1510,0.297419736064605,1302/1335
+100036678,"Judge of the Circuit Court, 15th District, Position 3","NON","","Circuit Court District 15",17,,9901,"Write-in",6/11/2018 12:01:18 PM,1,68,0.0141401538781451,45/45
+100036678,"Judge of the Circuit Court, 15th District, Position 3","NON","","Circuit Court District 15",17,,300019704,"Jesse Margolis",6/11/2018 12:01:18 PM,1,4741,0.985859846121855,45/45
+100036679,"Judge of the Circuit Court, 15th District, Position 5","NON","","Circuit Court District 15",16,,9901,"Write-in",6/11/2018 12:01:18 PM,1,11,0.00218080888183981,45/45
+100036679,"Judge of the Circuit Court, 15th District, Position 5","NON","","Circuit Court District 15",16,,100060677,"Brett A Pruess",6/11/2018 12:01:18 PM,1,3476,0.68913560666138,45/45
+100036679,"Judge of the Circuit Court, 15th District, Position 5","NON","","Circuit Court District 15",16,,100061563,"James M Monsebroten",6/11/2018 12:01:18 PM,1,1557,0.30868358445678,45/45
+300000944,"8-90 City of Brookings REAUTHORIZATION OF LOCAL TAX ON MOTOR VEHICLE FUEL SALES","","","City of Brookings",19,,1,"Yes",6/11/2018 12:01:18 PM,1,1265,0.82089552238806,4/4
+300000944,"8-90 City of Brookings REAUTHORIZATION OF LOCAL TAX ON MOTOR VEHICLE FUEL SALES","","","City of Brookings",19,,2,"No",6/11/2018 12:01:18 PM,1,276,0.17910447761194,4/4
+300019931,"County Commissioner #1","NON","","Curry",18,,9901,"Write-in",6/11/2018 12:01:18 PM,1,39,0.00661129004916087,27/27
+300019931,"County Commissioner #1","NON","","Curry",18,,300028781,"Jan Barbas",6/11/2018 12:01:18 PM,1,1177,0.199525343278522,27/27
+300019931,"County Commissioner #1","NON","","Curry",18,,300028790,"Christopher Paasch",6/11/2018 12:01:18 PM,1,2740,0.464485506017969,27/27
+300019931,"County Commissioner #1","NON","","Curry",18,,300028794,"Andre Bay",6/11/2018 12:01:18 PM,1,243,0.0411934226140024,27/27
+300019931,"County Commissioner #1","NON","","Curry",18,,300031207,"Jeri Lynn Thompson",6/11/2018 12:01:18 PM,1,1700,0.288184438040346,27/27

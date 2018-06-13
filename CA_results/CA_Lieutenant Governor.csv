@@ -1,0 +1,650 @@
+,county,candidate,party,votes,race name,state
+0,Statewide,Jeff Bleich,DEM,"353,521",Lieutenant Governor,CA
+1,Statewide,Cameron Gharabiklou,DEM,"47,144",Lieutenant Governor,CA
+2,Statewide,Ed Hernandez,DEM,"788,972",Lieutenant Governor,CA
+3,Statewide,Eleni Kounalakis,DEM,"890,454",Lieutenant Governor,CA
+4,Statewide,David Fennell,REP,"315,442",Lieutenant Governor,CA
+5,Statewide,Cole Harris,REP,"697,500",Lieutenant Governor,CA
+6,Statewide,David R. Hernandez,REP,"235,650",Lieutenant Governor,CA
+7,Statewide,Lydia Ortega,REP,"250,476",Lieutenant Governor,CA
+8,Statewide,Tim Ferreira,LIB,"56,306",Lieutenant Governor,CA
+9,Statewide,Gayle McLaughlin,NPP,"136,461",Lieutenant Governor,CA
+10,Statewide,Danny Thomas,NPP,"28,104",Lieutenant Governor,CA
+11,Alameda,Jeff Bleich,DEM,"31,606",Lieutenant Governor,CA
+12,Alameda,Cameron Gharabiklou,DEM,"1,969",Lieutenant Governor,CA
+13,Alameda,Ed Hernandez,DEM,"30,666",Lieutenant Governor,CA
+14,Alameda,Eleni Kounalakis,DEM,"49,529",Lieutenant Governor,CA
+15,Alameda,David Fennell,REP,"8,525",Lieutenant Governor,CA
+16,Alameda,Cole Harris,REP,"11,686",Lieutenant Governor,CA
+17,Alameda,David R. Hernandez,REP,"5,619",Lieutenant Governor,CA
+18,Alameda,Lydia Ortega,REP,"5,614",Lieutenant Governor,CA
+19,Alameda,Tim Ferreira,LIB,"2,157",Lieutenant Governor,CA
+20,Alameda,Gayle McLaughlin,NPP,"11,977",Lieutenant Governor,CA
+21,Alameda,Danny Thomas,NPP,866,Lieutenant Governor,CA
+22,Alpine,Jeff Bleich,DEM,44,Lieutenant Governor,CA
+23,Alpine,Cameron Gharabiklou,DEM,6,Lieutenant Governor,CA
+24,Alpine,Ed Hernandez,DEM,62,Lieutenant Governor,CA
+25,Alpine,Eleni Kounalakis,DEM,87,Lieutenant Governor,CA
+26,Alpine,David Fennell,REP,47,Lieutenant Governor,CA
+27,Alpine,Cole Harris,REP,35,Lieutenant Governor,CA
+28,Alpine,David R. Hernandez,REP,13,Lieutenant Governor,CA
+29,Alpine,Lydia Ortega,REP,32,Lieutenant Governor,CA
+30,Alpine,Tim Ferreira,LIB,6,Lieutenant Governor,CA
+31,Alpine,Gayle McLaughlin,NPP,6,Lieutenant Governor,CA
+32,Alpine,Danny Thomas,NPP,4,Lieutenant Governor,CA
+33,Amador,Jeff Bleich,DEM,166,Lieutenant Governor,CA
+34,Amador,Cameron Gharabiklou,DEM,17,Lieutenant Governor,CA
+35,Amador,Ed Hernandez,DEM,413,Lieutenant Governor,CA
+36,Amador,Eleni Kounalakis,DEM,900,Lieutenant Governor,CA
+37,Amador,David Fennell,REP,686,Lieutenant Governor,CA
+38,Amador,Cole Harris,REP,"1,009",Lieutenant Governor,CA
+39,Amador,David R. Hernandez,REP,421,Lieutenant Governor,CA
+40,Amador,Lydia Ortega,REP,409,Lieutenant Governor,CA
+41,Amador,Tim Ferreira,LIB,81,Lieutenant Governor,CA
+42,Amador,Gayle McLaughlin,NPP,88,Lieutenant Governor,CA
+43,Amador,Danny Thomas,NPP,47,Lieutenant Governor,CA
+44,Butte,Jeff Bleich,DEM,"2,316",Lieutenant Governor,CA
+45,Butte,Cameron Gharabiklou,DEM,712,Lieutenant Governor,CA
+46,Butte,Ed Hernandez,DEM,"5,739",Lieutenant Governor,CA
+47,Butte,Eleni Kounalakis,DEM,"6,616",Lieutenant Governor,CA
+48,Butte,David Fennell,REP,"4,334",Lieutenant Governor,CA
+49,Butte,Cole Harris,REP,"7,770",Lieutenant Governor,CA
+50,Butte,David R. Hernandez,REP,"2,430",Lieutenant Governor,CA
+51,Butte,Lydia Ortega,REP,"3,346",Lieutenant Governor,CA
+52,Butte,Tim Ferreira,LIB,692,Lieutenant Governor,CA
+53,Butte,Gayle McLaughlin,NPP,"1,459",Lieutenant Governor,CA
+54,Butte,Danny Thomas,NPP,349,Lieutenant Governor,CA
+55,Calaveras,Jeff Bleich,DEM,379,Lieutenant Governor,CA
+56,Calaveras,Cameron Gharabiklou,DEM,62,Lieutenant Governor,CA
+57,Calaveras,Ed Hernandez,DEM,"1,019",Lieutenant Governor,CA
+58,Calaveras,Eleni Kounalakis,DEM,"1,913",Lieutenant Governor,CA
+59,Calaveras,David Fennell,REP,"1,654",Lieutenant Governor,CA
+60,Calaveras,Cole Harris,REP,"1,955",Lieutenant Governor,CA
+61,Calaveras,David R. Hernandez,REP,762,Lieutenant Governor,CA
+62,Calaveras,Lydia Ortega,REP,808,Lieutenant Governor,CA
+63,Calaveras,Tim Ferreira,LIB,208,Lieutenant Governor,CA
+64,Calaveras,Gayle McLaughlin,NPP,193,Lieutenant Governor,CA
+65,Calaveras,Danny Thomas,NPP,88,Lieutenant Governor,CA
+66,Colusa,Jeff Bleich,DEM,74,Lieutenant Governor,CA
+67,Colusa,Cameron Gharabiklou,DEM,29,Lieutenant Governor,CA
+68,Colusa,Ed Hernandez,DEM,318,Lieutenant Governor,CA
+69,Colusa,Eleni Kounalakis,DEM,372,Lieutenant Governor,CA
+70,Colusa,David Fennell,REP,496,Lieutenant Governor,CA
+71,Colusa,Cole Harris,REP,587,Lieutenant Governor,CA
+72,Colusa,David R. Hernandez,REP,186,Lieutenant Governor,CA
+73,Colusa,Lydia Ortega,REP,214,Lieutenant Governor,CA
+74,Colusa,Tim Ferreira,LIB,53,Lieutenant Governor,CA
+75,Colusa,Gayle McLaughlin,NPP,47,Lieutenant Governor,CA
+76,Colusa,Danny Thomas,NPP,33,Lieutenant Governor,CA
+77,Contra Costa,Jeff Bleich,DEM,"19,771",Lieutenant Governor,CA
+78,Contra Costa,Cameron Gharabiklou,DEM,"1,312",Lieutenant Governor,CA
+79,Contra Costa,Ed Hernandez,DEM,"19,868",Lieutenant Governor,CA
+80,Contra Costa,Eleni Kounalakis,DEM,"30,338",Lieutenant Governor,CA
+81,Contra Costa,David Fennell,REP,"10,208",Lieutenant Governor,CA
+82,Contra Costa,Cole Harris,REP,"14,137",Lieutenant Governor,CA
+83,Contra Costa,David R. Hernandez,REP,"4,889",Lieutenant Governor,CA
+84,Contra Costa,Lydia Ortega,REP,"6,893",Lieutenant Governor,CA
+85,Contra Costa,Tim Ferreira,LIB,"1,960",Lieutenant Governor,CA
+86,Contra Costa,Gayle McLaughlin,NPP,"6,579",Lieutenant Governor,CA
+87,Contra Costa,Danny Thomas,NPP,885,Lieutenant Governor,CA
+88,Del Norte,Jeff Bleich,DEM,251,Lieutenant Governor,CA
+89,Del Norte,Cameron Gharabiklou,DEM,45,Lieutenant Governor,CA
+90,Del Norte,Ed Hernandez,DEM,747,Lieutenant Governor,CA
+91,Del Norte,Eleni Kounalakis,DEM,645,Lieutenant Governor,CA
+92,Del Norte,David Fennell,REP,752,Lieutenant Governor,CA
+93,Del Norte,Cole Harris,REP,972,Lieutenant Governor,CA
+94,Del Norte,David R. Hernandez,REP,369,Lieutenant Governor,CA
+95,Del Norte,Lydia Ortega,REP,310,Lieutenant Governor,CA
+96,Del Norte,Tim Ferreira,LIB,72,Lieutenant Governor,CA
+97,Del Norte,Gayle McLaughlin,NPP,173,Lieutenant Governor,CA
+98,Del Norte,Danny Thomas,NPP,61,Lieutenant Governor,CA
+99,El Dorado,Jeff Bleich,DEM,"1,572",Lieutenant Governor,CA
+100,El Dorado,Cameron Gharabiklou,DEM,165,Lieutenant Governor,CA
+101,El Dorado,Ed Hernandez,DEM,"3,596",Lieutenant Governor,CA
+102,El Dorado,Eleni Kounalakis,DEM,"8,093",Lieutenant Governor,CA
+103,El Dorado,David Fennell,REP,"5,044",Lieutenant Governor,CA
+104,El Dorado,Cole Harris,REP,"6,824",Lieutenant Governor,CA
+105,El Dorado,David R. Hernandez,REP,"2,453",Lieutenant Governor,CA
+106,El Dorado,Lydia Ortega,REP,"3,714",Lieutenant Governor,CA
+107,El Dorado,Tim Ferreira,LIB,583,Lieutenant Governor,CA
+108,El Dorado,Gayle McLaughlin,NPP,772,Lieutenant Governor,CA
+109,El Dorado,Danny Thomas,NPP,224,Lieutenant Governor,CA
+110,Fresno,Jeff Bleich,DEM,"7,278",Lieutenant Governor,CA
+111,Fresno,Cameron Gharabiklou,DEM,"1,020",Lieutenant Governor,CA
+112,Fresno,Ed Hernandez,DEM,"14,963",Lieutenant Governor,CA
+113,Fresno,Eleni Kounalakis,DEM,"9,242",Lieutenant Governor,CA
+114,Fresno,David Fennell,REP,"7,763",Lieutenant Governor,CA
+115,Fresno,Cole Harris,REP,"18,849",Lieutenant Governor,CA
+116,Fresno,David R. Hernandez,REP,"6,094",Lieutenant Governor,CA
+117,Fresno,Lydia Ortega,REP,"9,282",Lieutenant Governor,CA
+118,Fresno,Tim Ferreira,LIB,"1,314",Lieutenant Governor,CA
+119,Fresno,Gayle McLaughlin,NPP,"1,866",Lieutenant Governor,CA
+120,Fresno,Danny Thomas,NPP,781,Lieutenant Governor,CA
+121,Glenn,Jeff Bleich,DEM,168,Lieutenant Governor,CA
+122,Glenn,Cameron Gharabiklou,DEM,84,Lieutenant Governor,CA
+123,Glenn,Ed Hernandez,DEM,303,Lieutenant Governor,CA
+124,Glenn,Eleni Kounalakis,DEM,266,Lieutenant Governor,CA
+125,Glenn,David Fennell,REP,841,Lieutenant Governor,CA
+126,Glenn,Cole Harris,REP,862,Lieutenant Governor,CA
+127,Glenn,David R. Hernandez,REP,294,Lieutenant Governor,CA
+128,Glenn,Lydia Ortega,REP,296,Lieutenant Governor,CA
+129,Glenn,Tim Ferreira,LIB,83,Lieutenant Governor,CA
+130,Glenn,Gayle McLaughlin,NPP,77,Lieutenant Governor,CA
+131,Glenn,Danny Thomas,NPP,44,Lieutenant Governor,CA
+132,Humboldt,Jeff Bleich,DEM,"1,563",Lieutenant Governor,CA
+133,Humboldt,Cameron Gharabiklou,DEM,346,Lieutenant Governor,CA
+134,Humboldt,Ed Hernandez,DEM,"3,706",Lieutenant Governor,CA
+135,Humboldt,Eleni Kounalakis,DEM,"4,688",Lieutenant Governor,CA
+136,Humboldt,David Fennell,REP,"2,019",Lieutenant Governor,CA
+137,Humboldt,Cole Harris,REP,"2,514",Lieutenant Governor,CA
+138,Humboldt,David R. Hernandez,REP,914,Lieutenant Governor,CA
+139,Humboldt,Lydia Ortega,REP,"1,046",Lieutenant Governor,CA
+140,Humboldt,Tim Ferreira,LIB,319,Lieutenant Governor,CA
+141,Humboldt,Gayle McLaughlin,NPP,"1,298",Lieutenant Governor,CA
+142,Humboldt,Danny Thomas,NPP,114,Lieutenant Governor,CA
+143,Imperial,Jeff Bleich,DEM,976,Lieutenant Governor,CA
+144,Imperial,Cameron Gharabiklou,DEM,197,Lieutenant Governor,CA
+145,Imperial,Ed Hernandez,DEM,"3,518",Lieutenant Governor,CA
+146,Imperial,Eleni Kounalakis,DEM,945,Lieutenant Governor,CA
+147,Imperial,David Fennell,REP,"1,376",Lieutenant Governor,CA
+148,Imperial,Cole Harris,REP,"1,342",Lieutenant Governor,CA
+149,Imperial,David R. Hernandez,REP,"1,093",Lieutenant Governor,CA
+150,Imperial,Lydia Ortega,REP,920,Lieutenant Governor,CA
+151,Imperial,Tim Ferreira,LIB,158,Lieutenant Governor,CA
+152,Imperial,Gayle McLaughlin,NPP,206,Lieutenant Governor,CA
+153,Imperial,Danny Thomas,NPP,164,Lieutenant Governor,CA
+154,Inyo,Jeff Bleich,DEM,244,Lieutenant Governor,CA
+155,Inyo,Cameron Gharabiklou,DEM,44,Lieutenant Governor,CA
+156,Inyo,Ed Hernandez,DEM,552,Lieutenant Governor,CA
+157,Inyo,Eleni Kounalakis,DEM,580,Lieutenant Governor,CA
+158,Inyo,David Fennell,REP,555,Lieutenant Governor,CA
+159,Inyo,Cole Harris,REP,745,Lieutenant Governor,CA
+160,Inyo,David R. Hernandez,REP,249,Lieutenant Governor,CA
+161,Inyo,Lydia Ortega,REP,291,Lieutenant Governor,CA
+162,Inyo,Tim Ferreira,LIB,87,Lieutenant Governor,CA
+163,Inyo,Gayle McLaughlin,NPP,112,Lieutenant Governor,CA
+164,Inyo,Danny Thomas,NPP,50,Lieutenant Governor,CA
+165,Kern,Jeff Bleich,DEM,"4,821",Lieutenant Governor,CA
+166,Kern,Cameron Gharabiklou,DEM,868,Lieutenant Governor,CA
+167,Kern,Ed Hernandez,DEM,"11,096",Lieutenant Governor,CA
+168,Kern,Eleni Kounalakis,DEM,"6,984",Lieutenant Governor,CA
+169,Kern,David Fennell,REP,"10,672",Lieutenant Governor,CA
+170,Kern,Cole Harris,REP,"27,600",Lieutenant Governor,CA
+171,Kern,David R. Hernandez,REP,"4,691",Lieutenant Governor,CA
+172,Kern,Lydia Ortega,REP,"6,090",Lieutenant Governor,CA
+173,Kern,Tim Ferreira,LIB,"1,178",Lieutenant Governor,CA
+174,Kern,Gayle McLaughlin,NPP,"1,284",Lieutenant Governor,CA
+175,Kern,Danny Thomas,NPP,787,Lieutenant Governor,CA
+176,Kings,Jeff Bleich,DEM,756,Lieutenant Governor,CA
+177,Kings,Cameron Gharabiklou,DEM,97,Lieutenant Governor,CA
+178,Kings,Ed Hernandez,DEM,"2,433",Lieutenant Governor,CA
+179,Kings,Eleni Kounalakis,DEM,953,Lieutenant Governor,CA
+180,Kings,David Fennell,REP,"1,649",Lieutenant Governor,CA
+181,Kings,Cole Harris,REP,"3,358",Lieutenant Governor,CA
+182,Kings,David R. Hernandez,REP,"1,119",Lieutenant Governor,CA
+183,Kings,Lydia Ortega,REP,"1,769",Lieutenant Governor,CA
+184,Kings,Tim Ferreira,LIB,192,Lieutenant Governor,CA
+185,Kings,Gayle McLaughlin,NPP,250,Lieutenant Governor,CA
+186,Kings,Danny Thomas,NPP,104,Lieutenant Governor,CA
+187,Lake,Jeff Bleich,DEM,"1,018",Lieutenant Governor,CA
+188,Lake,Cameron Gharabiklou,DEM,84,Lieutenant Governor,CA
+189,Lake,Ed Hernandez,DEM,826,Lieutenant Governor,CA
+190,Lake,Eleni Kounalakis,DEM,"1,983",Lieutenant Governor,CA
+191,Lake,David Fennell,REP,898,Lieutenant Governor,CA
+192,Lake,Cole Harris,REP,"1,395",Lieutenant Governor,CA
+193,Lake,David R. Hernandez,REP,446,Lieutenant Governor,CA
+194,Lake,Lydia Ortega,REP,573,Lieutenant Governor,CA
+195,Lake,Tim Ferreira,LIB,121,Lieutenant Governor,CA
+196,Lake,Gayle McLaughlin,NPP,331,Lieutenant Governor,CA
+197,Lake,Danny Thomas,NPP,78,Lieutenant Governor,CA
+198,Lassen,Jeff Bleich,DEM,109,Lieutenant Governor,CA
+199,Lassen,Cameron Gharabiklou,DEM,21,Lieutenant Governor,CA
+200,Lassen,Ed Hernandez,DEM,321,Lieutenant Governor,CA
+201,Lassen,Eleni Kounalakis,DEM,298,Lieutenant Governor,CA
+202,Lassen,David Fennell,REP,527,Lieutenant Governor,CA
+203,Lassen,Cole Harris,REP,953,Lieutenant Governor,CA
+204,Lassen,David R. Hernandez,REP,330,Lieutenant Governor,CA
+205,Lassen,Lydia Ortega,REP,360,Lieutenant Governor,CA
+206,Lassen,Tim Ferreira,LIB,42,Lieutenant Governor,CA
+207,Lassen,Gayle McLaughlin,NPP,46,Lieutenant Governor,CA
+208,Lassen,Danny Thomas,NPP,23,Lieutenant Governor,CA
+209,Los Angeles,Jeff Bleich,DEM,"58,220",Lieutenant Governor,CA
+210,Los Angeles,Cameron Gharabiklou,DEM,"11,225",Lieutenant Governor,CA
+211,Los Angeles,Ed Hernandez,DEM,"250,522",Lieutenant Governor,CA
+212,Los Angeles,Eleni Kounalakis,DEM,"225,863",Lieutenant Governor,CA
+213,Los Angeles,David Fennell,REP,"44,468",Lieutenant Governor,CA
+214,Los Angeles,Cole Harris,REP,"114,303",Lieutenant Governor,CA
+215,Los Angeles,David R. Hernandez,REP,"53,967",Lieutenant Governor,CA
+216,Los Angeles,Lydia Ortega,REP,"47,446",Lieutenant Governor,CA
+217,Los Angeles,Tim Ferreira,LIB,"10,173",Lieutenant Governor,CA
+218,Los Angeles,Gayle McLaughlin,NPP,"31,496",Lieutenant Governor,CA
+219,Los Angeles,Danny Thomas,NPP,"6,272",Lieutenant Governor,CA
+220,Madera,Jeff Bleich,DEM,868,Lieutenant Governor,CA
+221,Madera,Cameron Gharabiklou,DEM,138,Lieutenant Governor,CA
+222,Madera,Ed Hernandez,DEM,"3,238",Lieutenant Governor,CA
+223,Madera,Eleni Kounalakis,DEM,"1,562",Lieutenant Governor,CA
+224,Madera,David Fennell,REP,"2,998",Lieutenant Governor,CA
+225,Madera,Cole Harris,REP,"5,263",Lieutenant Governor,CA
+226,Madera,David R. Hernandez,REP,"1,278",Lieutenant Governor,CA
+227,Madera,Lydia Ortega,REP,"1,336",Lieutenant Governor,CA
+228,Madera,Tim Ferreira,LIB,251,Lieutenant Governor,CA
+229,Madera,Gayle McLaughlin,NPP,355,Lieutenant Governor,CA
+230,Madera,Danny Thomas,NPP,207,Lieutenant Governor,CA
+231,Marin,Jeff Bleich,DEM,"8,430",Lieutenant Governor,CA
+232,Marin,Cameron Gharabiklou,DEM,242,Lieutenant Governor,CA
+233,Marin,Ed Hernandez,DEM,"5,683",Lieutenant Governor,CA
+234,Marin,Eleni Kounalakis,DEM,"11,604",Lieutenant Governor,CA
+235,Marin,David Fennell,REP,"1,509",Lieutenant Governor,CA
+236,Marin,Cole Harris,REP,"2,537",Lieutenant Governor,CA
+237,Marin,David R. Hernandez,REP,762,Lieutenant Governor,CA
+238,Marin,Lydia Ortega,REP,"2,631",Lieutenant Governor,CA
+239,Marin,Tim Ferreira,LIB,462,Lieutenant Governor,CA
+240,Marin,Gayle McLaughlin,NPP,"1,846",Lieutenant Governor,CA
+241,Marin,Danny Thomas,NPP,195,Lieutenant Governor,CA
+242,Mariposa,Jeff Bleich,DEM,241,Lieutenant Governor,CA
+243,Mariposa,Cameron Gharabiklou,DEM,30,Lieutenant Governor,CA
+244,Mariposa,Ed Hernandez,DEM,756,Lieutenant Governor,CA
+245,Mariposa,Eleni Kounalakis,DEM,654,Lieutenant Governor,CA
+246,Mariposa,David Fennell,REP,863,Lieutenant Governor,CA
+247,Mariposa,Cole Harris,REP,"1,146",Lieutenant Governor,CA
+248,Mariposa,David R. Hernandez,REP,352,Lieutenant Governor,CA
+249,Mariposa,Lydia Ortega,REP,363,Lieutenant Governor,CA
+250,Mariposa,Tim Ferreira,LIB,80,Lieutenant Governor,CA
+251,Mariposa,Gayle McLaughlin,NPP,150,Lieutenant Governor,CA
+252,Mariposa,Danny Thomas,NPP,48,Lieutenant Governor,CA
+253,Mendocino,Jeff Bleich,DEM,"1,206",Lieutenant Governor,CA
+254,Mendocino,Cameron Gharabiklou,DEM,129,Lieutenant Governor,CA
+255,Mendocino,Ed Hernandez,DEM,"1,384",Lieutenant Governor,CA
+256,Mendocino,Eleni Kounalakis,DEM,"2,744",Lieutenant Governor,CA
+257,Mendocino,David Fennell,REP,705,Lieutenant Governor,CA
+258,Mendocino,Cole Harris,REP,"1,036",Lieutenant Governor,CA
+259,Mendocino,David R. Hernandez,REP,448,Lieutenant Governor,CA
+260,Mendocino,Lydia Ortega,REP,478,Lieutenant Governor,CA
+261,Mendocino,Tim Ferreira,LIB,175,Lieutenant Governor,CA
+262,Mendocino,Gayle McLaughlin,NPP,494,Lieutenant Governor,CA
+263,Mendocino,Danny Thomas,NPP,72,Lieutenant Governor,CA
+264,Merced,Jeff Bleich,DEM,"1,314",Lieutenant Governor,CA
+265,Merced,Cameron Gharabiklou,DEM,233,Lieutenant Governor,CA
+266,Merced,Ed Hernandez,DEM,"3,565",Lieutenant Governor,CA
+267,Merced,Eleni Kounalakis,DEM,"1,974",Lieutenant Governor,CA
+268,Merced,David Fennell,REP,"1,687",Lieutenant Governor,CA
+269,Merced,Cole Harris,REP,"3,900",Lieutenant Governor,CA
+270,Merced,David R. Hernandez,REP,"1,202",Lieutenant Governor,CA
+271,Merced,Lydia Ortega,REP,"1,780",Lieutenant Governor,CA
+272,Merced,Tim Ferreira,LIB,435,Lieutenant Governor,CA
+273,Merced,Gayle McLaughlin,NPP,447,Lieutenant Governor,CA
+274,Merced,Danny Thomas,NPP,194,Lieutenant Governor,CA
+275,Modoc,Jeff Bleich,DEM,91,Lieutenant Governor,CA
+276,Modoc,Cameron Gharabiklou,DEM,16,Lieutenant Governor,CA
+277,Modoc,Ed Hernandez,DEM,196,Lieutenant Governor,CA
+278,Modoc,Eleni Kounalakis,DEM,154,Lieutenant Governor,CA
+279,Modoc,David Fennell,REP,473,Lieutenant Governor,CA
+280,Modoc,Cole Harris,REP,560,Lieutenant Governor,CA
+281,Modoc,David R. Hernandez,REP,234,Lieutenant Governor,CA
+282,Modoc,Lydia Ortega,REP,219,Lieutenant Governor,CA
+283,Modoc,Tim Ferreira,LIB,28,Lieutenant Governor,CA
+284,Modoc,Gayle McLaughlin,NPP,51,Lieutenant Governor,CA
+285,Modoc,Danny Thomas,NPP,20,Lieutenant Governor,CA
+286,Mono,Jeff Bleich,DEM,320,Lieutenant Governor,CA
+287,Mono,Cameron Gharabiklou,DEM,24,Lieutenant Governor,CA
+288,Mono,Ed Hernandez,DEM,511,Lieutenant Governor,CA
+289,Mono,Eleni Kounalakis,DEM,516,Lieutenant Governor,CA
+290,Mono,David Fennell,REP,408,Lieutenant Governor,CA
+291,Mono,Cole Harris,REP,433,Lieutenant Governor,CA
+292,Mono,David R. Hernandez,REP,164,Lieutenant Governor,CA
+293,Mono,Lydia Ortega,REP,192,Lieutenant Governor,CA
+294,Mono,Tim Ferreira,LIB,49,Lieutenant Governor,CA
+295,Mono,Gayle McLaughlin,NPP,101,Lieutenant Governor,CA
+296,Mono,Danny Thomas,NPP,15,Lieutenant Governor,CA
+297,Monterey,Jeff Bleich,DEM,"3,036",Lieutenant Governor,CA
+298,Monterey,Cameron Gharabiklou,DEM,247,Lieutenant Governor,CA
+299,Monterey,Ed Hernandez,DEM,"7,345",Lieutenant Governor,CA
+300,Monterey,Eleni Kounalakis,DEM,"8,276",Lieutenant Governor,CA
+301,Monterey,David Fennell,REP,"1,789",Lieutenant Governor,CA
+302,Monterey,Cole Harris,REP,"5,614",Lieutenant Governor,CA
+303,Monterey,David R. Hernandez,REP,"1,475",Lieutenant Governor,CA
+304,Monterey,Lydia Ortega,REP,"1,676",Lieutenant Governor,CA
+305,Monterey,Tim Ferreira,LIB,416,Lieutenant Governor,CA
+306,Monterey,Gayle McLaughlin,NPP,845,Lieutenant Governor,CA
+307,Monterey,Danny Thomas,NPP,213,Lieutenant Governor,CA
+308,Napa,Jeff Bleich,DEM,"2,030",Lieutenant Governor,CA
+309,Napa,Cameron Gharabiklou,DEM,66,Lieutenant Governor,CA
+310,Napa,Ed Hernandez,DEM,"2,206",Lieutenant Governor,CA
+311,Napa,Eleni Kounalakis,DEM,"4,352",Lieutenant Governor,CA
+312,Napa,David Fennell,REP,"1,745",Lieutenant Governor,CA
+313,Napa,Cole Harris,REP,"1,586",Lieutenant Governor,CA
+314,Napa,David R. Hernandez,REP,704,Lieutenant Governor,CA
+315,Napa,Lydia Ortega,REP,769,Lieutenant Governor,CA
+316,Napa,Tim Ferreira,LIB,319,Lieutenant Governor,CA
+317,Napa,Gayle McLaughlin,NPP,349,Lieutenant Governor,CA
+318,Napa,Danny Thomas,NPP,117,Lieutenant Governor,CA
+319,Nevada,Jeff Bleich,DEM,"1,112",Lieutenant Governor,CA
+320,Nevada,Cameron Gharabiklou,DEM,84,Lieutenant Governor,CA
+321,Nevada,Ed Hernandez,DEM,"1,605",Lieutenant Governor,CA
+322,Nevada,Eleni Kounalakis,DEM,"4,765",Lieutenant Governor,CA
+323,Nevada,David Fennell,REP,"1,903",Lieutenant Governor,CA
+324,Nevada,Cole Harris,REP,"2,817",Lieutenant Governor,CA
+325,Nevada,David R. Hernandez,REP,865,Lieutenant Governor,CA
+326,Nevada,Lydia Ortega,REP,"1,176",Lieutenant Governor,CA
+327,Nevada,Tim Ferreira,LIB,241,Lieutenant Governor,CA
+328,Nevada,Gayle McLaughlin,NPP,495,Lieutenant Governor,CA
+329,Nevada,Danny Thomas,NPP,74,Lieutenant Governor,CA
+330,Orange,Jeff Bleich,DEM,"19,524",Lieutenant Governor,CA
+331,Orange,Cameron Gharabiklou,DEM,"4,091",Lieutenant Governor,CA
+332,Orange,Ed Hernandez,DEM,"68,313",Lieutenant Governor,CA
+333,Orange,Eleni Kounalakis,DEM,"62,533",Lieutenant Governor,CA
+334,Orange,David Fennell,REP,"30,590",Lieutenant Governor,CA
+335,Orange,Cole Harris,REP,"90,418",Lieutenant Governor,CA
+336,Orange,David R. Hernandez,REP,"31,310",Lieutenant Governor,CA
+337,Orange,Lydia Ortega,REP,"26,438",Lieutenant Governor,CA
+338,Orange,Tim Ferreira,LIB,"5,051",Lieutenant Governor,CA
+339,Orange,Gayle McLaughlin,NPP,"7,189",Lieutenant Governor,CA
+340,Orange,Danny Thomas,NPP,"2,662",Lieutenant Governor,CA
+341,Placer,Jeff Bleich,DEM,"2,828",Lieutenant Governor,CA
+342,Placer,Cameron Gharabiklou,DEM,329,Lieutenant Governor,CA
+343,Placer,Ed Hernandez,DEM,"6,425",Lieutenant Governor,CA
+344,Placer,Eleni Kounalakis,DEM,"14,093",Lieutenant Governor,CA
+345,Placer,David Fennell,REP,"4,974",Lieutenant Governor,CA
+346,Placer,Cole Harris,REP,"16,411",Lieutenant Governor,CA
+347,Placer,David R. Hernandez,REP,"3,895",Lieutenant Governor,CA
+348,Placer,Lydia Ortega,REP,"5,177",Lieutenant Governor,CA
+349,Placer,Tim Ferreira,LIB,"1,057",Lieutenant Governor,CA
+350,Placer,Gayle McLaughlin,NPP,"1,151",Lieutenant Governor,CA
+351,Placer,Danny Thomas,NPP,396,Lieutenant Governor,CA
+352,Plumas,Jeff Bleich,DEM,263,Lieutenant Governor,CA
+353,Plumas,Cameron Gharabiklou,DEM,33,Lieutenant Governor,CA
+354,Plumas,Ed Hernandez,DEM,479,Lieutenant Governor,CA
+355,Plumas,Eleni Kounalakis,DEM,"1,242",Lieutenant Governor,CA
+356,Plumas,David Fennell,REP,916,Lieutenant Governor,CA
+357,Plumas,Cole Harris,REP,854,Lieutenant Governor,CA
+358,Plumas,David R. Hernandez,REP,527,Lieutenant Governor,CA
+359,Plumas,Lydia Ortega,REP,533,Lieutenant Governor,CA
+360,Plumas,Tim Ferreira,LIB,107,Lieutenant Governor,CA
+361,Plumas,Gayle McLaughlin,NPP,141,Lieutenant Governor,CA
+362,Plumas,Danny Thomas,NPP,36,Lieutenant Governor,CA
+363,Riverside,Jeff Bleich,DEM,"10,426",Lieutenant Governor,CA
+364,Riverside,Cameron Gharabiklou,DEM,"1,407",Lieutenant Governor,CA
+365,Riverside,Ed Hernandez,DEM,"34,266",Lieutenant Governor,CA
+366,Riverside,Eleni Kounalakis,DEM,"26,380",Lieutenant Governor,CA
+367,Riverside,David Fennell,REP,"18,539",Lieutenant Governor,CA
+368,Riverside,Cole Harris,REP,"44,714",Lieutenant Governor,CA
+369,Riverside,David R. Hernandez,REP,"13,439",Lieutenant Governor,CA
+370,Riverside,Lydia Ortega,REP,"11,419",Lieutenant Governor,CA
+371,Riverside,Tim Ferreira,LIB,"2,088",Lieutenant Governor,CA
+372,Riverside,Gayle McLaughlin,NPP,"2,948",Lieutenant Governor,CA
+373,Riverside,Danny Thomas,NPP,"1,078",Lieutenant Governor,CA
+374,Sacramento,Jeff Bleich,DEM,"8,371",Lieutenant Governor,CA
+375,Sacramento,Cameron Gharabiklou,DEM,"1,062",Lieutenant Governor,CA
+376,Sacramento,Ed Hernandez,DEM,"19,702",Lieutenant Governor,CA
+377,Sacramento,Eleni Kounalakis,DEM,"37,482",Lieutenant Governor,CA
+378,Sacramento,David Fennell,REP,"10,822",Lieutenant Governor,CA
+379,Sacramento,Cole Harris,REP,"18,319",Lieutenant Governor,CA
+380,Sacramento,David R. Hernandez,REP,"8,596",Lieutenant Governor,CA
+381,Sacramento,Lydia Ortega,REP,"8,665",Lieutenant Governor,CA
+382,Sacramento,Tim Ferreira,LIB,"1,994",Lieutenant Governor,CA
+383,Sacramento,Gayle McLaughlin,NPP,"3,021",Lieutenant Governor,CA
+384,Sacramento,Danny Thomas,NPP,850,Lieutenant Governor,CA
+385,San Benito,Jeff Bleich,DEM,388,Lieutenant Governor,CA
+386,San Benito,Cameron Gharabiklou,DEM,46,Lieutenant Governor,CA
+387,San Benito,Ed Hernandez,DEM,"1,413",Lieutenant Governor,CA
+388,San Benito,Eleni Kounalakis,DEM,"1,453",Lieutenant Governor,CA
+389,San Benito,David Fennell,REP,597,Lieutenant Governor,CA
+390,San Benito,Cole Harris,REP,977,Lieutenant Governor,CA
+391,San Benito,David R. Hernandez,REP,624,Lieutenant Governor,CA
+392,San Benito,Lydia Ortega,REP,534,Lieutenant Governor,CA
+393,San Benito,Tim Ferreira,LIB,97,Lieutenant Governor,CA
+394,San Benito,Gayle McLaughlin,NPP,179,Lieutenant Governor,CA
+395,San Benito,Danny Thomas,NPP,64,Lieutenant Governor,CA
+396,San Bernardino,Jeff Bleich,DEM,"7,107",Lieutenant Governor,CA
+397,San Bernardino,Cameron Gharabiklou,DEM,"1,989",Lieutenant Governor,CA
+398,San Bernardino,Ed Hernandez,DEM,"36,655",Lieutenant Governor,CA
+399,San Bernardino,Eleni Kounalakis,DEM,"26,834",Lieutenant Governor,CA
+400,San Bernardino,David Fennell,REP,"15,669",Lieutenant Governor,CA
+401,San Bernardino,Cole Harris,REP,"41,730",Lieutenant Governor,CA
+402,San Bernardino,David R. Hernandez,REP,"16,492",Lieutenant Governor,CA
+403,San Bernardino,Lydia Ortega,REP,"11,931",Lieutenant Governor,CA
+404,San Bernardino,Tim Ferreira,LIB,"2,201",Lieutenant Governor,CA
+405,San Bernardino,Gayle McLaughlin,NPP,"3,660",Lieutenant Governor,CA
+406,San Bernardino,Danny Thomas,NPP,"1,226",Lieutenant Governor,CA
+407,San Diego,Jeff Bleich,DEM,"37,605",Lieutenant Governor,CA
+408,San Diego,Cameron Gharabiklou,DEM,"6,540",Lieutenant Governor,CA
+409,San Diego,Ed Hernandez,DEM,"71,427",Lieutenant Governor,CA
+410,San Diego,Eleni Kounalakis,DEM,"78,232",Lieutenant Governor,CA
+411,San Diego,David Fennell,REP,"29,541",Lieutenant Governor,CA
+412,San Diego,Cole Harris,REP,"99,079",Lieutenant Governor,CA
+413,San Diego,David R. Hernandez,REP,"19,244",Lieutenant Governor,CA
+414,San Diego,Lydia Ortega,REP,"26,683",Lieutenant Governor,CA
+415,San Diego,Tim Ferreira,LIB,"5,023",Lieutenant Governor,CA
+416,San Diego,Gayle McLaughlin,NPP,"10,115",Lieutenant Governor,CA
+417,San Diego,Danny Thomas,NPP,"2,097",Lieutenant Governor,CA
+418,San Francisco,Jeff Bleich,DEM,"27,541",Lieutenant Governor,CA
+419,San Francisco,Cameron Gharabiklou,DEM,"1,272",Lieutenant Governor,CA
+420,San Francisco,Ed Hernandez,DEM,"24,751",Lieutenant Governor,CA
+421,San Francisco,Eleni Kounalakis,DEM,"39,602",Lieutenant Governor,CA
+422,San Francisco,David Fennell,REP,"3,871",Lieutenant Governor,CA
+423,San Francisco,Cole Harris,REP,"7,451",Lieutenant Governor,CA
+424,San Francisco,David R. Hernandez,REP,"3,487",Lieutenant Governor,CA
+425,San Francisco,Lydia Ortega,REP,"4,803",Lieutenant Governor,CA
+426,San Francisco,Tim Ferreira,LIB,"2,124",Lieutenant Governor,CA
+427,San Francisco,Gayle McLaughlin,NPP,"20,711",Lieutenant Governor,CA
+428,San Francisco,Danny Thomas,NPP,"1,391",Lieutenant Governor,CA
+429,San Joaquin,Jeff Bleich,DEM,"2,804",Lieutenant Governor,CA
+430,San Joaquin,Cameron Gharabiklou,DEM,906,Lieutenant Governor,CA
+431,San Joaquin,Ed Hernandez,DEM,"9,344",Lieutenant Governor,CA
+432,San Joaquin,Eleni Kounalakis,DEM,"13,962",Lieutenant Governor,CA
+433,San Joaquin,David Fennell,REP,"5,439",Lieutenant Governor,CA
+434,San Joaquin,Cole Harris,REP,"11,882",Lieutenant Governor,CA
+435,San Joaquin,David R. Hernandez,REP,"3,824",Lieutenant Governor,CA
+436,San Joaquin,Lydia Ortega,REP,"4,314",Lieutenant Governor,CA
+437,San Joaquin,Tim Ferreira,LIB,895,Lieutenant Governor,CA
+438,San Joaquin,Gayle McLaughlin,NPP,"1,158",Lieutenant Governor,CA
+439,San Joaquin,Danny Thomas,NPP,527,Lieutenant Governor,CA
+440,San Luis Obispo,Jeff Bleich,DEM,"2,978",Lieutenant Governor,CA
+441,San Luis Obispo,Cameron Gharabiklou,DEM,632,Lieutenant Governor,CA
+442,San Luis Obispo,Ed Hernandez,DEM,"8,053",Lieutenant Governor,CA
+443,San Luis Obispo,Eleni Kounalakis,DEM,"14,505",Lieutenant Governor,CA
+444,San Luis Obispo,David Fennell,REP,"5,988",Lieutenant Governor,CA
+445,San Luis Obispo,Cole Harris,REP,"11,877",Lieutenant Governor,CA
+446,San Luis Obispo,David R. Hernandez,REP,"2,752",Lieutenant Governor,CA
+447,San Luis Obispo,Lydia Ortega,REP,"3,608",Lieutenant Governor,CA
+448,San Luis Obispo,Tim Ferreira,LIB,970,Lieutenant Governor,CA
+449,San Luis Obispo,Gayle McLaughlin,NPP,"1,227",Lieutenant Governor,CA
+450,San Luis Obispo,Danny Thomas,NPP,326,Lieutenant Governor,CA
+451,San Mateo,Jeff Bleich,DEM,"12,328",Lieutenant Governor,CA
+452,San Mateo,Cameron Gharabiklou,DEM,865,Lieutenant Governor,CA
+453,San Mateo,Ed Hernandez,DEM,"11,637",Lieutenant Governor,CA
+454,San Mateo,Eleni Kounalakis,DEM,"23,118",Lieutenant Governor,CA
+455,San Mateo,David Fennell,REP,"5,005",Lieutenant Governor,CA
+456,San Mateo,Cole Harris,REP,"6,529",Lieutenant Governor,CA
+457,San Mateo,David R. Hernandez,REP,"1,751",Lieutenant Governor,CA
+458,San Mateo,Lydia Ortega,REP,"3,747",Lieutenant Governor,CA
+459,San Mateo,Tim Ferreira,LIB,"1,137",Lieutenant Governor,CA
+460,San Mateo,Gayle McLaughlin,NPP,"2,348",Lieutenant Governor,CA
+461,San Mateo,Danny Thomas,NPP,429,Lieutenant Governor,CA
+462,Santa Barbara,Jeff Bleich,DEM,"3,394",Lieutenant Governor,CA
+463,Santa Barbara,Cameron Gharabiklou,DEM,506,Lieutenant Governor,CA
+464,Santa Barbara,Ed Hernandez,DEM,"11,492",Lieutenant Governor,CA
+465,Santa Barbara,Eleni Kounalakis,DEM,"13,278",Lieutenant Governor,CA
+466,Santa Barbara,David Fennell,REP,"5,186",Lieutenant Governor,CA
+467,Santa Barbara,Cole Harris,REP,"10,041",Lieutenant Governor,CA
+468,Santa Barbara,David R. Hernandez,REP,"2,858",Lieutenant Governor,CA
+469,Santa Barbara,Lydia Ortega,REP,"3,743",Lieutenant Governor,CA
+470,Santa Barbara,Tim Ferreira,LIB,907,Lieutenant Governor,CA
+471,Santa Barbara,Gayle McLaughlin,NPP,"1,365",Lieutenant Governor,CA
+472,Santa Barbara,Danny Thomas,NPP,344,Lieutenant Governor,CA
+473,Santa Clara,Jeff Bleich,DEM,"30,857",Lieutenant Governor,CA
+474,Santa Clara,Cameron Gharabiklou,DEM,"2,782",Lieutenant Governor,CA
+475,Santa Clara,Ed Hernandez,DEM,"29,230",Lieutenant Governor,CA
+476,Santa Clara,Eleni Kounalakis,DEM,"45,081",Lieutenant Governor,CA
+477,Santa Clara,David Fennell,REP,"13,451",Lieutenant Governor,CA
+478,Santa Clara,Cole Harris,REP,"17,268",Lieutenant Governor,CA
+479,Santa Clara,David R. Hernandez,REP,"6,788",Lieutenant Governor,CA
+480,Santa Clara,Lydia Ortega,REP,"8,572",Lieutenant Governor,CA
+481,Santa Clara,Tim Ferreira,LIB,"2,830",Lieutenant Governor,CA
+482,Santa Clara,Gayle McLaughlin,NPP,"4,285",Lieutenant Governor,CA
+483,Santa Clara,Danny Thomas,NPP,"1,140",Lieutenant Governor,CA
+484,Santa Cruz,Jeff Bleich,DEM,"4,046",Lieutenant Governor,CA
+485,Santa Cruz,Cameron Gharabiklou,DEM,342,Lieutenant Governor,CA
+486,Santa Cruz,Ed Hernandez,DEM,"8,279",Lieutenant Governor,CA
+487,Santa Cruz,Eleni Kounalakis,DEM,"11,854",Lieutenant Governor,CA
+488,Santa Cruz,David Fennell,REP,"1,642",Lieutenant Governor,CA
+489,Santa Cruz,Cole Harris,REP,"3,283",Lieutenant Governor,CA
+490,Santa Cruz,David R. Hernandez,REP,"1,044",Lieutenant Governor,CA
+491,Santa Cruz,Lydia Ortega,REP,"1,890",Lieutenant Governor,CA
+492,Santa Cruz,Tim Ferreira,LIB,459,Lieutenant Governor,CA
+493,Santa Cruz,Gayle McLaughlin,NPP,"1,870",Lieutenant Governor,CA
+494,Santa Cruz,Danny Thomas,NPP,153,Lieutenant Governor,CA
+495,Shasta,Jeff Bleich,DEM,"1,279",Lieutenant Governor,CA
+496,Shasta,Cameron Gharabiklou,DEM,220,Lieutenant Governor,CA
+497,Shasta,Ed Hernandez,DEM,"2,440",Lieutenant Governor,CA
+498,Shasta,Eleni Kounalakis,DEM,"2,147",Lieutenant Governor,CA
+499,Shasta,David Fennell,REP,"3,866",Lieutenant Governor,CA
+500,Shasta,Cole Harris,REP,"5,455",Lieutenant Governor,CA
+501,Shasta,David R. Hernandez,REP,"2,174",Lieutenant Governor,CA
+502,Shasta,Lydia Ortega,REP,"1,932",Lieutenant Governor,CA
+503,Shasta,Tim Ferreira,LIB,405,Lieutenant Governor,CA
+504,Shasta,Gayle McLaughlin,NPP,527,Lieutenant Governor,CA
+505,Shasta,Danny Thomas,NPP,191,Lieutenant Governor,CA
+506,Sierra,Jeff Bleich,DEM,65,Lieutenant Governor,CA
+507,Sierra,Cameron Gharabiklou,DEM,7,Lieutenant Governor,CA
+508,Sierra,Ed Hernandez,DEM,92,Lieutenant Governor,CA
+509,Sierra,Eleni Kounalakis,DEM,256,Lieutenant Governor,CA
+510,Sierra,David Fennell,REP,215,Lieutenant Governor,CA
+511,Sierra,Cole Harris,REP,266,Lieutenant Governor,CA
+512,Sierra,David R. Hernandez,REP,89,Lieutenant Governor,CA
+513,Sierra,Lydia Ortega,REP,133,Lieutenant Governor,CA
+514,Sierra,Tim Ferreira,LIB,30,Lieutenant Governor,CA
+515,Sierra,Gayle McLaughlin,NPP,48,Lieutenant Governor,CA
+516,Sierra,Danny Thomas,NPP,16,Lieutenant Governor,CA
+517,Siskiyou,Jeff Bleich,DEM,591,Lieutenant Governor,CA
+518,Siskiyou,Cameron Gharabiklou,DEM,69,Lieutenant Governor,CA
+519,Siskiyou,Ed Hernandez,DEM,934,Lieutenant Governor,CA
+520,Siskiyou,Eleni Kounalakis,DEM,"1,028",Lieutenant Governor,CA
+521,Siskiyou,David Fennell,REP,"1,335",Lieutenant Governor,CA
+522,Siskiyou,Cole Harris,REP,"1,346",Lieutenant Governor,CA
+523,Siskiyou,David R. Hernandez,REP,602,Lieutenant Governor,CA
+524,Siskiyou,Lydia Ortega,REP,641,Lieutenant Governor,CA
+525,Siskiyou,Tim Ferreira,LIB,139,Lieutenant Governor,CA
+526,Siskiyou,Gayle McLaughlin,NPP,303,Lieutenant Governor,CA
+527,Siskiyou,Danny Thomas,NPP,84,Lieutenant Governor,CA
+528,Solano,Jeff Bleich,DEM,"6,273",Lieutenant Governor,CA
+529,Solano,Cameron Gharabiklou,DEM,"1,248",Lieutenant Governor,CA
+530,Solano,Ed Hernandez,DEM,"10,382",Lieutenant Governor,CA
+531,Solano,Eleni Kounalakis,DEM,"17,953",Lieutenant Governor,CA
+532,Solano,David Fennell,REP,"6,962",Lieutenant Governor,CA
+533,Solano,Cole Harris,REP,"7,603",Lieutenant Governor,CA
+534,Solano,David R. Hernandez,REP,"3,393",Lieutenant Governor,CA
+535,Solano,Lydia Ortega,REP,"4,813",Lieutenant Governor,CA
+536,Solano,Tim Ferreira,LIB,"1,536",Lieutenant Governor,CA
+537,Solano,Gayle McLaughlin,NPP,"1,909",Lieutenant Governor,CA
+538,Solano,Danny Thomas,NPP,490,Lieutenant Governor,CA
+539,Sonoma,Jeff Bleich,DEM,"9,827",Lieutenant Governor,CA
+540,Sonoma,Cameron Gharabiklou,DEM,713,Lieutenant Governor,CA
+541,Sonoma,Ed Hernandez,DEM,"11,340",Lieutenant Governor,CA
+542,Sonoma,Eleni Kounalakis,DEM,"23,279",Lieutenant Governor,CA
+543,Sonoma,David Fennell,REP,"4,020",Lieutenant Governor,CA
+544,Sonoma,Cole Harris,REP,"7,007",Lieutenant Governor,CA
+545,Sonoma,David R. Hernandez,REP,"2,268",Lieutenant Governor,CA
+546,Sonoma,Lydia Ortega,REP,"4,092",Lieutenant Governor,CA
+547,Sonoma,Tim Ferreira,LIB,944,Lieutenant Governor,CA
+548,Sonoma,Gayle McLaughlin,NPP,"2,948",Lieutenant Governor,CA
+549,Sonoma,Danny Thomas,NPP,480,Lieutenant Governor,CA
+550,Stanislaus,Jeff Bleich,DEM,"2,811",Lieutenant Governor,CA
+551,Stanislaus,Cameron Gharabiklou,DEM,408,Lieutenant Governor,CA
+552,Stanislaus,Ed Hernandez,DEM,"6,902",Lieutenant Governor,CA
+553,Stanislaus,Eleni Kounalakis,DEM,"10,045",Lieutenant Governor,CA
+554,Stanislaus,David Fennell,REP,"5,689",Lieutenant Governor,CA
+555,Stanislaus,Cole Harris,REP,"10,295",Lieutenant Governor,CA
+556,Stanislaus,David R. Hernandez,REP,"2,701",Lieutenant Governor,CA
+557,Stanislaus,Lydia Ortega,REP,"3,203",Lieutenant Governor,CA
+558,Stanislaus,Tim Ferreira,LIB,792,Lieutenant Governor,CA
+559,Stanislaus,Gayle McLaughlin,NPP,815,Lieutenant Governor,CA
+560,Stanislaus,Danny Thomas,NPP,385,Lieutenant Governor,CA
+561,Sutter,Jeff Bleich,DEM,408,Lieutenant Governor,CA
+562,Sutter,Cameron Gharabiklou,DEM,350,Lieutenant Governor,CA
+563,Sutter,Ed Hernandez,DEM,"1,301",Lieutenant Governor,CA
+564,Sutter,Eleni Kounalakis,DEM,"1,552",Lieutenant Governor,CA
+565,Sutter,David Fennell,REP,"1,237",Lieutenant Governor,CA
+566,Sutter,Cole Harris,REP,"3,145",Lieutenant Governor,CA
+567,Sutter,David R. Hernandez,REP,765,Lieutenant Governor,CA
+568,Sutter,Lydia Ortega,REP,806,Lieutenant Governor,CA
+569,Sutter,Tim Ferreira,LIB,236,Lieutenant Governor,CA
+570,Sutter,Gayle McLaughlin,NPP,152,Lieutenant Governor,CA
+571,Sutter,Danny Thomas,NPP,131,Lieutenant Governor,CA
+572,Tehama,Jeff Bleich,DEM,353,Lieutenant Governor,CA
+573,Tehama,Cameron Gharabiklou,DEM,204,Lieutenant Governor,CA
+574,Tehama,Ed Hernandez,DEM,"1,265",Lieutenant Governor,CA
+575,Tehama,Eleni Kounalakis,DEM,817,Lieutenant Governor,CA
+576,Tehama,David Fennell,REP,"1,892",Lieutenant Governor,CA
+577,Tehama,Cole Harris,REP,"2,499",Lieutenant Governor,CA
+578,Tehama,David R. Hernandez,REP,999,Lieutenant Governor,CA
+579,Tehama,Lydia Ortega,REP,830,Lieutenant Governor,CA
+580,Tehama,Tim Ferreira,LIB,150,Lieutenant Governor,CA
+581,Tehama,Gayle McLaughlin,NPP,218,Lieutenant Governor,CA
+582,Tehama,Danny Thomas,NPP,142,Lieutenant Governor,CA
+583,Trinity,Jeff Bleich,DEM,197,Lieutenant Governor,CA
+584,Trinity,Cameron Gharabiklou,DEM,49,Lieutenant Governor,CA
+585,Trinity,Ed Hernandez,DEM,501,Lieutenant Governor,CA
+586,Trinity,Eleni Kounalakis,DEM,473,Lieutenant Governor,CA
+587,Trinity,David Fennell,REP,568,Lieutenant Governor,CA
+588,Trinity,Cole Harris,REP,454,Lieutenant Governor,CA
+589,Trinity,David R. Hernandez,REP,288,Lieutenant Governor,CA
+590,Trinity,Lydia Ortega,REP,320,Lieutenant Governor,CA
+591,Trinity,Tim Ferreira,LIB,81,Lieutenant Governor,CA
+592,Trinity,Gayle McLaughlin,NPP,120,Lieutenant Governor,CA
+593,Trinity,Danny Thomas,NPP,29,Lieutenant Governor,CA
+594,Tulare,Jeff Bleich,DEM,"1,418",Lieutenant Governor,CA
+595,Tulare,Cameron Gharabiklou,DEM,264,Lieutenant Governor,CA
+596,Tulare,Ed Hernandez,DEM,"6,091",Lieutenant Governor,CA
+597,Tulare,Eleni Kounalakis,DEM,"2,185",Lieutenant Governor,CA
+598,Tulare,David Fennell,REP,"3,557",Lieutenant Governor,CA
+599,Tulare,Cole Harris,REP,"9,815",Lieutenant Governor,CA
+600,Tulare,David R. Hernandez,REP,"2,208",Lieutenant Governor,CA
+601,Tulare,Lydia Ortega,REP,"2,137",Lieutenant Governor,CA
+602,Tulare,Tim Ferreira,LIB,592,Lieutenant Governor,CA
+603,Tulare,Gayle McLaughlin,NPP,418,Lieutenant Governor,CA
+604,Tulare,Danny Thomas,NPP,299,Lieutenant Governor,CA
+605,Tuolumne,Jeff Bleich,DEM,509,Lieutenant Governor,CA
+606,Tuolumne,Cameron Gharabiklou,DEM,79,Lieutenant Governor,CA
+607,Tuolumne,Ed Hernandez,DEM,"1,115",Lieutenant Governor,CA
+608,Tuolumne,Eleni Kounalakis,DEM,"2,387",Lieutenant Governor,CA
+609,Tuolumne,David Fennell,REP,"2,041",Lieutenant Governor,CA
+610,Tuolumne,Cole Harris,REP,"1,808",Lieutenant Governor,CA
+611,Tuolumne,David R. Hernandez,REP,773,Lieutenant Governor,CA
+612,Tuolumne,Lydia Ortega,REP,823,Lieutenant Governor,CA
+613,Tuolumne,Tim Ferreira,LIB,177,Lieutenant Governor,CA
+614,Tuolumne,Gayle McLaughlin,NPP,276,Lieutenant Governor,CA
+615,Tuolumne,Danny Thomas,NPP,81,Lieutenant Governor,CA
+616,Ventura,Jeff Bleich,DEM,"6,917",Lieutenant Governor,CA
+617,Ventura,Cameron Gharabiklou,DEM,828,Lieutenant Governor,CA
+618,Ventura,Ed Hernandez,DEM,"21,960",Lieutenant Governor,CA
+619,Ventura,Eleni Kounalakis,DEM,"22,342",Lieutenant Governor,CA
+620,Ventura,David Fennell,REP,"12,392",Lieutenant Governor,CA
+621,Ventura,Cole Harris,REP,"20,061",Lieutenant Governor,CA
+622,Ventura,David R. Hernandez,REP,"7,405",Lieutenant Governor,CA
+623,Ventura,Lydia Ortega,REP,"6,622",Lieutenant Governor,CA
+624,Ventura,Tim Ferreira,LIB,"1,694",Lieutenant Governor,CA
+625,Ventura,Gayle McLaughlin,NPP,"2,875",Lieutenant Governor,CA
+626,Ventura,Danny Thomas,NPP,718,Lieutenant Governor,CA
+627,Yolo,Jeff Bleich,DEM,"2,200",Lieutenant Governor,CA
+628,Yolo,Cameron Gharabiklou,DEM,254,Lieutenant Governor,CA
+629,Yolo,Ed Hernandez,DEM,"5,279",Lieutenant Governor,CA
+630,Yolo,Eleni Kounalakis,DEM,"8,440",Lieutenant Governor,CA
+631,Yolo,David Fennell,REP,"1,757",Lieutenant Governor,CA
+632,Yolo,Cole Harris,REP,"3,331",Lieutenant Governor,CA
+633,Yolo,David R. Hernandez,REP,"1,043",Lieutenant Governor,CA
+634,Yolo,Lydia Ortega,REP,"1,566",Lieutenant Governor,CA
+635,Yolo,Tim Ferreira,LIB,506,Lieutenant Governor,CA
+636,Yolo,Gayle McLaughlin,NPP,921,Lieutenant Governor,CA
+637,Yolo,Danny Thomas,NPP,148,Lieutenant Governor,CA
+638,Yuba,Jeff Bleich,DEM,233,Lieutenant Governor,CA
+639,Yuba,Cameron Gharabiklou,DEM,137,Lieutenant Governor,CA
+640,Yuba,Ed Hernandez,DEM,747,Lieutenant Governor,CA
+641,Yuba,Eleni Kounalakis,DEM,"1,005",Lieutenant Governor,CA
+642,Yuba,David Fennell,REP,"1,087",Lieutenant Governor,CA
+643,Yuba,Cole Harris,REP,"1,794",Lieutenant Governor,CA
+644,Yuba,David R. Hernandez,REP,488,Lieutenant Governor,CA
+645,Yuba,Lydia Ortega,REP,468,Lieutenant Governor,CA
+646,Yuba,Tim Ferreira,LIB,149,Lieutenant Governor,CA
+647,Yuba,Gayle McLaughlin,NPP,170,Lieutenant Governor,CA
+648,Yuba,Danny Thomas,NPP,62,Lieutenant Governor,CA
