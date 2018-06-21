@@ -1,0 +1,217 @@
+ContestID,ContestName,PartyCode,AreaType,AreaNum,OfficeSeqNo,BallotOrder,CandidateID,CandidateName,CurrentDateTime,VoteFor,CandidateVotes,CandidatePercentage,PrecinctsReporting
+100001879,"26-197 CITY OF PORTLAND Renew Portland Children's Levy for five years.","","","City of Portland (JT)",87,,1,"Yes",6/11/2018 12:01:10 PM,1,118,0.746835443037975,92/92
+100001879,"26-197 CITY OF PORTLAND Renew Portland Children's Levy for five years.","","","City of Portland (JT)",87,,2,"No",6/11/2018 12:01:10 PM,1,40,0.253164556962025,92/92
+100001887,"34-282 City of Tualatin Authorizes General Obligation Bonds for Traffic Congestion and Safety Improvements","","","City of Tualatin (JT)",88,,1,"Yes",6/11/2018 12:01:10 PM,1,328,0.514913657770801,8/8
+100001887,"34-282 City of Tualatin Authorizes General Obligation Bonds for Traffic Congestion and Safety Improvements","","","City of Tualatin (JT)",88,,2,"No",6/11/2018 12:01:10 PM,1,309,0.485086342229199,8/8
+100036380,"US Representative, District 3 - Independent Party","IND","","US Congressional District 3",22,,9901,"Write-in",6/11/2018 12:01:10 PM,1,75,0.22189349112426,138/138
+100036380,"US Representative, District 3 - Independent Party","IND","","US Congressional District 3",22,,100060605,"Marc W Koller",6/11/2018 12:01:10 PM,1,130,0.384615384615385,138/138
+100036380,"US Representative, District 3 - Independent Party","IND","","US Congressional District 3",22,,100061845,"David W Walker",6/11/2018 12:01:10 PM,1,133,0.393491124260355,138/138
+100036381,"US Representative, District 3 - Democrat","DEM","","US Congressional District 3",1,,9901,"Write-in",6/11/2018 12:01:10 PM,1,37,0.00493596584845251,138/138
+100036381,"US Representative, District 3 - Democrat","DEM","","US Congressional District 3",1,,100060603,"Charles Rand Barnett",6/11/2018 12:01:10 PM,1,231,0.0308164354322305,138/138
+100036381,"US Representative, District 3 - Democrat","DEM","","US Congressional District 3",1,,100060604,"Ben Lavine",6/11/2018 12:01:10 PM,1,608,0.0811099252934899,138/138
+100036381,"US Representative, District 3 - Democrat","DEM","","US Congressional District 3",1,,100061495,"Eric Hafner",6/11/2018 12:01:10 PM,1,219,0.0292155816435432,138/138
+100036381,"US Representative, District 3 - Democrat","DEM","","US Congressional District 3",1,,300024803,"Earl Blumenauer",6/11/2018 12:01:10 PM,1,6401,0.853922091782284,138/138
+100036382,"US Representative, District 3 - Republican","REP","","US Congressional District 3",42,,9901,"Write-in",6/11/2018 12:01:10 PM,1,593,1,138/138
+100036386,"US Representative, District 5 - Independent Party","IND","","US Congressional District 5",5,,9901,"Write-in",6/11/2018 12:01:10 PM,1,538,1,293/293
+100036387,"US Representative, District 5 - Democrat","DEM","","US Congressional District 5",1,,9901,"Write-in",6/11/2018 12:01:10 PM,1,203,0.0074003864241187,293/293
+100036387,"US Representative, District 5 - Democrat","DEM","","US Congressional District 5",1,,100061496,"Peter Wright",6/11/2018 12:01:10 PM,1,3420,0.124676460938354,293/293
+100036387,"US Representative, District 5 - Democrat","DEM","","US Congressional District 5",1,,300025018,"Kurt Schrader",6/11/2018 12:01:10 PM,1,23808,0.867923152637527,293/293
+100036388,"US Representative, District 5 - Republican","REP","","US Congressional District 5",9,,9901,"Write-in",6/11/2018 12:01:10 PM,1,180,0.0100005555864215,293/293
+100036388,"US Representative, District 5 - Republican","REP","","US Congressional District 5",9,,100060612,"Mark Callahan",6/11/2018 12:01:10 PM,1,11466,0.637035390855047,293/293
+100036388,"US Representative, District 5 - Republican","REP","","US Congressional District 5",9,,100060613,"Joey Nations",6/11/2018 12:01:10 PM,1,3492,0.194010778376576,293/293
+100036388,"US Representative, District 5 - Republican","REP","","US Congressional District 5",9,,100060614,"Robert L Reynolds",6/11/2018 12:01:10 PM,1,2861,0.158953275181955,293/293
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,9901,"Write-in",6/11/2018 12:01:10 PM,1,1112,0.575867426204039,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061547,"Dan (Mr P) Pistoresi",6/11/2018 12:01:10 PM,1,114,0.0590367685137235,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061846,"Skye J Allen",6/11/2018 12:01:10 PM,1,199,0.10305541170378,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061848,"Patrick Starnes",6/11/2018 12:01:10 PM,1,506,0.262040393578457,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,9901,"Write-in",6/11/2018 12:01:10 PM,1,808,0.0228190573018159,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,100060704,"Candace Neville",6/11/2018 12:01:10 PM,1,2865,0.0809116326357706,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,100061152,"Ed Jones",6/11/2018 12:01:10 PM,1,3296,0.0930836792905758,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,300027544,"Kate Brown",6/11/2018 12:01:10 PM,1,28440,0.803185630771838,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,9901,"Write-in",6/11/2018 12:01:10 PM,1,179,0.0057979464256794,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060615,"Keenan W Bohach",6/11/2018 12:01:10 PM,1,68,0.00220257182651508,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060616,"Knute Buehler",6/11/2018 12:01:10 PM,1,15056,0.487675315000162,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060617,"Sam Carpenter",6/11/2018 12:01:10 PM,1,7871,0.25494768891912,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060618,"Bruce Cuff",6/11/2018 12:01:10 PM,1,303,0.00981440093285395,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060619,"Jonathan I Edwards III",6/11/2018 12:01:10 PM,1,77,0.00249408868590678,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060620,"Jeff Smith",6/11/2018 12:01:10 PM,1,431,0.013960418488647,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060621,"Jack W Tacy",6/11/2018 12:01:10 PM,1,37,0.00119845819972144,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060705,"Greg C Wooldridge",6/11/2018 12:01:10 PM,1,6580,0.213131214977488,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100061153,"David W Stauffer",6/11/2018 12:01:10 PM,1,211,0.00683445081462767,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100061849,"Brett Hyland",6/11/2018 12:01:10 PM,1,60,0.00194344572927801,1302/1335
+100036413,"State Senator, 13th District - Independent Party","IND","","SD 13",12,,9901,"Write-in",6/11/2018 12:01:10 PM,1,41,1,39/39
+100036414,"State Senator, 13th District - Democrat","DEM","","SD 13",3,,9901,"Write-in",6/11/2018 12:01:10 PM,1,9,0.00646551724137931,39/39
+100036414,"State Senator, 13th District - Democrat","DEM","","SD 13",3,,100061431,"Paul Diller",6/11/2018 12:01:10 PM,1,929,0.667385057471264,39/39
+100036414,"State Senator, 13th District - Democrat","DEM","","SD 13",3,,100061489,"Sarah Grider",6/11/2018 12:01:10 PM,1,454,0.326149425287356,39/39
+100036415,"State Senator, 13th District - Republican","REP","","SD 13",21,,9901,"Write-in",6/11/2018 12:01:10 PM,1,12,0.0123839009287926,39/39
+100036415,"State Senator, 13th District - Republican","REP","","SD 13",21,,100043071,"Kim Thatcher",6/11/2018 12:01:10 PM,1,957,0.987616099071207,39/39
+100036425,"State Senator, 19th District - Independent Party","IND","","SD 19",26,,9901,"Write-in",6/11/2018 12:01:10 PM,1,114,1,44/44
+100036426,"State Senator, 19th District - Democrat","DEM","","SD 19",5,,9901,"Write-in",6/11/2018 12:01:10 PM,1,56,0.00810654313839027,44/44
+100036426,"State Senator, 19th District - Democrat","DEM","","SD 19",5,,100060628,"Rob Wagner",6/11/2018 12:01:10 PM,1,6852,0.99189345686161,44/44
+100036427,"State Senator, 19th District - Republican","REP","","SD 19",46,,9901,"Write-in",6/11/2018 12:01:10 PM,1,43,0.0111688311688312,44/44
+100036427,"State Senator, 19th District - Republican","REP","","SD 19",46,,100061462,"David C Poulson",6/11/2018 12:01:10 PM,1,3807,0.988831168831169,44/44
+100036428,"State Senator, 20th District - Independent Party","IND","","SD 20",23,,9901,"Write-in",6/11/2018 12:01:10 PM,1,323,1,42/42
+100036429,"State Senator, 20th District - Democrat","DEM","","SD 20",5,,9901,"Write-in",6/11/2018 12:01:10 PM,1,167,0.0208177511842433,42/42
+100036429,"State Senator, 20th District - Democrat","DEM","","SD 20",5,,100060630,"Charles Gallia",6/11/2018 12:01:10 PM,1,7855,0.979182248815757,42/42
+100036430,"State Senator, 20th District - Republican","REP","","SD 20",39,,9901,"Write-in",6/11/2018 12:01:10 PM,1,124,0.0152016672796371,42/42
+100036430,"State Senator, 20th District - Republican","REP","","SD 20",39,,300025034,"Alan R Olsen",6/11/2018 12:01:10 PM,1,8033,0.984798332720363,42/42
+100036431,"State Senator, 24th District - Independent Party","IND","","SD 24",28,,9901,"Write-in",6/11/2018 12:01:10 PM,1,26,1,25/25
+100036432,"State Senator, 24th District - Democrat","DEM","","SD 24",7,,9901,"Write-in",6/11/2018 12:01:10 PM,1,7,0.00293378038558257,25/25
+100036432,"State Senator, 24th District - Democrat","DEM","","SD 24",7,,100060631,"Kayse Jama",6/11/2018 12:01:10 PM,1,349,0.146269907795474,25/25
+100036432,"State Senator, 24th District - Democrat","DEM","","SD 24",7,,100061492,"Shemia Fagan",6/11/2018 12:01:10 PM,1,1438,0.60268231349539,25/25
+100036432,"State Senator, 24th District - Democrat","DEM","","SD 24",7,,300025035,"Rod Monroe",6/11/2018 12:01:10 PM,1,592,0.248113998323554,25/25
+100036433,"State Senator, 24th District - Republican","REP","","SD 24",48,,9901,"Write-in",6/11/2018 12:01:10 PM,1,98,1,25/25
+100036434,"State Senator, 26th District - Independent Party","IND","","SD 26",7,,9901,"Write-in",6/11/2018 12:01:10 PM,1,176,1,43/43
+100036435,"State Senator, 26th District - Democrat","DEM","","SD 26",3,,9901,"Write-in",6/11/2018 12:01:10 PM,1,66,0.0191860465116279,43/43
+100036435,"State Senator, 26th District - Democrat","DEM","","SD 26",3,,100060632,"Chrissy Reitz",6/11/2018 12:01:10 PM,1,3374,0.980813953488372,43/43
+100036436,"State Senator, 26th District - Republican","REP","","SD 26",11,,9901,"Write-in",6/11/2018 12:01:10 PM,1,49,0.0154185022026432,43/43
+100036436,"State Senator, 26th District - Republican","REP","","SD 26",11,,300025036,"Chuck Thomsen",6/11/2018 12:01:10 PM,1,3129,0.984581497797357,43/43
+100036488,"State Representative, 18th District - Independent Party","IND","","HD 18",25,,9901,"Write-in",6/11/2018 12:01:10 PM,1,25,1,30/30
+100036489,"State Representative, 18th District - Democrat","DEM","","HD 18",8,,9901,"Write-in",6/11/2018 12:01:10 PM,1,16,0.0124610591900312,30/30
+100036489,"State Representative, 18th District - Democrat","DEM","","HD 18",8,,100060642,"Doug L Culver",6/11/2018 12:01:10 PM,1,382,0.297507788161994,30/30
+100036489,"State Representative, 18th District - Democrat","DEM","","HD 18",8,,100061437,"Barry Shapiro",6/11/2018 12:01:10 PM,1,886,0.690031152647975,30/30
+100036490,"State Representative, 18th District - Republican","REP","","HD 18",42,,9901,"Write-in",6/11/2018 12:01:10 PM,1,0,0,30/30
+100036490,"State Representative, 18th District - Republican","REP","","HD 18",42,,100060560,"Rick Lewis",6/11/2018 12:01:10 PM,1,1498,1,30/30
+100036512,"State Representative, 26th District - Independent Party","IND","","HD 26",30,,9901,"Write-in",6/11/2018 12:01:10 PM,1,40,1,23/23
+100036513,"State Representative, 26th District - Democrat","DEM","","HD 26",10,,9901,"Write-in",6/11/2018 12:01:10 PM,1,23,0.0192307692307692,23/23
+100036513,"State Representative, 26th District - Democrat","DEM","","HD 26",10,,100061473,"Ryan Spiker",6/11/2018 12:01:10 PM,1,1173,0.980769230769231,23/23
+100036514,"State Representative, 26th District - Republican","REP","","HD 26",50,,9901,"Write-in",6/11/2018 12:01:10 PM,1,5,0.00417014178482068,23/23
+100036514,"State Representative, 26th District - Republican","REP","","HD 26",50,,100061860,"Dan Laschober",6/11/2018 12:01:10 PM,1,443,0.369474562135113,23/23
+100036514,"State Representative, 26th District - Republican","REP","","HD 26",50,,300027697,"A Richard Vial",6/11/2018 12:01:10 PM,1,751,0.626355296080067,23/23
+100036539,"State Representative, 35th District - Independent Party","IND","","HD 35",32,,9901,"Write-in",6/11/2018 12:01:10 PM,1,1,1,14/14
+100036540,"State Representative, 35th District - Democrat","DEM","","HD 35",12,,9901,"Write-in",6/11/2018 12:01:10 PM,1,1,0.0144927536231884,14/14
+100036540,"State Representative, 35th District - Democrat","DEM","","HD 35",12,,300025063,"Margaret Doherty",6/11/2018 12:01:10 PM,1,68,0.985507246376812,14/14
+100036541,"State Representative, 35th District - Republican","REP","","HD 35",53,,9901,"Write-in",6/11/2018 12:01:10 PM,1,1,0.0357142857142857,14/14
+100036541,"State Representative, 35th District - Republican","REP","","HD 35",53,,100060655,"Bob Niemeyer",6/11/2018 12:01:10 PM,1,27,0.964285714285714,14/14
+100036545,"State Representative, 37th District - Independent Party","IND","","HD 37",33,,9901,"Write-in",6/11/2018 12:01:10 PM,1,78,1,24/24
+100036546,"State Representative, 37th District - Democrat","DEM","","HD 37",13,,9901,"Write-in",6/11/2018 12:01:10 PM,1,36,0.0110667076544728,24/24
+100036546,"State Representative, 37th District - Democrat","DEM","","HD 37",13,,100061466,"Rachel Prusak",6/11/2018 12:01:10 PM,1,3217,0.988933292345527,24/24
+100036547,"State Representative, 37th District - Republican","REP","","HD 37",54,,9901,"Write-in",6/11/2018 12:01:10 PM,1,41,0.0155068078668684,24/24
+100036547,"State Representative, 37th District - Republican","REP","","HD 37",54,,300025065,"Julie Parrish",6/11/2018 12:01:10 PM,1,2603,0.984493192133132,24/24
+100036548,"State Representative, 38th District - Independent Party","IND","","HD 38",34,,9901,"Write-in",6/11/2018 12:01:10 PM,1,23,1,20/20
+100036549,"State Representative, 38th District - Democrat","DEM","","HD 38",14,,9901,"Write-in",6/11/2018 12:01:10 PM,1,10,0.00278551532033426,20/20
+100036549,"State Representative, 38th District - Democrat","DEM","","HD 38",14,,100060561,"Andrea Salinas",6/11/2018 12:01:10 PM,1,3580,0.997214484679666,20/20
+100036550,"State Representative, 38th District - Republican","REP","","HD 38",55,,9901,"Write-in",6/11/2018 12:01:10 PM,1,113,1,20/20
+100036551,"State Representative, 39th District - Independent Party","IND","","HD 39",32,,9901,"Write-in",6/11/2018 12:01:10 PM,1,181,1,26/26
+100036552,"State Representative, 39th District - Democrat","DEM","","HD 39",15,,9901,"Write-in",6/11/2018 12:01:10 PM,1,94,0.0245751633986928,26/26
+100036552,"State Representative, 39th District - Democrat","DEM","","HD 39",15,,100061478,"Elizabeth Graser-Lindsey",6/11/2018 12:01:10 PM,1,3731,0.975424836601307,26/26
+100036553,"State Representative, 39th District - Republican","REP","","HD 39",49,,9901,"Write-in",6/11/2018 12:01:10 PM,1,24,0.00359227660529861,26/26
+100036553,"State Representative, 39th District - Republican","REP","","HD 39",49,,100060706,"John Lee",6/11/2018 12:01:10 PM,1,1900,0.28438856458614,26/26
+100036553,"State Representative, 39th District - Republican","REP","","HD 39",49,,100061156,"Christine Drazan",6/11/2018 12:01:10 PM,1,2635,0.39440203562341,26/26
+100036553,"State Representative, 39th District - Republican","REP","","HD 39",49,,100061476,"Seth A Rydmark",6/11/2018 12:01:10 PM,1,1071,0.16030534351145,26/26
+100036553,"State Representative, 39th District - Republican","REP","","HD 39",49,,100061477,"Ken Kraft",6/11/2018 12:01:10 PM,1,1051,0.157311779673702,26/26
+100036554,"State Representative, 40th District - Independent Party","IND","","HD 40",36,,9901,"Write-in",6/11/2018 12:01:10 PM,1,73,0.296747967479675,16/16
+100036554,"State Representative, 40th District - Independent Party","IND","","HD 40",36,,100061557,"Chris Henry",6/11/2018 12:01:10 PM,1,173,0.703252032520325,16/16
+100036555,"State Representative, 40th District - Democrat","DEM","","HD 40",16,,9901,"Write-in",6/11/2018 12:01:10 PM,1,72,0.016057091882248,16/16
+100036555,"State Representative, 40th District - Democrat","DEM","","HD 40",16,,300027725,"Mark Meek",6/11/2018 12:01:10 PM,1,4412,0.983942908117752,16/16
+100036556,"State Representative, 40th District - Republican","REP","","HD 40",57,,9901,"Write-in",6/11/2018 12:01:10 PM,1,43,0.0162019593067069,16/16
+100036556,"State Representative, 40th District - Republican","REP","","HD 40",57,,100061885,"Josh Hill",6/11/2018 12:01:10 PM,1,2611,0.983798040693293,16/16
+100036557,"State Representative, 41st District - Independent Party","IND","","HD 41",37,,9901,"Write-in",6/11/2018 12:01:10 PM,1,31,1,15/15
+100036558,"State Representative, 41st District - Democrat","DEM","","HD 41",16,,9901,"Write-in",6/11/2018 12:01:10 PM,1,23,0.00584944048830112,15/15
+100036558,"State Representative, 41st District - Democrat","DEM","","HD 41",16,,300027727,"Karin Power",6/11/2018 12:01:10 PM,1,3909,0.994150559511699,15/15
+100036559,"State Representative, 41st District - Republican","REP","","HD 41",58,,9901,"Write-in",6/11/2018 12:01:10 PM,1,133,1,15/15
+100036578,"State Representative, 48th District - Independent Party","IND","","HD 48",38,,9901,"Write-in",6/11/2018 12:01:10 PM,1,25,1,15/15
+100036579,"State Representative, 48th District - Democrat","DEM","","HD 48",18,,9901,"Write-in",6/11/2018 12:01:10 PM,1,23,0.0120671563483736,15/15
+100036579,"State Representative, 48th District - Democrat","DEM","","HD 48",18,,300025072,"Jeff Reardon",6/11/2018 12:01:10 PM,1,1883,0.987932843651626,15/15
+100036580,"State Representative, 48th District - Republican","REP","","HD 48",59,,9901,"Write-in",6/11/2018 12:01:10 PM,1,18,0.0208333333333333,15/15
+100036580,"State Representative, 48th District - Republican","REP","","HD 48",59,,100061886,"Sonny Yellott",6/11/2018 12:01:10 PM,1,846,0.979166666666667,15/15
+100036587,"State Representative, 51st District - Independent Party","IND","","HD 51",39,,9901,"Write-in",6/11/2018 12:01:10 PM,1,126,1,19/19
+100036588,"State Representative, 51st District - Democrat","DEM","","HD 51",19,,9901,"Write-in",6/11/2018 12:01:10 PM,1,41,0.0210905349794239,19/19
+100036588,"State Representative, 51st District - Democrat","DEM","","HD 51",19,,300027739,"Janelle S Bynum",6/11/2018 12:01:10 PM,1,1903,0.978909465020576,19/19
+100036589,"State Representative, 51st District - Republican","REP","","HD 51",60,,9901,"Write-in",6/11/2018 12:01:10 PM,1,44,0.0255516840882695,19/19
+100036589,"State Representative, 51st District - Republican","REP","","HD 51",60,,100061888,"Lori Chavez-DeRemer",6/11/2018 12:01:10 PM,1,1678,0.974448315911731,19/19
+100036590,"State Representative, 52nd District - Independent Party","IND","","HD 52",8,,9901,"Write-in",6/11/2018 12:01:10 PM,1,73,1,24/24
+100036591,"State Representative, 52nd District - Democrat","DEM","","HD 52",4,,9901,"Write-in",6/11/2018 12:01:10 PM,1,30,0.0148441365660564,24/24
+100036591,"State Representative, 52nd District - Democrat","DEM","","HD 52",4,,100061479,"Anna K Williams",6/11/2018 12:01:10 PM,1,1497,0.740722414646215,24/24
+100036591,"State Representative, 52nd District - Democrat","DEM","","HD 52",4,,100061480,"Aurora del Val",6/11/2018 12:01:10 PM,1,494,0.244433448787729,24/24
+100036592,"State Representative, 52nd District - Republican","REP","","HD 52",12,,9901,"Write-in",6/11/2018 12:01:10 PM,1,18,0.0116279069767442,24/24
+100036592,"State Representative, 52nd District - Republican","REP","","HD 52",12,,100060707,"Jeff Helfrich",6/11/2018 12:01:10 PM,1,1530,0.988372093023256,24/24
+100036611,"State Representative, 59th District - Independent Party","IND","","HD 59",7,,9901,"Write-in",6/11/2018 12:01:10 PM,1,0,0,38/38
+100036612,"State Representative, 59th District - Democrat","DEM","","HD 59",4,,9901,"Write-in",6/11/2018 12:01:10 PM,1,0,0,38/38
+100036612,"State Representative, 59th District - Democrat","DEM","","HD 59",4,,100061893,"Darcy Long-Curtiss",6/11/2018 12:01:10 PM,1,0,0,38/38
+100036613,"State Representative, 59th District - Republican","REP","","HD 59",11,,9901,"Write-in",6/11/2018 12:01:10 PM,1,0,0,38/38
+100036613,"State Representative, 59th District - Republican","REP","","HD 59",11,,100060562,"Daniel G Bonham",6/11/2018 12:01:10 PM,1,0,0,38/38
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,9901,"Write-in",6/11/2018 12:01:10 PM,1,213,0.0031692184082489,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100060665,"Val Hoyle",6/11/2018 12:01:10 PM,1,32908,0.489636804594623,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100060666,"Jack Howard",6/11/2018 12:01:10 PM,1,6876,0.102307726643753,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100061211,"Lou Ogden",6/11/2018 12:01:10 PM,1,27212,0.404886250353375,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,9901,"Write-in",6/11/2018 12:01:10 PM,1,233,0.00387951847350106,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,100060699,"Kyle L Krohn",6/11/2018 12:01:10 PM,1,23298,0.38791854676235,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,300019649,"Rex Armstrong",6/11/2018 12:01:10 PM,1,36528,0.608201934764149,1302/1335
+100036621,"Judge of the Court of Appeals, Position 6","NON","","Statewide Nonpartisan",13,,9901,"Write-in",6/11/2018 12:01:10 PM,1,606,0.0134403832505323,1302/1335
+100036621,"Judge of the Court of Appeals, Position 6","NON","","Statewide Nonpartisan",13,,300021775,"James (Jim) C Egan",6/11/2018 12:01:10 PM,1,44482,0.986559616749468,1302/1335
+100036623,"Judge of the Court of Appeals, Position 9","NON","","Statewide Nonpartisan",14,,9901,"Write-in",6/11/2018 12:01:10 PM,1,730,0.0170159203748164,1302/1335
+100036623,"Judge of the Court of Appeals, Position 9","NON","","Statewide Nonpartisan",14,,300019653,"Erika Hadlock",6/11/2018 12:01:10 PM,1,42171,0.982984079625184,1302/1335
+100036625,"Judge of the Supreme Court, Position 2","NON","","Statewide Nonpartisan",11,,9901,"Write-in",6/11/2018 12:01:10 PM,1,753,0.0160646854265782,1302/1335
+100036625,"Judge of the Supreme Court, Position 2","NON","","Statewide Nonpartisan",11,,100060566,"Rebecca Duncan",6/11/2018 12:01:10 PM,1,46120,0.983935314573422,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,9901,"Write-in",6/11/2018 12:01:10 PM,1,232,0.00370654396728016,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,100060567,"Meagan A Flynn",6/11/2018 12:01:10 PM,1,44102,0.704594836400818,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,100061619,"Van Pounds",6/11/2018 12:01:10 PM,1,18258,0.291698619631902,1302/1335
+100036657,"Judge of the Circuit Court, 5th District, Position 1","NON","","Circuit Court District 05",69,,9901,"Write-in",6/11/2018 12:01:10 PM,1,571,0.0128620984817768,120/120
+100036657,"Judge of the Circuit Court, 5th District, Position 1","NON","","Circuit Court District 05",69,,300019686,"Jeffrey S Jones",6/11/2018 12:01:10 PM,1,43823,0.987137901518223,120/120
+100036658,"Judge of the Circuit Court, 5th District, Position 11","NON","","Circuit Court District 05",71,,9901,"Write-in",6/11/2018 12:01:10 PM,1,643,0.0142096307263928,120/120
+100036658,"Judge of the Circuit Court, 5th District, Position 11","NON","","Circuit Court District 05",71,,300019687,"Susie L Norby",6/11/2018 12:01:10 PM,1,44608,0.985790369273607,120/120
+100036660,"Judge of the Circuit Court, 5th District, Position 3","NON","","Circuit Court District 05",70,,9901,"Write-in",6/11/2018 12:01:10 PM,1,543,0.0121197241256166,120/120
+100036660,"Judge of the Circuit Court, 5th District, Position 3","NON","","Circuit Court District 05",70,,300019881,"Mike Wetzel",6/11/2018 12:01:10 PM,1,44260,0.987880275874383,120/120
+100036716,"State Senator, 30th District - Democrat","DEM","","SD 30",3,,9901,"Write-in",6/11/2018 12:01:10 PM,1,0,0,93/93
+100036716,"State Senator, 30th District - Democrat","DEM","","SD 30",3,,100061851,"Solea Kabakov",6/11/2018 12:01:10 PM,1,0,0,93/93
+100036717,"State Senator, 30th District - Republican","REP","","SD 30",10,,9901,"Write-in",6/11/2018 12:01:10 PM,1,0,0,93/93
+100036717,"State Senator, 30th District - Republican","REP","","SD 30",10,,100060701,"Cliff Bentz",6/11/2018 12:01:10 PM,1,0,0,93/93
+100037334,"City of Portland Auditor","NON","","City of Portland (JT)",75,,9901,"Write-in",6/11/2018 12:01:10 PM,1,1,0.0121951219512195,92/92
+100037334,"City of Portland Auditor","NON","","City of Portland (JT)",75,,100039995,"Mary Hull Caballero",6/11/2018 12:01:10 PM,1,81,0.98780487804878,92/92
+100037335,"City of Portland Commissioner, Pos 2","NON","","City of Portland (JT)",76,,9901,"Write-in",6/11/2018 12:01:10 PM,1,0,0,92/92
+100037335,"City of Portland Commissioner, Pos 2","NON","","City of Portland (JT)",76,,100039989,"Nick Fish",6/11/2018 12:01:10 PM,1,87,0.644444444444444,92/92
+100037335,"City of Portland Commissioner, Pos 2","NON","","City of Portland (JT)",76,,100062407,"Julia DeGraw",6/11/2018 12:01:10 PM,1,37,0.274074074074074,92/92
+100037335,"City of Portland Commissioner, Pos 2","NON","","City of Portland (JT)",76,,100062408,"Nicholas Sutton",6/11/2018 12:01:10 PM,1,0,0,92/92
+100037335,"City of Portland Commissioner, Pos 2","NON","","City of Portland (JT)",76,,100062409,"Philip J Wolfe",6/11/2018 12:01:10 PM,1,11,0.0814814814814815,92/92
+100037336,"City of Portland Commissioner, Pos 3","NON","","City of Portland (JT)",77,,9901,"Write-in",6/11/2018 12:01:10 PM,1,3,0.0214285714285714,92/92
+100037336,"City of Portland Commissioner, Pos 3","NON","","City of Portland (JT)",77,,100062410,"Jo Ann A Hardesty",6/11/2018 12:01:10 PM,1,49,0.35,92/92
+100037336,"City of Portland Commissioner, Pos 3","NON","","City of Portland (JT)",77,,100062411,"Felicia Williams",6/11/2018 12:01:10 PM,1,19,0.135714285714286,92/92
+100037336,"City of Portland Commissioner, Pos 3","NON","","City of Portland (JT)",77,,100062412,"Andrea Valderrama",6/11/2018 12:01:10 PM,1,27,0.192857142857143,92/92
+100037336,"City of Portland Commissioner, Pos 3","NON","","City of Portland (JT)",77,,100062413,"Loretta Smith",6/11/2018 12:01:10 PM,1,30,0.214285714285714,92/92
+100037336,"City of Portland Commissioner, Pos 3","NON","","City of Portland (JT)",77,,100062414,"Stuart Emmons",6/11/2018 12:01:10 PM,1,7,0.05,92/92
+100037336,"City of Portland Commissioner, Pos 3","NON","","City of Portland (JT)",77,,100062415,"Lew Humble",6/11/2018 12:01:10 PM,1,5,0.0357142857142857,92/92
+100037337,"Metro Auditor","NON","","METRO District",79,,9901,"Write-in",6/11/2018 12:01:10 PM,1,337,0.0106094950258154,326/326
+100037337,"Metro Auditor","NON","","METRO District",79,,100040007,"Brian Evans",6/11/2018 12:01:10 PM,1,31427,0.989390504974185,326/326
+100037338,"Metro Council President","NON","","METRO District",78,,9901,"Write-in",6/11/2018 12:01:10 PM,1,182,0.00423265657340868,326/326
+100037338,"Metro Council President","NON","","METRO District",78,,100061273,"Lynn Peterson",6/11/2018 12:01:10 PM,1,31481,0.732133305425708,326/326
+100037338,"Metro Council President","NON","","METRO District",78,,100061536,"Michael P Langley",6/11/2018 12:01:10 PM,1,11336,0.263634038000884,326/326
+100037339,"Metro Councilor, District 1","NON","","METRO District 1",80,,9901,"Write-in",6/11/2018 12:01:10 PM,1,28,0.0187793427230047,56/56
+100037339,"Metro Councilor, District 1","NON","","METRO District 1",80,,100022004,"Shirley R Craddick",6/11/2018 12:01:10 PM,1,1463,0.981220657276995,56/56
+100037340,"Metro Councilor, District 2","NON","","METRO District 2",81,,9901,"Write-in",6/11/2018 12:01:10 PM,1,200,0.00541741156075627,85/85
+100037340,"Metro Councilor, District 2","NON","","METRO District 2",81,,100061276,"Carol Pauli",6/11/2018 12:01:10 PM,1,6901,0.186927785903895,85/85
+100037340,"Metro Councilor, District 2","NON","","METRO District 2",81,,100061277,"Joe Buck",6/11/2018 12:01:10 PM,1,14050,0.380573162143128,85/85
+100037340,"Metro Councilor, District 2","NON","","METRO District 2",81,,100061281,"Betty Dominguez",6/11/2018 12:01:10 PM,1,7662,0.207541036892573,85/85
+100037340,"Metro Councilor, District 2","NON","","METRO District 2",81,,100061286,"Christine Lewis",6/11/2018 12:01:10 PM,1,8105,0.219540603499648,85/85
+300000950,"24-428 Aurora Rural Fire Protection District Replace Current Tax Levy for Emergency Fire and Medical Services","","","Aurora Fire (JT)",91,,1,"Yes",6/11/2018 12:01:10 PM,1,158,0.514657980456026,8/8
+300000950,"24-428 Aurora Rural Fire Protection District Replace Current Tax Levy for Emergency Fire and Medical Services","","","Aurora Fire (JT)",91,,2,"No",6/11/2018 12:01:10 PM,1,149,0.485342019543974,8/8
+300000955,"3-525 Lake Grove Fire Five-Year Local Option Levy for Fire Services","","","Lake Grove Fire",92,,1,"Yes",6/11/2018 12:01:10 PM,1,725,0.826681870011402,4/4
+300000955,"3-525 Lake Grove Fire Five-Year Local Option Levy for Fire Services","","","Lake Grove Fire",92,,2,"No",6/11/2018 12:01:10 PM,1,152,0.173318129988598,4/4
+300000963,"3-526 City of Happy Valley Approval of Happy Valley Parks and Recreation Levy for Five-Years","","","City of Happy Valley",85,,1,"Yes",6/11/2018 12:01:10 PM,1,2541,0.715774647887324,5/5
+300000963,"3-526 City of Happy Valley Approval of Happy Valley Parks and Recreation Levy for Five-Years","","","City of Happy Valley",85,,2,"No",6/11/2018 12:01:10 PM,1,1009,0.284225352112676,5/5
+300000973,"3-527 City of West Linn Bonds to Improve Roads, Parks, and City Facilities","","","City of West Linn",89,,1,"Yes",6/11/2018 12:01:10 PM,1,3595,0.562597809076682,6/6
+300000973,"3-527 City of West Linn Bonds to Improve Roads, Parks, and City Facilities","","","City of West Linn",89,,2,"No",6/11/2018 12:01:10 PM,1,2795,0.437402190923318,6/6
+300000974,"3-528 City of West Linn Advisory vote for annexation of 6.47 acres on Bland Circle","","","City of West Linn",90,,1,"Yes",6/11/2018 12:01:10 PM,1,4187,0.673909544503461,6/6
+300000974,"3-528 City of West Linn Advisory vote for annexation of 6.47 acres on Bland Circle","","","City of West Linn",90,,2,"No",6/11/2018 12:01:10 PM,1,2026,0.32609045549654,6/6
+300000978,"3-529 Molalla Fire Local Option Replacement Levy to Maintain Fire, Emergency Medical Operations","","","Molalla Fire",93,,1,"Yes",6/11/2018 12:01:10 PM,1,1980,0.574746008708273,8/8
+300000978,"3-529 Molalla Fire Local Option Replacement Levy to Maintain Fire, Emergency Medical Operations","","","Molalla Fire",93,,2,"No",6/11/2018 12:01:10 PM,1,1465,0.425253991291727,8/8
+300000981,"3-530 City of Gladstone Charter authorization to construct a new library","","","City of Gladstone",83,,1,"Yes",6/11/2018 12:01:10 PM,1,1684,0.693289419514203,3/3
+300000981,"3-530 City of Gladstone Charter authorization to construct a new library","","","City of Gladstone",83,,2,"No",6/11/2018 12:01:10 PM,1,745,0.306710580485797,3/3
+300000982,"3-531 City of Gladstone Charter authorization to sell surplus real property","","","City of Gladstone",84,,1,"Yes",6/11/2018 12:01:10 PM,1,1751,0.736333052985702,3/3
+300000982,"3-531 City of Gladstone Charter authorization to sell surplus real property","","","City of Gladstone",84,,2,"No",6/11/2018 12:01:10 PM,1,627,0.263666947014298,3/3
+300000985,"3-532 City of Molalla Creating Street Management System for City of Molalla","","","City of Molalla",86,,1,"Yes",6/11/2018 12:01:10 PM,1,411,0.284232365145228,1/1
+300000985,"3-532 City of Molalla Creating Street Management System for City of Molalla","","","City of Molalla",86,,2,"No",6/11/2018 12:01:10 PM,1,1035,0.715767634854772,1/1
+300000989,"3-533 Estacada Cemetery Five-year local option tax","","","Estacada Cemetery",94,,1,"Yes",6/11/2018 12:01:10 PM,1,1220,0.492133924969746,11/11
+300000989,"3-533 Estacada Cemetery Five-year local option tax","","","Estacada Cemetery",94,,2,"No",6/11/2018 12:01:10 PM,1,1259,0.507866075030254,11/11
+300000997,"3-534 City of Estacada Amendments to 2006 Estacada City Charter","","","City of Estacada",82,,1,"Yes",6/11/2018 12:01:10 PM,1,398,0.756653992395437,1/1
+300000997,"3-534 City of Estacada Amendments to 2006 Estacada City Charter","","","City of Estacada",82,,2,"No",6/11/2018 12:01:10 PM,1,128,0.243346007604563,1/1
+300020087,"County Clerk","NON","","Clackamas",74,,9901,"Write-in",6/11/2018 12:01:10 PM,1,192,0.00290935539594509,120/120
+300020087,"County Clerk","NON","","Clackamas",74,,100022216,"Sherry Hall",6/11/2018 12:01:10 PM,1,27992,0.424159772100494,120/120
+300020087,"County Clerk","NON","","Clackamas",74,,300029636,"Sherry Healy",6/11/2018 12:01:10 PM,1,16482,0.249749977270661,120/120
+300020087,"County Clerk","NON","","Clackamas",74,,300029637,"Pamela White",6/11/2018 12:01:10 PM,1,21328,0.3231808952329,120/120
+300020088,"County Commissioner Position 2","NON","","Clackamas",72,,9901,"Write-in",6/11/2018 12:01:10 PM,1,258,0.0039385705126248,120/120
+300020088,"County Commissioner Position 2","NON","","Clackamas",72,,100022218,"Paul Savas",6/11/2018 12:01:10 PM,1,38989,0.595197386498947,120/120
+300020088,"County Commissioner Position 2","NON","","Clackamas",72,,300029633,"Louise Lopes",6/11/2018 12:01:10 PM,1,11301,0.172518547919275,120/120
+300020088,"County Commissioner Position 2","NON","","Clackamas",72,,300030252,"Peter Winter",6/11/2018 12:01:10 PM,1,14958,0.228345495069154,120/120
+300020089,"County Commissioner Position 5","NON","","Clackamas",73,,9901,"Write-in",6/11/2018 12:01:10 PM,1,876,0.0186641099392777,120/120
+300020089,"County Commissioner Position 5","NON","","Clackamas",73,,300029634,"Sonya Fischer",6/11/2018 12:01:10 PM,1,46059,0.981335890060722,120/120

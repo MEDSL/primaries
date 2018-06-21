@@ -1,0 +1,295 @@
+county,district name,candidate,party,votes,race name,state
+Districtwide,District 1,Tom Hallinan,DEM,"334,682",Board of Equalization,CA
+Districtwide,District 1,Connie Conway,REP,"161,160",Board of Equalization,CA
+Districtwide,District 1,David Evans,REP,"90,610",Board of Equalization,CA
+Districtwide,District 1,Ted Gaines,REP,"285,925",Board of Equalization,CA
+Alpine,District 1,Tom Hallinan,DEM,189,Board of Equalization,CA
+Alpine,District 1,Connie Conway,REP,21,Board of Equalization,CA
+Alpine,District 1,David Evans,REP,29,Board of Equalization,CA
+Alpine,District 1,Ted Gaines,REP,107,Board of Equalization,CA
+Amador,District 1,Tom Hallinan,DEM,"1,295",Board of Equalization,CA
+Amador,District 1,Connie Conway,REP,596,Board of Equalization,CA
+Amador,District 1,David Evans,REP,540,Board of Equalization,CA
+Amador,District 1,Ted Gaines,REP,"1,751",Board of Equalization,CA
+Butte,District 1,Tom Hallinan,DEM,"13,670",Board of Equalization,CA
+Butte,District 1,Connie Conway,REP,"6,183",Board of Equalization,CA
+Butte,District 1,David Evans,REP,"3,760",Board of Equalization,CA
+Butte,District 1,Ted Gaines,REP,"11,438",Board of Equalization,CA
+Calaveras,District 1,Tom Hallinan,DEM,"2,971",Board of Equalization,CA
+Calaveras,District 1,Connie Conway,REP,"1,367",Board of Equalization,CA
+Calaveras,District 1,David Evans,REP,"1,272",Board of Equalization,CA
+Calaveras,District 1,Ted Gaines,REP,"3,245",Board of Equalization,CA
+El Dorado,District 1,Tom Hallinan,DEM,"11,387",Board of Equalization,CA
+El Dorado,District 1,Connie Conway,REP,"3,660",Board of Equalization,CA
+El Dorado,District 1,David Evans,REP,"2,610",Board of Equalization,CA
+El Dorado,District 1,Ted Gaines,REP,"15,488",Board of Equalization,CA
+Fresno,District 1,Tom Hallinan,DEM,"28,251",Board of Equalization,CA
+Fresno,District 1,Connie Conway,REP,"21,430",Board of Equalization,CA
+Fresno,District 1,David Evans,REP,"8,829",Board of Equalization,CA
+Fresno,District 1,Ted Gaines,REP,"18,600",Board of Equalization,CA
+Inyo,District 1,Tom Hallinan,DEM,"1,268",Board of Equalization,CA
+Inyo,District 1,Connie Conway,REP,976,Board of Equalization,CA
+Inyo,District 1,David Evans,REP,337,Board of Equalization,CA
+Inyo,District 1,Ted Gaines,REP,842,Board of Equalization,CA
+Kern,District 1,Tom Hallinan,DEM,"21,715",Board of Equalization,CA
+Kern,District 1,Connie Conway,REP,"15,056",Board of Equalization,CA
+Kern,District 1,David Evans,REP,"9,329",Board of Equalization,CA
+Kern,District 1,Ted Gaines,REP,"30,401",Board of Equalization,CA
+Kings,District 1,Tom Hallinan,DEM,"3,624",Board of Equalization,CA
+Kings,District 1,Connie Conway,REP,"4,492",Board of Equalization,CA
+Kings,District 1,David Evans,REP,"2,054",Board of Equalization,CA
+Kings,District 1,Ted Gaines,REP,"2,708",Board of Equalization,CA
+Lassen,District 1,Tom Hallinan,DEM,578,Board of Equalization,CA
+Lassen,District 1,Connie Conway,REP,373,Board of Equalization,CA
+Lassen,District 1,David Evans,REP,287,Board of Equalization,CA
+Lassen,District 1,Ted Gaines,REP,"1,809",Board of Equalization,CA
+Los Angeles,District 1,Tom Hallinan,DEM,"52,594",Board of Equalization,CA
+Los Angeles,District 1,Connie Conway,REP,"16,787",Board of Equalization,CA
+Los Angeles,District 1,David Evans,REP,"12,968",Board of Equalization,CA
+Los Angeles,District 1,Ted Gaines,REP,"27,927",Board of Equalization,CA
+Madera,District 1,Tom Hallinan,DEM,"5,377",Board of Equalization,CA
+Madera,District 1,Connie Conway,REP,"3,839",Board of Equalization,CA
+Madera,District 1,David Evans,REP,"3,189",Board of Equalization,CA
+Madera,District 1,Ted Gaines,REP,"4,895",Board of Equalization,CA
+Mariposa,District 1,Tom Hallinan,DEM,"1,482",Board of Equalization,CA
+Mariposa,District 1,Connie Conway,REP,837,Board of Equalization,CA
+Mariposa,District 1,David Evans,REP,758,Board of Equalization,CA
+Mariposa,District 1,Ted Gaines,REP,"1,497",Board of Equalization,CA
+Merced,District 1,Tom Hallinan,DEM,"6,900",Board of Equalization,CA
+Merced,District 1,Connie Conway,REP,"3,033",Board of Equalization,CA
+Merced,District 1,David Evans,REP,"2,837",Board of Equalization,CA
+Merced,District 1,Ted Gaines,REP,"4,134",Board of Equalization,CA
+Modoc,District 1,Tom Hallinan,DEM,360,Board of Equalization,CA
+Modoc,District 1,Connie Conway,REP,320,Board of Equalization,CA
+Modoc,District 1,David Evans,REP,254,Board of Equalization,CA
+Modoc,District 1,Ted Gaines,REP,"1,083",Board of Equalization,CA
+Mono,District 1,Tom Hallinan,DEM,"1,282",Board of Equalization,CA
+Mono,District 1,Connie Conway,REP,368,Board of Equalization,CA
+Mono,District 1,David Evans,REP,262,Board of Equalization,CA
+Mono,District 1,Ted Gaines,REP,716,Board of Equalization,CA
+Nevada,District 1,Tom Hallinan,DEM,"6,502",Board of Equalization,CA
+Nevada,District 1,Connie Conway,REP,"1,359",Board of Equalization,CA
+Nevada,District 1,David Evans,REP,899,Board of Equalization,CA
+Nevada,District 1,Ted Gaines,REP,"6,357",Board of Equalization,CA
+Placer,District 1,Tom Hallinan,DEM,"19,407",Board of Equalization,CA
+Placer,District 1,Connie Conway,REP,"6,665",Board of Equalization,CA
+Placer,District 1,David Evans,REP,"3,466",Board of Equalization,CA
+Placer,District 1,Ted Gaines,REP,"27,794",Board of Equalization,CA
+Plumas,District 1,Tom Hallinan,DEM,"1,740",Board of Equalization,CA
+Plumas,District 1,Connie Conway,REP,528,Board of Equalization,CA
+Plumas,District 1,David Evans,REP,361,Board of Equalization,CA
+Plumas,District 1,Ted Gaines,REP,"2,499",Board of Equalization,CA
+Sacramento,District 1,Tom Hallinan,DEM,"55,293",Board of Equalization,CA
+Sacramento,District 1,Connie Conway,REP,"14,554",Board of Equalization,CA
+Sacramento,District 1,David Evans,REP,"9,256",Board of Equalization,CA
+Sacramento,District 1,Ted Gaines,REP,"35,789",Board of Equalization,CA
+San Bernardino,District 1,Tom Hallinan,DEM,"32,134",Board of Equalization,CA
+San Bernardino,District 1,Connie Conway,REP,"18,293",Board of Equalization,CA
+San Bernardino,District 1,David Evans,REP,"9,066",Board of Equalization,CA
+San Bernardino,District 1,Ted Gaines,REP,"29,268",Board of Equalization,CA
+San Joaquin,District 1,Tom Hallinan,DEM,"22,914",Board of Equalization,CA
+San Joaquin,District 1,Connie Conway,REP,"10,190",Board of Equalization,CA
+San Joaquin,District 1,David Evans,REP,"6,078",Board of Equalization,CA
+San Joaquin,District 1,Ted Gaines,REP,"15,278",Board of Equalization,CA
+Shasta,District 1,Tom Hallinan,DEM,"5,088",Board of Equalization,CA
+Shasta,District 1,Connie Conway,REP,"2,892",Board of Equalization,CA
+Shasta,District 1,David Evans,REP,"1,702",Board of Equalization,CA
+Shasta,District 1,Ted Gaines,REP,"10,693",Board of Equalization,CA
+Sierra,District 1,Tom Hallinan,DEM,347,Board of Equalization,CA
+Sierra,District 1,Connie Conway,REP,141,Board of Equalization,CA
+Sierra,District 1,David Evans,REP,89,Board of Equalization,CA
+Sierra,District 1,Ted Gaines,REP,646,Board of Equalization,CA
+Siskiyou,District 1,Tom Hallinan,DEM,"2,490",Board of Equalization,CA
+Siskiyou,District 1,Connie Conway,REP,919,Board of Equalization,CA
+Siskiyou,District 1,David Evans,REP,608,Board of Equalization,CA
+Siskiyou,District 1,Ted Gaines,REP,"3,025",Board of Equalization,CA
+Stanislaus,District 1,Tom Hallinan,DEM,"18,759",Board of Equalization,CA
+Stanislaus,District 1,Connie Conway,REP,"7,606",Board of Equalization,CA
+Stanislaus,District 1,David Evans,REP,"4,288",Board of Equalization,CA
+Stanislaus,District 1,Ted Gaines,REP,"13,639",Board of Equalization,CA
+Sutter,District 1,Tom Hallinan,DEM,"2,901",Board of Equalization,CA
+Sutter,District 1,Connie Conway,REP,"1,940",Board of Equalization,CA
+Sutter,District 1,David Evans,REP,"1,314",Board of Equalization,CA
+Sutter,District 1,Ted Gaines,REP,"3,726",Board of Equalization,CA
+Tulare,District 1,Tom Hallinan,DEM,"8,530",Board of Equalization,CA
+Tulare,District 1,Connie Conway,REP,"13,992",Board of Equalization,CA
+Tulare,District 1,David Evans,REP,"1,866",Board of Equalization,CA
+Tulare,District 1,Ted Gaines,REP,"5,081",Board of Equalization,CA
+Tuolumne,District 1,Tom Hallinan,DEM,"3,798",Board of Equalization,CA
+Tuolumne,District 1,Connie Conway,REP,"1,520",Board of Equalization,CA
+Tuolumne,District 1,David Evans,REP,"1,586",Board of Equalization,CA
+Tuolumne,District 1,Ted Gaines,REP,"3,006",Board of Equalization,CA
+Yuba,District 1,Tom Hallinan,DEM,"1,836",Board of Equalization,CA
+Yuba,District 1,Connie Conway,REP,"1,223",Board of Equalization,CA
+Yuba,District 1,David Evans,REP,716,Board of Equalization,CA
+Yuba,District 1,Ted Gaines,REP,"2,483",Board of Equalization,CA
+Districtwide,District 2,Barry Chang,DEM,"92,724",Board of Equalization,CA
+Districtwide,District 2,Malia Cohen,DEM,"370,778",Board of Equalization,CA
+Districtwide,District 2,Cathleen Galgiani,DEM,"268,090",Board of Equalization,CA
+Districtwide,District 2,Mark Burns,REP,"293,283",Board of Equalization,CA
+Alameda,District 2,Barry Chang,DEM,"14,751",Board of Equalization,CA
+Alameda,District 2,Malia Cohen,DEM,"64,365",Board of Equalization,CA
+Alameda,District 2,Cathleen Galgiani,DEM,"38,393",Board of Equalization,CA
+Alameda,District 2,Mark Burns,REP,"29,251",Board of Equalization,CA
+Colusa,District 2,Barry Chang,DEM,175,Board of Equalization,CA
+Colusa,District 2,Malia Cohen,DEM,308,Board of Equalization,CA
+Colusa,District 2,Cathleen Galgiani,DEM,387,Board of Equalization,CA
+Colusa,District 2,Mark Burns,REP,"1,491",Board of Equalization,CA
+Contra Costa,District 2,Barry Chang,DEM,"7,380",Board of Equalization,CA
+Contra Costa,District 2,Malia Cohen,DEM,"36,541",Board of Equalization,CA
+Contra Costa,District 2,Cathleen Galgiani,DEM,"30,549",Board of Equalization,CA
+Contra Costa,District 2,Mark Burns,REP,"33,361",Board of Equalization,CA
+Del Norte,District 2,Barry Chang,DEM,240,Board of Equalization,CA
+Del Norte,District 2,Malia Cohen,DEM,769,Board of Equalization,CA
+Del Norte,District 2,Cathleen Galgiani,DEM,863,Board of Equalization,CA
+Del Norte,District 2,Mark Burns,REP,"2,452",Board of Equalization,CA
+Glenn,District 2,Barry Chang,DEM,187,Board of Equalization,CA
+Glenn,District 2,Malia Cohen,DEM,308,Board of Equalization,CA
+Glenn,District 2,Cathleen Galgiani,DEM,470,Board of Equalization,CA
+Glenn,District 2,Mark Burns,REP,"2,206",Board of Equalization,CA
+Humboldt,District 2,Barry Chang,DEM,"1,070",Board of Equalization,CA
+Humboldt,District 2,Malia Cohen,DEM,"5,810",Board of Equalization,CA
+Humboldt,District 2,Cathleen Galgiani,DEM,"4,578",Board of Equalization,CA
+Humboldt,District 2,Mark Burns,REP,"6,473",Board of Equalization,CA
+Lake,District 2,Barry Chang,DEM,516,Board of Equalization,CA
+Lake,District 2,Malia Cohen,DEM,"1,682",Board of Equalization,CA
+Lake,District 2,Cathleen Galgiani,DEM,"1,998",Board of Equalization,CA
+Lake,District 2,Mark Burns,REP,"3,333",Board of Equalization,CA
+Marin,District 2,Barry Chang,DEM,"1,708",Board of Equalization,CA
+Marin,District 2,Malia Cohen,DEM,"12,587",Board of Equalization,CA
+Marin,District 2,Cathleen Galgiani,DEM,"10,468",Board of Equalization,CA
+Marin,District 2,Mark Burns,REP,"7,216",Board of Equalization,CA
+Mendocino,District 2,Barry Chang,DEM,694,Board of Equalization,CA
+Mendocino,District 2,Malia Cohen,DEM,"2,592",Board of Equalization,CA
+Mendocino,District 2,Cathleen Galgiani,DEM,"2,099",Board of Equalization,CA
+Mendocino,District 2,Mark Burns,REP,"2,531",Board of Equalization,CA
+Monterey,District 2,Barry Chang,DEM,"3,027",Board of Equalization,CA
+Monterey,District 2,Malia Cohen,DEM,"8,639",Board of Equalization,CA
+Monterey,District 2,Cathleen Galgiani,DEM,"7,359",Board of Equalization,CA
+Monterey,District 2,Mark Burns,REP,"9,669",Board of Equalization,CA
+Napa,District 2,Barry Chang,DEM,"1,083",Board of Equalization,CA
+Napa,District 2,Malia Cohen,DEM,"4,339",Board of Equalization,CA
+Napa,District 2,Cathleen Galgiani,DEM,"3,165",Board of Equalization,CA
+Napa,District 2,Mark Burns,REP,"4,730",Board of Equalization,CA
+San Benito,District 2,Barry Chang,DEM,434,Board of Equalization,CA
+San Benito,District 2,Malia Cohen,DEM,"1,613",Board of Equalization,CA
+San Benito,District 2,Cathleen Galgiani,DEM,"1,529",Board of Equalization,CA
+San Benito,District 2,Mark Burns,REP,"2,540",Board of Equalization,CA
+San Francisco,District 2,Barry Chang,DEM,"14,956",Board of Equalization,CA
+San Francisco,District 2,Malia Cohen,DEM,"66,359",Board of Equalization,CA
+San Francisco,District 2,Cathleen Galgiani,DEM,"24,612",Board of Equalization,CA
+San Francisco,District 2,Mark Burns,REP,"16,516",Board of Equalization,CA
+San Luis Obispo,District 2,Barry Chang,DEM,"2,718",Board of Equalization,CA
+San Luis Obispo,District 2,Malia Cohen,DEM,"10,062",Board of Equalization,CA
+San Luis Obispo,District 2,Cathleen Galgiani,DEM,"14,039",Board of Equalization,CA
+San Luis Obispo,District 2,Mark Burns,REP,"24,208",Board of Equalization,CA
+San Mateo,District 2,Barry Chang,DEM,"6,131",Board of Equalization,CA
+San Mateo,District 2,Malia Cohen,DEM,"23,407",Board of Equalization,CA
+San Mateo,District 2,Cathleen Galgiani,DEM,"18,324",Board of Equalization,CA
+San Mateo,District 2,Mark Burns,REP,"16,434",Board of Equalization,CA
+Santa Barbara,District 2,Barry Chang,DEM,"3,109",Board of Equalization,CA
+Santa Barbara,District 2,Malia Cohen,DEM,"11,330",Board of Equalization,CA
+Santa Barbara,District 2,Cathleen Galgiani,DEM,"15,690",Board of Equalization,CA
+Santa Barbara,District 2,Mark Burns,REP,"21,083",Board of Equalization,CA
+Santa Clara,District 2,Barry Chang,DEM,"18,821",Board of Equalization,CA
+Santa Clara,District 2,Malia Cohen,DEM,"59,615",Board of Equalization,CA
+Santa Clara,District 2,Cathleen Galgiani,DEM,"40,148",Board of Equalization,CA
+Santa Clara,District 2,Mark Burns,REP,"46,780",Board of Equalization,CA
+Santa Cruz,District 2,Barry Chang,DEM,"2,840",Board of Equalization,CA
+Santa Cruz,District 2,Malia Cohen,DEM,"13,731",Board of Equalization,CA
+Santa Cruz,District 2,Cathleen Galgiani,DEM,"8,794",Board of Equalization,CA
+Santa Cruz,District 2,Mark Burns,REP,"7,625",Board of Equalization,CA
+Solano,District 2,Barry Chang,DEM,"4,970",Board of Equalization,CA
+Solano,District 2,Malia Cohen,DEM,"15,964",Board of Equalization,CA
+Solano,District 2,Cathleen Galgiani,DEM,"16,150",Board of Equalization,CA
+Solano,District 2,Mark Burns,REP,"22,871",Board of Equalization,CA
+Sonoma,District 2,Barry Chang,DEM,"4,972",Board of Equalization,CA
+Sonoma,District 2,Malia Cohen,DEM,"22,062",Board of Equalization,CA
+Sonoma,District 2,Cathleen Galgiani,DEM,"19,306",Board of Equalization,CA
+Sonoma,District 2,Mark Burns,REP,"17,247",Board of Equalization,CA
+Tehama,District 2,Barry Chang,DEM,343,Board of Equalization,CA
+Tehama,District 2,Malia Cohen,DEM,904,Board of Equalization,CA
+Tehama,District 2,Cathleen Galgiani,DEM,"1,770",Board of Equalization,CA
+Tehama,District 2,Mark Burns,REP,"6,108",Board of Equalization,CA
+Trinity,District 2,Barry Chang,DEM,183,Board of Equalization,CA
+Trinity,District 2,Malia Cohen,DEM,600,Board of Equalization,CA
+Trinity,District 2,Cathleen Galgiani,DEM,592,Board of Equalization,CA
+Trinity,District 2,Mark Burns,REP,"1,638",Board of Equalization,CA
+Yolo,District 2,Barry Chang,DEM,"2,416",Board of Equalization,CA
+Yolo,District 2,Malia Cohen,DEM,"7,191",Board of Equalization,CA
+Yolo,District 2,Cathleen Galgiani,DEM,"6,807",Board of Equalization,CA
+Yolo,District 2,Mark Burns,REP,"7,520",Board of Equalization,CA
+Districtwide,District 3,Doug Kriegel,DEM,"29,638",Board of Equalization,CA
+Districtwide,District 3,Ben Pak,DEM,"28,205",Board of Equalization,CA
+Districtwide,District 3,Nancy Pearlman,DEM,"103,159",Board of Equalization,CA
+Districtwide,District 3,Scott Svonkin,DEM,"103,035",Board of Equalization,CA
+Districtwide,District 3,Cheryl C. Turner,DEM,"136,288",Board of Equalization,CA
+Districtwide,District 3,Tony Vazquez,DEM,"170,779",Board of Equalization,CA
+Districtwide,District 3,G. Rick Marshall,REP,"224,493",Board of Equalization,CA
+Districtwide,District 3,"MicheÃ¡l ""Me-Haul"" O'Leary",NPP,"26,910",Board of Equalization,CA
+Los Angeles,District 3,Doug Kriegel,DEM,"26,810",Board of Equalization,CA
+Los Angeles,District 3,Ben Pak,DEM,"25,391",Board of Equalization,CA
+Los Angeles,District 3,Nancy Pearlman,DEM,"91,315",Board of Equalization,CA
+Los Angeles,District 3,Scott Svonkin,DEM,"93,500",Board of Equalization,CA
+Los Angeles,District 3,Cheryl C. Turner,DEM,"118,689",Board of Equalization,CA
+Los Angeles,District 3,Tony Vazquez,DEM,"157,876",Board of Equalization,CA
+Los Angeles,District 3,G. Rick Marshall,REP,"179,995",Board of Equalization,CA
+Los Angeles,District 3,"MicheÃ¡l ""Me-Haul"" O'Leary",NPP,"21,741",Board of Equalization,CA
+San Bernardino,District 3,Doug Kriegel,DEM,241,Board of Equalization,CA
+San Bernardino,District 3,Ben Pak,DEM,382,Board of Equalization,CA
+San Bernardino,District 3,Nancy Pearlman,DEM,759,Board of Equalization,CA
+San Bernardino,District 3,Scott Svonkin,DEM,474,Board of Equalization,CA
+San Bernardino,District 3,Cheryl C. Turner,DEM,983,Board of Equalization,CA
+San Bernardino,District 3,Tony Vazquez,DEM,728,Board of Equalization,CA
+San Bernardino,District 3,G. Rick Marshall,REP,"3,816",Board of Equalization,CA
+San Bernardino,District 3,"MicheÃ¡l ""Me-Haul"" O'Leary",NPP,277,Board of Equalization,CA
+Ventura,District 3,Doug Kriegel,DEM,"2,587",Board of Equalization,CA
+Ventura,District 3,Ben Pak,DEM,"2,432",Board of Equalization,CA
+Ventura,District 3,Nancy Pearlman,DEM,"11,085",Board of Equalization,CA
+Ventura,District 3,Scott Svonkin,DEM,"9,061",Board of Equalization,CA
+Ventura,District 3,Cheryl C. Turner,DEM,"16,616",Board of Equalization,CA
+Ventura,District 3,Tony Vazquez,DEM,"12,175",Board of Equalization,CA
+Ventura,District 3,G. Rick Marshall,REP,"40,682",Board of Equalization,CA
+Ventura,District 3,"MicheÃ¡l ""Me-Haul"" O'Leary",NPP,"4,892",Board of Equalization,CA
+Districtwide,District 4,David Dodson,DEM,"131,635",Board of Equalization,CA
+Districtwide,District 4,Ken Lopez-Maddox,DEM,"133,308",Board of Equalization,CA
+Districtwide,District 4,Mike Schaefer,DEM,"163,125",Board of Equalization,CA
+Districtwide,District 4,Joel Anderson,REP,"296,763",Board of Equalization,CA
+Districtwide,District 4,John F. Kelly,REP,"163,070",Board of Equalization,CA
+Districtwide,District 4,Nader F. Shahatit,REP,"20,065",Board of Equalization,CA
+Districtwide,District 4,Jim Stieringer,REP,"35,593",Board of Equalization,CA
+Imperial,District 4,David Dodson,DEM,"1,532",Board of Equalization,CA
+Imperial,District 4,Ken Lopez-Maddox,DEM,"2,722",Board of Equalization,CA
+Imperial,District 4,Mike Schaefer,DEM,"1,437",Board of Equalization,CA
+Imperial,District 4,Joel Anderson,REP,"1,806",Board of Equalization,CA
+Imperial,District 4,John F. Kelly,REP,"2,508",Board of Equalization,CA
+Imperial,District 4,Nader F. Shahatit,REP,125,Board of Equalization,CA
+Imperial,District 4,Jim Stieringer,REP,291,Board of Equalization,CA
+Orange,District 4,David Dodson,DEM,"43,188",Board of Equalization,CA
+Orange,District 4,Ken Lopez-Maddox,DEM,"41,528",Board of Equalization,CA
+Orange,District 4,Mike Schaefer,DEM,"55,441",Board of Equalization,CA
+Orange,District 4,Joel Anderson,REP,"108,117",Board of Equalization,CA
+Orange,District 4,John F. Kelly,REP,"64,874",Board of Equalization,CA
+Orange,District 4,Nader F. Shahatit,REP,"7,785",Board of Equalization,CA
+Orange,District 4,Jim Stieringer,REP,"12,282",Board of Equalization,CA
+Riverside,District 4,David Dodson,DEM,"18,382",Board of Equalization,CA
+Riverside,District 4,Ken Lopez-Maddox,DEM,"23,910",Board of Equalization,CA
+Riverside,District 4,Mike Schaefer,DEM,"32,500",Board of Equalization,CA
+Riverside,District 4,Joel Anderson,REP,"53,621",Board of Equalization,CA
+Riverside,District 4,John F. Kelly,REP,"36,216",Board of Equalization,CA
+Riverside,District 4,Nader F. Shahatit,REP,"3,274",Board of Equalization,CA
+Riverside,District 4,Jim Stieringer,REP,"7,988",Board of Equalization,CA
+San Bernardino,District 4,David Dodson,DEM,"7,236",Board of Equalization,CA
+San Bernardino,District 4,Ken Lopez-Maddox,DEM,"9,289",Board of Equalization,CA
+San Bernardino,District 4,Mike Schaefer,DEM,"14,454",Board of Equalization,CA
+San Bernardino,District 4,Joel Anderson,REP,"18,222",Board of Equalization,CA
+San Bernardino,District 4,John F. Kelly,REP,"10,411",Board of Equalization,CA
+San Bernardino,District 4,Nader F. Shahatit,REP,"1,207",Board of Equalization,CA
+San Bernardino,District 4,Jim Stieringer,REP,"3,003",Board of Equalization,CA
+San Diego,District 4,David Dodson,DEM,"61,297",Board of Equalization,CA
+San Diego,District 4,Ken Lopez-Maddox,DEM,"55,859",Board of Equalization,CA
+San Diego,District 4,Mike Schaefer,DEM,"59,293",Board of Equalization,CA
+San Diego,District 4,Joel Anderson,REP,"114,997",Board of Equalization,CA
+San Diego,District 4,John F. Kelly,REP,"49,061",Board of Equalization,CA
+San Diego,District 4,Nader F. Shahatit,REP,"7,674",Board of Equalization,CA
+San Diego,District 4,Jim Stieringer,REP,"12,029",Board of Equalization,CA

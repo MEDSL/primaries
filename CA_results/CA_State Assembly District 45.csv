@@ -1,0 +1,19 @@
+county,district name,candidate,party,votes,race name,state
+Districtwide,Districtwide,Jesse Gabriel,DEM,"28,721",State Assembly District 45,CA
+Districtwide,Districtwide,Justin M. Clark,REP,"16,279",State Assembly District 45,CA
+Los Angeles,Districtwide,Jesse Gabriel,DEM,"28,544",State Assembly District 45,CA
+Los Angeles,Districtwide,Justin M. Clark,REP,"16,103",State Assembly District 45,CA
+Ventura,Districtwide,Jesse Gabriel,DEM,177,State Assembly District 45,CA
+Ventura,Districtwide,Justin M. Clark,REP,176,State Assembly District 45,CA
+Districtwide,Los Angeles,Jesse Gabriel,DEM,"28,721",State Assembly District 45,CA
+Districtwide,Los Angeles,Justin M. Clark,REP,"16,279",State Assembly District 45,CA
+Los Angeles,Los Angeles,Jesse Gabriel,DEM,"28,544",State Assembly District 45,CA
+Los Angeles,Los Angeles,Justin M. Clark,REP,"16,103",State Assembly District 45,CA
+Ventura,Los Angeles,Jesse Gabriel,DEM,177,State Assembly District 45,CA
+Ventura,Los Angeles,Justin M. Clark,REP,176,State Assembly District 45,CA
+Districtwide,Ventura,Jesse Gabriel,DEM,"28,721",State Assembly District 45,CA
+Districtwide,Ventura,Justin M. Clark,REP,"16,279",State Assembly District 45,CA
+Los Angeles,Ventura,Jesse Gabriel,DEM,"28,544",State Assembly District 45,CA
+Los Angeles,Ventura,Justin M. Clark,REP,"16,103",State Assembly District 45,CA
+Ventura,Ventura,Jesse Gabriel,DEM,177,State Assembly District 45,CA
+Ventura,Ventura,Justin M. Clark,REP,176,State Assembly District 45,CA

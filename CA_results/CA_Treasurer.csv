@@ -1,0 +1,296 @@
+,county,candidate,party,votes,race name,state
+0,Statewide,Fiona Ma,DEM,"1,633,648",Treasurer,CA
+1,Statewide,Vivek Viswanathan,DEM,"482,290",Treasurer,CA
+2,Statewide,Greg Conlon,REP,"832,700",Treasurer,CA
+3,Statewide,Jack M. Guerrero,REP,"747,313",Treasurer,CA
+4,Statewide,Kevin Akin,P&F,"84,508",Treasurer,CA
+5,Alameda,Fiona Ma,DEM,"95,946",Treasurer,CA
+6,Alameda,Vivek Viswanathan,DEM,"24,311",Treasurer,CA
+7,Alameda,Greg Conlon,REP,"15,208",Treasurer,CA
+8,Alameda,Jack M. Guerrero,REP,"16,300",Treasurer,CA
+9,Alameda,Kevin Akin,P&F,"5,353",Treasurer,CA
+10,Alpine,Fiona Ma,DEM,157,Treasurer,CA
+11,Alpine,Vivek Viswanathan,DEM,46,Treasurer,CA
+12,Alpine,Greg Conlon,REP,64,Treasurer,CA
+13,Alpine,Jack M. Guerrero,REP,72,Treasurer,CA
+14,Alpine,Kevin Akin,P&F,6,Treasurer,CA
+15,Amador,Fiona Ma,DEM,"1,283",Treasurer,CA
+16,Amador,Vivek Viswanathan,DEM,252,Treasurer,CA
+17,Amador,Greg Conlon,REP,"1,211",Treasurer,CA
+18,Amador,Jack M. Guerrero,REP,"1,361",Treasurer,CA
+19,Amador,Kevin Akin,P&F,100,Treasurer,CA
+20,Butte,Fiona Ma,DEM,"12,864",Treasurer,CA
+21,Butte,Vivek Viswanathan,DEM,"3,378",Treasurer,CA
+22,Butte,Greg Conlon,REP,"10,002",Treasurer,CA
+23,Butte,Jack M. Guerrero,REP,"8,449",Treasurer,CA
+24,Butte,Kevin Akin,P&F,802,Treasurer,CA
+25,Calaveras,Fiona Ma,DEM,"2,871",Treasurer,CA
+26,Calaveras,Vivek Viswanathan,DEM,573,Treasurer,CA
+27,Calaveras,Greg Conlon,REP,"2,668",Treasurer,CA
+28,Calaveras,Jack M. Guerrero,REP,"2,617",Treasurer,CA
+29,Calaveras,Kevin Akin,P&F,231,Treasurer,CA
+30,Colusa,Fiona Ma,DEM,696,Treasurer,CA
+31,Colusa,Vivek Viswanathan,DEM,138,Treasurer,CA
+32,Colusa,Greg Conlon,REP,935,Treasurer,CA
+33,Colusa,Jack M. Guerrero,REP,632,Treasurer,CA
+34,Colusa,Kevin Akin,P&F,51,Treasurer,CA
+35,Contra Costa,Fiona Ma,DEM,"55,297",Treasurer,CA
+36,Contra Costa,Vivek Viswanathan,DEM,"17,571",Treasurer,CA
+37,Contra Costa,Greg Conlon,REP,"19,596",Treasurer,CA
+38,Contra Costa,Jack M. Guerrero,REP,"18,665",Treasurer,CA
+39,Contra Costa,Kevin Akin,P&F,"2,320",Treasurer,CA
+40,Del Norte,Fiona Ma,DEM,"1,466",Treasurer,CA
+41,Del Norte,Vivek Viswanathan,DEM,308,Treasurer,CA
+42,Del Norte,Greg Conlon,REP,"1,177",Treasurer,CA
+43,Del Norte,Jack M. Guerrero,REP,"1,242",Treasurer,CA
+44,Del Norte,Kevin Akin,P&F,135,Treasurer,CA
+45,El Dorado,Fiona Ma,DEM,"10,966",Treasurer,CA
+46,El Dorado,Vivek Viswanathan,DEM,"2,891",Treasurer,CA
+47,El Dorado,Greg Conlon,REP,"8,364",Treasurer,CA
+48,El Dorado,Jack M. Guerrero,REP,"10,384",Treasurer,CA
+49,El Dorado,Kevin Akin,P&F,424,Treasurer,CA
+50,Fresno,Fiona Ma,DEM,"22,834",Treasurer,CA
+51,Fresno,Vivek Viswanathan,DEM,"9,836",Treasurer,CA
+52,Fresno,Greg Conlon,REP,"24,321",Treasurer,CA
+53,Fresno,Jack M. Guerrero,REP,"18,915",Treasurer,CA
+54,Fresno,Kevin Akin,P&F,"1,561",Treasurer,CA
+55,Glenn,Fiona Ma,DEM,758,Treasurer,CA
+56,Glenn,Vivek Viswanathan,DEM,155,Treasurer,CA
+57,Glenn,Greg Conlon,REP,"1,409",Treasurer,CA
+58,Glenn,Jack M. Guerrero,REP,914,Treasurer,CA
+59,Glenn,Kevin Akin,P&F,74,Treasurer,CA
+60,Humboldt,Fiona Ma,DEM,"9,075",Treasurer,CA
+61,Humboldt,Vivek Viswanathan,DEM,"2,202",Treasurer,CA
+62,Humboldt,Greg Conlon,REP,"3,087",Treasurer,CA
+63,Humboldt,Jack M. Guerrero,REP,"3,598",Treasurer,CA
+64,Humboldt,Kevin Akin,P&F,588,Treasurer,CA
+65,Imperial,Fiona Ma,DEM,"3,505",Treasurer,CA
+66,Imperial,Vivek Viswanathan,DEM,"1,836",Treasurer,CA
+67,Imperial,Greg Conlon,REP,"1,934",Treasurer,CA
+68,Imperial,Jack M. Guerrero,REP,"3,096",Treasurer,CA
+69,Imperial,Kevin Akin,P&F,371,Treasurer,CA
+70,Inyo,Fiona Ma,DEM,991,Treasurer,CA
+71,Inyo,Vivek Viswanathan,DEM,453,Treasurer,CA
+72,Inyo,Greg Conlon,REP,"1,006",Treasurer,CA
+73,Inyo,Jack M. Guerrero,REP,910,Treasurer,CA
+74,Inyo,Kevin Akin,P&F,101,Treasurer,CA
+75,Kern,Fiona Ma,DEM,"18,063",Treasurer,CA
+76,Kern,Vivek Viswanathan,DEM,"6,106",Treasurer,CA
+77,Kern,Greg Conlon,REP,"35,195",Treasurer,CA
+78,Kern,Jack M. Guerrero,REP,"16,084",Treasurer,CA
+79,Kern,Kevin Akin,P&F,"1,658",Treasurer,CA
+80,Kings,Fiona Ma,DEM,"3,244",Treasurer,CA
+81,Kings,Vivek Viswanathan,DEM,801,Treasurer,CA
+82,Kings,Greg Conlon,REP,"4,532",Treasurer,CA
+83,Kings,Jack M. Guerrero,REP,"3,894",Treasurer,CA
+84,Kings,Kevin Akin,P&F,270,Treasurer,CA
+85,Lake,Fiona Ma,DEM,"3,000",Treasurer,CA
+86,Lake,Vivek Viswanathan,DEM,945,Treasurer,CA
+87,Lake,Greg Conlon,REP,"1,669",Treasurer,CA
+88,Lake,Jack M. Guerrero,REP,"1,737",Treasurer,CA
+89,Lake,Kevin Akin,P&F,197,Treasurer,CA
+90,Lassen,Fiona Ma,DEM,545,Treasurer,CA
+91,Lassen,Vivek Viswanathan,DEM,205,Treasurer,CA
+92,Lassen,Greg Conlon,REP,"1,114",Treasurer,CA
+93,Lassen,Jack M. Guerrero,REP,"1,099",Treasurer,CA
+94,Lassen,Kevin Akin,P&F,55,Treasurer,CA
+95,Los Angeles,Fiona Ma,DEM,"414,998",Treasurer,CA
+96,Los Angeles,Vivek Viswanathan,DEM,"132,853",Treasurer,CA
+97,Los Angeles,Greg Conlon,REP,"134,175",Treasurer,CA
+98,Los Angeles,Jack M. Guerrero,REP,"146,269",Treasurer,CA
+99,Los Angeles,Kevin Akin,P&F,"18,411",Treasurer,CA
+100,Madera,Fiona Ma,DEM,"4,524",Treasurer,CA
+101,Madera,Vivek Viswanathan,DEM,"1,456",Treasurer,CA
+102,Madera,Greg Conlon,REP,"5,304",Treasurer,CA
+103,Madera,Jack M. Guerrero,REP,"5,586",Treasurer,CA
+104,Madera,Kevin Akin,P&F,310,Treasurer,CA
+105,Marin,Fiona Ma,DEM,"22,136",Treasurer,CA
+106,Marin,Vivek Viswanathan,DEM,"4,651",Treasurer,CA
+107,Marin,Greg Conlon,REP,"3,749",Treasurer,CA
+108,Marin,Jack M. Guerrero,REP,"4,265",Treasurer,CA
+109,Marin,Kevin Akin,P&F,577,Treasurer,CA
+110,Mariposa,Fiona Ma,DEM,"1,381",Treasurer,CA
+111,Mariposa,Vivek Viswanathan,DEM,349,Treasurer,CA
+112,Mariposa,Greg Conlon,REP,"1,517",Treasurer,CA
+113,Mariposa,Jack M. Guerrero,REP,"1,307",Treasurer,CA
+114,Mariposa,Kevin Akin,P&F,88,Treasurer,CA
+115,Mendocino,Fiona Ma,DEM,"4,540",Treasurer,CA
+116,Mendocino,Vivek Viswanathan,DEM,923,Treasurer,CA
+117,Mendocino,Greg Conlon,REP,"1,526",Treasurer,CA
+118,Mendocino,Jack M. Guerrero,REP,"1,221",Treasurer,CA
+119,Mendocino,Kevin Akin,P&F,259,Treasurer,CA
+120,Merced,Fiona Ma,DEM,"5,231",Treasurer,CA
+121,Merced,Vivek Viswanathan,DEM,"2,396",Treasurer,CA
+122,Merced,Greg Conlon,REP,"4,707",Treasurer,CA
+123,Merced,Jack M. Guerrero,REP,"4,321",Treasurer,CA
+124,Merced,Kevin Akin,P&F,477,Treasurer,CA
+125,Modoc,Fiona Ma,DEM,328,Treasurer,CA
+126,Modoc,Vivek Viswanathan,DEM,143,Treasurer,CA
+127,Modoc,Greg Conlon,REP,817,Treasurer,CA
+128,Modoc,Jack M. Guerrero,REP,688,Treasurer,CA
+129,Modoc,Kevin Akin,P&F,38,Treasurer,CA
+130,Mono,Fiona Ma,DEM,"1,131",Treasurer,CA
+131,Mono,Vivek Viswanathan,DEM,342,Treasurer,CA
+132,Mono,Greg Conlon,REP,503,Treasurer,CA
+133,Mono,Jack M. Guerrero,REP,688,Treasurer,CA
+134,Mono,Kevin Akin,P&F,52,Treasurer,CA
+135,Monterey,Fiona Ma,DEM,"15,941",Treasurer,CA
+136,Monterey,Vivek Viswanathan,DEM,"2,993",Treasurer,CA
+137,Monterey,Greg Conlon,REP,"6,375",Treasurer,CA
+138,Monterey,Jack M. Guerrero,REP,"4,411",Treasurer,CA
+139,Monterey,Kevin Akin,P&F,698,Treasurer,CA
+140,Napa,Fiona Ma,DEM,"6,909",Treasurer,CA
+141,Napa,Vivek Viswanathan,DEM,"1,484",Treasurer,CA
+142,Napa,Greg Conlon,REP,"3,146",Treasurer,CA
+143,Napa,Jack M. Guerrero,REP,"2,093",Treasurer,CA
+144,Napa,Kevin Akin,P&F,255,Treasurer,CA
+145,Nevada,Fiona Ma,DEM,"5,865",Treasurer,CA
+146,Nevada,Vivek Viswanathan,DEM,"1,864",Treasurer,CA
+147,Nevada,Greg Conlon,REP,"3,396",Treasurer,CA
+148,Nevada,Jack M. Guerrero,REP,"3,834",Treasurer,CA
+149,Nevada,Kevin Akin,P&F,251,Treasurer,CA
+150,Orange,Fiona Ma,DEM,"114,813",Treasurer,CA
+151,Orange,Vivek Viswanathan,DEM,"36,176",Treasurer,CA
+152,Orange,Greg Conlon,REP,"98,638",Treasurer,CA
+153,Orange,Jack M. Guerrero,REP,"87,236",Treasurer,CA
+154,Orange,Kevin Akin,P&F,"6,104",Treasurer,CA
+155,Placer,Fiona Ma,DEM,"18,270",Treasurer,CA
+156,Placer,Vivek Viswanathan,DEM,"5,868",Treasurer,CA
+157,Placer,Greg Conlon,REP,"15,269",Treasurer,CA
+158,Placer,Jack M. Guerrero,REP,"16,763",Treasurer,CA
+159,Placer,Kevin Akin,P&F,665,Treasurer,CA
+160,Plumas,Fiona Ma,DEM,"1,527",Treasurer,CA
+161,Plumas,Vivek Viswanathan,DEM,515,Treasurer,CA
+162,Plumas,Greg Conlon,REP,"1,392",Treasurer,CA
+163,Plumas,Jack M. Guerrero,REP,"1,544",Treasurer,CA
+164,Plumas,Kevin Akin,P&F,90,Treasurer,CA
+165,Riverside,Fiona Ma,DEM,"58,006",Treasurer,CA
+166,Riverside,Vivek Viswanathan,DEM,"19,838",Treasurer,CA
+167,Riverside,Greg Conlon,REP,"52,907",Treasurer,CA
+168,Riverside,Jack M. Guerrero,REP,"46,205",Treasurer,CA
+169,Riverside,Kevin Akin,P&F,"3,153",Treasurer,CA
+170,Sacramento,Fiona Ma,DEM,"55,925",Treasurer,CA
+171,Sacramento,Vivek Viswanathan,DEM,"11,265",Treasurer,CA
+172,Sacramento,Greg Conlon,REP,"25,373",Treasurer,CA
+173,Sacramento,Jack M. Guerrero,REP,"21,818",Treasurer,CA
+174,Sacramento,Kevin Akin,P&F,"2,704",Treasurer,CA
+175,San Benito,Fiona Ma,DEM,"2,527",Treasurer,CA
+176,San Benito,Vivek Viswanathan,DEM,701,Treasurer,CA
+177,San Benito,Greg Conlon,REP,"1,354",Treasurer,CA
+178,San Benito,Jack M. Guerrero,REP,"1,587",Treasurer,CA
+179,San Benito,Kevin Akin,P&F,113,Treasurer,CA
+180,San Bernardino,Fiona Ma,DEM,"55,494",Treasurer,CA
+181,San Bernardino,Vivek Viswanathan,DEM,"15,904",Treasurer,CA
+182,San Bernardino,Greg Conlon,REP,"46,946",Treasurer,CA
+183,San Bernardino,Jack M. Guerrero,REP,"42,907",Treasurer,CA
+184,San Bernardino,Kevin Akin,P&F,"3,545",Treasurer,CA
+185,San Diego,Fiona Ma,DEM,"146,498",Treasurer,CA
+186,San Diego,Vivek Viswanathan,DEM,"49,164",Treasurer,CA
+187,San Diego,Greg Conlon,REP,"100,434",Treasurer,CA
+188,San Diego,Jack M. Guerrero,REP,"80,454",Treasurer,CA
+189,San Diego,Kevin Akin,P&F,"4,601",Treasurer,CA
+190,San Francisco,Fiona Ma,DEM,"87,591",Treasurer,CA
+191,San Francisco,Vivek Viswanathan,DEM,"15,950",Treasurer,CA
+192,San Francisco,Greg Conlon,REP,"9,302",Treasurer,CA
+193,San Francisco,Jack M. Guerrero,REP,"10,269",Treasurer,CA
+194,San Francisco,Kevin Akin,P&F,"12,054",Treasurer,CA
+195,San Joaquin,Fiona Ma,DEM,"20,259",Treasurer,CA
+196,San Joaquin,Vivek Viswanathan,DEM,"5,520",Treasurer,CA
+197,San Joaquin,Greg Conlon,REP,"15,861",Treasurer,CA
+198,San Joaquin,Jack M. Guerrero,REP,"11,246",Treasurer,CA
+199,San Joaquin,Kevin Akin,P&F,"1,402",Treasurer,CA
+200,San Luis Obispo,Fiona Ma,DEM,"21,226",Treasurer,CA
+201,San Luis Obispo,Vivek Viswanathan,DEM,"4,787",Treasurer,CA
+202,San Luis Obispo,Greg Conlon,REP,"13,796",Treasurer,CA
+203,San Luis Obispo,Jack M. Guerrero,REP,"11,900",Treasurer,CA
+204,San Luis Obispo,Kevin Akin,P&F,827,Treasurer,CA
+205,San Mateo,Fiona Ma,DEM,"40,478",Treasurer,CA
+206,San Mateo,Vivek Viswanathan,DEM,"8,128",Treasurer,CA
+207,San Mateo,Greg Conlon,REP,"9,792",Treasurer,CA
+208,San Mateo,Jack M. Guerrero,REP,"8,580",Treasurer,CA
+209,San Mateo,Kevin Akin,P&F,"1,262",Treasurer,CA
+210,Santa Barbara,Fiona Ma,DEM,"21,944",Treasurer,CA
+211,Santa Barbara,Vivek Viswanathan,DEM,"6,508",Treasurer,CA
+212,Santa Barbara,Greg Conlon,REP,"11,785",Treasurer,CA
+213,Santa Barbara,Jack M. Guerrero,REP,"11,697",Treasurer,CA
+214,Santa Barbara,Kevin Akin,P&F,675,Treasurer,CA
+215,Santa Clara,Fiona Ma,DEM,"80,297",Treasurer,CA
+216,Santa Clara,Vivek Viswanathan,DEM,"32,670",Treasurer,CA
+217,Santa Clara,Greg Conlon,REP,"24,911",Treasurer,CA
+218,Santa Clara,Jack M. Guerrero,REP,"24,383",Treasurer,CA
+219,Santa Clara,Kevin Akin,P&F,"3,104",Treasurer,CA
+220,Santa Cruz,Fiona Ma,DEM,"20,179",Treasurer,CA
+221,Santa Cruz,Vivek Viswanathan,DEM,"5,823",Treasurer,CA
+222,Santa Cruz,Greg Conlon,REP,"4,493",Treasurer,CA
+223,Santa Cruz,Jack M. Guerrero,REP,"3,637",Treasurer,CA
+224,Santa Cruz,Kevin Akin,P&F,819,Treasurer,CA
+225,Shasta,Fiona Ma,DEM,"4,284",Treasurer,CA
+226,Shasta,Vivek Viswanathan,DEM,"1,783",Treasurer,CA
+227,Shasta,Greg Conlon,REP,"6,747",Treasurer,CA
+228,Shasta,Jack M. Guerrero,REP,"6,983",Treasurer,CA
+229,Shasta,Kevin Akin,P&F,418,Treasurer,CA
+230,Sierra,Fiona Ma,DEM,370,Treasurer,CA
+231,Sierra,Vivek Viswanathan,DEM,103,Treasurer,CA
+232,Sierra,Greg Conlon,REP,363,Treasurer,CA
+233,Sierra,Jack M. Guerrero,REP,347,Treasurer,CA
+234,Sierra,Kevin Akin,P&F,35,Treasurer,CA
+235,Siskiyou,Fiona Ma,DEM,"2,016",Treasurer,CA
+236,Siskiyou,Vivek Viswanathan,DEM,799,Treasurer,CA
+237,Siskiyou,Greg Conlon,REP,"1,994",Treasurer,CA
+238,Siskiyou,Jack M. Guerrero,REP,"1,981",Treasurer,CA
+239,Siskiyou,Kevin Akin,P&F,207,Treasurer,CA
+240,Solano,Fiona Ma,DEM,"29,213",Treasurer,CA
+241,Solano,Vivek Viswanathan,DEM,"7,527",Treasurer,CA
+242,Solano,Greg Conlon,REP,"12,055",Treasurer,CA
+243,Solano,Jack M. Guerrero,REP,"12,132",Treasurer,CA
+244,Solano,Kevin Akin,P&F,"1,194",Treasurer,CA
+245,Sonoma,Fiona Ma,DEM,"37,096",Treasurer,CA
+246,Sonoma,Vivek Viswanathan,DEM,"8,725",Treasurer,CA
+247,Sonoma,Greg Conlon,REP,"9,343",Treasurer,CA
+248,Sonoma,Jack M. Guerrero,REP,"8,753",Treasurer,CA
+249,Sonoma,Kevin Akin,P&F,"1,180",Treasurer,CA
+250,Stanislaus,Fiona Ma,DEM,"16,301",Treasurer,CA
+251,Stanislaus,Vivek Viswanathan,DEM,"4,077",Treasurer,CA
+252,Stanislaus,Greg Conlon,REP,"12,967",Treasurer,CA
+253,Stanislaus,Jack M. Guerrero,REP,"10,618",Treasurer,CA
+254,Stanislaus,Kevin Akin,P&F,906,Treasurer,CA
+255,Sutter,Fiona Ma,DEM,"2,523",Treasurer,CA
+256,Sutter,Vivek Viswanathan,DEM,"1,024",Treasurer,CA
+257,Sutter,Greg Conlon,REP,"3,700",Treasurer,CA
+258,Sutter,Jack M. Guerrero,REP,"2,510",Treasurer,CA
+259,Sutter,Kevin Akin,P&F,260,Treasurer,CA
+260,Tehama,Fiona Ma,DEM,"2,121",Treasurer,CA
+261,Tehama,Vivek Viswanathan,DEM,499,Treasurer,CA
+262,Tehama,Greg Conlon,REP,"4,043",Treasurer,CA
+263,Tehama,Jack M. Guerrero,REP,"2,381",Treasurer,CA
+264,Tehama,Kevin Akin,P&F,222,Treasurer,CA
+265,Trinity,Fiona Ma,DEM,"1,075",Treasurer,CA
+266,Trinity,Vivek Viswanathan,DEM,259,Treasurer,CA
+267,Trinity,Greg Conlon,REP,786,Treasurer,CA
+268,Trinity,Jack M. Guerrero,REP,864,Treasurer,CA
+269,Trinity,Kevin Akin,P&F,81,Treasurer,CA
+270,Tulare,Fiona Ma,DEM,"6,622",Treasurer,CA
+271,Tulare,Vivek Viswanathan,DEM,"3,307",Treasurer,CA
+272,Tulare,Greg Conlon,REP,"11,163",Treasurer,CA
+273,Tulare,Jack M. Guerrero,REP,"7,027",Treasurer,CA
+274,Tulare,Kevin Akin,P&F,556,Treasurer,CA
+275,Tuolumne,Fiona Ma,DEM,"3,517",Treasurer,CA
+276,Tuolumne,Vivek Viswanathan,DEM,720,Treasurer,CA
+277,Tuolumne,Greg Conlon,REP,"2,650",Treasurer,CA
+278,Tuolumne,Jack M. Guerrero,REP,"2,862",Treasurer,CA
+279,Tuolumne,Kevin Akin,P&F,186,Treasurer,CA
+280,Ventura,Fiona Ma,DEM,"40,997",Treasurer,CA
+281,Ventura,Vivek Viswanathan,DEM,"9,998",Treasurer,CA
+282,Ventura,Greg Conlon,REP,"28,917",Treasurer,CA
+283,Ventura,Jack M. Guerrero,REP,"20,792",Treasurer,CA
+284,Ventura,Kevin Akin,P&F,"1,714",Treasurer,CA
+285,Yolo,Fiona Ma,DEM,"14,188",Treasurer,CA
+286,Yolo,Vivek Viswanathan,DEM,"2,850",Treasurer,CA
+287,Yolo,Greg Conlon,REP,"4,573",Treasurer,CA
+288,Yolo,Jack M. Guerrero,REP,"3,647",Treasurer,CA
+289,Yolo,Kevin Akin,P&F,529,Treasurer,CA
+290,Yuba,Fiona Ma,DEM,"1,746",Treasurer,CA
+291,Yuba,Vivek Viswanathan,DEM,341,Treasurer,CA
+292,Yuba,Greg Conlon,REP,"2,439",Treasurer,CA
+293,Yuba,Jack M. Guerrero,REP,"1,538",Treasurer,CA
+294,Yuba,Kevin Akin,P&F,189,Treasurer,CA

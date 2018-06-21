@@ -1,0 +1,52 @@
+State	Primary Date	Unofficial Results	Unofficial Results on Github	Certified Results	Unofficial Results Scrapable	Official Results Scrapable	Unofficial Results Link	Certified Results Link	Notes
+AL	"6/5, 7/17"	TRUE	TRUE	TRUE	TRUE	FALSE	http://www2.alabamavotes.gov/electionnight/statewideresultsbycontest.aspx?ecode=1001000	https://sos.alabama.gov/alabama-votes/voter/election-data	"Have not built AL scraper, but there is an export data button at the county level that I have exported"
+AK	21-Aug	FALSE	FALSE	TRUE	FALSE	TRUE		http://www.elections.alaska.gov/Core/voterregistrationstatistics.php	"No election night data posted, but official precinct level results are posted"
+AZ	28-Aug	TRUE	FALSE	TRUE	TRUE	FALSE	https://results.arizona.vote/#	https://azsos.gov/2018-election-information	"Built scraper for special house race, will probably be the same"
+AR	"5/22, 6/19"	TRUE	TRUE	TRUE	TRUE	TRUE	http://results.enr.clarityelections.com/AR/74831/Web02-state.203322/#/access-to-races	http://results.enr.clarityelections.com/AR/74831/Web02-state.203322/#/access-to-races	"Clarity site, seems like site switches from unofficial to certified as time goes on."
+CA	5-Jun	TRUE	TRUE	TRUE	TRUE	FALSE	https://vote.sos.ca.gov/	http://www.sos.ca.gov/elections/prior-elections/statewide-election-results/	"Built scraper in python for unoffical results, official results are in pdf (and some xlsx format)"
+CO	26-Jun	FALSE	FALSE	TRUE	FALSE	TRUE		https://www.sos.state.co.us/pubs/elections/resultsData.html	Election night site not posted
+CT	14-Aug	FALSE	FALSE	TRUE	FALSE	FALSE		http://portal.ct.gov/SOTS/Election-Services/Election-Results/Election-Results	"Election night site not posted, official results are only in pdf format"
+DE	6-Sep	FALSE	FALSE	TRUE	FALSE	FALSE		https://elections.delaware.gov/results/html/unofresl.shtml	"downloadable official results, no official site"
+FL	28-Aug	FALSE	FALSE	TRUE	FALSE	FALSE		http://dos.myflorida.com/elections/data-statistics/elections-data/precinct-level-election-results/	"downloadable precinct level results, no election night site posted yet"
+GA	"5/22, 7/24"	TRUE	TRUE	TRUE	TRUE	TRUE		http://results.enr.clarityelections.com/GA/74658/Web02-state.203322/#/	clarity site
+HI	11-Aug	FALSE	FALSE	TRUE	FALSE	FALSE		https://elections.hawaii.gov/election-results/	"no election night data site yet, precinct level historical results"
+ID	15-May	FALSE	FALSE	FALSE	FALSE	FALSE		https://sos.idaho.gov/elect/results/index.html#downloads	no election night data site (anymore) precinct level historical results
+IL	20-Mar	FALSE	FALSE	TRUE	FALSE	TRUE		https://www.elections.il.gov/ElectionResultsPrecinctByOffice.aspx?ID=cm%2bJhwg8Xlc%3d	"County level election results (but not all counties have webpages), can download official precinct level results"
+IN	8-May	TRUE	TRUE	FALSE	TRUE	FALSE	http://indianaenr.blob.core.usgovcloudapi.net/site/index.html#	https://www.in.gov/sos/elections/2400.htm	"have python scraper for IN, the official results are in pdf format"
+IA	5-Jun	TRUE	TRUE	TRUE	TRUE	FALSE	http://results.enr.clarityelections.com/IA/74912/Web02-state.203322/#/	https://sos.iowa.gov/elections/results/#17	"clarity election site for unofficial results, downloadable official results at precinct level"
+KS	7-Aug	FALSE	FALSE	TRUE	FALSE	FALSE		https://sos.iowa.gov/elections/results/#17	"no election night site up, PDF offiical results"
+KY	22-May	TRUE	TRUE	TRUE	TRUE	FALSE	http://results.enr.clarityelections.com/KY/75480/202101/Web01/en/summary.html	https://elect.ky.gov/results/2010-2019/Pages/2018primaryandgeneralelectionresults.aspx	"clarity site, pdf official results"
+LA	"11/6, 12/8"	FALSE	FALSE	TRUE	FALSE	FALSE		https://voterportal.sos.la.gov/	"no election results site, can download individual races official results"
+ME	12-Jun	FALSE	FALSE	TRUE	FALSE	FALSE		http://www.maine.gov/sos/cec/elec/results/index.html	"no election results site, can download individual races official results"
+MD	26-Jun	FALSE	FALSE	TRUE	FALSE	FALSE		https://elections.maryland.gov/elections/2018/index.html	"no official results for 2018 yet, no elections night results yet"
+MA	4-Sep	FALSE	FALSE	TRUE	FALSE	FALSE		http://electionstats.state.ma.us/	"no unofficial results site, unoffical results are easily downloadable"
+MI	7-Aug	FALSE	FALSE	TRUE	FALSE	FALSE		"https://www.michigan.gov/sos/0,4670,7-127-1633_8722---,00.html"	"list of county websites that may/may not have election night result michigan.gov/sos/0,4670,7-127-1633_8722-103241--,00.html"
+MN	14-Aug	FALSE	FALSE	TRUE	FALSE	FALSE		https://www.sos.state.mn.us/elections-voting/election-results/	"no electon night website yet, downloadable official results"
+MS	"6/5, 6/26"	FALSE	FALSE	TRUE	FALSE	FALSE		http://www.sos.ms.gov/Elections-Voting/Pages/2018-Elections-Results.aspx	"didn't have election night website, have official results in pdf form"
+MO	7-Aug	TRUE	FALSE	TRUE	TRUE	TRUE	https://www.sos.mo.gov/elections/s_default	https://www.sos.mo.gov/elections/s_default	unclear whether results are unofficial/official
+MT	5-Jun	TRUE	TRUE	TRUE	TRUE	FALSE	http://mtelectionresults.gov/ResultsExport.aspx	https://sosmt.gov/elections/results/	both official and unofficial are downloadable
+NE	15-May	TRUE	TRUE	TRUE	TRUE	FALSE	http://electionresults.sos.ne.gov/default.aspx	http://www.sos.ne.gov/elec/prev_elec/index.html	both official and unofficial are downloadable (But official results for primary 2018 seem to be missing)
+NV	12-Jun	TRUE	TRUE	FALSE	FALSE	FALSE			Nevada links to election results page are not working (https://www.nvsos.gov/sos/elections/election-information/previous-elections/election-results)
+NH	11-Sep	FALSE	FALSE	TRUE	FALSE	FALSE		http://sos.nh.gov/ElectResults.aspx	"no election night site up… official results have pdf, website says there are excel spreadsheets as well (couldn't find)"
+NJ	5-Jun	FALSE	FALSE	TRUE	FALSE	FALSE		http://nj.gov/state/elections/election-information-archive.html	"unofficial results are county by county (several counties are clarity), official results are pdf"
+NM	5-Jun	TRUE	TRUE	TRUE	TRUE	TRUE	http://electionresults.sos.state.nm.us	http://electionresults.sos.state.nm.us	"unoffiical results are scrapable/downloadable, will become official results site"
+NY	13-Sep	TRUE	FALSE	TRUE	TRUE	FALSE	https://nyenr.elections.ny.gov/	https://www.elections.ny.gov/2018ElectionResults.html	"official 2018 results aren't posted, scrapable unoffiical county level results available"
+NC	8-May	TRUE	TRUE	TRUE	FALSE	FALSE	https://er.ncsbe.gov/downloads.html?election_dt=06/26/2018	https://er.ncsbe.gov/downloads.html?election_dt=06/26/2018	downloadable election results present at link
+ND	12-Jun	TRUE	FALSE	TRUE	TRUE	TRUE	http://results.sos.nd.gov/default.aspx	http://results.sos.nd.gov/default.aspx	scrapeable unofficial/official results
+OH	8-May	FALSE	TRUE	TRUE	FALSE	FALSE		https://www.sos.state.oh.us/elections/election-results-and-data/2018-official-elections-results/	only have official results up (added to unofficial primary results)
+OK	"6/26, 8/28"	FALSE	FALSE	TRUE	FALSE	TRUE		https://www.ok.gov/elections/Election_Info/Election_Results/2018-Election_Results.html	"downloadable/scrapable  official results, no unofficial results site"
+OR	15-May	TRUE	TRUE	TRUE	TRUE	FALSE	http://results.oregonvotes.gov/	https://sos.oregon.gov/elections/Pages/electionhistory.aspx	unofficial result site looks like NM's. there is an api for oregon election data. https://data.oregon.gov/resource/hjxd-ihqu.json
+PA	15-May	TRUE	FALSE	TRUE	TRUE	TRUE	https://www.electionreturns.pa.gov	"https://www.electionreturns.pa.gov
+"	need to scrape unofficial results. (will become official results)
+RI	12-Sep	TRUE	FALSE	TRUE	TRUE	TRUE	https://www.ri.gov/election/results/	https://www.ri.gov/election/results/	can scrape unoffiical/official results
+SC	"6/12, 6/26"	TRUE	TRUE	TRUE	TRUE	TRUE	http://www.enr-scvotes.org/SC/75708/Web02-state.203322/#/		unoffiical/offiical clarity 
+SD	5-Jun	TRUE	TRUE		TRUE		http://electionresults.sd.gov/		unofficial results look like NM (can be exported)
+TN	2-Aug	FALSE	FALSE	TRUE	FALSE	FALSE		https://sos.tn.gov/products/elections/election-results	"offiical results are pdf,  no unofficial site"
+TX	"3/6, 5/22"	TRUE	FALSE	TRUE	TRUE	TRUE	https://enrpages.sos.state.tx.us/	http://elections.sos.state.tx.us/index.htm	scrapeable unofficial results will need selenium (gross html site)
+UT	26-Jun	TRUE	FALSE	TRUE	TRUE	FALSE	https://electionresults.utah.gov/	https://elections.utah.gov/election-resources/election-results	scrapeable
+VT	14-Aug	TRUE	FALSE	TRUE	TRUE	FALSE	https://vtelectionresults.sec.state.vt.us/Index.html#/town	https://www.sec.state.vt.us/elections/election-results.aspx	"official results are pdf,  unofficial are scrapeable"
+VA	12-Jun	TRUE	FALSE	TRUE	TRUE	FALSE	https://results.elections.virginia.gov/	http://historical.elections.virginia.gov/	unofficial results are scrapable
+WA	7-Aug	TRUE	FALSE	TRUE	TRUE	TRUE	https://results.vote.wa.gov/results/current/Turnout.html	https://results.vote.wa.gov/results/current/Turnout.html	unoffiical/offiical results are  scrapeable
+WV	8-May	TRUE	FALSE	TRUE	TRUE	TRUE	https://services.sos.wv.gov/apps/elections/results/results.aspx?year=2018&eid=25&county=Statewide&type=Unofficial	http://services.sos.wv.gov/apps/elections/results/	"unofficial results have been taken down from May 2018 but site still remains, "
+WI	14-Aug	FALSE	FALSE	TRUE	FALSE	TRUE		http://elections.wi.gov/elections-voting/results/2018/spring-election	
+WY	21-Aug	FALSE	FALSE	TRUE	FALSE	FALSE		http://soswy.state.wy.us/Elections/ElectionResults.aspx	"Unofficial results are unavailable and unscrapable, no 2018 results posted yet"

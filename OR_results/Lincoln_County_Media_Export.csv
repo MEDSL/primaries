@@ -1,0 +1,92 @@
+ContestID,ContestName,PartyCode,AreaType,AreaNum,OfficeSeqNo,BallotOrder,CandidateID,CandidateName,CurrentDateTime,VoteFor,CandidateVotes,CandidatePercentage,PrecinctsReporting
+100036386,"US Representative, District 5 - Independent Party","IND","","US Congressional District 5",5,,9901,"Write-in",6/11/2018 12:01:58 PM,1,132,1,293/293
+100036387,"US Representative, District 5 - Democrat","DEM","","US Congressional District 5",1,,9901,"Write-in",6/11/2018 12:01:58 PM,1,51,0.00756901157613535,293/293
+100036387,"US Representative, District 5 - Democrat","DEM","","US Congressional District 5",1,,100061496,"Peter Wright",6/11/2018 12:01:58 PM,1,972,0.144256455921638,293/293
+100036387,"US Representative, District 5 - Democrat","DEM","","US Congressional District 5",1,,300025018,"Kurt Schrader",6/11/2018 12:01:58 PM,1,5715,0.848174532502226,293/293
+100036388,"US Representative, District 5 - Republican","REP","","US Congressional District 5",9,,9901,"Write-in",6/11/2018 12:01:58 PM,1,31,0.00877441268044155,293/293
+100036388,"US Representative, District 5 - Republican","REP","","US Congressional District 5",9,,100060612,"Mark Callahan",6/11/2018 12:01:58 PM,1,2117,0.599207472403057,293/293
+100036388,"US Representative, District 5 - Republican","REP","","US Congressional District 5",9,,100060613,"Joey Nations",6/11/2018 12:01:58 PM,1,799,0.226153410699123,293/293
+100036388,"US Representative, District 5 - Republican","REP","","US Congressional District 5",9,,100060614,"Robert L Reynolds",6/11/2018 12:01:58 PM,1,586,0.165864704217379,293/293
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,9901,"Write-in",6/11/2018 12:01:58 PM,1,216,0.457627118644068,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061547,"Dan (Mr P) Pistoresi",6/11/2018 12:01:58 PM,1,55,0.116525423728814,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061846,"Skye J Allen",6/11/2018 12:01:58 PM,1,72,0.152542372881356,1302/1335
+100036389,"Governor - Independent Party","IND","","Statewide Partisan",4,,100061848,"Patrick Starnes",6/11/2018 12:01:58 PM,1,129,0.273305084745763,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,9901,"Write-in",6/11/2018 12:01:58 PM,1,137,0.0196331327027802,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,100060704,"Candace Neville",6/11/2018 12:01:58 PM,1,592,0.0848380624820866,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,100061152,"Ed Jones",6/11/2018 12:01:58 PM,1,735,0.105331040412726,1302/1335
+100036390,"Governor - Democrat","DEM","","Statewide Partisan",2,,300027544,"Kate Brown",6/11/2018 12:01:58 PM,1,5514,0.790197764402408,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,9901,"Write-in",6/11/2018 12:01:58 PM,1,38,0.00900900900900901,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060615,"Keenan W Bohach",6/11/2018 12:01:58 PM,1,20,0.00474158368895211,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060616,"Knute Buehler",6/11/2018 12:01:58 PM,1,1917,0.45448079658606,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060617,"Sam Carpenter",6/11/2018 12:01:58 PM,1,1204,0.285443338074917,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060618,"Bruce Cuff",6/11/2018 12:01:58 PM,1,86,0.0203888098624941,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060619,"Jonathan I Edwards III",6/11/2018 12:01:58 PM,1,16,0.00379326695116169,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060620,"Jeff Smith",6/11/2018 12:01:58 PM,1,102,0.0241820768136558,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060621,"Jack W Tacy",6/11/2018 12:01:58 PM,1,5,0.00118539592223803,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100060705,"Greg C Wooldridge",6/11/2018 12:01:58 PM,1,774,0.183499288762447,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100061153,"David W Stauffer",6/11/2018 12:01:58 PM,1,40,0.00948316737790422,1302/1335
+100036391,"Governor - Republican","REP","","Statewide Partisan",3,,100061849,"Brett Hyland",6/11/2018 12:01:58 PM,1,16,0.00379326695116169,1302/1335
+100036461,"State Representative, 9th District - Independent Party","IND","","HD 09",7,,9901,"Write-in",6/11/2018 12:01:58 PM,1,3,1,16/16
+100036462,"State Representative, 9th District - Democrat","DEM","","HD 09",3,,9901,"Write-in",6/11/2018 12:01:58 PM,1,1,0.004739336492891,16/16
+100036462,"State Representative, 9th District - Democrat","DEM","","HD 09",3,,100061469,"Caddy McKeown",6/11/2018 12:01:58 PM,1,201,0.95260663507109,16/16
+100036462,"State Representative, 9th District - Democrat","DEM","","HD 09",3,,100061854,"Mark Daily",6/11/2018 12:01:58 PM,1,9,0.042654028436019,16/16
+100036463,"State Representative, 9th District - Republican","REP","","HD 09",11,,9901,"Write-in",6/11/2018 12:01:58 PM,1,2,0.0476190476190476,16/16
+100036463,"State Representative, 9th District - Republican","REP","","HD 09",11,,100060637,"Teri Grier",6/11/2018 12:01:58 PM,1,40,0.952380952380952,16/16
+100036464,"State Representative, 10th District - Independent Party","IND","","HD 10",8,,9901,"Write-in",6/11/2018 12:01:58 PM,1,104,1,47/47
+100036465,"State Representative, 10th District - Democrat","DEM","","HD 10",4,,9901,"Write-in",6/11/2018 12:01:58 PM,1,71,0.0130394857667585,47/47
+100036465,"State Representative, 10th District - Democrat","DEM","","HD 10",4,,300025042,"David Gomberg",6/11/2018 12:01:58 PM,1,5374,0.986960514233241,47/47
+100036466,"State Representative, 10th District - Republican","REP","","HD 10",12,,9901,"Write-in",6/11/2018 12:01:58 PM,1,50,0.018754688672168,47/47
+100036466,"State Representative, 10th District - Republican","REP","","HD 10",12,,100061470,"Thomas M Donohue",6/11/2018 12:01:58 PM,1,2616,0.981245311327832,47/47
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,9901,"Write-in",6/11/2018 12:01:58 PM,1,44,0.00366911274182789,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100060665,"Val Hoyle",6/11/2018 12:01:58 PM,1,6389,0.532771847898599,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100060666,"Jack Howard",6/11/2018 12:01:58 PM,1,1744,0.145430286857905,1302/1335
+100036617,"Commissioner of the Bureau of Labor and Industries","NON","","Statewide Nonpartisan",10,,100061211,"Lou Ogden",6/11/2018 12:01:58 PM,1,3815,0.318128752501668,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,9901,"Write-in",6/11/2018 12:01:58 PM,1,44,0.00380458279290964,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,100060699,"Kyle L Krohn",6/11/2018 12:01:58 PM,1,4633,0.400605274535236,1302/1335
+100036618,"Judge of the Court of Appeals, Position 10","NON","","Statewide Nonpartisan",13,,300019649,"Rex Armstrong",6/11/2018 12:01:58 PM,1,6888,0.595590142671855,1302/1335
+100036621,"Judge of the Court of Appeals, Position 6","NON","","Statewide Nonpartisan",13,,9901,"Write-in",6/11/2018 12:01:58 PM,1,92,0.0100196035722065,1302/1335
+100036621,"Judge of the Court of Appeals, Position 6","NON","","Statewide Nonpartisan",13,,300021775,"James (Jim) C Egan",6/11/2018 12:01:58 PM,1,9090,0.989980396427794,1302/1335
+100036623,"Judge of the Court of Appeals, Position 9","NON","","Statewide Nonpartisan",14,,9901,"Write-in",6/11/2018 12:01:58 PM,1,101,0.0112647780504127,1302/1335
+100036623,"Judge of the Court of Appeals, Position 9","NON","","Statewide Nonpartisan",14,,300019653,"Erika Hadlock",6/11/2018 12:01:58 PM,1,8865,0.988735221949587,1302/1335
+100036625,"Judge of the Supreme Court, Position 2","NON","","Statewide Nonpartisan",11,,9901,"Write-in",6/11/2018 12:01:58 PM,1,94,0.00984190137158413,1302/1335
+100036625,"Judge of the Supreme Court, Position 2","NON","","Statewide Nonpartisan",11,,100060566,"Rebecca Duncan",6/11/2018 12:01:58 PM,1,9457,0.990158098628416,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,9901,"Write-in",6/11/2018 12:01:58 PM,1,30,0.00250041673612269,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,100060567,"Meagan A Flynn",6/11/2018 12:01:58 PM,1,8902,0.741956992832139,1302/1335
+100036626,"Judge of the Supreme Court, Position 3","NON","","Statewide Nonpartisan",11,,100061619,"Van Pounds",6/11/2018 12:01:58 PM,1,3066,0.255542590431739,1302/1335
+100036681,"Judge of the Circuit Court, 17th District, Position 2","NON","","Circuit Court District 17",20,,9901,"Write-in",6/11/2018 12:01:58 PM,1,139,0.014455074875208,32/32
+100036681,"Judge of the Circuit Court, 17th District, Position 2","NON","","Circuit Court District 17",20,,300019890,"Paulette E Sanders",6/11/2018 12:01:58 PM,1,9477,0.985544925124792,32/32
+100036682,"Judge of the Circuit Court, 17th District, Position 3","NON","","Circuit Court District 17",19,,9901,"Write-in",6/11/2018 12:01:58 PM,1,49,0.00379374419324868,32/32
+100036682,"Judge of the Circuit Court, 17th District, Position 3","NON","","Circuit Court District 17",19,,100061564,"Russell L Baldwin",6/11/2018 12:01:58 PM,1,4661,0.360870238463921,32/32
+100036682,"Judge of the Circuit Court, 17th District, Position 3","NON","","Circuit Court District 17",19,,300019708,"Thomas O Branford",6/11/2018 12:01:58 PM,1,8206,0.635336017342831,32/32
+100036703,"District Attorney, Lincoln County","NON","","District Attorney, Lincoln County",21,,9901,"Write-in",6/11/2018 12:01:58 PM,1,137,0.0143877336693972,32/32
+100036703,"District Attorney, Lincoln County","NON","","District Attorney, Lincoln County",21,,300024792,"Michelle R Branam",6/11/2018 12:01:58 PM,1,9385,0.985612266330603,32/32
+100037200,"Lincoln County Commissioner, Position 1","NON","","LINCOLN",22,,9901,"Write-in",6/11/2018 12:01:58 PM,1,33,0.00249565151629736,32/32
+100037200,"Lincoln County Commissioner, Position 1","NON","","LINCOLN",22,,100041987,"Doug Hunt",6/11/2018 12:01:58 PM,1,4716,0.35665128941995,32/32
+100037200,"Lincoln County Commissioner, Position 1","NON","","LINCOLN",22,,100062401,"Virginia (Jenny) Demaris",6/11/2018 12:01:58 PM,1,4541,0.343416773803222,32/32
+100037200,"Lincoln County Commissioner, Position 1","NON","","LINCOLN",22,,300031188,"Kim Herring",6/11/2018 12:01:58 PM,1,1626,0.122967556530288,32/32
+100037200,"Lincoln County Commissioner, Position 1","NON","","LINCOLN",22,,300031189,"Betty Kamikawa",6/11/2018 12:01:58 PM,1,2307,0.174468728730243,32/32
+100037201,"Lincoln County Commissioner, Position 3","NON","","LINCOLN",23,,9901,"Write-in",6/11/2018 12:01:58 PM,1,36,0.00264394829612221,32/32
+100037201,"Lincoln County Commissioner, Position 3","NON","","LINCOLN",23,,100062402,"Terry N Thompson",6/11/2018 12:01:58 PM,1,4773,0.35054347826087,32/32
+100037201,"Lincoln County Commissioner, Position 3","NON","","LINCOLN",23,,300031190,"Kaety Jacobson",6/11/2018 12:01:58 PM,1,8807,0.646812573443008,32/32
+100037643,"CITY OF WALDPORT, Council Members (Vote For 2)","NON","","CITY OF WALDPORT",24,,9901,"Write-in",6/11/2018 12:01:58 PM,2,26,0.0315533980582524,1/1
+100037643,"CITY OF WALDPORT, Council Members (Vote For 2)","NON","","CITY OF WALDPORT",24,,100062403,"Janis Swan",6/11/2018 12:01:58 PM,2,474,0.575242718446602,1/1
+100037643,"CITY OF WALDPORT, Council Members (Vote For 2)","NON","","CITY OF WALDPORT",24,,100062404,"Harry K Dennis",6/11/2018 12:01:58 PM,2,324,0.393203883495146,1/1
+300000959,"21-182 Port of Alsea Bonds to Replace Launch and Marina, Upgrades, and Refinance Projects","","","Port of Alsea",29,,1,"Yes",6/11/2018 12:01:58 PM,1,1773,0.562143310082435,6/6
+300000959,"21-182 Port of Alsea Bonds to Replace Launch and Marina, Upgrades, and Refinance Projects","","","Port of Alsea",29,,2,"No",6/11/2018 12:01:58 PM,1,1381,0.437856689917565,6/6
+300000964,"21-183 North Lincoln Fire & Rescue Rural Fire Protection District #1 North Lincoln Fire & Rescue General Obligation Bond Authorization","","","North Lincoln Fire & Rescue Rural Fire Protection District #1",30,,1,"Yes",6/11/2018 12:01:58 PM,1,1860,0.534329215742603,8/8
+300000964,"21-183 North Lincoln Fire & Rescue Rural Fire Protection District #1 North Lincoln Fire & Rescue General Obligation Bond Authorization","","","North Lincoln Fire & Rescue Rural Fire Protection District #1",30,,2,"No",6/11/2018 12:01:58 PM,1,1621,0.465670784257397,8/8
+300000965,"21-184 Yachats Rural Fire Protection District Renewal of local option tax for the Yachats RFPD","","","Yachats Rural Fire Protection District",31,,1,"Yes",6/11/2018 12:01:58 PM,1,734,0.72173058013766,3/3
+300000965,"21-184 Yachats Rural Fire Protection District Renewal of local option tax for the Yachats RFPD","","","Yachats Rural Fire Protection District",31,,2,"No",6/11/2018 12:01:58 PM,1,283,0.27826941986234,3/3
+300000966,"21-185 Seal Rock Rural Fire Protection District Continuation of Local Option Tax for Seal Rock RFPD","","","Seal Rock Rural Fire Protection District",32,,1,"Yes",6/11/2018 12:01:58 PM,1,778,0.644573322286661,3/3
+300000966,"21-185 Seal Rock Rural Fire Protection District Continuation of Local Option Tax for Seal Rock RFPD","","","Seal Rock Rural Fire Protection District",32,,2,"No",6/11/2018 12:01:58 PM,1,429,0.355426677713339,3/3
+300000967,"21-186 LINCOLN County Local Option Tax Levy for Countywide Public Safety Services","","","LINCOLN",28,,1,"Yes",6/11/2018 12:01:58 PM,1,6579,0.440096327513546,32/32
+300000967,"21-186 LINCOLN County Local Option Tax Levy for Countywide Public Safety Services","","","LINCOLN",28,,2,"No",6/11/2018 12:01:58 PM,1,8370,0.559903672486454,32/32
+300000968,"21-187 Toledo Rural Fire Protection District Authorizes General Obligation Bond to Improve Service Delivery","","","Toledo Rural Fire Protection District",33,,1,"Yes",6/11/2018 12:01:58 PM,1,267,0.384172661870504,5/5
+300000968,"21-187 Toledo Rural Fire Protection District Authorizes General Obligation Bond to Improve Service Delivery","","","Toledo Rural Fire Protection District",33,,2,"No",6/11/2018 12:01:58 PM,1,428,0.615827338129496,5/5
+300023690,"Starr Creek Special Road District, Commissioner - Position 1","NON","","Starr Creek Special Road District",25,,9901,"Write-in",6/11/2018 12:01:58 PM,1,39,0.590909090909091,1/1
+300023690,"Starr Creek Special Road District, Commissioner - Position 1","NON","","Starr Creek Special Road District",25,,300031194,"Sharre T Smith",6/11/2018 12:01:58 PM,1,27,0.409090909090909,1/1
+300023691,"Starr Creek Special Road District, Commissioner - Position 2","NON","","Starr Creek Special Road District",26,,9901,"Write-in",6/11/2018 12:01:58 PM,1,1,0.0144927536231884,1/1
+300023691,"Starr Creek Special Road District, Commissioner - Position 2","NON","","Starr Creek Special Road District",26,,300031195,"Karen Heere",6/11/2018 12:01:58 PM,1,41,0.594202898550725,1/1
+300023691,"Starr Creek Special Road District, Commissioner - Position 2","NON","","Starr Creek Special Road District",26,,300031385,"Kay S C Fort",6/11/2018 12:01:58 PM,1,27,0.391304347826087,1/1
+300023692,"Starr Creek Special Road District, Commissioner - Position 3","NON","","Starr Creek Special Road District",27,,9901,"Write-in",6/11/2018 12:01:58 PM,1,5,0.0862068965517241,1/1
+300023692,"Starr Creek Special Road District, Commissioner - Position 3","NON","","Starr Creek Special Road District",27,,300031387,"Les Fort",6/11/2018 12:01:58 PM,1,53,0.913793103448276,1/1

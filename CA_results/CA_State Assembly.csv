@@ -1,0 +1,542 @@
+county,district name,candidate,party,votes,race name,state
+Districtwide,District 1,Caleen Sisk,DEM,"15,117",State Assembly,CA
+Districtwide,District 1,Peter Van Peborgh,DEM,"6,156",State Assembly,CA
+Districtwide,District 1,Brian Dahle,REP,"42,981",State Assembly,CA
+Districtwide,District 1,Jenny O Connell-Nowain,NPP,"2,008",State Assembly,CA
+Butte,District 1,Caleen Sisk,DEM,938,State Assembly,CA
+Butte,District 1,Peter Van Peborgh,DEM,408,State Assembly,CA
+Butte,District 1,Brian Dahle,REP,"2,247",State Assembly,CA
+Butte,District 1,Jenny O Connell-Nowain,NPP,123,State Assembly,CA
+Lassen,District 1,Caleen Sisk,DEM,398,State Assembly,CA
+Lassen,District 1,Peter Van Peborgh,DEM,137,State Assembly,CA
+Lassen,District 1,Brian Dahle,REP,"2,537",State Assembly,CA
+Lassen,District 1,Jenny O Connell-Nowain,NPP,48,State Assembly,CA
+Modoc,District 1,Caleen Sisk,DEM,214,State Assembly,CA
+Modoc,District 1,Peter Van Peborgh,DEM,127,State Assembly,CA
+Modoc,District 1,Brian Dahle,REP,"1,725",State Assembly,CA
+Modoc,District 1,Jenny O Connell-Nowain,NPP,48,State Assembly,CA
+Nevada,District 1,Caleen Sisk,DEM,"4,819",State Assembly,CA
+Nevada,District 1,Peter Van Peborgh,DEM,"1,606",State Assembly,CA
+Nevada,District 1,Brian Dahle,REP,"8,217",State Assembly,CA
+Nevada,District 1,Jenny O Connell-Nowain,NPP,440,State Assembly,CA
+Placer,District 1,Caleen Sisk,DEM,"2,258",State Assembly,CA
+Placer,District 1,Peter Van Peborgh,DEM,814,State Assembly,CA
+Placer,District 1,Brian Dahle,REP,"4,951",State Assembly,CA
+Placer,District 1,Jenny O Connell-Nowain,NPP,345,State Assembly,CA
+Plumas,District 1,Caleen Sisk,DEM,"1,195",State Assembly,CA
+Plumas,District 1,Peter Van Peborgh,DEM,470,State Assembly,CA
+Plumas,District 1,Brian Dahle,REP,"3,296",State Assembly,CA
+Plumas,District 1,Jenny O Connell-Nowain,NPP,114,State Assembly,CA
+Shasta,District 1,Caleen Sisk,DEM,"3,219",State Assembly,CA
+Shasta,District 1,Peter Van Peborgh,DEM,"1,783",State Assembly,CA
+Shasta,District 1,Brian Dahle,REP,"14,932",State Assembly,CA
+Shasta,District 1,Jenny O Connell-Nowain,NPP,533,State Assembly,CA
+Sierra,District 1,Caleen Sisk,DEM,293,State Assembly,CA
+Sierra,District 1,Peter Van Peborgh,DEM,79,State Assembly,CA
+Sierra,District 1,Brian Dahle,REP,826,State Assembly,CA
+Sierra,District 1,Jenny O Connell-Nowain,NPP,53,State Assembly,CA
+Siskiyou,District 1,Caleen Sisk,DEM,"1,783",State Assembly,CA
+Siskiyou,District 1,Peter Van Peborgh,DEM,732,State Assembly,CA
+Siskiyou,District 1,Brian Dahle,REP,"4,250",State Assembly,CA
+Siskiyou,District 1,Jenny O Connell-Nowain,NPP,304,State Assembly,CA
+Districtwide,District 2,Jim Wood,DEM,"42,877",State Assembly,CA
+Districtwide,District 2,Matt Heath,REP,"20,748",State Assembly,CA
+Del Norte,District 2,Jim Wood,DEM,"2,018",State Assembly,CA
+Del Norte,District 2,Matt Heath,REP,"2,424",State Assembly,CA
+Humboldt,District 2,Jim Wood,DEM,"12,316",State Assembly,CA
+Humboldt,District 2,Matt Heath,REP,"6,421",State Assembly,CA
+Mendocino,District 2,Jim Wood,DEM,"6,173",State Assembly,CA
+Mendocino,District 2,Matt Heath,REP,"2,811",State Assembly,CA
+Sonoma,District 2,Jim Wood,DEM,"20,838",State Assembly,CA
+Sonoma,District 2,Matt Heath,REP,"7,522",State Assembly,CA
+Trinity,District 2,Jim Wood,DEM,"1,532",State Assembly,CA
+Trinity,District 2,Matt Heath,REP,"1,570",State Assembly,CA
+Districtwide,District 3,Sonia Aery,DEM,"22,401",State Assembly,CA
+Districtwide,District 3,James Gallagher,REP,"40,810",State Assembly,CA
+Butte,District 3,Sonia Aery,DEM,"14,114",State Assembly,CA
+Butte,District 3,James Gallagher,REP,"18,385",State Assembly,CA
+Colusa,District 3,Sonia Aery,DEM,326,State Assembly,CA
+Colusa,District 3,James Gallagher,REP,"1,074",State Assembly,CA
+Glenn,District 3,Sonia Aery,DEM,824,State Assembly,CA
+Glenn,District 3,James Gallagher,REP,"2,552",State Assembly,CA
+Sutter,District 3,Sonia Aery,DEM,"2,875",State Assembly,CA
+Sutter,District 3,James Gallagher,REP,"7,251",State Assembly,CA
+Tehama,District 3,Sonia Aery,DEM,"2,454",State Assembly,CA
+Tehama,District 3,James Gallagher,REP,"6,985",State Assembly,CA
+Yuba,District 3,Sonia Aery,DEM,"1,808",State Assembly,CA
+Yuba,District 3,James Gallagher,REP,"4,563",State Assembly,CA
+Districtwide,District 4,Cecilia Aguiar-Curry,DEM,"41,764",State Assembly,CA
+Colusa,District 4,Cecilia Aguiar-Curry,DEM,669,State Assembly,CA
+Lake,District 4,Cecilia Aguiar-Curry,DEM,"5,290",State Assembly,CA
+Napa,District 4,Cecilia Aguiar-Curry,DEM,"10,207",State Assembly,CA
+Solano,District 4,Cecilia Aguiar-Curry,DEM,"3,264",State Assembly,CA
+Sonoma,District 4,Cecilia Aguiar-Curry,DEM,"6,555",State Assembly,CA
+Yolo,District 4,Cecilia Aguiar-Curry,DEM,"15,779",State Assembly,CA
+Districtwide,District 5,Carla J. Neal,DEM,"27,660",State Assembly,CA
+Districtwide,District 5,Frank Bigelow,REP,"45,755",State Assembly,CA
+Alpine,District 5,Carla J. Neal,DEM,214,State Assembly,CA
+Alpine,District 5,Frank Bigelow,REP,143,State Assembly,CA
+Amador,District 5,Carla J. Neal,DEM,"1,407",State Assembly,CA
+Amador,District 5,Frank Bigelow,REP,"2,824",State Assembly,CA
+Calaveras,District 5,Carla J. Neal,DEM,"3,208",State Assembly,CA
+Calaveras,District 5,Frank Bigelow,REP,"5,710",State Assembly,CA
+El Dorado,District 5,Carla J. Neal,DEM,"8,435",State Assembly,CA
+El Dorado,District 5,Frank Bigelow,REP,"12,762",State Assembly,CA
+Madera,District 5,Carla J. Neal,DEM,"5,615",State Assembly,CA
+Madera,District 5,Frank Bigelow,REP,"12,010",State Assembly,CA
+Mariposa,District 5,Carla J. Neal,DEM,"1,648",State Assembly,CA
+Mariposa,District 5,Frank Bigelow,REP,"3,043",State Assembly,CA
+Mono,District 5,Carla J. Neal,DEM,"1,506",State Assembly,CA
+Mono,District 5,Frank Bigelow,REP,"1,329",State Assembly,CA
+Placer,District 5,Carla J. Neal,DEM,"1,529",State Assembly,CA
+Placer,District 5,Frank Bigelow,REP,"1,850",State Assembly,CA
+Tuolumne,District 5,Carla J. Neal,DEM,"4,098",State Assembly,CA
+Tuolumne,District 5,Frank Bigelow,REP,"6,084",State Assembly,CA
+Districtwide,District 6,"Jacalyn ""Jackie"" Smith",DEM,"27,192",State Assembly,CA
+Districtwide,District 6,Kevin Kiley,REP,"43,028",State Assembly,CA
+El Dorado,District 6,"Jacalyn ""Jackie"" Smith",DEM,"4,316",State Assembly,CA
+El Dorado,District 6,Kevin Kiley,REP,"7,443",State Assembly,CA
+Placer,District 6,"Jacalyn ""Jackie"" Smith",DEM,"16,986",State Assembly,CA
+Placer,District 6,Kevin Kiley,REP,"27,447",State Assembly,CA
+Sacramento,District 6,"Jacalyn ""Jackie"" Smith",DEM,"5,890",State Assembly,CA
+Sacramento,District 6,Kevin Kiley,REP,"8,138",State Assembly,CA
+Districtwide,District 7,Kevin McCarty,DEM,"26,390",State Assembly,CA
+Sacramento,District 7,Kevin McCarty,DEM,"22,693",State Assembly,CA
+Yolo,District 7,Kevin McCarty,DEM,"3,697",State Assembly,CA
+Sacramento,District 8,Ken Cooley,DEM,"22,255",State Assembly,CA
+Sacramento,District 8,Melinda Avey,REP,"17,017",State Assembly,CA
+Sacramento,District 8,Janice Marlae Bonser,LIB,"1,252",State Assembly,CA
+Sacramento,District 8,Lawrence Ray Murray,NPP,879,State Assembly,CA
+Districtwide,District 9,Jim Cooper,DEM,"20,700",State Assembly,CA
+Districtwide,District 9,Mario Garcia,DEM,"4,878",State Assembly,CA
+Districtwide,District 9,Harry He,DEM,"5,038",State Assembly,CA
+Sacramento,District 9,Jim Cooper,DEM,"17,146",State Assembly,CA
+Sacramento,District 9,Mario Garcia,DEM,"4,229",State Assembly,CA
+Sacramento,District 9,Harry He,DEM,"4,122",State Assembly,CA
+San Joaquin,District 9,Jim Cooper,DEM,"3,554",State Assembly,CA
+San Joaquin,District 9,Mario Garcia,DEM,649,State Assembly,CA
+San Joaquin,District 9,Harry He,DEM,916,State Assembly,CA
+Districtwide,District 10,Marc Levine,DEM,"47,008",State Assembly,CA
+Districtwide,District 10,Dan Monte,DEM,"11,942",State Assembly,CA
+Marin,District 10,Marc Levine,DEM,"26,532",State Assembly,CA
+Marin,District 10,Dan Monte,DEM,"6,343",State Assembly,CA
+Sonoma,District 10,Marc Levine,DEM,"20,476",State Assembly,CA
+Sonoma,District 10,Dan Monte,DEM,"5,599",State Assembly,CA
+Districtwide,District 11,Jim Frazier,DEM,"26,408",State Assembly,CA
+Districtwide,District 11,Diane Stewart,DEM,"7,448",State Assembly,CA
+Districtwide,District 11,Lisa Romero,REP,"21,309",State Assembly,CA
+Contra Costa,District 11,Jim Frazier,DEM,"9,710",State Assembly,CA
+Contra Costa,District 11,Diane Stewart,DEM,"2,663",State Assembly,CA
+Contra Costa,District 11,Lisa Romero,REP,"7,126",State Assembly,CA
+Sacramento,District 11,Jim Frazier,DEM,172,State Assembly,CA
+Sacramento,District 11,Diane Stewart,DEM,69,State Assembly,CA
+Sacramento,District 11,Lisa Romero,REP,159,State Assembly,CA
+Solano,District 11,Jim Frazier,DEM,"16,526",State Assembly,CA
+Solano,District 11,Diane Stewart,DEM,"4,716",State Assembly,CA
+Solano,District 11,Lisa Romero,REP,"14,024",State Assembly,CA
+Districtwide,District 12,Robert D. Chase,DEM,"17,517",State Assembly,CA
+Districtwide,District 12,Heath Flora,REP,"30,048",State Assembly,CA
+San Joaquin,District 12,Robert D. Chase,DEM,"5,515",State Assembly,CA
+San Joaquin,District 12,Heath Flora,REP,"10,562",State Assembly,CA
+Stanislaus,District 12,Robert D. Chase,DEM,"12,002",State Assembly,CA
+Stanislaus,District 12,Heath Flora,REP,"19,486",State Assembly,CA
+San Joaquin,District 13,Susan Talamantes Eggman,DEM,"16,028",State Assembly,CA
+San Joaquin,District 13,Carlos Villapudua,DEM,"5,226",State Assembly,CA
+San Joaquin,District 13,Antonio M. Garcia,REP,"9,616",State Assembly,CA
+Districtwide,District 14,Tim Grayson,DEM,"40,899",State Assembly,CA
+Districtwide,District 14,Aasim Yahya,DEM,"7,608",State Assembly,CA
+Contra Costa,District 14,Tim Grayson,DEM,"24,805",State Assembly,CA
+Contra Costa,District 14,Aasim Yahya,DEM,"4,696",State Assembly,CA
+Solano,District 14,Tim Grayson,DEM,"16,094",State Assembly,CA
+Solano,District 14,Aasim Yahya,DEM,"2,912",State Assembly,CA
+Districtwide,District 15,Judy Appel,DEM,"6,768",State Assembly,CA
+Districtwide,District 15,Ben Bartlett,DEM,"1,974",State Assembly,CA
+Districtwide,District 15,Jovanka Beckles,DEM,"8,468",State Assembly,CA
+Districtwide,District 15,Dan Kalb,DEM,"8,650",State Assembly,CA
+Districtwide,District 15,Andy Katz,DEM,"3,186",State Assembly,CA
+Districtwide,District 15,Rochelle Pardue-Okimoto,DEM,"4,926",State Assembly,CA
+Districtwide,District 15,Sergey Vikramsingh Piterman,DEM,398,State Assembly,CA
+Districtwide,District 15,Owen Poindexter,DEM,470,State Assembly,CA
+Districtwide,District 15,Cheryl Sudduth,DEM,804,State Assembly,CA
+Districtwide,District 15,Raquella Thaman,DEM,525,State Assembly,CA
+Districtwide,District 15,Buffy Wicks,DEM,"18,049",State Assembly,CA
+Districtwide,District 15,Pranav Jandhyala,REP,"3,889",State Assembly,CA
+Alameda,District 15,Judy Appel,DEM,"5,345",State Assembly,CA
+Alameda,District 15,Ben Bartlett,DEM,"1,355",State Assembly,CA
+Alameda,District 15,Jovanka Beckles,DEM,"4,832",State Assembly,CA
+Alameda,District 15,Dan Kalb,DEM,"7,081",State Assembly,CA
+Alameda,District 15,Andy Katz,DEM,"1,782",State Assembly,CA
+Alameda,District 15,Rochelle Pardue-Okimoto,DEM,"2,025",State Assembly,CA
+Alameda,District 15,Sergey Vikramsingh Piterman,DEM,160,State Assembly,CA
+Alameda,District 15,Owen Poindexter,DEM,154,State Assembly,CA
+Alameda,District 15,Cheryl Sudduth,DEM,150,State Assembly,CA
+Alameda,District 15,Raquella Thaman,DEM,188,State Assembly,CA
+Alameda,District 15,Buffy Wicks,DEM,"11,861",State Assembly,CA
+Alameda,District 15,Pranav Jandhyala,REP,"1,749",State Assembly,CA
+Contra Costa,District 15,Judy Appel,DEM,"1,423",State Assembly,CA
+Contra Costa,District 15,Ben Bartlett,DEM,619,State Assembly,CA
+Contra Costa,District 15,Jovanka Beckles,DEM,"3,636",State Assembly,CA
+Contra Costa,District 15,Dan Kalb,DEM,"1,569",State Assembly,CA
+Contra Costa,District 15,Andy Katz,DEM,"1,404",State Assembly,CA
+Contra Costa,District 15,Rochelle Pardue-Okimoto,DEM,"2,901",State Assembly,CA
+Contra Costa,District 15,Sergey Vikramsingh Piterman,DEM,238,State Assembly,CA
+Contra Costa,District 15,Owen Poindexter,DEM,316,State Assembly,CA
+Contra Costa,District 15,Cheryl Sudduth,DEM,654,State Assembly,CA
+Contra Costa,District 15,Raquella Thaman,DEM,337,State Assembly,CA
+Contra Costa,District 15,Buffy Wicks,DEM,"6,188",State Assembly,CA
+Contra Costa,District 15,Pranav Jandhyala,REP,"2,140",State Assembly,CA
+Districtwide,District 16,Rebecca Bauer-Kahan,DEM,"27,317",State Assembly,CA
+Districtwide,District 16,Catharine Baker,REP,"37,988",State Assembly,CA
+Alameda,District 16,Rebecca Bauer-Kahan,DEM,"10,659",State Assembly,CA
+Alameda,District 16,Catharine Baker,REP,"14,627",State Assembly,CA
+Contra Costa,District 16,Rebecca Bauer-Kahan,DEM,"16,658",State Assembly,CA
+Contra Costa,District 16,Catharine Baker,REP,"23,361",State Assembly,CA
+San Francisco,District 17,David Chiu,DEM,"57,614",State Assembly,CA
+San Francisco,District 17,Alejandro Fernandez,DEM,"13,097",State Assembly,CA
+Alameda,District 18,Rob Bonta,DEM,"40,982",State Assembly,CA
+Alameda,District 18,Stephen Slauson,REP,"5,792",State Assembly,CA
+Districtwide,District 19,Phil Ting,DEM,"50,919",State Assembly,CA
+Districtwide,District 19,Keith Bogdon,REP,"10,723",State Assembly,CA
+Districtwide,District 19,David Ernst,NPP,"2,490",State Assembly,CA
+San Francisco,District 19,Phil Ting,DEM,"44,412",State Assembly,CA
+San Francisco,District 19,Keith Bogdon,REP,"8,934",State Assembly,CA
+San Francisco,District 19,David Ernst,NPP,"1,985",State Assembly,CA
+San Mateo,District 19,Phil Ting,DEM,"6,507",State Assembly,CA
+San Mateo,District 19,Keith Bogdon,REP,"1,789",State Assembly,CA
+San Mateo,District 19,David Ernst,NPP,505,State Assembly,CA
+Alameda,District 20,Bill Quirk,DEM,"30,162",State Assembly,CA
+Districtwide,District 21,Adam C. Gray,DEM,"23,558",State Assembly,CA
+Merced,District 21,Adam C. Gray,DEM,"12,957",State Assembly,CA
+Stanislaus,District 21,Adam C. Gray,DEM,"10,601",State Assembly,CA
+San Mateo,District 22,Kevin Mullin,DEM,"34,192",State Assembly,CA
+San Mateo,District 22,Christina Laskowski,REP,"11,733",State Assembly,CA
+San Mateo,District 22,Bridget Duffy,GRN,"1,881",State Assembly,CA
+Districtwide,District 23,Aileen Rizo,DEM,"19,676",State Assembly,CA
+Districtwide,District 23,Jim Patterson,REP,"37,427",State Assembly,CA
+Fresno,District 23,Aileen Rizo,DEM,"19,343",State Assembly,CA
+Fresno,District 23,Jim Patterson,REP,"36,883",State Assembly,CA
+Tulare,District 23,Aileen Rizo,DEM,333,State Assembly,CA
+Tulare,District 23,Jim Patterson,REP,544,State Assembly,CA
+Districtwide,District 24,Marc Berman,DEM,"36,726",State Assembly,CA
+Districtwide,District 24,Alex Glew,REP,"11,588",State Assembly,CA
+Districtwide,District 24,Bob Goodwyn,LIB,"1,875",State Assembly,CA
+San Mateo,District 24,Marc Berman,DEM,"8,168",State Assembly,CA
+San Mateo,District 24,Alex Glew,REP,"2,739",State Assembly,CA
+San Mateo,District 24,Bob Goodwyn,LIB,404,State Assembly,CA
+Santa Clara,District 24,Marc Berman,DEM,"28,558",State Assembly,CA
+Santa Clara,District 24,Alex Glew,REP,"8,849",State Assembly,CA
+Santa Clara,District 24,Bob Goodwyn,LIB,"1,471",State Assembly,CA
+Districtwide,District 25,Kansen Chu,DEM,"18,148",State Assembly,CA
+Districtwide,District 25,Carmen Montano,DEM,"8,045",State Assembly,CA
+Districtwide,District 25,Bob Brunton,REP,"9,083",State Assembly,CA
+Districtwide,District 25,Robert Imhoff,LIB,"1,117",State Assembly,CA
+Alameda,District 25,Kansen Chu,DEM,"5,575",State Assembly,CA
+Alameda,District 25,Carmen Montano,DEM,"2,363",State Assembly,CA
+Alameda,District 25,Bob Brunton,REP,"2,965",State Assembly,CA
+Alameda,District 25,Robert Imhoff,LIB,346,State Assembly,CA
+Santa Clara,District 25,Kansen Chu,DEM,"12,573",State Assembly,CA
+Santa Clara,District 25,Carmen Montano,DEM,"5,682",State Assembly,CA
+Santa Clara,District 25,Bob Brunton,REP,"6,118",State Assembly,CA
+Santa Clara,District 25,Robert Imhoff,LIB,771,State Assembly,CA
+Districtwide,District 26,Jose Sigala,DEM,"10,457",State Assembly,CA
+Districtwide,District 26,Warren Gubler,REP,"10,143",State Assembly,CA
+Districtwide,District 26,Jack Lavers,REP,"4,084",State Assembly,CA
+Districtwide,District 26,Devon Mathis,REP,"10,659",State Assembly,CA
+Inyo,District 26,Jose Sigala,DEM,"1,346",State Assembly,CA
+Inyo,District 26,Warren Gubler,REP,664,State Assembly,CA
+Inyo,District 26,Jack Lavers,REP,596,State Assembly,CA
+Inyo,District 26,Devon Mathis,REP,907,State Assembly,CA
+Kern,District 26,Jose Sigala,DEM,641,State Assembly,CA
+Kern,District 26,Warren Gubler,REP,463,State Assembly,CA
+Kern,District 26,Jack Lavers,REP,874,State Assembly,CA
+Kern,District 26,Devon Mathis,REP,770,State Assembly,CA
+Tulare,District 26,Jose Sigala,DEM,"8,470",State Assembly,CA
+Tulare,District 26,Warren Gubler,REP,"9,016",State Assembly,CA
+Tulare,District 26,Jack Lavers,REP,"2,614",State Assembly,CA
+Tulare,District 26,Devon Mathis,REP,"8,982",State Assembly,CA
+Santa Clara,District 27,Ash Kalra,DEM,"27,607",State Assembly,CA
+Santa Clara,District 28,Evan Low,DEM,"36,829",State Assembly,CA
+Santa Clara,District 28,Michael L. Snyder,REP,"16,993",State Assembly,CA
+Districtwide,District 29,Mark Stone,DEM,"43,640",State Assembly,CA
+Districtwide,District 29,Vicki L. Nohrden,REP,"17,006",State Assembly,CA
+Monterey,District 29,Mark Stone,DEM,"12,772",State Assembly,CA
+Monterey,District 29,Vicki L. Nohrden,REP,"6,543",State Assembly,CA
+Santa Clara,District 29,Mark Stone,DEM,"6,527",State Assembly,CA
+Santa Clara,District 29,Vicki L. Nohrden,REP,"3,488",State Assembly,CA
+Santa Cruz,District 29,Mark Stone,DEM,"24,341",State Assembly,CA
+Santa Cruz,District 29,Vicki L. Nohrden,REP,"6,975",State Assembly,CA
+Districtwide,District 30,Trina Coffman-Gomez,DEM,"2,524",State Assembly,CA
+Districtwide,District 30,Peter Leroe-MuÃ±oz,DEM,"3,398",State Assembly,CA
+Districtwide,District 30,Bill Lipe,DEM,"2,010",State Assembly,CA
+Districtwide,District 30,Robert Rivas,DEM,"14,518",State Assembly,CA
+Districtwide,District 30,Neil G. Kitchens,REP,"10,242",State Assembly,CA
+Monterey,District 30,Trina Coffman-Gomez,DEM,550,State Assembly,CA
+Monterey,District 30,Peter Leroe-MuÃ±oz,DEM,787,State Assembly,CA
+Monterey,District 30,Bill Lipe,DEM,"1,128",State Assembly,CA
+Monterey,District 30,Robert Rivas,DEM,"5,942",State Assembly,CA
+Monterey,District 30,Neil G. Kitchens,REP,"3,307",State Assembly,CA
+San Benito,District 30,Trina Coffman-Gomez,DEM,282,State Assembly,CA
+San Benito,District 30,Peter Leroe-MuÃ±oz,DEM,565,State Assembly,CA
+San Benito,District 30,Bill Lipe,DEM,370,State Assembly,CA
+San Benito,District 30,Robert Rivas,DEM,"3,076",State Assembly,CA
+San Benito,District 30,Neil G. Kitchens,REP,"2,228",State Assembly,CA
+Santa Clara,District 30,Trina Coffman-Gomez,DEM,974,State Assembly,CA
+Santa Clara,District 30,Peter Leroe-MuÃ±oz,DEM,"1,772",State Assembly,CA
+Santa Clara,District 30,Bill Lipe,DEM,317,State Assembly,CA
+Santa Clara,District 30,Robert Rivas,DEM,"3,422",State Assembly,CA
+Santa Clara,District 30,Neil G. Kitchens,REP,"3,861",State Assembly,CA
+Santa Cruz,District 30,Trina Coffman-Gomez,DEM,718,State Assembly,CA
+Santa Cruz,District 30,Peter Leroe-MuÃ±oz,DEM,274,State Assembly,CA
+Santa Cruz,District 30,Bill Lipe,DEM,195,State Assembly,CA
+Santa Cruz,District 30,Robert Rivas,DEM,"2,078",State Assembly,CA
+Santa Cruz,District 30,Neil G. Kitchens,REP,846,State Assembly,CA
+Fresno,District 31,Joaquin Arambula,DEM,"14,457",State Assembly,CA
+Fresno,District 31,Lupe Espinoza,REP,"9,951",State Assembly,CA
+Districtwide,District 32,Rudy Salas,DEM,"11,646",State Assembly,CA
+Districtwide,District 32,Justin Mendes,REP,"12,512",State Assembly,CA
+Kern,District 32,Rudy Salas,DEM,"6,886",State Assembly,CA
+Kern,District 32,Justin Mendes,REP,"3,953",State Assembly,CA
+Kings,District 32,Rudy Salas,DEM,"4,760",State Assembly,CA
+Kings,District 32,Justin Mendes,REP,"8,559",State Assembly,CA
+San Bernardino,District 33,Socorro Cisneros,DEM,"8,421",State Assembly,CA
+San Bernardino,District 33,Scott Markovich,DEM,"6,721",State Assembly,CA
+San Bernardino,District 33,Jay Obernolte,REP,"29,233",State Assembly,CA
+Kern,District 34,Nick Nicita,DEM,"13,491",State Assembly,CA
+Kern,District 34,Vince Fong,REP,"45,657",State Assembly,CA
+Districtwide,District 35,Bill Ostrander,DEM,"31,871",State Assembly,CA
+Districtwide,District 35,Jordan Cunningham,REP,"40,782",State Assembly,CA
+San Luis Obispo,District 35,Bill Ostrander,DEM,"24,738",State Assembly,CA
+San Luis Obispo,District 35,Jordan Cunningham,REP,"28,816",State Assembly,CA
+Santa Barbara,District 35,Bill Ostrander,DEM,"7,133",State Assembly,CA
+Santa Barbara,District 35,Jordan Cunningham,REP,"11,966",State Assembly,CA
+Districtwide,District 36,Steve Fox,DEM,"15,220",State Assembly,CA
+Districtwide,District 36,Tom Lackey,REP,"24,491",State Assembly,CA
+Kern,District 36,Steve Fox,DEM,"1,197",State Assembly,CA
+Kern,District 36,Tom Lackey,REP,"2,997",State Assembly,CA
+Los Angeles,District 36,Steve Fox,DEM,"13,324",State Assembly,CA
+Los Angeles,District 36,Tom Lackey,REP,"19,593",State Assembly,CA
+San Bernardino,District 36,Steve Fox,DEM,699,State Assembly,CA
+San Bernardino,District 36,Tom Lackey,REP,"1,901",State Assembly,CA
+Districtwide,District 37,Sofia Collin,DEM,"3,465",State Assembly,CA
+Districtwide,District 37,S. Monique LimÃ³n,DEM,"42,295",State Assembly,CA
+Districtwide,District 37,David L. Norrdin,DEM,"5,111",State Assembly,CA
+San Luis Obispo,District 37,Sofia Collin,DEM,0,State Assembly,CA
+San Luis Obispo,District 37,S. Monique LimÃ³n,DEM,0,State Assembly,CA
+San Luis Obispo,District 37,David L. Norrdin,DEM,0,State Assembly,CA
+Santa Barbara,District 37,Sofia Collin,DEM,"1,592",State Assembly,CA
+Santa Barbara,District 37,S. Monique LimÃ³n,DEM,"24,059",State Assembly,CA
+Santa Barbara,District 37,David L. Norrdin,DEM,"1,903",State Assembly,CA
+Ventura,District 37,Sofia Collin,DEM,"1,873",State Assembly,CA
+Ventura,District 37,S. Monique LimÃ³n,DEM,"18,236",State Assembly,CA
+Ventura,District 37,David L. Norrdin,DEM,"3,208",State Assembly,CA
+Districtwide,District 38,Christy Smith,DEM,"28,068",State Assembly,CA
+Districtwide,District 38,Dante Acosta,REP,"33,191",State Assembly,CA
+Los Angeles,District 38,Christy Smith,DEM,"19,766",State Assembly,CA
+Los Angeles,District 38,Dante Acosta,REP,"22,099",State Assembly,CA
+Ventura,District 38,Christy Smith,DEM,"8,302",State Assembly,CA
+Ventura,District 38,Dante Acosta,REP,"11,092",State Assembly,CA
+Los Angeles,District 39,Bonnie Corwin,DEM,853,State Assembly,CA
+Los Angeles,District 39,Patty Lopez,DEM,"4,664",State Assembly,CA
+Los Angeles,District 39,Patrea Patrick,DEM,"1,217",State Assembly,CA
+Los Angeles,District 39,Luz Maria Rivas,DEM,"12,908",State Assembly,CA
+Los Angeles,District 39,Antonio Sanchez,DEM,"3,125",State Assembly,CA
+Los Angeles,District 39,Ricardo Antonio Benitez,REP,"7,860",State Assembly,CA
+San Bernardino,District 40,Libbern Gwen Cook,DEM,"5,638",State Assembly,CA
+San Bernardino,District 40,James C. Ramos,DEM,"17,188",State Assembly,CA
+San Bernardino,District 40,Henry Gomez Nickel,REP,"19,900",State Assembly,CA
+Districtwide,District 41,Chris Holden,DEM,"35,235",State Assembly,CA
+Districtwide,District 41,Kenneth (Kenny) Rotter,DEM,"7,157",State Assembly,CA
+Districtwide,District 41,Alan S. Reynolds,NPP,"16,829",State Assembly,CA
+Los Angeles,District 41,Chris Holden,DEM,"30,968",State Assembly,CA
+Los Angeles,District 41,Kenneth (Kenny) Rotter,DEM,"5,611",State Assembly,CA
+Los Angeles,District 41,Alan S. Reynolds,NPP,"11,070",State Assembly,CA
+San Bernardino,District 41,Chris Holden,DEM,"4,267",State Assembly,CA
+San Bernardino,District 41,Kenneth (Kenny) Rotter,DEM,"1,546",State Assembly,CA
+San Bernardino,District 41,Alan S. Reynolds,NPP,"5,759",State Assembly,CA
+Districtwide,District 42,DeniAntionette Mazingo,DEM,"21,108",State Assembly,CA
+Districtwide,District 42,Gary Jeandron,REP,"9,318",State Assembly,CA
+Districtwide,District 42,Andrew F. Kotyuk,REP,"7,276",State Assembly,CA
+Districtwide,District 42,Chad Mayes,REP,"19,541",State Assembly,CA
+Districtwide,District 42,Carol A. Bouldin,GRN,"1,929",State Assembly,CA
+Riverside,District 42,DeniAntionette Mazingo,DEM,"17,017",State Assembly,CA
+Riverside,District 42,Gary Jeandron,REP,"6,400",State Assembly,CA
+Riverside,District 42,Andrew F. Kotyuk,REP,"4,885",State Assembly,CA
+Riverside,District 42,Chad Mayes,REP,"14,274",State Assembly,CA
+Riverside,District 42,Carol A. Bouldin,GRN,"1,390",State Assembly,CA
+San Bernardino,District 42,DeniAntionette Mazingo,DEM,"4,091",State Assembly,CA
+San Bernardino,District 42,Gary Jeandron,REP,"2,918",State Assembly,CA
+San Bernardino,District 42,Andrew F. Kotyuk,REP,"2,391",State Assembly,CA
+San Bernardino,District 42,Chad Mayes,REP,"5,267",State Assembly,CA
+San Bernardino,District 42,Carol A. Bouldin,GRN,539,State Assembly,CA
+Los Angeles,District 43,Laura Friedman,DEM,"36,680",State Assembly,CA
+Districtwide,District 44,Jacqui Irwin,DEM,"28,422",State Assembly,CA
+Districtwide,District 44,Robert Zelinsky,DEM,"2,202",State Assembly,CA
+Districtwide,District 44,Ronda Baldwin-Kennedy,REP,"25,252",State Assembly,CA
+Los Angeles,District 44,Jacqui Irwin,DEM,696,State Assembly,CA
+Los Angeles,District 44,Robert Zelinsky,DEM,38,State Assembly,CA
+Los Angeles,District 44,Ronda Baldwin-Kennedy,REP,655,State Assembly,CA
+Ventura,District 44,Jacqui Irwin,DEM,"27,726",State Assembly,CA
+Ventura,District 44,Robert Zelinsky,DEM,"2,164",State Assembly,CA
+Ventura,District 44,Ronda Baldwin-Kennedy,REP,"24,597",State Assembly,CA
+Districtwide,District 45,Ray Bishop,DEM,740,State Assembly,CA
+Districtwide,District 45,Jeff Bornstein,DEM,"2,793",State Assembly,CA
+Districtwide,District 45,Daniel Brin,DEM,"1,622",State Assembly,CA
+Districtwide,District 45,Jesse Gabriel,DEM,"19,090",State Assembly,CA
+Districtwide,District 45,Ankur Patel,DEM,"2,729",State Assembly,CA
+Districtwide,District 45,Tricia Robbins Kasson,DEM,"3,312",State Assembly,CA
+Districtwide,District 45,Justin M. Clark,REP,"15,291",State Assembly,CA
+Los Angeles,District 45,Ray Bishop,DEM,734,State Assembly,CA
+Los Angeles,District 45,Jeff Bornstein,DEM,"2,767",State Assembly,CA
+Los Angeles,District 45,Daniel Brin,DEM,"1,611",State Assembly,CA
+Los Angeles,District 45,Jesse Gabriel,DEM,"18,965",State Assembly,CA
+Los Angeles,District 45,Ankur Patel,DEM,"2,720",State Assembly,CA
+Los Angeles,District 45,Tricia Robbins Kasson,DEM,"3,292",State Assembly,CA
+Los Angeles,District 45,Justin M. Clark,REP,"15,122",State Assembly,CA
+Ventura,District 45,Ray Bishop,DEM,6,State Assembly,CA
+Ventura,District 45,Jeff Bornstein,DEM,26,State Assembly,CA
+Ventura,District 45,Daniel Brin,DEM,11,State Assembly,CA
+Ventura,District 45,Jesse Gabriel,DEM,125,State Assembly,CA
+Ventura,District 45,Ankur Patel,DEM,9,State Assembly,CA
+Ventura,District 45,Tricia Robbins Kasson,DEM,20,State Assembly,CA
+Ventura,District 45,Justin M. Clark,REP,169,State Assembly,CA
+Los Angeles,District 46,Adrin Nazarian,DEM,"32,735",State Assembly,CA
+Los Angeles,District 46,Roxanne Beckford Hoge,REP,"9,050",State Assembly,CA
+San Bernardino,District 47,Eloise Reyes,DEM,"20,072",State Assembly,CA
+Los Angeles,District 48,Blanca E. Rubio,DEM,"22,188",State Assembly,CA
+Los Angeles,District 49,Ed Chau,DEM,"22,545",State Assembly,CA
+Los Angeles,District 49,Burton Brink,REP,"10,467",State Assembly,CA
+Los Angeles,District 50,Richard Bloom,DEM,"49,550",State Assembly,CA
+Los Angeles,District 51,Wendy Carrillo,DEM,"26,790",State Assembly,CA
+Districtwide,District 52,Frank C. Guzman,DEM,"3,969",State Assembly,CA
+Districtwide,District 52,Freddie Rodriguez,DEM,"13,578",State Assembly,CA
+Districtwide,District 52,Toni Holle,REP,"10,045",State Assembly,CA
+Districtwide,District 52,Ben W. Gibbins,LIB,737,State Assembly,CA
+Los Angeles,District 52,Frank C. Guzman,DEM,"1,586",State Assembly,CA
+Los Angeles,District 52,Freddie Rodriguez,DEM,"4,659",State Assembly,CA
+Los Angeles,District 52,Toni Holle,REP,"2,111",State Assembly,CA
+Los Angeles,District 52,Ben W. Gibbins,LIB,222,State Assembly,CA
+San Bernardino,District 52,Frank C. Guzman,DEM,"2,383",State Assembly,CA
+San Bernardino,District 52,Freddie Rodriguez,DEM,"8,919",State Assembly,CA
+San Bernardino,District 52,Toni Holle,REP,"7,934",State Assembly,CA
+San Bernardino,District 52,Ben W. Gibbins,LIB,515,State Assembly,CA
+Los Angeles,District 53,Rae Elisabeth Henry,DEM,"1,431",State Assembly,CA
+Los Angeles,District 53,Kevin Hee Young Jang,DEM,"3,551",State Assembly,CA
+Los Angeles,District 53,Miguel Santiago,DEM,"15,513",State Assembly,CA
+Los Angeles,District 53,Michael A. Lewis,LIB,"1,737",State Assembly,CA
+Los Angeles,District 54,Steve Dunwoody,DEM,"4,007",State Assembly,CA
+Los Angeles,District 54,Breon Dupree Hollie,DEM,809,State Assembly,CA
+Los Angeles,District 54,Sydney K. Kamlager,DEM,"25,781",State Assembly,CA
+Los Angeles,District 54,Lamar Lyons,DEM,"3,311",State Assembly,CA
+Los Angeles,District 54,Tepring Michelle Piquado,DEM,"7,214",State Assembly,CA
+Los Angeles,District 54,Glen Ratcliff,REP,"6,191",State Assembly,CA
+Districtwide,District 55,Melissa Fazli,DEM,"8,639",State Assembly,CA
+Districtwide,District 55,Gregg D. Fritchle,DEM,"12,279",State Assembly,CA
+Districtwide,District 55,Phillip Chen,REP,"25,726",State Assembly,CA
+Districtwide,District 55,James G. Gerbus,REP,"6,151",State Assembly,CA
+Districtwide,District 55,Scott Lebda,REP,"2,250",State Assembly,CA
+Los Angeles,District 55,Melissa Fazli,DEM,"2,955",State Assembly,CA
+Los Angeles,District 55,Gregg D. Fritchle,DEM,"4,072",State Assembly,CA
+Los Angeles,District 55,Phillip Chen,REP,"7,193",State Assembly,CA
+Los Angeles,District 55,James G. Gerbus,REP,"1,136",State Assembly,CA
+Los Angeles,District 55,Scott Lebda,REP,444,State Assembly,CA
+Orange,District 55,Melissa Fazli,DEM,"4,308",State Assembly,CA
+Orange,District 55,Gregg D. Fritchle,DEM,"6,382",State Assembly,CA
+Orange,District 55,Phillip Chen,REP,"14,663",State Assembly,CA
+Orange,District 55,James G. Gerbus,REP,"4,389",State Assembly,CA
+Orange,District 55,Scott Lebda,REP,"1,391",State Assembly,CA
+San Bernardino,District 55,Melissa Fazli,DEM,"1,376",State Assembly,CA
+San Bernardino,District 55,Gregg D. Fritchle,DEM,"1,825",State Assembly,CA
+San Bernardino,District 55,Phillip Chen,REP,"3,870",State Assembly,CA
+San Bernardino,District 55,James G. Gerbus,REP,626,State Assembly,CA
+San Bernardino,District 55,Scott Lebda,REP,415,State Assembly,CA
+Districtwide,District 56,Eduardo Garcia,DEM,"18,482",State Assembly,CA
+Districtwide,District 56,Jeff Gonzalez,REP,"8,127",State Assembly,CA
+Districtwide,District 56,Jonathan Reiss,REP,"4,743",State Assembly,CA
+Imperial,District 56,Eduardo Garcia,DEM,"6,781",State Assembly,CA
+Imperial,District 56,Jeff Gonzalez,REP,"2,354",State Assembly,CA
+Imperial,District 56,Jonathan Reiss,REP,"1,670",State Assembly,CA
+Riverside,District 56,Eduardo Garcia,DEM,"11,701",State Assembly,CA
+Riverside,District 56,Jeff Gonzalez,REP,"5,773",State Assembly,CA
+Riverside,District 56,Jonathan Reiss,REP,"3,073",State Assembly,CA
+Los Angeles,District 57,Ian C. Calderon,DEM,"18,921",State Assembly,CA
+Los Angeles,District 57,Blake Sullivan Carter,DEM,992,State Assembly,CA
+Los Angeles,District 57,Justin Joshua Valero,DEM,"4,740",State Assembly,CA
+Los Angeles,District 57,Oscar J. Llamas,REP,"6,503",State Assembly,CA
+Los Angeles,District 57,Jessica Martinez,REP,"9,662",State Assembly,CA
+Los Angeles,District 58,Pedro Aceituno,DEM,"4,501",State Assembly,CA
+Los Angeles,District 58,Ivan Altamirano,DEM,"2,667",State Assembly,CA
+Los Angeles,District 58,Miguel Angel Alvarado,DEM,"1,128",State Assembly,CA
+Los Angeles,District 58,John Paul Drayer,DEM,"1,160",State Assembly,CA
+Los Angeles,District 58,Cristina Garcia,DEM,"9,854",State Assembly,CA
+Los Angeles,District 58,FrinÃ© (Lore) Medrano,DEM,"2,812",State Assembly,CA
+Los Angeles,District 58,Karla V. Salazar,DEM,"3,047",State Assembly,CA
+Los Angeles,District 58,Mike Simpfenderfer,REP,"9,159",State Assembly,CA
+Los Angeles,District 59,Leslie Hagan-Morgan,DEM,"3,788",State Assembly,CA
+Los Angeles,District 59,Reggie Jones-Sawyer,DEM,"12,408",State Assembly,CA
+Riverside,District 60,Sabrina Cervantes,DEM,"13,276",State Assembly,CA
+Riverside,District 60,Bill Essayli,REP,"15,224",State Assembly,CA
+Riverside,District 61,Jose Medina,DEM,"19,486",State Assembly,CA
+Los Angeles,District 62,Autumn Burke,DEM,"34,831",State Assembly,CA
+Los Angeles,District 62,Al L. Hernandez,REP,"8,605",State Assembly,CA
+Los Angeles,District 63,Maria D. Estrada,DEM,"7,590",State Assembly,CA
+Los Angeles,District 63,Anthony Rendon,DEM,"12,614",State Assembly,CA
+Los Angeles,District 63,Adam Joshua Miller,REP,"6,736",State Assembly,CA
+Los Angeles,District 64,Mike A. Gipson,DEM,"19,421",State Assembly,CA
+Orange,District 65,Sharon Quirk-Silva,DEM,"20,974",State Assembly,CA
+Orange,District 65,"Alexandria ""Alex"" Coronado",REP,"20,208",State Assembly,CA
+Los Angeles,District 66,Caney Arnold,DEM,"3,546",State Assembly,CA
+Los Angeles,District 66,Al Muratsuchi,DEM,"29,934",State Assembly,CA
+Los Angeles,District 66,Frank A. Scotto,REP,"27,566",State Assembly,CA
+Riverside,District 67,Michelle Singleton,DEM,"14,062",State Assembly,CA
+Riverside,District 67,Melissa Melendez,REP,"29,668",State Assembly,CA
+Orange,District 68,Michelle Duman,DEM,"22,786",State Assembly,CA
+Orange,District 68,Steven S. Choi,REP,"34,400",State Assembly,CA
+Orange,District 69,Tom Daly,DEM,"16,153",State Assembly,CA
+Los Angeles,District 70,Elliot Ruben Gonzales,DEM,"5,672",State Assembly,CA
+Los Angeles,District 70,Patrick O'Donnell,DEM,"24,539",State Assembly,CA
+Los Angeles,District 70,Rachel Alexandra Bruhnke,GRN,"4,197",State Assembly,CA
+Los Angeles,District 70,"Honor ""Mimi"" Robson",LIB,"7,253",State Assembly,CA
+Districtwide,District 71,James Elia,DEM,"18,465",State Assembly,CA
+Districtwide,District 71,Randy Voepel,REP,"26,262",State Assembly,CA
+Districtwide,District 71,Larry A. Wilske,REP,"14,241",State Assembly,CA
+Riverside,District 71,James Elia,DEM,"1,391",State Assembly,CA
+Riverside,District 71,Randy Voepel,REP,"1,333",State Assembly,CA
+Riverside,District 71,Larry A. Wilske,REP,"1,562",State Assembly,CA
+San Diego,District 71,James Elia,DEM,"17,074",State Assembly,CA
+San Diego,District 71,Randy Voepel,REP,"24,929",State Assembly,CA
+San Diego,District 71,Larry A. Wilske,REP,"12,679",State Assembly,CA
+Orange,District 72,Josh Lowenthal,DEM,"20,761",State Assembly,CA
+Orange,District 72,Tyler Diep,REP,"16,683",State Assembly,CA
+Orange,District 72,Greg Haskin,REP,"11,512",State Assembly,CA
+Orange,District 72,Richard Laird,REP,"2,945",State Assembly,CA
+Orange,District 72,Long Pham,REP,"4,491",State Assembly,CA
+Orange,District 73,Scott Rhinehart,DEM,"28,116",State Assembly,CA
+Orange,District 73,William (Bill) Brough,REP,"33,318",State Assembly,CA
+Orange,District 73,Ed Sachs,REP,"9,718",State Assembly,CA
+Orange,District 74,Karina Onofre,DEM,"8,117",State Assembly,CA
+Orange,District 74,Cottie Petrie-Norris,DEM,"18,634",State Assembly,CA
+Orange,District 74,Ryan Ta,DEM,"4,546",State Assembly,CA
+Orange,District 74,Katherine Daigle,REP,"7,606",State Assembly,CA
+Orange,District 74,Matthew Harper,REP,"27,448",State Assembly,CA
+Districtwide,District 75,Alan Geraci,DEM,"19,788",State Assembly,CA
+Districtwide,District 75,Marie Waldron,REP,"33,452",State Assembly,CA
+Riverside,District 75,Alan Geraci,DEM,"3,877",State Assembly,CA
+Riverside,District 75,Marie Waldron,REP,"7,215",State Assembly,CA
+San Diego,District 75,Alan Geraci,DEM,"15,911",State Assembly,CA
+San Diego,District 75,Marie Waldron,REP,"26,237",State Assembly,CA
+San Diego,District 76,Tasha Boerner Horvath,DEM,"17,017",State Assembly,CA
+San Diego,District 76,Elizabeth Warren,DEM,"17,347",State Assembly,CA
+San Diego,District 76,"Philip ""Phil"" Graham",REP,"14,271",State Assembly,CA
+San Diego,District 76,Thomas E. Krouse,REP,"5,404",State Assembly,CA
+San Diego,District 76,"Maureen ""Mo"" Muir",REP,"5,895",State Assembly,CA
+San Diego,District 76,Amanda Rigby,REP,"3,776",State Assembly,CA
+San Diego,District 76,Jerome Stocks,REP,"3,330",State Assembly,CA
+San Diego,District 76,Brian Wimmer,REP,551,State Assembly,CA
+San Diego,District 77,Sunday Gover,DEM,"28,908",State Assembly,CA
+San Diego,District 77,Brian Maienschein,REP,"40,682",State Assembly,CA
+San Diego,District 78,Todd Gloria,DEM,"46,626",State Assembly,CA
+San Diego,District 78,Maggie J. Campbell,REP,"20,231",State Assembly,CA
+San Diego,District 79,Shirley N. Weber,DEM,"29,986",State Assembly,CA
+San Diego,District 79,John Moore,REP,"18,708",State Assembly,CA
+San Diego,District 80,Lorena Gonzalez Fletcher,DEM,"22,660",State Assembly,CA
+San Diego,District 80,Lincoln Pickard,REP,"10,489",State Assembly,CA
