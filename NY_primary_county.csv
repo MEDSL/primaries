@@ -1,0 +1,466 @@
+race name,county,party,candidate,votes
+ 1st Congressional District , Part of Suffolk , DEM Primary ,David Pechefsky,"2,425"
+ 1st Congressional District , Part of Suffolk , DEM Primary ,Kate M. Browning,"6,159"
+ 1st Congressional District , Part of Suffolk , DEM Primary ,Elaine Di Masi,"1,207"
+ 1st Congressional District , Part of Suffolk , DEM Primary ,Perry Gershon,"7,226"
+ 1st Congressional District , Part of Suffolk , DEM Primary ,Vivian M. Viloria-Fisher,"3,314"
+ 1st Congressional District , Part of Suffolk , DEM Primary ,Blank,16
+ 1st Congressional District , Part of Suffolk , DEM Primary ,Void,16
+ 1st Congressional District , Part of Suffolk , DEM Primary ,Write-in,20
+ 2nd Congressional District , Part of Nassau , DEM Primary ,Du Wayne Gregory,451
+ 2nd Congressional District , Part of Nassau , DEM Primary ,Liuba Grechen Shirley,"2,123"
+ 2nd Congressional District , Part of Nassau , DEM Primary ,Blank,5
+ 2nd Congressional District , Part of Nassau , DEM Primary ,Void,10
+ 2nd Congressional District , Part of Nassau , DEM Primary ,Write-in,1
+ 2nd Congressional District , Part of Suffolk , DEM Primary ,Du Wayne Gregory,"4,532"
+ 2nd Congressional District , Part of Suffolk , DEM Primary ,Liuba Grechen Shirley,"4,815"
+ 2nd Congressional District , Part of Suffolk , DEM Primary ,Blank,7
+ 2nd Congressional District , Part of Suffolk , DEM Primary ,Void,8
+ 2nd Congressional District , Part of Suffolk , DEM Primary ,Write-in,15
+ 5th Congressional District , Part of Nassau , DEM Primary ,Gregory W. Meeks,533
+ 5th Congressional District , Part of Nassau , DEM Primary ,Mizan Choudhury,82
+ 5th Congressional District , Part of Nassau , DEM Primary ,Carl H. Achille,451
+ 5th Congressional District , Part of Nassau , DEM Primary ,Blank,3
+ 5th Congressional District , Part of Nassau , DEM Primary ,Void,19
+ 5th Congressional District , Part of Nassau , DEM Primary ,Write-in,7
+ 5th Congressional District , Part of Queens , DEM Primary ,Gregory W. Meeks,"9,270"
+ 5th Congressional District , Part of Queens , DEM Primary ,Mizan Choudhury,981
+ 5th Congressional District , Part of Queens , DEM Primary ,Carl H. Achille,712
+ 5th Congressional District , Part of Queens , DEM Primary ,Blank,5
+ 5th Congressional District , Part of Queens , DEM Primary ,Void,11
+ 5th Congressional District , Part of Queens , DEM Primary ,Write-in,43
+ 9th Congressional District , Part of Kings , DEM Primary ,Adem Bunkeddeko,"13,729"
+ 9th Congressional District , Part of Kings , DEM Primary ,Yvette D. Clarke,"14,804"
+ 9th Congressional District , Part of Kings , DEM Primary ,Blank,12
+ 9th Congressional District , Part of Kings , DEM Primary ,Void,32
+ 9th Congressional District , Part of Kings , DEM Primary ,Write-in,86
+ 11th Congressional District , Part of Kings , DEM Primary ,Omar Vaid,616
+ 11th Congressional District , Part of Kings , DEM Primary ,Michael DeVito Jr.,866
+ 11th Congressional District , Part of Kings , DEM Primary ,Zach Emig,92
+ 11th Congressional District , Part of Kings , DEM Primary ,Paul Sperling,100
+ 11th Congressional District , Part of Kings , DEM Primary ,Radhakrishna Mohan,75
+ 11th Congressional District , Part of Kings , DEM Primary ,Max N. Rose,"3,447"
+ 11th Congressional District , Part of Kings , DEM Primary ,Blank,14
+ 11th Congressional District , Part of Kings , DEM Primary ,Void,14
+ 11th Congressional District , Part of Kings , DEM Primary ,Write-in,38
+ 11th Congressional District , Richmond , DEM Primary ,Omar Vaid,825
+ 11th Congressional District , Richmond , DEM Primary ,Michael DeVito Jr.,"2,284"
+ 11th Congressional District , Richmond , DEM Primary ,Zach Emig,124
+ 11th Congressional District , Richmond , DEM Primary ,Paul Sperling,292
+ 11th Congressional District , Richmond , DEM Primary ,Radhakrishna Mohan,572
+ 11th Congressional District , Richmond , DEM Primary ,Max N. Rose,"7,265"
+ 11th Congressional District , Richmond , DEM Primary ,Blank,55
+ 11th Congressional District , Richmond , DEM Primary ,Void,47
+ 11th Congressional District , Richmond , DEM Primary ,Write-in,372
+ 12th Congressional District , Part of Kings , DEM Primary ,Carolyn B. Maloney,"1,468"
+ 12th Congressional District , Part of Kings , DEM Primary ,Suraj Patel,"2,864"
+ 12th Congressional District , Part of Kings , DEM Primary ,Blank,0
+ 12th Congressional District , Part of Kings , DEM Primary ,Void,0
+ 12th Congressional District , Part of Kings , DEM Primary ,Write-in,22
+ 12th Congressional District , Part of New York , DEM Primary ,Carolyn B. Maloney,"19,836"
+ 12th Congressional District , Part of New York , DEM Primary ,Suraj Patel,"11,275"
+ 12th Congressional District , Part of New York , DEM Primary ,Blank,18
+ 12th Congressional District , Part of New York , DEM Primary ,Void,35
+ 12th Congressional District , Part of New York , DEM Primary ,Write-in,111
+ 12th Congressional District , Part of Queens , DEM Primary ,Carolyn B. Maloney,"2,919"
+ 12th Congressional District , Part of Queens , DEM Primary ,Suraj Patel,"2,856"
+ 12th Congressional District , Part of Queens , DEM Primary ,Blank,4
+ 12th Congressional District , Part of Queens , DEM Primary ,Void,12
+ 12th Congressional District , Part of Queens , DEM Primary ,Write-in,40
+ 14th Congressional District , Part of Bronx , DEM Primary ,Alexandria Ocasio-Cortez,"4,093"
+ 14th Congressional District , Part of Bronx , DEM Primary ,Joseph Crowley,"3,541"
+ 14th Congressional District , Part of Bronx , DEM Primary ,Blank,10
+ 14th Congressional District , Part of Bronx , DEM Primary ,Void,20
+ 14th Congressional District , Part of Bronx , DEM Primary ,Write-in,25
+ 14th Congressional District , Part of Queens , DEM Primary ,Alexandria Ocasio-Cortez,"11,804"
+ 14th Congressional District , Part of Queens , DEM Primary ,Joseph Crowley,"8,220"
+ 14th Congressional District , Part of Queens , DEM Primary ,Blank,13
+ 14th Congressional District , Part of Queens , DEM Primary ,Void,39
+ 14th Congressional District , Part of Queens , DEM Primary ,Write-in,61
+ 16th Congressional District , Part of Bronx , DEM Primary ,Jonathan Lewis,"1,397"
+ 16th Congressional District , Part of Bronx , DEM Primary ,Derickson K. Lawrence,399
+ 16th Congressional District , Part of Bronx , DEM Primary ,Joyce N. Briscoe,826
+ 16th Congressional District , Part of Bronx , DEM Primary ,Eliot L Engel,"8,488"
+ 16th Congressional District , Part of Bronx , DEM Primary ,Blank,6
+ 16th Congressional District , Part of Bronx , DEM Primary ,Void,18
+ 16th Congressional District , Part of Bronx , DEM Primary ,Write-in,51
+ 16th Congressional District , Part of Westchester , DEM Primary ,Jonathan Lewis,"3,071"
+ 16th Congressional District , Part of Westchester , DEM Primary ,Derickson K. Lawrence,751
+ 16th Congressional District , Part of Westchester , DEM Primary ,Joyce N. Briscoe,725
+ 16th Congressional District , Part of Westchester , DEM Primary ,Eliot L Engel,"11,906"
+ 16th Congressional District , Part of Westchester , DEM Primary ,Blank,11
+ 16th Congressional District , Part of Westchester , DEM Primary ,Void,9
+ 16th Congressional District , Part of Westchester , DEM Primary ,Write-in,26
+ 19th Congressional District , Part of Broome , DEM Primary ,Brian Flynn,3
+ 19th Congressional District , Part of Broome , DEM Primary ,Erin Collier,6
+ 19th Congressional District , Part of Broome , DEM Primary ,Gareth Rhodes,8
+ 19th Congressional District , Part of Broome , DEM Primary ,Pat Ryan,11
+ 19th Congressional District , Part of Broome , DEM Primary ,Antonio Delgado,9
+ 19th Congressional District , Part of Broome , DEM Primary ,Jeff Beals,5
+ 19th Congressional District , Part of Broome , DEM Primary ,Dave Clegg,3
+ 19th Congressional District , Part of Broome , DEM Primary ,Blank,0
+ 19th Congressional District , Part of Broome , DEM Primary ,Void,0
+ 19th Congressional District , Part of Broome , DEM Primary ,Write-in,1
+ 19th Congressional District , Columbia , DEM Primary ,Brian Flynn,582
+ 19th Congressional District , Columbia , DEM Primary ,Erin Collier,175
+ 19th Congressional District , Columbia , DEM Primary ,Gareth Rhodes,"1,311"
+ 19th Congressional District , Columbia , DEM Primary ,Pat Ryan,744
+ 19th Congressional District , Columbia , DEM Primary ,Antonio Delgado,934
+ 19th Congressional District , Columbia , DEM Primary ,Jeff Beals,570
+ 19th Congressional District , Columbia , DEM Primary ,Dave Clegg,218
+ 19th Congressional District , Columbia , DEM Primary ,Blank,2
+ 19th Congressional District , Columbia , DEM Primary ,Void,1
+ 19th Congressional District , Columbia , DEM Primary ,Write-in,1
+ 19th Congressional District , Delaware , DEM Primary ,Brian Flynn,282
+ 19th Congressional District , Delaware , DEM Primary ,Erin Collier,105
+ 19th Congressional District , Delaware , DEM Primary ,Gareth Rhodes,314
+ 19th Congressional District , Delaware , DEM Primary ,Pat Ryan,160
+ 19th Congressional District , Delaware , DEM Primary ,Antonio Delgado,260
+ 19th Congressional District , Delaware , DEM Primary ,Jeff Beals,249
+ 19th Congressional District , Delaware , DEM Primary ,Dave Clegg,90
+ 19th Congressional District , Delaware , DEM Primary ,Blank,2
+ 19th Congressional District , Delaware , DEM Primary ,Void,1
+ 19th Congressional District , Delaware , DEM Primary ,Write-in,2
+ 19th Congressional District , Part of Dutchess , DEM Primary ,Brian Flynn,680
+ 19th Congressional District , Part of Dutchess , DEM Primary ,Erin Collier,271
+ 19th Congressional District , Part of Dutchess , DEM Primary ,Gareth Rhodes,"1,155"
+ 19th Congressional District , Part of Dutchess , DEM Primary ,Pat Ryan,"1,301"
+ 19th Congressional District , Part of Dutchess , DEM Primary ,Antonio Delgado,"1,701"
+ 19th Congressional District , Part of Dutchess , DEM Primary ,Jeff Beals,666
+ 19th Congressional District , Part of Dutchess , DEM Primary ,Dave Clegg,248
+ 19th Congressional District , Part of Dutchess , DEM Primary ,Blank,2
+ 19th Congressional District , Part of Dutchess , DEM Primary ,Void,3
+ 19th Congressional District , Part of Dutchess , DEM Primary ,Write-in,0
+ 19th Congressional District , Greene , DEM Primary ,Brian Flynn,443
+ 19th Congressional District , Greene , DEM Primary ,Erin Collier,60
+ 19th Congressional District , Greene , DEM Primary ,Gareth Rhodes,223
+ 19th Congressional District , Greene , DEM Primary ,Pat Ryan,268
+ 19th Congressional District , Greene , DEM Primary ,Antonio Delgado,397
+ 19th Congressional District , Greene , DEM Primary ,Jeff Beals,274
+ 19th Congressional District , Greene , DEM Primary ,Dave Clegg,79
+ 19th Congressional District , Greene , DEM Primary ,Blank,0
+ 19th Congressional District , Greene , DEM Primary ,Void,2
+ 19th Congressional District , Greene , DEM Primary ,Write-in,4
+ 19th Congressional District , Part of Montgomery , DEM Primary ,Brian Flynn,47
+ 19th Congressional District , Part of Montgomery , DEM Primary ,Erin Collier,32
+ 19th Congressional District , Part of Montgomery , DEM Primary ,Gareth Rhodes,33
+ 19th Congressional District , Part of Montgomery , DEM Primary ,Pat Ryan,42
+ 19th Congressional District , Part of Montgomery , DEM Primary ,Antonio Delgado,70
+ 19th Congressional District , Part of Montgomery , DEM Primary ,Jeff Beals,18
+ 19th Congressional District , Part of Montgomery , DEM Primary ,Dave Clegg,5
+ 19th Congressional District , Part of Montgomery , DEM Primary ,Blank,0
+ 19th Congressional District , Part of Montgomery , DEM Primary ,Void,0
+ 19th Congressional District , Part of Montgomery , DEM Primary ,Write-in,0
+ 19th Congressional District , Otsego , DEM Primary ,Brian Flynn,982
+ 19th Congressional District , Otsego , DEM Primary ,Erin Collier,285
+ 19th Congressional District , Otsego , DEM Primary ,Gareth Rhodes,212
+ 19th Congressional District , Otsego , DEM Primary ,Pat Ryan,313
+ 19th Congressional District , Otsego , DEM Primary ,Antonio Delgado,403
+ 19th Congressional District , Otsego , DEM Primary ,Jeff Beals,287
+ 19th Congressional District , Otsego , DEM Primary ,Dave Clegg,120
+ 19th Congressional District , Otsego , DEM Primary ,Blank,2
+ 19th Congressional District , Otsego , DEM Primary ,Void,0
+ 19th Congressional District , Otsego , DEM Primary ,Write-in,1
+ 19th Congressional District , Part of Rensselaer , DEM Primary ,Brian Flynn,156
+ 19th Congressional District , Part of Rensselaer , DEM Primary ,Erin Collier,157
+ 19th Congressional District , Part of Rensselaer , DEM Primary ,Gareth Rhodes,344
+ 19th Congressional District , Part of Rensselaer , DEM Primary ,Pat Ryan,579
+ 19th Congressional District , Part of Rensselaer , DEM Primary ,Antonio Delgado,496
+ 19th Congressional District , Part of Rensselaer , DEM Primary ,Jeff Beals,167
+ 19th Congressional District , Part of Rensselaer , DEM Primary ,Dave Clegg,80
+ 19th Congressional District , Part of Rensselaer , DEM Primary ,Blank,0
+ 19th Congressional District , Part of Rensselaer , DEM Primary ,Void,0
+ 19th Congressional District , Part of Rensselaer , DEM Primary ,Write-in,0
+ 19th Congressional District , Schoharie , DEM Primary ,Brian Flynn,146
+ 19th Congressional District , Schoharie , DEM Primary ,Erin Collier,103
+ 19th Congressional District , Schoharie , DEM Primary ,Gareth Rhodes,112
+ 19th Congressional District , Schoharie , DEM Primary ,Pat Ryan,145
+ 19th Congressional District , Schoharie , DEM Primary ,Antonio Delgado,275
+ 19th Congressional District , Schoharie , DEM Primary ,Jeff Beals,79
+ 19th Congressional District , Schoharie , DEM Primary ,Dave Clegg,50
+ 19th Congressional District , Schoharie , DEM Primary ,Blank,0
+ 19th Congressional District , Schoharie , DEM Primary ,Void,0
+ 19th Congressional District , Schoharie , DEM Primary ,Write-in,1
+ 19th Congressional District , Sullivan , DEM Primary ,Brian Flynn,313
+ 19th Congressional District , Sullivan , DEM Primary ,Erin Collier,99
+ 19th Congressional District , Sullivan , DEM Primary ,Gareth Rhodes,653
+ 19th Congressional District , Sullivan , DEM Primary ,Pat Ryan,245
+ 19th Congressional District , Sullivan , DEM Primary ,Antonio Delgado,422
+ 19th Congressional District , Sullivan , DEM Primary ,Jeff Beals,172
+ 19th Congressional District , Sullivan , DEM Primary ,Dave Clegg,407
+ 19th Congressional District , Sullivan , DEM Primary ,Blank,3
+ 19th Congressional District , Sullivan , DEM Primary ,Void,0
+ 19th Congressional District , Sullivan , DEM Primary ,Write-in,4
+ 19th Congressional District , Ulster , DEM Primary ,Brian Flynn,974
+ 19th Congressional District , Ulster , DEM Primary ,Erin Collier,407
+ 19th Congressional District , Ulster , DEM Primary ,Gareth Rhodes,"1,877"
+ 19th Congressional District , Ulster , DEM Primary ,Pat Ryan,"2,386"
+ 19th Congressional District , Ulster , DEM Primary ,Antonio Delgado,"2,723"
+ 19th Congressional District , Ulster , DEM Primary ,Jeff Beals,"2,121"
+ 19th Congressional District , Ulster , DEM Primary ,Dave Clegg,"2,573"
+ 19th Congressional District , Ulster , DEM Primary ,Blank,2
+ 19th Congressional District , Ulster , DEM Primary ,Void,4
+ 19th Congressional District , Ulster , DEM Primary ,Write-in,5
+ 21st Congressional District , Clinton , DEM Primary ,Tedra L. Cobb,"1,028"
+ 21st Congressional District , Clinton , DEM Primary ,Patrick F. Nelson,294
+ 21st Congressional District , Clinton , DEM Primary ,Dylan Ratigan,392
+ 21st Congressional District , Clinton , DEM Primary ,Katie Wilson,476
+ 21st Congressional District , Clinton , DEM Primary ,Emily Martz,273
+ 21st Congressional District , Clinton , DEM Primary ,Don Boyajian,7
+ 21st Congressional District , Clinton , DEM Primary ,Blank,1
+ 21st Congressional District , Clinton , DEM Primary ,Void,1
+ 21st Congressional District , Clinton , DEM Primary ,Write-in,8
+ 21st Congressional District , Essex , DEM Primary ,Tedra L. Cobb,707
+ 21st Congressional District , Essex , DEM Primary ,Patrick F. Nelson,107
+ 21st Congressional District , Essex , DEM Primary ,Dylan Ratigan,215
+ 21st Congressional District , Essex , DEM Primary ,Katie Wilson,340
+ 21st Congressional District , Essex , DEM Primary ,Emily Martz,268
+ 21st Congressional District , Essex , DEM Primary ,Don Boyajian,6
+ 21st Congressional District , Essex , DEM Primary ,Blank,0
+ 21st Congressional District , Essex , DEM Primary ,Void,2
+ 21st Congressional District , Essex , DEM Primary ,Write-in,5
+ 21st Congressional District , Franklin , DEM Primary ,Tedra L. Cobb,815
+ 21st Congressional District , Franklin , DEM Primary ,Patrick F. Nelson,90
+ 21st Congressional District , Franklin , DEM Primary ,Dylan Ratigan,205
+ 21st Congressional District , Franklin , DEM Primary ,Katie Wilson,119
+ 21st Congressional District , Franklin , DEM Primary ,Emily Martz,271
+ 21st Congressional District , Franklin , DEM Primary ,Don Boyajian,6
+ 21st Congressional District , Franklin , DEM Primary ,Blank,2
+ 21st Congressional District , Franklin , DEM Primary ,Void,1
+ 21st Congressional District , Franklin , DEM Primary ,Write-in,2
+ 21st Congressional District , Fulton , DEM Primary ,Tedra L. Cobb,393
+ 21st Congressional District , Fulton , DEM Primary ,Patrick F. Nelson,75
+ 21st Congressional District , Fulton , DEM Primary ,Dylan Ratigan,99
+ 21st Congressional District , Fulton , DEM Primary ,Katie Wilson,82
+ 21st Congressional District , Fulton , DEM Primary ,Emily Martz,60
+ 21st Congressional District , Fulton , DEM Primary ,Don Boyajian,5
+ 21st Congressional District , Fulton , DEM Primary ,Blank,0
+ 21st Congressional District , Fulton , DEM Primary ,Void,1
+ 21st Congressional District , Fulton , DEM Primary ,Write-in,4
+ 21st Congressional District , Hamilton , DEM Primary ,Tedra L. Cobb,103
+ 21st Congressional District , Hamilton , DEM Primary ,Patrick F. Nelson,17
+ 21st Congressional District , Hamilton , DEM Primary ,Dylan Ratigan,15
+ 21st Congressional District , Hamilton , DEM Primary ,Katie Wilson,48
+ 21st Congressional District , Hamilton , DEM Primary ,Emily Martz,34
+ 21st Congressional District , Hamilton , DEM Primary ,Don Boyajian,1
+ 21st Congressional District , Hamilton , DEM Primary ,Blank,0
+ 21st Congressional District , Hamilton , DEM Primary ,Void,0
+ 21st Congressional District , Hamilton , DEM Primary ,Write-in,0
+ 21st Congressional District , Part of Herkimer , DEM Primary ,Tedra L. Cobb,32
+ 21st Congressional District , Part of Herkimer , DEM Primary ,Patrick F. Nelson,24
+ 21st Congressional District , Part of Herkimer , DEM Primary ,Dylan Ratigan,42
+ 21st Congressional District , Part of Herkimer , DEM Primary ,Katie Wilson,21
+ 21st Congressional District , Part of Herkimer , DEM Primary ,Emily Martz,26
+ 21st Congressional District , Part of Herkimer , DEM Primary ,Don Boyajian,2
+ 21st Congressional District , Part of Herkimer , DEM Primary ,Blank,0
+ 21st Congressional District , Part of Herkimer , DEM Primary ,Void,0
+ 21st Congressional District , Part of Herkimer , DEM Primary ,Write-in,0
+ 21st Congressional District , Jefferson , DEM Primary ,Tedra L. Cobb,"1,077"
+ 21st Congressional District , Jefferson , DEM Primary ,Patrick F. Nelson,120
+ 21st Congressional District , Jefferson , DEM Primary ,Dylan Ratigan,226
+ 21st Congressional District , Jefferson , DEM Primary ,Katie Wilson,179
+ 21st Congressional District , Jefferson , DEM Primary ,Emily Martz,141
+ 21st Congressional District , Jefferson , DEM Primary ,Don Boyajian,9
+ 21st Congressional District , Jefferson , DEM Primary ,Blank,2
+ 21st Congressional District , Jefferson , DEM Primary ,Void,0
+ 21st Congressional District , Jefferson , DEM Primary ,Write-in,9
+ 21st Congressional District , Lewis , DEM Primary ,Tedra L. Cobb,190
+ 21st Congressional District , Lewis , DEM Primary ,Patrick F. Nelson,35
+ 21st Congressional District , Lewis , DEM Primary ,Dylan Ratigan,33
+ 21st Congressional District , Lewis , DEM Primary ,Katie Wilson,49
+ 21st Congressional District , Lewis , DEM Primary ,Emily Martz,67
+ 21st Congressional District , Lewis , DEM Primary ,Don Boyajian,0
+ 21st Congressional District , Lewis , DEM Primary ,Blank,1
+ 21st Congressional District , Lewis , DEM Primary ,Void,0
+ 21st Congressional District , Lewis , DEM Primary ,Write-in,1
+ 21st Congressional District , Part of Saratoga , DEM Primary ,Tedra L. Cobb,"1,160"
+ 21st Congressional District , Part of Saratoga , DEM Primary ,Patrick F. Nelson,370
+ 21st Congressional District , Part of Saratoga , DEM Primary ,Dylan Ratigan,189
+ 21st Congressional District , Part of Saratoga , DEM Primary ,Katie Wilson,238
+ 21st Congressional District , Part of Saratoga , DEM Primary ,Emily Martz,194
+ 21st Congressional District , Part of Saratoga , DEM Primary ,Don Boyajian,27
+ 21st Congressional District , Part of Saratoga , DEM Primary ,Blank,2
+ 21st Congressional District , Part of Saratoga , DEM Primary ,Void,1
+ 21st Congressional District , Part of Saratoga , DEM Primary ,Write-in,1
+ 21st Congressional District , St.Lawrence , DEM Primary ,Tedra L. Cobb,"2,935"
+ 21st Congressional District , St.Lawrence , DEM Primary ,Patrick F. Nelson,188
+ 21st Congressional District , St.Lawrence , DEM Primary ,Dylan Ratigan,311
+ 21st Congressional District , St.Lawrence , DEM Primary ,Katie Wilson,212
+ 21st Congressional District , St.Lawrence , DEM Primary ,Emily Martz,103
+ 21st Congressional District , St.Lawrence , DEM Primary ,Don Boyajian,10
+ 21st Congressional District , St.Lawrence , DEM Primary ,Blank,1
+ 21st Congressional District , St.Lawrence , DEM Primary ,Void,2
+ 21st Congressional District , St.Lawrence , DEM Primary ,Write-in,13
+ 21st Congressional District , Warren , DEM Primary ,Tedra L. Cobb,"1,054"
+ 21st Congressional District , Warren , DEM Primary ,Patrick F. Nelson,220
+ 21st Congressional District , Warren , DEM Primary ,Dylan Ratigan,172
+ 21st Congressional District , Warren , DEM Primary ,Katie Wilson,233
+ 21st Congressional District , Warren , DEM Primary ,Emily Martz,374
+ 21st Congressional District , Warren , DEM Primary ,Don Boyajian,20
+ 21st Congressional District , Warren , DEM Primary ,Blank,2
+ 21st Congressional District , Warren , DEM Primary ,Void,0
+ 21st Congressional District , Warren , DEM Primary ,Write-in,4
+ 21st Congressional District , Washington , DEM Primary ,Tedra L. Cobb,853
+ 21st Congressional District , Washington , DEM Primary ,Patrick F. Nelson,145
+ 21st Congressional District , Washington , DEM Primary ,Dylan Ratigan,301
+ 21st Congressional District , Washington , DEM Primary ,Katie Wilson,160
+ 21st Congressional District , Washington , DEM Primary ,Emily Martz,104
+ 21st Congressional District , Washington , DEM Primary ,Don Boyajian,9
+ 21st Congressional District , Washington , DEM Primary ,Blank,1
+ 21st Congressional District , Washington , DEM Primary ,Void,0
+ 21st Congressional District , Washington , DEM Primary ,Write-in,2
+ 23rd Congressional District , Allegany , DEM Primary ,Tracy Mitrano,260
+ 23rd Congressional District , Allegany , DEM Primary ,Ian Golden,144
+ 23rd Congressional District , Allegany , DEM Primary ,Max Della Pia,139
+ 23rd Congressional District , Allegany , DEM Primary ,Edward A. Sundquist,40
+ 23rd Congressional District , Allegany , DEM Primary ,Linda Andrei,120
+ 23rd Congressional District , Allegany , DEM Primary ,Blank,1
+ 23rd Congressional District , Allegany , DEM Primary ,Void,0
+ 23rd Congressional District , Allegany , DEM Primary ,Write-in,1
+ 23rd Congressional District , Cattaraugus , DEM Primary ,Tracy Mitrano,235
+ 23rd Congressional District , Cattaraugus , DEM Primary ,Ian Golden,136
+ 23rd Congressional District , Cattaraugus , DEM Primary ,Max Della Pia,256
+ 23rd Congressional District , Cattaraugus , DEM Primary ,Edward A. Sundquist,257
+ 23rd Congressional District , Cattaraugus , DEM Primary ,Linda Andrei,331
+ 23rd Congressional District , Cattaraugus , DEM Primary ,Blank,3
+ 23rd Congressional District , Cattaraugus , DEM Primary ,Void,1
+ 23rd Congressional District , Cattaraugus , DEM Primary ,Write-in,2
+ 23rd Congressional District , Chautauqua , DEM Primary ,Tracy Mitrano,983
+ 23rd Congressional District , Chautauqua , DEM Primary ,Ian Golden,265
+ 23rd Congressional District , Chautauqua , DEM Primary ,Max Della Pia,694
+ 23rd Congressional District , Chautauqua , DEM Primary ,Edward A. Sundquist,737
+ 23rd Congressional District , Chautauqua , DEM Primary ,Linda Andrei,659
+ 23rd Congressional District , Chautauqua , DEM Primary ,Blank,2
+ 23rd Congressional District , Chautauqua , DEM Primary ,Void,3
+ 23rd Congressional District , Chautauqua , DEM Primary ,Write-in,8
+ 23rd Congressional District , Chemung , DEM Primary ,Tracy Mitrano,505
+ 23rd Congressional District , Chemung , DEM Primary ,Ian Golden,418
+ 23rd Congressional District , Chemung , DEM Primary ,Max Della Pia,427
+ 23rd Congressional District , Chemung , DEM Primary ,Edward A. Sundquist,54
+ 23rd Congressional District , Chemung , DEM Primary ,Linda Andrei,472
+ 23rd Congressional District , Chemung , DEM Primary ,Blank,2
+ 23rd Congressional District , Chemung , DEM Primary ,Void,1
+ 23rd Congressional District , Chemung , DEM Primary ,Write-in,9
+ 23rd Congressional District , Part of Ontario , DEM Primary ,Tracy Mitrano,397
+ 23rd Congressional District , Part of Ontario , DEM Primary ,Ian Golden,178
+ 23rd Congressional District , Part of Ontario , DEM Primary ,Max Della Pia,296
+ 23rd Congressional District , Part of Ontario , DEM Primary ,Edward A. Sundquist,20
+ 23rd Congressional District , Part of Ontario , DEM Primary ,Linda Andrei,174
+ 23rd Congressional District , Part of Ontario , DEM Primary ,Blank,0
+ 23rd Congressional District , Part of Ontario , DEM Primary ,Void,0
+ 23rd Congressional District , Part of Ontario , DEM Primary ,Write-in,5
+ 23rd Congressional District , Schuyler , DEM Primary ,Tracy Mitrano,308
+ 23rd Congressional District , Schuyler , DEM Primary ,Ian Golden,76
+ 23rd Congressional District , Schuyler , DEM Primary ,Max Della Pia,195
+ 23rd Congressional District , Schuyler , DEM Primary ,Edward A. Sundquist,10
+ 23rd Congressional District , Schuyler , DEM Primary ,Linda Andrei,90
+ 23rd Congressional District , Schuyler , DEM Primary ,Blank,1
+ 23rd Congressional District , Schuyler , DEM Primary ,Void,0
+ 23rd Congressional District , Schuyler , DEM Primary ,Write-in,0
+ 23rd Congressional District , Seneca , DEM Primary ,Tracy Mitrano,334
+ 23rd Congressional District , Seneca , DEM Primary ,Ian Golden,73
+ 23rd Congressional District , Seneca , DEM Primary ,Max Della Pia,335
+ 23rd Congressional District , Seneca , DEM Primary ,Edward A. Sundquist,27
+ 23rd Congressional District , Seneca , DEM Primary ,Linda Andrei,169
+ 23rd Congressional District , Seneca , DEM Primary ,Blank,0
+ 23rd Congressional District , Seneca , DEM Primary ,Void,0
+ 23rd Congressional District , Seneca , DEM Primary ,Write-in,0
+ 23rd Congressional District , Steuben , DEM Primary ,Tracy Mitrano,587
+ 23rd Congressional District , Steuben , DEM Primary ,Ian Golden,318
+ 23rd Congressional District , Steuben , DEM Primary ,Max Della Pia,624
+ 23rd Congressional District , Steuben , DEM Primary ,Edward A. Sundquist,70
+ 23rd Congressional District , Steuben , DEM Primary ,Linda Andrei,379
+ 23rd Congressional District , Steuben , DEM Primary ,Blank,0
+ 23rd Congressional District , Steuben , DEM Primary ,Void,0
+ 23rd Congressional District , Steuben , DEM Primary ,Write-in,2
+ 23rd Congressional District , Part of Tioga , DEM Primary ,Tracy Mitrano,151
+ 23rd Congressional District , Part of Tioga , DEM Primary ,Ian Golden,93
+ 23rd Congressional District , Part of Tioga , DEM Primary ,Max Della Pia,597
+ 23rd Congressional District , Part of Tioga , DEM Primary ,Edward A. Sundquist,6
+ 23rd Congressional District , Part of Tioga , DEM Primary ,Linda Andrei,107
+ 23rd Congressional District , Part of Tioga , DEM Primary ,Blank,0
+ 23rd Congressional District , Part of Tioga , DEM Primary ,Void,0
+ 23rd Congressional District , Part of Tioga , DEM Primary ,Write-in,0
+ 23rd Congressional District , Tompkins , DEM Primary ,Tracy Mitrano,"2,876"
+ 23rd Congressional District , Tompkins , DEM Primary ,Ian Golden,"1,169"
+ 23rd Congressional District , Tompkins , DEM Primary ,Max Della Pia,"3,383"
+ 23rd Congressional District , Tompkins , DEM Primary ,Edward A. Sundquist,160
+ 23rd Congressional District , Tompkins , DEM Primary ,Linda Andrei,762
+ 23rd Congressional District , Tompkins , DEM Primary ,Blank,4
+ 23rd Congressional District , Tompkins , DEM Primary ,Void,2
+ 23rd Congressional District , Tompkins , DEM Primary ,Write-in,7
+ 23rd Congressional District , Yates , DEM Primary ,Tracy Mitrano,360
+ 23rd Congressional District , Yates , DEM Primary ,Ian Golden,48
+ 23rd Congressional District , Yates , DEM Primary ,Max Della Pia,76
+ 23rd Congressional District , Yates , DEM Primary ,Edward A. Sundquist,14
+ 23rd Congressional District , Yates , DEM Primary ,Linda Andrei,67
+ 23rd Congressional District , Yates , DEM Primary ,Blank,1
+ 23rd Congressional District , Yates , DEM Primary ,Void,0
+ 23rd Congressional District , Yates , DEM Primary ,Write-in,0
+ 24th Congressional District , Cayuga , DEM Primary ,Dana Balter,"1,280"
+ 24th Congressional District , Cayuga , DEM Primary ,Juanita Perez Williams,676
+ 24th Congressional District , Cayuga , DEM Primary ,Blank,2
+ 24th Congressional District , Cayuga , DEM Primary ,Void,1
+ 24th Congressional District , Cayuga , DEM Primary ,Write-in,5
+ 24th Congressional District , Onondaga , DEM Primary ,Dana Balter,"10,934"
+ 24th Congressional District , Onondaga , DEM Primary ,Juanita Perez Williams,"6,774"
+ 24th Congressional District , Onondaga , DEM Primary ,Blank,18
+ 24th Congressional District , Onondaga , DEM Primary ,Void,2
+ 24th Congressional District , Onondaga , DEM Primary ,Write-in,48
+ 24th Congressional District , Part of Oswego , DEM Primary ,Dana Balter,928
+ 24th Congressional District , Part of Oswego , DEM Primary ,Juanita Perez Williams,474
+ 24th Congressional District , Part of Oswego , DEM Primary ,Blank,2
+ 24th Congressional District , Part of Oswego , DEM Primary ,Void,1
+ 24th Congressional District , Part of Oswego , DEM Primary ,Write-in,0
+ 24th Congressional District , Wayne , DEM Primary ,Dana Balter,750
+ 24th Congressional District , Wayne , DEM Primary ,Juanita Perez Williams,367
+ 24th Congressional District , Wayne , DEM Primary ,Blank,2
+ 24th Congressional District , Wayne , DEM Primary ,Void,1
+ 24th Congressional District , Wayne , DEM Primary ,Write-in,5
+ 25th Congressional District , Part of Monroe , DEM Primary ,Joseph D. Morelle,"15,303"
+ 25th Congressional District , Part of Monroe , DEM Primary ,Adam C. McFadden,"5,896"
+ 25th Congressional District , Part of Monroe , DEM Primary ,Robin R. Wilt,"5,861"
+ 25th Congressional District , Part of Monroe , DEM Primary ,Rachel A. Barnhart,"6,678"
+ 25th Congressional District , Part of Monroe , DEM Primary ,Blank,4
+ 25th Congressional District , Part of Monroe , DEM Primary ,Void,11
+ 25th Congressional District , Part of Monroe , DEM Primary ,Write-in,33
+ 11th Congressional District , Part of Kings , REP Primary ,Michael G. Grimm,880
+ 11th Congressional District , Part of Kings , REP Primary ,Dan Donovan,"2,449"
+ 11th Congressional District , Part of Kings , REP Primary ,Blank,3
+ 11th Congressional District , Part of Kings , REP Primary ,Void,7
+ 11th Congressional District , Part of Kings , REP Primary ,Write-in,19
+ 11th Congressional District , Richmond , REP Primary ,Michael G. Grimm,"6,339"
+ 11th Congressional District , Richmond , REP Primary ,Dan Donovan,"10,325"
+ 11th Congressional District , Richmond , REP Primary ,Blank,7
+ 11th Congressional District , Richmond , REP Primary ,Void,22
+ 11th Congressional District , Richmond , REP Primary ,Write-in,67
+ 11th Congressional District , Part of Kings , CON Primary ,Dan Donovan,100
+ 11th Congressional District , Part of Kings , CON Primary ,Opportunity To Ballot,38
+ 11th Congressional District , Part of Kings , CON Primary ,Blank,0
+ 11th Congressional District , Part of Kings , CON Primary ,Void,0
+ 11th Congressional District , Richmond , CON Primary ,Dan Donovan,463
+ 11th Congressional District , Richmond , CON Primary ,Opportunity To Ballot,424
+ 11th Congressional District , Richmond , CON Primary ,Blank,2
+ 11th Congressional District , Richmond , CON Primary ,Void,3
+ 7th Congressional District , Part of Kings , REF Primary ,Opportunity To Ballot,66
+ 7th Congressional District , Part of Kings , REF Primary ,Blank,3
+ 7th Congressional District , Part of Kings , REF Primary ,Void,0
+ 7th Congressional District , Part of New York , REF Primary ,Opportunity To Ballot,22
+ 7th Congressional District , Part of New York , REF Primary ,Blank,3
+ 7th Congressional District , Part of New York , REF Primary ,Void,0
+ 7th Congressional District , Part of Queens , REF Primary ,Opportunity To Ballot,13
+ 7th Congressional District , Part of Queens , REF Primary ,Blank,1
+ 7th Congressional District , Part of Queens , REF Primary ,Void,0
+ 15th Congressional District , Part of Bronx , REF Primary ,Opportunity To Ballot,50
+ 15th Congressional District , Part of Bronx , REF Primary ,Blank,1
+ 15th Congressional District , Part of Bronx , REF Primary ,Void,0
+19th Congressional District,All Counties,WEP Primary,Opportunity To Ballot,7
+19th Congressional District,All Counties,WEP Primary,Blank,2
+19th Congressional District,All Counties,WEP Primary,Void,0
+21st Congressional District,All Counties,WEP Primary,Opportunity To Ballot,3
+21st Congressional District,All Counties,WEP Primary,Blank,0
+21st Congressional District,All Counties,WEP Primary,Void,0
+23rd Congressional District,All Counties,WEP Primary,Tracy Mitrano,3
+23rd Congressional District,All Counties,WEP Primary,Opportunity To Ballot,0
+23rd Congressional District,All Counties,WEP Primary,Blank,0
+23rd Congressional District,All Counties,WEP Primary,Void,0
