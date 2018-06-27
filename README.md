@@ -143,7 +143,7 @@ primary on 8/2
 missing results 
 
 ## UT 
-results coming soon
+data from https://electionresults.utah.gov/elections/ (scraped)
 
 ## VT 
 primary on  8/14 
