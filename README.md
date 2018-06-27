@@ -1,6 +1,6 @@
-# Welcome to MEDSL's Primary Data Archive
+# unofficial primary results
 
-We are using this as a repository for primary elections data. We will eventually clean and standardize these data once they are certified and place them in our [permanent dataverse archive](http://electionlab.mit.edu/data). For now, the data come "as is" and as (unofficially) reported on election night by the various states. 
+Unofficial primary results scraped/downloaded from each state's unofficial results site. 
 
 ## AL 
 data from http://www2.alabamavotes.gov/electionnight/countyResultsByContest.aspx?cid=04&ecode=1001000
@@ -18,7 +18,8 @@ primary on 8/28
 data from https://vote.sos.ca.gov/ (scraped) 
 
 ## CO 
-primary on 6/26 
+downloaded from http://results.enr.clarityelections.com/CO/75610/Web02-state.206999/#/
+
 
 ## CT
 primary on 8/14
@@ -35,11 +36,14 @@ data from http://results.enr.clarityelections.com/GA/74658/Web02-state.203322/#/
 ## HI 
 data from 8/11
 
-#ID 
-data unavailable 
+## ID 
+5/15 primary county level results in html form. (can be scraped later)
+https://sos.idaho.gov/elect/results/2018/Primary/gem_through_washington.html
+https://sos.idaho.gov/elect/results/2018/Primary/ada_through_fremont.html
 
 ## IL 
-unofficial data unavailable, official data to come. 
+data from https://www.elections.il.gov/ElectionResultsPrecinctLevel.aspx
+official precinct level data is in repo, but the data the state has provided is missing candiate names for some counties. 
 
 ## IN 
 data from http://indianaenr.blob.core.usgovcloudapi.net/site/index.html#
@@ -57,10 +61,13 @@ data from http://results.enr.clarityelections.com/IA/74912/Web02-state.203322/#/
 primary on 11/6
 
 ## ME
-data unavailable (6/19)
+only partial data available; Democratic primary for governor and Democratic primary for Congress (D2)
+
 
 ## MD 
-primary on 6/26
+https://elections.maryland.gov/elections/2018/index.html
+race names as they appear on website(scraped), will update with cleaned version soon. 
+
 
 ## MA
 primary on 9/4
@@ -90,27 +97,28 @@ data from http://silverstateelection.com (scraped)
 primary on 9/11
 
 ## NJ 
-official results available in pdf form at http://nj.gov/state/elections/election-information-archive.html,
-but are not included in this repo
+official results data in pdf form from http://nj.gov/state/elections/election-information-archive.html,
 
 ## NM 
 data from http://electionresults.sos.state.nm.us/
 
 ## NY 
-primary on 9/13
+district results from https://nyenr.elections.ny.gov/ (scraped)
+federal primary on 9/13
 
 ## NC 
 data from https://er.ncsbe.gov/downloads.html?election_dt=06/26/2018
 
 ## ND 
-results available soon 
+data from http://results.sos.nd.gov/default.aspx
 
 ## OH
 official data from https://www.sos.state.oh.us/elections/election-results-and-data/2018-official-elections-results/
 no unofficial results were available
 
 ## OK 
-primary on 6/26
+data downloaded from https://www.ok.gov/elections/Election_Info/Election_Results/2018-Election_Results.html
+
 
 ## OR 
 data from http://results.oregonvotes.gov/
@@ -122,6 +130,7 @@ data from https://www.electionreturns.pa.gov/Home/SummaryResults
 primary on 9/12 
 
 ## SC 
+6/12 and 6/26 results posted in SC_results
 data from http://www.enr-scvotes.org/SC/75708/Web02-state.203322/#/
 
 ## SD
@@ -131,16 +140,18 @@ data from http://electionresults.sd.gov
 primary on 8/2
 
 ## TX 
-results coming soon
+missing results 
 
 ## UT 
-primary on 6/26
+results coming soon
 
 ## VT 
 primary on  8/14 
 
 ## VA
-results coming soon 
+6/12 results from https://results.elections.virginia.gov/vaelections/2018%20June%20Republican%20Primary/Site/results.csv
+https://results.elections.virginia.gov/vaelections/2018%20June%20Democratic%20Primary/Site/results.csv
+
 
 ## WA 
 primary on 8/7
