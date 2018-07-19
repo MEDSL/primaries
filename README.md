@@ -4,7 +4,7 @@ Unofficial primary results scraped/downloaded from each state's unofficial resul
 
 ## AL 
 data from http://www2.alabamavotes.gov/electionnight/countyResultsByContest.aspx?cid=04&ecode=1001000
-
+runoff data from http://www2.alabamavotes.gov/electionnight/statewideresultsbycontest.aspx?ecode=1001015
 ## AK 
 primary on 8/21
 
