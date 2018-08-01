@@ -103,8 +103,8 @@ official results data in pdf form from http://nj.gov/state/elections/election-in
 data from http://electionresults.sos.state.nm.us/
 
 ## NY 
-district results from https://nyenr.elections.ny.gov/ (scraped)
-federal primary on 9/13
+federal primary results from https://nyenr.elections.ny.gov/ (scraped)
+state election on 9/13
 
 ## NC 
 data from https://er.ncsbe.gov/downloads.html?election_dt=06/26/2018
