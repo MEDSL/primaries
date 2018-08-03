@@ -137,7 +137,7 @@ data from http://www.enr-scvotes.org/SC/75708/Web02-state.203322/#/
 data from http://electionresults.sd.gov
 
 ## TN 
-primary on 8/2
+data scraped on 8/3 from https://elections.tn.gov/results.php
 
 ## TX 
 missing results 
