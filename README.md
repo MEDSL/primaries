@@ -73,7 +73,7 @@ race names as they appear on website(scraped), will update with cleaned version 
 primary on 9/4
 
 ## MI
-primary on 8/7
+data from: https://miboecfr.nictusa.com/election/results/DATA/2018PRI_MI_CENR_BY_COUNTY.xls
 
 ## MN 
 primary on 8/14
@@ -153,8 +153,9 @@ primary on  8/14
 https://results.elections.virginia.gov/vaelections/2018%20June%20Democratic%20Primary/Site/results.csv
 
 
-## WA 
-primary on 8/7
+## WA
+data from http://results.vote.wa.gov/results/20180807/export/20180807_AllCounties.csv
+
 
 ## WV 
 data currently unavailable
