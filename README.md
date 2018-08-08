@@ -82,8 +82,7 @@ primary on 8/14
 data unavailable (6/19)
 
 ## MO 
-primary on 8/7
-
+data scraped from http://enr.sos.mo.gov/CountyResults.aspx
 ## MT 
 data from http://mtelectionresults.gov/ResultsExport.aspx, can possibly get more detailed results
 
