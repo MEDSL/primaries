@@ -116,6 +116,8 @@ data from http://results.sos.nd.gov/default.aspx
 official data from https://www.sos.state.oh.us/elections/election-results-and-data/2018-official-elections-results/
 no unofficial results were available
 
+8/7 special election data from https://vote.ohio.gov/#Navigationbar
+
 ## OK 
 data downloaded from https://www.ok.gov/elections/Election_Info/Election_Results/2018-Election_Results.html
 
