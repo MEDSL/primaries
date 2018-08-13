@@ -34,7 +34,7 @@ primary on 8/28
 data from http://results.enr.clarityelections.com/GA/74658/Web02-state.203322/#/
 
 ## HI 
-data from 8/11
+data from https://elections.hawaii.gov/wp-content/results/media.txt
 
 ## ID 
 5/15 primary county level results in html form. (can be scraped later)
