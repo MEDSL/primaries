@@ -147,7 +147,7 @@ missing results
 data from https://electionresults.utah.gov/elections/ (scraped)
 
 ## VT 
-primary on  8/14 
+county-level data from https://vtelectionresults.sec.state.vt.us/Index.html#/ (scraped)
 
 ## VA
 6/12 results from https://results.elections.virginia.gov/vaelections/2018%20June%20Republican%20Primary/Site/results.csv
@@ -159,10 +159,9 @@ data from http://results.vote.wa.gov/results/20180807/export/20180807_AllCountie
 
 
 ## WV 
-data currently unavailable
-
+unofficial data unavailable
 ## WI 
-primary on 8/14
+unofficial results unavailable 
 
 ## WY 
 primary on 8/21 
