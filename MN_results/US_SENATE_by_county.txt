@@ -1,0 +1,1566 @@
+MN;01;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;54;54;71;5.02;1414
+MN;01;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;54;54;151;10.68;1414
+MN;01;;0102;U.S. Senator;;0303;Jim Newberger;;;R;54;54;938;66.34;1414
+MN;01;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;54;54;254;17.96;1414
+MN;01;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;54;54;46;2.64;1741
+MN;01;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;54;54;25;1.44;1741
+MN;01;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;54;54;1642;94.31;1741
+MN;01;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;54;54;17;0.98;1741
+MN;01;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;54;54;11;0.63;1741
+MN;02;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;128;128;1072;5.98;17925
+MN;02;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;128;128;1370;7.64;17925
+MN;02;;0102;U.S. Senator;;0303;Jim Newberger;;;R;128;128;13117;73.18;17925
+MN;02;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;128;128;2366;13.20;17925
+MN;02;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;128;128;444;1.69;26217
+MN;02;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;128;128;346;1.32;26217
+MN;02;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;128;128;25056;95.57;26217
+MN;02;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;128;128;219;0.84;26217
+MN;02;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;128;128;152;0.58;26217
+MN;03;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;48;48;102;5.34;1910
+MN;03;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;48;48;222;11.62;1910
+MN;03;;0102;U.S. Senator;;0303;Jim Newberger;;;R;48;48;1197;62.67;1910
+MN;03;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;48;48;389;20.37;1910
+MN;03;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;48;48;61;3.50;1743
+MN;03;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;48;48;15;0.86;1743
+MN;03;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;48;48;1647;94.49;1743
+MN;03;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;48;48;10;0.57;1743
+MN;03;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;48;48;10;0.57;1743
+MN;04;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;63;63;98;4.71;2079
+MN;04;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;63;63;185;8.90;2079
+MN;04;;0102;U.S. Senator;;0303;Jim Newberger;;;R;63;63;1381;66.43;2079
+MN;04;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;63;63;415;19.96;2079
+MN;04;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;63;63;71;2.15;3309
+MN;04;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;63;63;51;1.54;3309
+MN;04;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;63;63;3143;94.98;3309
+MN;04;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;63;63;19;0.57;3309
+MN;04;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;63;63;25;0.76;3309
+MN;05;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;27;27;84;3.63;2315
+MN;05;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;27;27;157;6.78;2315
+MN;05;;0102;U.S. Senator;;0303;Jim Newberger;;;R;27;27;1832;79.14;2315
+MN;05;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;27;27;242;10.45;2315
+MN;05;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;27;27;61;2.90;2107
+MN;05;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;27;27;66;3.13;2107
+MN;05;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;27;27;1931;91.65;2107
+MN;05;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;27;27;33;1.57;2107
+MN;05;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;27;27;16;0.76;2107
+MN;06;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;23;23;24;5.19;462
+MN;06;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;23;23;50;10.82;462
+MN;06;;0102;U.S. Senator;;0303;Jim Newberger;;;R;23;23;298;64.50;462
+MN;06;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;23;23;90;19.48;462
+MN;06;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;23;23;17;3.27;520
+MN;06;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;23;23;7;1.35;520
+MN;06;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;23;23;484;93.08;520
+MN;06;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;23;23;4;0.77;520
+MN;06;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;23;23;8;1.54;520
+MN;07;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;54;54;125;4.38;2853
+MN;07;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;54;54;285;9.99;2853
+MN;07;;0102;U.S. Senator;;0303;Jim Newberger;;;R;54;54;1901;66.63;2853
+MN;07;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;54;54;542;19.00;2853
+MN;07;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;54;54;136;2.22;6136
+MN;07;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;54;54;77;1.25;6136
+MN;07;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;54;54;5825;94.93;6136
+MN;07;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;54;54;50;0.81;6136
+MN;07;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;54;54;48;0.78;6136
+MN;08;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;32;32;154;5.37;2867
+MN;08;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;32;32;279;9.73;2867
+MN;08;;0102;U.S. Senator;;0303;Jim Newberger;;;R;32;32;1863;64.98;2867
+MN;08;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;32;32;571;19.92;2867
+MN;08;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;32;32;71;2.80;2537
+MN;08;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;32;32;38;1.50;2537
+MN;08;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;32;32;2390;94.21;2537
+MN;08;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;32;32;21;0.83;2537
+MN;08;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;32;32;17;0.67;2537
+MN;09;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;38;38;141;6.44;2188
+MN;09;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;38;38;234;10.69;2188
+MN;09;;0102;U.S. Senator;;0303;Jim Newberger;;;R;38;38;1424;65.08;2188
+MN;09;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;38;38;389;17.78;2188
+MN;09;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;38;38;93;2.19;4240
+MN;09;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;38;38;47;1.11;4240
+MN;09;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;38;38;4047;95.45;4240
+MN;09;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;38;38;25;0.59;4240
+MN;09;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;38;38;28;0.66;4240
+MN;10;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;35;35;263;4.76;5526
+MN;10;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;35;35;415;7.51;5526
+MN;10;;0102;U.S. Senator;;0303;Jim Newberger;;;R;35;35;4196;75.93;5526
+MN;10;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;35;35;652;11.80;5526
+MN;10;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;35;35;81;1.15;7068
+MN;10;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;35;35;72;1.02;7068
+MN;10;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;35;35;6833;96.68;7068
+MN;10;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;35;35;47;0.66;7068
+MN;10;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;35;35;35;0.50;7068
+MN;11;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;73;73;127;4.99;2545
+MN;11;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;73;73;242;9.51;2545
+MN;11;;0102;U.S. Senator;;0303;Jim Newberger;;;R;73;73;1712;67.27;2545
+MN;11;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;73;73;464;18.23;2545
+MN;11;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;73;73;37;1.50;2466
+MN;11;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;73;73;38;1.54;2466
+MN;11;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;73;73;2359;95.66;2466
+MN;11;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;73;73;15;0.61;2466
+MN;11;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;73;73;17;0.69;2466
+MN;12;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;25;25;63;5.80;1087
+MN;12;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;25;25;134;12.33;1087
+MN;12;;0102;U.S. Senator;;0303;Jim Newberger;;;R;25;25;676;62.19;1087
+MN;12;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;25;25;214;19.69;1087
+MN;12;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;25;25;36;2.96;1215
+MN;12;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;25;25;25;2.06;1215
+MN;12;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;25;25;1146;94.32;1215
+MN;12;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;25;25;5;0.41;1215
+MN;12;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;25;25;3;0.25;1215
+MN;13;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;23;23;264;6.20;4258
+MN;13;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;23;23;275;6.46;4258
+MN;13;;0102;U.S. Senator;;0303;Jim Newberger;;;R;23;23;3180;74.68;4258
+MN;13;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;23;23;539;12.66;4258
+MN;13;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;23;23;100;2.28;4386
+MN;13;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;23;23;48;1.09;4386
+MN;13;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;23;23;4166;94.98;4386
+MN;13;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;23;23;44;1.00;4386
+MN;13;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;23;23;28;0.64;4386
+MN;14;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;58;58;192;7.51;2555
+MN;14;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;58;58;287;11.23;2555
+MN;14;;0102;U.S. Senator;;0303;Jim Newberger;;;R;58;58;1549;60.63;2555
+MN;14;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;58;58;527;20.63;2555
+MN;14;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;58;58;87;1.89;4593
+MN;14;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;58;58;56;1.22;4593
+MN;14;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;58;58;4393;95.65;4593
+MN;14;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;58;58;36;0.78;4593
+MN;14;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;58;58;21;0.46;4593
+MN;15;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;29;29;16;2.75;582
+MN;15;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;29;29;53;9.11;582
+MN;15;;0102;U.S. Senator;;0303;Jim Newberger;;;R;29;29;381;65.46;582
+MN;15;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;29;29;132;22.68;582
+MN;15;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;29;29;17;4.08;417
+MN;15;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;29;29;6;1.44;417
+MN;15;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;29;29;387;92.81;417
+MN;15;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;29;29;5;1.20;417
+MN;15;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;29;29;2;0.48;417
+MN;16;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;13;13;24;4.80;500
+MN;16;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;13;13;57;11.40;500
+MN;16;;0102;U.S. Senator;;0303;Jim Newberger;;;R;13;13;344;68.80;500
+MN;16;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;13;13;75;15.00;500
+MN;16;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;13;13;25;1.80;1389
+MN;16;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;13;13;18;1.30;1389
+MN;16;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;13;13;1328;95.61;1389
+MN;16;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;13;13;10;0.72;1389
+MN;16;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;13;13;8;0.58;1389
+MN;17;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;29;29;52;5.92;878
+MN;17;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;29;29;105;11.96;878
+MN;17;;0102;U.S. Senator;;0303;Jim Newberger;;;R;29;29;528;60.14;878
+MN;17;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;29;29;193;21.98;878
+MN;17;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;29;29;34;4.24;802
+MN;17;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;29;29;6;0.75;802
+MN;17;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;29;29;750;93.52;802
+MN;17;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;29;29;5;0.62;802
+MN;17;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;29;29;7;0.87;802
+MN;18;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;64;64;371;6.12;6061
+MN;18;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;64;64;788;13.00;6061
+MN;18;;0102;U.S. Senator;;0303;Jim Newberger;;;R;64;64;3868;63.82;6061
+MN;18;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;64;64;1034;17.06;6061
+MN;18;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;64;64;143;2.37;6035
+MN;18;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;64;64;86;1.43;6035
+MN;18;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;64;64;5700;94.45;6035
+MN;18;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;64;64;53;0.88;6035
+MN;18;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;64;64;53;0.88;6035
+MN;19;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;140;140;1341;6.23;21525
+MN;19;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;140;140;1708;7.93;21525
+MN;19;;0102;U.S. Senator;;0303;Jim Newberger;;;R;140;140;15494;71.98;21525
+MN;19;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;140;140;2982;13.85;21525
+MN;19;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;140;140;632;1.55;40686
+MN;19;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;140;140;461;1.13;40686
+MN;19;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;140;140;39085;96.06;40686
+MN;19;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;140;140;291;0.72;40686
+MN;19;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;140;140;217;0.53;40686
+MN;20;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;22;22;32;3.54;904
+MN;20;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;22;22;113;12.50;904
+MN;20;;0102;U.S. Senator;;0303;Jim Newberger;;;R;22;22;605;66.92;904
+MN;20;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;22;22;154;17.04;904
+MN;20;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;22;22;12;1.36;885
+MN;20;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;22;22;10;1.13;885
+MN;20;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;22;22;854;96.50;885
+MN;20;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;22;22;5;0.56;885
+MN;20;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;22;22;4;0.45;885
+MN;21;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;37;37;179;6.05;2957
+MN;21;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;37;37;270;9.13;2957
+MN;21;;0102;U.S. Senator;;0303;Jim Newberger;;;R;37;37;1991;67.33;2957
+MN;21;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;37;37;517;17.48;2957
+MN;21;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;37;37;63;2.23;2829
+MN;21;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;37;37;24;0.85;2829
+MN;21;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;37;37;2690;95.09;2829
+MN;21;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;37;37;36;1.27;2829
+MN;21;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;37;37;16;0.57;2829
+MN;22;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;33;33;42;4.33;970
+MN;22;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;33;33;117;12.06;970
+MN;22;;0102;U.S. Senator;;0303;Jim Newberger;;;R;33;33;619;63.81;970
+MN;22;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;33;33;192;19.79;970
+MN;22;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;33;33;16;1.89;847
+MN;22;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;33;33;5;0.59;847
+MN;22;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;33;33;804;94.92;847
+MN;22;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;33;33;13;1.53;847
+MN;22;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;33;33;9;1.06;847
+MN;23;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;37;37;77;6.54;1178
+MN;23;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;37;37;150;12.73;1178
+MN;23;;0102;U.S. Senator;;0303;Jim Newberger;;;R;37;37;695;59.00;1178
+MN;23;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;37;37;256;21.73;1178
+MN;23;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;37;37;44;3.02;1457
+MN;23;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;37;37;16;1.10;1457
+MN;23;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;37;37;1363;93.55;1457
+MN;23;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;37;37;19;1.30;1457
+MN;23;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;37;37;15;1.03;1457
+MN;24;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;40;40;115;5.70;2016
+MN;24;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;40;40;211;10.47;2016
+MN;24;;0102;U.S. Senator;;0303;Jim Newberger;;;R;40;40;1250;62.00;2016
+MN;24;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;40;40;440;21.83;2016
+MN;24;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;40;40;63;2.48;2543
+MN;24;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;40;40;34;1.34;2543
+MN;24;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;40;40;2401;94.42;2543
+MN;24;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;40;40;27;1.06;2543
+MN;24;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;40;40;18;0.71;2543
+MN;25;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;40;40;221;6.44;3430
+MN;25;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;40;40;392;11.43;3430
+MN;25;;0102;U.S. Senator;;0303;Jim Newberger;;;R;40;40;2143;62.48;3430
+MN;25;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;40;40;674;19.65;3430
+MN;25;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;40;40;97;2.19;4435
+MN;25;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;40;40;63;1.42;4435
+MN;25;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;40;40;4215;95.04;4435
+MN;25;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;40;40;37;0.83;4435
+MN;25;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;40;40;23;0.52;4435
+MN;26;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;23;23;22;4.39;501
+MN;26;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;23;23;33;6.59;501
+MN;26;;0102;U.S. Senator;;0303;Jim Newberger;;;R;23;23;352;70.26;501
+MN;26;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;23;23;94;18.76;501
+MN;26;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;23;23;7;1.09;644
+MN;26;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;23;23;11;1.71;644
+MN;26;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;23;23;618;95.96;644
+MN;26;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;23;23;4;0.62;644
+MN;26;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;23;23;4;0.62;644
+MN;27;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;422;422;2465;5.37;45881
+MN;27;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;422;422;3348;7.30;45881
+MN;27;;0102;U.S. Senator;;0303;Jim Newberger;;;R;422;422;34368;74.91;45881
+MN;27;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;422;422;5700;12.42;45881
+MN;27;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;422;422;2441;1.26;193966
+MN;27;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;422;422;1992;1.03;193966
+MN;27;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;422;422;187027;96.42;193966
+MN;27;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;422;422;1360;0.70;193966
+MN;27;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;422;422;1146;0.59;193966
+MN;28;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;27;27;100;9.01;1110
+MN;28;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;27;27;125;11.26;1110
+MN;28;;0102;U.S. Senator;;0303;Jim Newberger;;;R;27;27;630;56.76;1110
+MN;28;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;27;27;255;22.97;1110
+MN;28;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;27;27;66;4.47;1477
+MN;28;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;27;27;28;1.90;1477
+MN;28;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;27;27;1336;90.45;1477
+MN;28;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;27;27;22;1.49;1477
+MN;28;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;27;27;25;1.69;1477
+MN;29;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;38;38;91;5.54;1642
+MN;29;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;38;38;169;10.29;1642
+MN;29;;0102;U.S. Senator;;0303;Jim Newberger;;;R;38;38;1096;66.75;1642
+MN;29;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;38;38;286;17.42;1642
+MN;29;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;38;38;33;1.92;1717
+MN;29;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;38;38;25;1.46;1717
+MN;29;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;38;38;1633;95.11;1717
+MN;29;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;38;38;14;0.82;1717
+MN;29;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;38;38;12;0.70;1717
+MN;30;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;19;19;217;6.83;3176
+MN;30;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;19;19;272;8.56;3176
+MN;30;;0102;U.S. Senator;;0303;Jim Newberger;;;R;19;19;2161;68.04;3176
+MN;30;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;19;19;526;16.56;3176
+MN;30;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;19;19;67;2.48;2705
+MN;30;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;19;19;45;1.66;2705
+MN;30;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;19;19;2548;94.20;2705
+MN;30;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;19;19;29;1.07;2705
+MN;30;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;19;19;16;0.59;2705
+MN;31;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;78;78;331;7.49;4419
+MN;31;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;78;78;487;11.02;4419
+MN;31;;0102;U.S. Senator;;0303;Jim Newberger;;;R;78;78;2810;63.59;4419
+MN;31;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;78;78;791;17.90;4419
+MN;31;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;78;78;221;3.42;6460
+MN;31;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;78;78;91;1.41;6460
+MN;31;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;78;78;6043;93.54;6460
+MN;31;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;78;78;54;0.84;6460
+MN;31;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;78;78;51;0.79;6460
+MN;32;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;28;28;45;5.98;752
+MN;32;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;28;28;79;10.51;752
+MN;32;;0102;U.S. Senator;;0303;Jim Newberger;;;R;28;28;511;67.95;752
+MN;32;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;28;28;117;15.56;752
+MN;32;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;28;28;22;2.99;737
+MN;32;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;28;28;9;1.22;737
+MN;32;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;28;28;692;93.89;737
+MN;32;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;28;28;10;1.36;737
+MN;32;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;28;28;4;0.54;737
+MN;33;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;20;20;62;5.65;1097
+MN;33;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;20;20;109;9.94;1097
+MN;33;;0102;U.S. Senator;;0303;Jim Newberger;;;R;20;20;746;68.00;1097
+MN;33;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;20;20;180;16.41;1097
+MN;33;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;20;20;18;1.65;1090
+MN;33;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;20;20;11;1.01;1090
+MN;33;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;20;20;1050;96.33;1090
+MN;33;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;20;20;7;0.64;1090
+MN;33;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;20;20;4;0.37;1090
+MN;34;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;48;48;183;5.32;3438
+MN;34;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;48;48;367;10.67;3438
+MN;34;;0102;U.S. Senator;;0303;Jim Newberger;;;R;48;48;2328;67.71;3438
+MN;34;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;48;48;560;16.29;3438
+MN;34;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;48;48;72;1.95;3700
+MN;34;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;48;48;48;1.30;3700
+MN;34;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;48;48;3514;94.97;3700
+MN;34;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;48;48;40;1.08;3700
+MN;34;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;48;48;26;0.70;3700
+MN;35;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;39;39;16;4.86;329
+MN;35;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;39;39;27;8.21;329
+MN;35;;0102;U.S. Senator;;0303;Jim Newberger;;;R;39;39;220;66.87;329
+MN;35;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;39;39;66;20.06;329
+MN;35;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;39;39;8;1.71;469
+MN;35;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;39;39;5;1.07;469
+MN;35;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;39;39;446;95.10;469
+MN;35;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;39;39;6;1.28;469
+MN;35;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;39;39;4;0.85;469
+MN;36;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;22;22;42;5.77;728
+MN;36;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;22;22;76;10.44;728
+MN;36;;0102;U.S. Senator;;0303;Jim Newberger;;;R;22;22;477;65.52;728
+MN;36;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;22;22;133;18.27;728
+MN;36;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;22;22;21;1.90;1104
+MN;36;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;22;22;13;1.18;1104
+MN;36;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;22;22;1056;95.65;1104
+MN;36;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;22;22;8;0.72;1104
+MN;36;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;22;22;6;0.54;1104
+MN;37;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;29;29;44;5.93;742
+MN;37;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;29;29;86;11.59;742
+MN;37;;0102;U.S. Senator;;0303;Jim Newberger;;;R;29;29;407;54.85;742
+MN;37;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;29;29;205;27.63;742
+MN;37;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;29;29;40;4.49;891
+MN;37;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;29;29;21;2.36;891
+MN;37;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;29;29;811;91.02;891
+MN;37;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;29;29;16;1.80;891
+MN;37;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;29;29;3;0.34;891
+MN;38;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;19;19;55;6.46;851
+MN;38;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;19;19;68;7.99;851
+MN;38;;0102;U.S. Senator;;0303;Jim Newberger;;;R;19;19;588;69.10;851
+MN;38;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;19;19;140;16.45;851
+MN;38;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;19;19;38;2.37;1602
+MN;38;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;19;19;23;1.44;1602
+MN;38;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;19;19;1525;95.19;1602
+MN;38;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;19;19;11;0.69;1602
+MN;38;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;19;19;5;0.31;1602
+MN;39;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;17;17;25;5.46;458
+MN;39;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;17;17;40;8.73;458
+MN;39;;0102;U.S. Senator;;0303;Jim Newberger;;;R;17;17;300;65.50;458
+MN;39;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;17;17;93;20.31;458
+MN;39;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;17;17;3;0.86;348
+MN;39;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;17;17;5;1.44;348
+MN;39;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;17;17;333;95.69;348
+MN;39;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;17;17;6;1.72;348
+MN;39;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;17;17;1;0.29;348
+MN;40;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;27;27;133;6.14;2166
+MN;40;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;27;27;229;10.57;2166
+MN;40;;0102;U.S. Senator;;0303;Jim Newberger;;;R;27;27;1428;65.93;2166
+MN;40;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;27;27;376;17.36;2166
+MN;40;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;27;27;59;2.48;2383
+MN;40;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;27;27;33;1.38;2383
+MN;40;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;27;27;2241;94.04;2383
+MN;40;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;27;27;20;0.84;2383
+MN;40;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;27;27;30;1.26;2383
+MN;41;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;20;20;27;6.43;420
+MN;41;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;20;20;45;10.71;420
+MN;41;;0102;U.S. Senator;;0303;Jim Newberger;;;R;20;20;250;59.52;420
+MN;41;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;20;20;98;23.33;420
+MN;41;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;20;20;17;3.88;438
+MN;41;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;20;20;6;1.37;438
+MN;41;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;20;20;406;92.69;438
+MN;41;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;20;20;6;1.37;438
+MN;41;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;20;20;3;0.68;438
+MN;42;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;33;33;99;5.30;1869
+MN;42;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;33;33;234;12.52;1869
+MN;42;;0102;U.S. Senator;;0303;Jim Newberger;;;R;33;33;1108;59.28;1869
+MN;42;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;33;33;428;22.90;1869
+MN;42;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;33;33;70;3.89;1798
+MN;42;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;33;33;19;1.06;1798
+MN;42;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;33;33;1682;93.55;1798
+MN;42;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;33;33;12;0.67;1798
+MN;42;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;33;33;15;0.83;1798
+MN;43;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;28;28;73;3.73;1959
+MN;43;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;28;28;135;6.89;1959
+MN;43;;0102;U.S. Senator;;0303;Jim Newberger;;;R;28;28;1460;74.53;1959
+MN;43;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;28;28;291;14.85;1959
+MN;43;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;28;28;42;2.81;1495
+MN;43;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;28;28;27;1.81;1495
+MN;43;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;28;28;1388;92.84;1495
+MN;43;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;28;28;23;1.54;1495
+MN;43;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;28;28;15;1.00;1495
+MN;44;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;19;19;20;6.49;308
+MN;44;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;19;19;55;17.86;308
+MN;44;;0102;U.S. Senator;;0303;Jim Newberger;;;R;19;19;162;52.60;308
+MN;44;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;19;19;71;23.05;308
+MN;44;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;19;19;30;5.76;521
+MN;44;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;19;19;13;2.50;521
+MN;44;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;19;19;462;88.68;521
+MN;44;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;19;19;4;0.77;521
+MN;44;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;19;19;12;2.30;521
+MN;45;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;60;60;36;5.24;687
+MN;45;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;60;60;52;7.57;687
+MN;45;;0102;U.S. Senator;;0303;Jim Newberger;;;R;60;60;432;62.88;687
+MN;45;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;60;60;167;24.31;687
+MN;45;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;60;60;13;2.05;635
+MN;45;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;60;60;20;3.15;635
+MN;45;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;60;60;589;92.76;635
+MN;45;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;60;60;6;0.94;635
+MN;45;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;60;60;7;1.10;635
+MN;46;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;37;37;83;5.50;1509
+MN;46;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;37;37;181;11.99;1509
+MN;46;;0102;U.S. Senator;;0303;Jim Newberger;;;R;37;37;995;65.94;1509
+MN;46;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;37;37;250;16.57;1509
+MN;46;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;37;37;28;2.62;1069
+MN;46;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;37;37;25;2.34;1069
+MN;46;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;37;37;993;92.89;1069
+MN;46;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;37;37;14;1.31;1069
+MN;46;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;37;37;9;0.84;1069
+MN;47;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;30;30;57;4.15;1372
+MN;47;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;30;30;105;7.65;1372
+MN;47;;0102;U.S. Senator;;0303;Jim Newberger;;;R;30;30;999;72.81;1372
+MN;47;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;30;30;211;15.38;1372
+MN;47;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;30;30;21;1.79;1173
+MN;47;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;30;30;18;1.53;1173
+MN;47;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;30;30;1116;95.14;1173
+MN;47;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;30;30;7;0.60;1173
+MN;47;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;30;30;11;0.94;1173
+MN;48;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;25;25;108;5.94;1817
+MN;48;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;25;25;181;9.96;1817
+MN;48;;0102;U.S. Senator;;0303;Jim Newberger;;;R;25;25;1268;69.79;1817
+MN;48;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;25;25;260;14.31;1817
+MN;48;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;25;25;48;3.00;1602
+MN;48;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;25;25;28;1.75;1602
+MN;48;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;25;25;1493;93.20;1602
+MN;48;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;25;25;14;0.87;1602
+MN;48;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;25;25;19;1.19;1602
+MN;49;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;48;48;139;4.71;2949
+MN;49;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;48;48;270;9.16;2949
+MN;49;;0102;U.S. Senator;;0303;Jim Newberger;;;R;48;48;2065;70.02;2949
+MN;49;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;48;48;475;16.11;2949
+MN;49;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;48;48;75;3.97;1890
+MN;49;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;48;48;37;1.96;1890
+MN;49;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;48;48;1731;91.59;1890
+MN;49;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;48;48;30;1.59;1890
+MN;49;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;48;48;17;0.90;1890
+MN;50;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;40;40;94;6.09;1544
+MN;50;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;40;40;162;10.49;1544
+MN;50;;0102;U.S. Senator;;0303;Jim Newberger;;;R;40;40;1015;65.74;1544
+MN;50;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;40;40;273;17.68;1544
+MN;50;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;40;40;84;3.19;2631
+MN;50;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;40;40;35;1.33;2631
+MN;50;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;40;40;2470;93.88;2631
+MN;50;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;40;40;21;0.80;2631
+MN;50;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;40;40;21;0.80;2631
+MN;51;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;29;29;82;6.68;1228
+MN;51;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;29;29;153;12.46;1228
+MN;51;;0102;U.S. Senator;;0303;Jim Newberger;;;R;29;29;679;55.29;1228
+MN;51;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;29;29;314;25.57;1228
+MN;51;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;29;29;62;5.47;1133
+MN;51;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;29;29;15;1.32;1133
+MN;51;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;29;29;1023;90.29;1133
+MN;51;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;29;29;20;1.77;1133
+MN;51;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;29;29;13;1.15;1133
+MN;52;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;28;28;80;4.27;1873
+MN;52;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;28;28;195;10.41;1873
+MN;52;;0102;U.S. Senator;;0303;Jim Newberger;;;R;28;28;1213;64.76;1873
+MN;52;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;28;28;385;20.56;1873
+MN;52;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;28;28;74;1.95;3786
+MN;52;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;28;28;36;0.95;3786
+MN;52;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;28;28;3633;95.96;3786
+MN;52;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;28;28;22;0.58;3786
+MN;52;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;28;28;21;0.55;3786
+MN;53;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;40;40;89;5.36;1661
+MN;53;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;40;40;182;10.96;1661
+MN;53;;0102;U.S. Senator;;0303;Jim Newberger;;;R;40;40;1031;62.07;1661
+MN;53;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;40;40;359;21.61;1661
+MN;53;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;40;40;72;4.96;1453
+MN;53;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;40;40;33;2.27;1453
+MN;53;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;40;40;1308;90.02;1453
+MN;53;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;40;40;26;1.79;1453
+MN;53;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;40;40;14;0.96;1453
+MN;54;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;33;33;9;3.08;292
+MN;54;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;33;33;37;12.67;292
+MN;54;;0102;U.S. Senator;;0303;Jim Newberger;;;R;33;33;164;56.16;292
+MN;54;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;33;33;82;28.08;292
+MN;54;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;33;33;17;3.18;534
+MN;54;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;33;33;4;0.75;534
+MN;54;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;33;33;505;94.57;534
+MN;54;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;33;33;5;0.94;534
+MN;54;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;33;33;3;0.56;534
+MN;55;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;82;84;493;5.66;8707
+MN;55;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;82;84;832;9.56;8707
+MN;55;;0102;U.S. Senator;;0303;Jim Newberger;;;R;82;84;5830;66.96;8707
+MN;55;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;82;84;1552;17.82;8707
+MN;55;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;82;84;264;1.89;13954
+MN;55;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;82;84;139;1.00;13954
+MN;55;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;82;84;13393;95.98;13954
+MN;55;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;82;84;104;0.75;13954
+MN;55;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;82;84;54;0.39;13954
+MN;56;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;92;92;269;6.14;4381
+MN;56;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;92;92;493;11.25;4381
+MN;56;;0102;U.S. Senator;;0303;Jim Newberger;;;R;92;92;2779;63.43;4381
+MN;56;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;92;92;840;19.17;4381
+MN;56;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;92;92;107;2.94;3636
+MN;56;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;92;92;60;1.65;3636
+MN;56;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;92;92;3408;93.73;3636
+MN;56;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;92;92;27;0.74;3636
+MN;56;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;92;92;34;0.94;3636
+MN;57;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;31;31;38;6.93;548
+MN;57;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;31;31;39;7.12;548
+MN;57;;0102;U.S. Senator;;0303;Jim Newberger;;;R;31;31;364;66.42;548
+MN;57;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;31;31;107;19.53;548
+MN;57;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;31;31;13;2.43;535
+MN;57;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;31;31;3;0.56;535
+MN;57;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;31;31;509;95.14;535
+MN;57;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;31;31;7;1.31;535
+MN;57;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;31;31;3;0.56;535
+MN;58;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;48;48;96;5.49;1748
+MN;58;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;48;48;156;8.92;1748
+MN;58;;0102;U.S. Senator;;0303;Jim Newberger;;;R;48;48;1199;68.59;1748
+MN;58;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;48;48;297;16.99;1748
+MN;58;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;48;48;35;1.74;2009
+MN;58;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;48;48;23;1.14;2009
+MN;58;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;48;48;1914;95.27;2009
+MN;58;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;48;48;17;0.85;2009
+MN;58;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;48;48;20;1.00;2009
+MN;59;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;22;22;18;3.16;569
+MN;59;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;22;22;45;7.91;569
+MN;59;;0102;U.S. Senator;;0303;Jim Newberger;;;R;22;22;403;70.83;569
+MN;59;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;22;22;103;18.10;569
+MN;59;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;22;22;11;3.16;348
+MN;59;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;22;22;9;2.59;348
+MN;59;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;22;22;321;92.24;348
+MN;59;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;22;22;2;0.57;348
+MN;59;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;22;22;5;1.44;348
+MN;60;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;82;82;73;5.04;1449
+MN;60;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;82;82;147;10.14;1449
+MN;60;;0102;U.S. Senator;;0303;Jim Newberger;;;R;82;82;872;60.18;1449
+MN;60;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;82;82;357;24.64;1449
+MN;60;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;82;82;39;2.38;1639
+MN;60;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;82;82;16;0.98;1639
+MN;60;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;82;82;1558;95.06;1639
+MN;60;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;82;82;15;0.92;1639
+MN;60;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;82;82;11;0.67;1639
+MN;61;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;31;31;37;5.10;726
+MN;61;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;31;31;77;10.61;726
+MN;61;;0102;U.S. Senator;;0303;Jim Newberger;;;R;31;31;472;65.01;726
+MN;61;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;31;31;140;19.28;726
+MN;61;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;31;31;14;1.64;856
+MN;61;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;31;31;6;0.70;856
+MN;61;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;31;31;824;96.26;856
+MN;61;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;31;31;8;0.93;856
+MN;61;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;31;31;4;0.47;856
+MN;62;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;168;169;1314;7.74;16981
+MN;62;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;168;169;1484;8.74;16981
+MN;62;;0102;U.S. Senator;;0303;Jim Newberger;;;R;168;169;11738;69.12;16981
+MN;62;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;168;169;2445;14.40;16981
+MN;62;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;168;169;1032;1.29;79742
+MN;62;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;168;169;850;1.07;79742
+MN;62;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;168;169;76849;96.37;79742
+MN;62;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;168;169;552;0.69;79742
+MN;62;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;168;169;459;0.58;79742
+MN;63;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;21;21;15;6.10;246
+MN;63;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;21;21;22;8.94;246
+MN;63;;0102;U.S. Senator;;0303;Jim Newberger;;;R;21;21;161;65.45;246
+MN;63;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;21;21;48;19.51;246
+MN;63;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;21;21;13;4.51;288
+MN;63;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;21;21;3;1.04;288
+MN;63;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;21;21;269;93.40;288
+MN;63;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;21;21;3;1.04;288
+MN;63;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;21;21;0;0.00;288
+MN;64;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;43;43;42;5.01;839
+MN;64;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;43;43;76;9.06;839
+MN;64;;0102;U.S. Senator;;0303;Jim Newberger;;;R;43;43;565;67.34;839
+MN;64;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;43;43;156;18.59;839
+MN;64;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;43;43;14;2.00;699
+MN;64;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;43;43;17;2.43;699
+MN;64;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;43;43;657;93.99;699
+MN;64;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;43;43;8;1.14;699
+MN;64;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;43;43;3;0.43;699
+MN;65;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;38;38;38;4.67;814
+MN;65;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;38;38;83;10.20;814
+MN;65;;0102;U.S. Senator;;0303;Jim Newberger;;;R;38;38;570;70.02;814
+MN;65;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;38;38;123;15.11;814
+MN;65;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;38;38;19;2.35;809
+MN;65;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;38;38;18;2.22;809
+MN;65;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;38;38;756;93.45;809
+MN;65;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;38;38;9;1.11;809
+MN;65;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;38;38;7;0.87;809
+MN;66;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;31;31;174;5.83;2985
+MN;66;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;31;31;260;8.71;2985
+MN;66;;0102;U.S. Senator;;0303;Jim Newberger;;;R;31;31;2081;69.72;2985
+MN;66;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;31;31;470;15.75;2985
+MN;66;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;31;31;99;1.74;5705
+MN;66;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;31;31;61;1.07;5705
+MN;66;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;31;31;5475;95.97;5705
+MN;66;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;31;31;45;0.79;5705
+MN;66;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;31;31;25;0.44;5705
+MN;67;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;24;24;33;6.04;546
+MN;67;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;24;24;50;9.16;546
+MN;67;;0102;U.S. Senator;;0303;Jim Newberger;;;R;24;24;392;71.79;546
+MN;67;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;24;24;71;13.00;546
+MN;67;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;24;24;11;2.70;408
+MN;67;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;24;24;6;1.47;408
+MN;67;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;24;24;388;95.10;408
+MN;67;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;24;24;2;0.49;408
+MN;67;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;24;24;1;0.25;408
+MN;68;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;44;44;47;4.77;986
+MN;68;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;44;44;101;10.24;986
+MN;68;;0102;U.S. Senator;;0303;Jim Newberger;;;R;44;44;669;67.85;986
+MN;68;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;44;44;169;17.14;986
+MN;68;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;44;44;25;3.75;666
+MN;68;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;44;44;17;2.55;666
+MN;68;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;44;44;608;91.29;666
+MN;68;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;44;44;10;1.50;666
+MN;68;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;44;44;6;0.90;666
+MN;69;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;170;172;694;6.94;9994
+MN;69;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;170;172;995;9.96;9994
+MN;69;;0102;U.S. Senator;;0303;Jim Newberger;;;R;170;172;6654;66.58;9994
+MN;69;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;170;172;1651;16.52;9994
+MN;69;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;170;172;580;2.14;27082
+MN;69;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;170;172;431;1.59;27082
+MN;69;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;170;172;25638;94.67;27082
+MN;69;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;170;172;245;0.90;27082
+MN;69;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;170;172;188;0.69;27082
+MN;70;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;47;47;620;7.12;8705
+MN;70;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;47;47;800;9.19;8705
+MN;70;;0102;U.S. Senator;;0303;Jim Newberger;;;R;47;47;5950;68.35;8705
+MN;70;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;47;47;1335;15.34;8705
+MN;70;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;47;47;146;1.58;9213
+MN;70;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;47;47;129;1.40;9213
+MN;70;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;47;47;8790;95.41;9213
+MN;70;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;47;47;81;0.88;9213
+MN;70;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;47;47;67;0.73;9213
+MN;71;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;35;35;225;4.21;5350
+MN;71;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;35;35;320;5.98;5350
+MN;71;;0102;U.S. Senator;;0303;Jim Newberger;;;R;35;35;4300;80.37;5350
+MN;71;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;35;35;505;9.44;5350
+MN;71;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;35;35;69;1.56;4426
+MN;71;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;35;35;68;1.54;4426
+MN;71;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;35;35;4223;95.41;4426
+MN;71;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;35;35;33;0.75;4426
+MN;71;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;35;35;33;0.75;4426
+MN;72;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;25;25;51;4.56;1118
+MN;72;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;25;25;105;9.39;1118
+MN;72;;0102;U.S. Senator;;0303;Jim Newberger;;;R;25;25;776;69.41;1118
+MN;72;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;25;25;186;16.64;1118
+MN;72;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;25;25;30;3.08;973
+MN;72;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;25;25;15;1.54;973
+MN;72;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;25;25;915;94.04;973
+MN;72;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;25;25;7;0.72;973
+MN;72;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;25;25;6;0.62;973
+MN;73;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;98;98;455;4.80;9487
+MN;73;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;98;98;808;8.52;9487
+MN;73;;0102;U.S. Senator;;0303;Jim Newberger;;;R;98;98;6728;70.92;9487
+MN;73;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;98;98;1496;15.77;9487
+MN;73;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;98;98;184;1.93;9550
+MN;73;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;98;98;201;2.10;9550
+MN;73;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;98;98;9022;94.47;9550
+MN;73;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;98;98;85;0.89;9550
+MN;73;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;98;98;58;0.61;9550
+MN;74;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;20;26;86;4.97;1732
+MN;74;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;20;26;186;10.74;1732
+MN;74;;0102;U.S. Senator;;0303;Jim Newberger;;;R;20;26;1195;69.00;1732
+MN;74;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;20;26;265;15.30;1732
+MN;74;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;20;26;51;2.55;2000
+MN;74;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;20;26;23;1.15;2000
+MN;74;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;20;26;1896;94.80;2000
+MN;74;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;20;26;14;0.70;2000
+MN;74;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;20;26;16;0.80;2000
+MN;75;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;26;26;22;3.58;614
+MN;75;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;26;26;57;9.28;614
+MN;75;;0102;U.S. Senator;;0303;Jim Newberger;;;R;26;26;436;71.01;614
+MN;75;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;26;26;99;16.12;614
+MN;75;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;26;26;9;1.12;802
+MN;75;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;26;26;4;0.50;802
+MN;75;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;26;26;781;97.38;802
+MN;75;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;26;26;3;0.37;802
+MN;75;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;26;26;5;0.62;802
+MN;76;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;30;30;54;5.52;979
+MN;76;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;30;30;122;12.46;979
+MN;76;;0102;U.S. Senator;;0303;Jim Newberger;;;R;30;30;582;59.45;979
+MN;76;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;30;30;221;22.57;979
+MN;76;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;30;30;48;3.70;1298
+MN;76;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;30;30;22;1.69;1298
+MN;76;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;30;30;1209;93.14;1298
+MN;76;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;30;30;11;0.85;1298
+MN;76;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;30;30;8;0.62;1298
+MN;77;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;40;40;67;4.72;1419
+MN;77;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;40;40;137;9.65;1419
+MN;77;;0102;U.S. Senator;;0303;Jim Newberger;;;R;40;40;954;67.23;1419
+MN;77;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;40;40;261;18.39;1419
+MN;77;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;40;40;42;3.68;1140
+MN;77;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;40;40;23;2.02;1140
+MN;77;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;40;40;1045;91.67;1140
+MN;77;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;40;40;23;2.02;1140
+MN;77;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;40;40;7;0.61;1140
+MN;78;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;20;20;12;5.15;233
+MN;78;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;20;20;29;12.45;233
+MN;78;;0102;U.S. Senator;;0303;Jim Newberger;;;R;20;20;149;63.95;233
+MN;78;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;20;20;43;18.45;233
+MN;78;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;20;20;6;2.14;280
+MN;78;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;20;20;2;0.71;280
+MN;78;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;20;20;268;95.71;280
+MN;78;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;20;20;3;1.07;280
+MN;78;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;20;20;1;0.36;280
+MN;79;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;33;33;98;7.24;1354
+MN;79;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;33;33;163;12.04;1354
+MN;79;;0102;U.S. Senator;;0303;Jim Newberger;;;R;33;33;827;61.08;1354
+MN;79;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;33;33;266;19.65;1354
+MN;79;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;33;33;44;2.52;1749
+MN;79;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;33;33;19;1.09;1749
+MN;79;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;33;33;1650;94.34;1749
+MN;79;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;33;33;17;0.97;1749
+MN;79;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;33;33;19;1.09;1749
+MN;80;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;25;25;62;5.62;1103
+MN;80;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;25;25;113;10.24;1103
+MN;80;;0102;U.S. Senator;;0303;Jim Newberger;;;R;25;25;732;66.36;1103
+MN;80;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;25;25;196;17.77;1103
+MN;80;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;25;25;26;3.35;775
+MN;80;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;25;25;29;3.74;775
+MN;80;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;25;25;704;90.84;775
+MN;80;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;25;25;10;1.29;775
+MN;80;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;25;25;6;0.77;775
+MN;81;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;22;22;58;5.12;1132
+MN;81;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;22;22;156;13.78;1132
+MN;81;;0102;U.S. Senator;;0303;Jim Newberger;;;R;22;22;702;62.01;1132
+MN;81;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;22;22;216;19.08;1132
+MN;81;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;22;22;31;2.54;1222
+MN;81;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;22;22;17;1.39;1222
+MN;81;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;22;22;1156;94.60;1222
+MN;81;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;22;22;13;1.06;1222
+MN;81;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;22;22;5;0.41;1222
+MN;82;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;87;87;932;7.09;13153
+MN;82;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;87;87;985;7.49;13153
+MN;82;;0102;U.S. Senator;;0303;Jim Newberger;;;R;87;87;9396;71.44;13153
+MN;82;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;87;87;1840;13.99;13153
+MN;82;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;87;87;367;1.46;25108
+MN;82;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;87;87;292;1.16;25108
+MN;82;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;87;87;24179;96.30;25108
+MN;82;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;87;87;169;0.67;25108
+MN;82;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;87;87;101;0.40;25108
+MN;83;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;21;21;28;3.79;738
+MN;83;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;21;21;67;9.08;738
+MN;83;;0102;U.S. Senator;;0303;Jim Newberger;;;R;21;21;464;62.87;738
+MN;83;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;21;21;179;24.25;738
+MN;83;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;21;21;13;1.68;776
+MN;83;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;21;21;8;1.03;776
+MN;83;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;21;21;744;95.88;776
+MN;83;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;21;21;3;0.39;776
+MN;83;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;21;21;8;1.03;776
+MN;84;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;32;32;16;4.53;353
+MN;84;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;32;32;32;9.07;353
+MN;84;;0102;U.S. Senator;;0303;Jim Newberger;;;R;32;32;222;62.89;353
+MN;84;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;32;32;83;23.51;353
+MN;84;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;32;32;5;1.52;329
+MN;84;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;32;32;10;3.04;329
+MN;84;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;32;32;308;93.62;329
+MN;84;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;32;32;5;1.52;329
+MN;84;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;32;32;1;0.30;329
+MN;85;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;49;49;160;6.99;2289
+MN;85;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;49;49;271;11.84;2289
+MN;85;;0102;U.S. Senator;;0303;Jim Newberger;;;R;49;49;1419;61.99;2289
+MN;85;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;49;49;439;19.18;2289
+MN;85;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;49;49;134;3.20;4194
+MN;85;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;49;49;44;1.05;4194
+MN;85;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;49;49;3958;94.37;4194
+MN;85;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;49;49;29;0.69;4194
+MN;85;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;49;49;29;0.69;4194
+MN;86;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;43;43;536;5.92;9053
+MN;86;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;43;43;784;8.66;9053
+MN;86;;0102;U.S. Senator;;0303;Jim Newberger;;;R;43;43;6233;68.85;9053
+MN;86;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;43;43;1500;16.57;9053
+MN;86;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;43;43;143;1.90;7533
+MN;86;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;43;43;158;2.10;7533
+MN;86;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;43;43;7112;94.41;7533
+MN;86;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;43;43;76;1.01;7533
+MN;86;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;43;43;44;0.58;7533
+MN;87;;0102;U.S. Senator;;0301;Roque "Rocky" De La Fuente;;;R;30;30;27;4.76;567
+MN;87;;0102;U.S. Senator;;0302;Rae Hart Anderson;;;R;30;30;62;10.93;567
+MN;87;;0102;U.S. Senator;;0303;Jim Newberger;;;R;30;30;340;59.96;567
+MN;87;;0102;U.S. Senator;;0304;Merrill Anderson;;;R;30;30;138;24.34;567
+MN;87;;0102;U.S. Senator;;0401;Steve Carlson;;;DFL;30;30;14;2.32;604
+MN;87;;0102;U.S. Senator;;0402;Stephen A. Emery;;;DFL;30;30;8;1.32;604
+MN;87;;0102;U.S. Senator;;0403;Amy Klobuchar;;;DFL;30;30;567;93.87;604
+MN;87;;0102;U.S. Senator;;0404;David Robert Groves;;;DFL;30;30;8;1.32;604
+MN;87;;0102;U.S. Senator;;0405;Leonard J. Richards;;;DFL;30;30;7;1.16;604
+MN;01;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;54;54;32;2.20;1453
+MN;01;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;54;54;550;37.85;1453
+MN;01;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;54;54;871;59.94;1453
+MN;01;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;54;54;19;1.13;1682
+MN;01;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;54;54;112;6.66;1682
+MN;01;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;54;54;1300;77.29;1682
+MN;01;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;54;54;52;3.09;1682
+MN;01;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;54;54;179;10.64;1682
+MN;01;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;54;54;20;1.19;1682
+MN;02;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;128;128;390;2.11;18489
+MN;02;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;128;128;5887;31.84;18489
+MN;02;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;128;128;12212;66.05;18489
+MN;02;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;128;128;233;0.90;25752
+MN;02;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;128;128;773;3.00;25752
+MN;02;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;128;128;19288;74.90;25752
+MN;02;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;128;128;779;3.03;25752
+MN;02;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;128;128;3549;13.78;25752
+MN;02;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;128;128;1130;4.39;25752
+MN;03;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;48;48;45;2.31;1947
+MN;03;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;48;48;934;47.97;1947
+MN;03;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;48;48;968;49.72;1947
+MN;03;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;48;48;20;1.18;1700
+MN;03;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;48;48;104;6.12;1700
+MN;03;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;48;48;1269;74.65;1700
+MN;03;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;48;48;52;3.06;1700
+MN;03;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;48;48;226;13.29;1700
+MN;03;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;48;48;29;1.71;1700
+MN;04;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;63;63;48;2.23;2157
+MN;04;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;63;63;832;38.57;2157
+MN;04;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;63;63;1277;59.20;2157
+MN;04;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;63;63;61;1.88;3248
+MN;04;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;63;63;114;3.51;3248
+MN;04;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;63;63;2383;73.37;3248
+MN;04;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;63;63;76;2.34;3248
+MN;04;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;63;63;517;15.92;3248
+MN;04;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;63;63;97;2.99;3248
+MN;05;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;27;27;61;2.66;2291
+MN;05;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;27;27;914;39.90;2291
+MN;05;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;27;27;1316;57.44;2291
+MN;05;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;27;27;18;0.87;2058
+MN;05;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;27;27;105;5.10;2058
+MN;05;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;27;27;1534;74.54;2058
+MN;05;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;27;27;81;3.94;2058
+MN;05;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;27;27;265;12.88;2058
+MN;05;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;27;27;55;2.67;2058
+MN;06;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;23;23;14;3.02;464
+MN;06;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;23;23;189;40.73;464
+MN;06;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;23;23;261;56.25;464
+MN;06;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;23;23;7;1.40;501
+MN;06;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;23;23;38;7.58;501
+MN;06;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;23;23;388;77.45;501
+MN;06;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;23;23;10;2.00;501
+MN;06;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;23;23;51;10.18;501
+MN;06;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;23;23;7;1.40;501
+MN;07;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;54;54;66;2.26;2921
+MN;07;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;54;54;1373;47.00;2921
+MN;07;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;54;54;1482;50.74;2921
+MN;07;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;54;54;52;0.88;5941
+MN;07;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;54;54;281;4.73;5941
+MN;07;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;54;54;4337;73.00;5941
+MN;07;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;54;54;307;5.17;5941
+MN;07;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;54;54;760;12.79;5941
+MN;07;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;54;54;204;3.43;5941
+MN;08;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;32;32;77;2.63;2923
+MN;08;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;32;32;1501;51.35;2923
+MN;08;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;32;32;1345;46.01;2923
+MN;08;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;32;32;42;1.75;2405
+MN;08;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;32;32;204;8.48;2405
+MN;08;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;32;32;1762;73.26;2405
+MN;08;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;32;32;112;4.66;2405
+MN;08;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;32;32;240;9.98;2405
+MN;08;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;32;32;45;1.87;2405
+MN;09;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;38;38;74;3.33;2223
+MN;09;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;38;38;965;43.41;2223
+MN;09;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;38;38;1184;53.26;2223
+MN;09;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;38;38;36;0.87;4137
+MN;09;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;38;38;166;4.01;4137
+MN;09;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;38;38;3229;78.05;4137
+MN;09;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;38;38;118;2.85;4137
+MN;09;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;38;38;511;12.35;4137
+MN;09;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;38;38;77;1.86;4137
+MN;10;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;35;35;112;1.95;5758
+MN;10;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;35;35;1697;29.47;5758
+MN;10;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;35;35;3949;68.58;5758
+MN;10;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;35;35;48;0.69;6911
+MN;10;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;35;35;164;2.37;6911
+MN;10;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;35;35;5207;75.34;6911
+MN;10;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;35;35;189;2.73;6911
+MN;10;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;35;35;1131;16.37;6911
+MN;10;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;35;35;172;2.49;6911
+MN;11;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;73;73;58;2.21;2628
+MN;11;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;73;73;998;37.98;2628
+MN;11;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;73;73;1572;59.82;2628
+MN;11;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;73;73;33;1.36;2429
+MN;11;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;73;73;101;4.16;2429
+MN;11;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;73;73;1903;78.34;2429
+MN;11;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;73;73;60;2.47;2429
+MN;11;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;73;73;281;11.57;2429
+MN;11;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;73;73;51;2.10;2429
+MN;12;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;25;25;31;2.82;1099
+MN;12;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;25;25;511;46.50;1099
+MN;12;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;25;25;557;50.68;1099
+MN;12;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;25;25;9;0.77;1168
+MN;12;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;25;25;77;6.59;1168
+MN;12;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;25;25;912;78.08;1168
+MN;12;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;25;25;43;3.68;1168
+MN;12;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;25;25;117;10.02;1168
+MN;12;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;25;25;10;0.86;1168
+MN;13;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;23;23;91;2.04;4457
+MN;13;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;23;23;1327;29.77;4457
+MN;13;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;23;23;3039;68.18;4457
+MN;13;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;23;23;39;0.92;4230
+MN;13;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;23;23;208;4.92;4230
+MN;13;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;23;23;3212;75.93;4230
+MN;13;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;23;23;147;3.48;4230
+MN;13;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;23;23;525;12.41;4230
+MN;13;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;23;23;99;2.34;4230
+MN;14;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;58;58;89;3.44;2584
+MN;14;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;58;58;1297;50.19;2584
+MN;14;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;58;58;1198;46.36;2584
+MN;14;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;58;58;58;1.32;4380
+MN;14;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;58;58;315;7.19;4380
+MN;14;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;58;58;3161;72.17;4380
+MN;14;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;58;58;171;3.90;4380
+MN;14;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;58;58;545;12.44;4380
+MN;14;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;58;58;130;2.97;4380
+MN;15;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;29;29;8;1.33;600
+MN;15;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;29;29;261;43.50;600
+MN;15;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;29;29;331;55.17;600
+MN;15;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;29;29;6;1.50;400
+MN;15;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;29;29;33;8.25;400
+MN;15;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;29;29;282;70.50;400
+MN;15;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;29;29;25;6.25;400
+MN;15;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;29;29;44;11.00;400
+MN;15;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;29;29;10;2.50;400
+MN;16;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;13;13;14;2.76;508
+MN;16;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;13;13;182;35.83;508
+MN;16;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;13;13;312;61.42;508
+MN;16;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;13;13;7;0.50;1409
+MN;16;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;13;13;21;1.49;1409
+MN;16;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;13;13;787;55.86;1409
+MN;16;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;13;13;26;1.85;1409
+MN;16;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;13;13;540;38.33;1409
+MN;16;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;13;13;28;1.99;1409
+MN;17;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;29;29;31;3.45;898
+MN;17;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;29;29;488;54.34;898
+MN;17;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;29;29;379;42.20;898
+MN;17;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;29;29;16;2.10;763
+MN;17;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;29;29;58;7.60;763
+MN;17;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;29;29;568;74.44;763
+MN;17;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;29;29;47;6.16;763
+MN;17;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;29;29;61;7.99;763
+MN;17;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;29;29;13;1.70;763
+MN;18;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;64;64;154;2.46;6266
+MN;18;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;64;64;2518;40.19;6266
+MN;18;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;64;64;3594;57.36;6266
+MN;18;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;64;64;56;0.96;5817
+MN;18;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;64;64;252;4.33;5817
+MN;18;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;64;64;4477;76.96;5817
+MN;18;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;64;64;188;3.23;5817
+MN;18;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;64;64;715;12.29;5817
+MN;18;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;64;64;129;2.22;5817
+MN;19;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;140;140;537;2.37;22706
+MN;19;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;140;140;6186;27.24;22706
+MN;19;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;140;140;15983;70.39;22706
+MN;19;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;140;140;327;0.82;39979
+MN;19;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;140;140;1137;2.84;39979
+MN;19;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;140;140;30428;76.11;39979
+MN;19;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;140;140;1063;2.66;39979
+MN;19;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;140;140;5679;14.20;39979
+MN;19;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;140;140;1345;3.36;39979
+MN;20;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;22;22;16;1.73;927
+MN;20;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;22;22;410;44.23;927
+MN;20;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;22;22;501;54.05;927
+MN;20;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;22;22;8;0.93;859
+MN;20;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;22;22;35;4.07;859
+MN;20;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;22;22;662;77.07;859
+MN;20;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;22;22;26;3.03;859
+MN;20;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;22;22;108;12.57;859
+MN;20;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;22;22;20;2.33;859
+MN;21;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;37;37;60;1.95;3080
+MN;21;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;37;37;1176;38.18;3080
+MN;21;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;37;37;1844;59.87;3080
+MN;21;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;37;37;19;0.68;2776
+MN;21;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;37;37;120;4.32;2776
+MN;21;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;37;37;2085;75.11;2776
+MN;21;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;37;37;75;2.70;2776
+MN;21;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;37;37;442;15.92;2776
+MN;21;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;37;37;35;1.26;2776
+MN;22;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;33;33;23;2.30;1002
+MN;22;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;33;33;423;42.22;1002
+MN;22;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;33;33;556;55.49;1002
+MN;22;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;33;33;20;2.42;826
+MN;22;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;33;33;43;5.21;826
+MN;22;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;33;33;611;73.97;826
+MN;22;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;33;33;23;2.78;826
+MN;22;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;33;33;112;13.56;826
+MN;22;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;33;33;17;2.06;826
+MN;23;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;37;37;31;2.61;1188
+MN;23;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;37;37;628;52.86;1188
+MN;23;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;37;37;529;44.53;1188
+MN;23;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;37;37;24;1.71;1403
+MN;23;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;37;37;88;6.27;1403
+MN;23;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;37;37;1091;77.76;1403
+MN;23;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;37;37;40;2.85;1403
+MN;23;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;37;37;134;9.55;1403
+MN;23;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;37;37;26;1.85;1403
+MN;24;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;40;40;45;2.18;2062
+MN;24;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;40;40;1037;50.29;2062
+MN;24;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;40;40;980;47.53;2062
+MN;24;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;40;40;42;1.71;2459
+MN;24;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;40;40;149;6.06;2459
+MN;24;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;40;40;1881;76.49;2459
+MN;24;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;40;40;67;2.72;2459
+MN;24;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;40;40;274;11.14;2459
+MN;24;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;40;40;46;1.87;2459
+MN;25;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;40;40;83;2.34;3545
+MN;25;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;40;40;1308;36.90;3545
+MN;25;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;40;40;2154;60.76;3545
+MN;25;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;40;40;41;0.95;4326
+MN;25;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;40;40;181;4.18;4326
+MN;25;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;40;40;3373;77.97;4326
+MN;25;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;40;40;122;2.82;4326
+MN;25;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;40;40;525;12.14;4326
+MN;25;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;40;40;84;1.94;4326
+MN;26;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;23;23;15;2.92;513
+MN;26;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;23;23;198;38.60;513
+MN;26;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;23;23;300;58.48;513
+MN;26;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;23;23;7;1.11;631
+MN;26;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;23;23;29;4.60;631
+MN;26;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;23;23;504;79.87;631
+MN;26;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;23;23;26;4.12;631
+MN;26;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;23;23;54;8.56;631
+MN;26;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;23;23;11;1.74;631
+MN;27;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;422;422;1142;2.37;48201
+MN;27;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;422;422;12709;26.37;48201
+MN;27;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;422;422;34350;71.26;48201
+MN;27;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;422;422;1176;0.62;191016
+MN;27;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;422;422;3501;1.83;191016
+MN;27;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;422;422;146311;76.60;191016
+MN;27;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;422;422;4962;2.60;191016
+MN;27;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;422;422;27453;14.37;191016
+MN;27;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;422;422;7613;3.99;191016
+MN;28;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;27;27;37;3.29;1126
+MN;28;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;27;27;596;52.93;1126
+MN;28;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;27;27;493;43.78;1126
+MN;28;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;27;27;32;2.23;1433
+MN;28;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;27;27;146;10.19;1433
+MN;28;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;27;27;995;69.43;1433
+MN;28;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;27;27;55;3.84;1433
+MN;28;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;27;27;150;10.47;1433
+MN;28;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;27;27;55;3.84;1433
+MN;29;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;38;38;25;1.48;1693
+MN;29;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;38;38;684;40.40;1693
+MN;29;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;38;38;984;58.12;1693
+MN;29;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;38;38;13;0.77;1682
+MN;29;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;38;38;46;2.73;1682
+MN;29;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;38;38;1293;76.87;1682
+MN;29;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;38;38;39;2.32;1682
+MN;29;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;38;38;263;15.64;1682
+MN;29;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;38;38;28;1.66;1682
+MN;30;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;19;19;95;2.95;3224
+MN;30;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;19;19;1230;38.15;3224
+MN;30;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;19;19;1899;58.90;3224
+MN;30;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;19;19;46;1.76;2621
+MN;30;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;19;19;158;6.03;2621
+MN;30;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;19;19;1925;73.45;2621
+MN;30;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;19;19;90;3.43;2621
+MN;30;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;19;19;348;13.28;2621
+MN;30;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;19;19;54;2.06;2621
+MN;31;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;78;78;165;3.62;4564
+MN;31;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;78;78;1898;41.59;4564
+MN;31;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;78;78;2501;54.80;4564
+MN;31;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;78;78;86;1.38;6228
+MN;31;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;78;78;414;6.65;6228
+MN;31;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;78;78;4745;76.19;6228
+MN;31;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;78;78;211;3.39;6228
+MN;31;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;78;78;677;10.87;6228
+MN;31;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;78;78;95;1.53;6228
+MN;32;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;28;28;11;1.44;764
+MN;32;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;28;28;365;47.77;764
+MN;32;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;28;28;388;50.79;764
+MN;32;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;28;28;12;1.70;707
+MN;32;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;28;28;53;7.50;707
+MN;32;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;28;28;537;75.95;707
+MN;32;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;28;28;28;3.96;707
+MN;32;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;28;28;65;9.19;707
+MN;32;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;28;28;12;1.70;707
+MN;33;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;20;20;21;1.84;1139
+MN;33;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;20;20;376;33.01;1139
+MN;33;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;20;20;742;65.14;1139
+MN;33;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;20;20;11;1.04;1055
+MN;33;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;20;20;50;4.74;1055
+MN;33;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;20;20;821;77.82;1055
+MN;33;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;20;20;33;3.13;1055
+MN;33;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;20;20;125;11.85;1055
+MN;33;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;20;20;15;1.42;1055
+MN;34;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;48;48;77;2.19;3520
+MN;34;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;48;48;1688;47.95;3520
+MN;34;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;48;48;1755;49.86;3520
+MN;34;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;48;48;41;1.14;3600
+MN;34;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;48;48;262;7.28;3600
+MN;34;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;48;48;2802;77.83;3600
+MN;34;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;48;48;72;2.00;3600
+MN;34;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;48;48;339;9.42;3600
+MN;34;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;48;48;84;2.33;3600
+MN;35;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;39;39;5;1.50;334
+MN;35;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;39;39;164;49.10;334
+MN;35;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;39;39;165;49.40;334
+MN;35;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;39;39;12;2.79;430
+MN;35;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;39;39;44;10.23;430
+MN;35;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;39;39;294;68.37;430
+MN;35;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;39;39;27;6.28;430
+MN;35;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;39;39;44;10.23;430
+MN;35;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;39;39;9;2.09;430
+MN;36;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;22;22;24;3.20;750
+MN;36;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;22;22;351;46.80;750
+MN;36;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;22;22;375;50.00;750
+MN;36;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;22;22;15;1.39;1080
+MN;36;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;22;22;33;3.06;1080
+MN;36;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;22;22;848;78.52;1080
+MN;36;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;22;22;24;2.22;1080
+MN;36;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;22;22;150;13.89;1080
+MN;36;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;22;22;10;0.93;1080
+MN;37;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;29;29;15;2.00;750
+MN;37;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;29;29;393;52.40;750
+MN;37;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;29;29;342;45.60;750
+MN;37;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;29;29;21;2.45;856
+MN;37;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;29;29;92;10.75;856
+MN;37;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;29;29;618;72.20;856
+MN;37;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;29;29;50;5.84;856
+MN;37;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;29;29;62;7.24;856
+MN;37;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;29;29;13;1.52;856
+MN;38;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;19;19;34;3.94;862
+MN;38;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;19;19;342;39.68;862
+MN;38;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;19;19;486;56.38;862
+MN;38;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;19;19;16;1.00;1602
+MN;38;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;19;19;78;4.87;1602
+MN;38;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;19;19;1095;68.35;1602
+MN;38;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;19;19;36;2.25;1602
+MN;38;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;19;19;355;22.16;1602
+MN;38;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;19;19;22;1.37;1602
+MN;39;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;17;17;17;3.63;468
+MN;39;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;17;17;197;42.09;468
+MN;39;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;17;17;254;54.27;468
+MN;39;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;17;17;6;1.84;326
+MN;39;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;17;17;22;6.75;326
+MN;39;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;17;17;231;70.86;326
+MN;39;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;17;17;9;2.76;326
+MN;39;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;17;17;50;15.34;326
+MN;39;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;17;17;8;2.45;326
+MN;40;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;27;27;78;3.54;2206
+MN;40;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;27;27;983;44.56;2206
+MN;40;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;27;27;1145;51.90;2206
+MN;40;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;27;27;27;1.18;2296
+MN;40;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;27;27;146;6.36;2296
+MN;40;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;27;27;1730;75.35;2296
+MN;40;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;27;27;96;4.18;2296
+MN;40;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;27;27;244;10.63;2296
+MN;40;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;27;27;53;2.31;2296
+MN;41;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;20;20;8;1.88;426
+MN;41;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;20;20;243;57.04;426
+MN;41;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;20;20;175;41.08;426
+MN;41;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;20;20;9;2.13;423
+MN;41;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;20;20;54;12.77;423
+MN;41;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;20;20;266;62.88;423
+MN;41;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;20;20;25;5.91;423
+MN;41;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;20;20;58;13.71;423
+MN;41;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;20;20;11;2.60;423
+MN;42;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;33;33;50;2.59;1928
+MN;42;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;33;33;920;47.72;1928
+MN;42;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;33;33;958;49.69;1928
+MN;42;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;33;33;26;1.49;1747
+MN;42;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;33;33;105;6.01;1747
+MN;42;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;33;33;1293;74.01;1747
+MN;42;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;33;33;91;5.21;1747
+MN;42;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;33;33;193;11.05;1747
+MN;42;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;33;33;39;2.23;1747
+MN;43;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;28;28;38;1.91;1990
+MN;43;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;28;28;634;31.86;1990
+MN;43;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;28;28;1318;66.23;1990
+MN;43;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;28;28;13;0.89;1460
+MN;43;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;28;28;66;4.52;1460
+MN;43;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;28;28;1105;75.68;1460
+MN;43;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;28;28;47;3.22;1460
+MN;43;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;28;28;192;13.15;1460
+MN;43;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;28;28;37;2.53;1460
+MN;44;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;19;19;5;1.61;311
+MN;44;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;19;19;169;54.34;311
+MN;44;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;19;19;137;44.05;311
+MN;44;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;19;19;15;3.06;490
+MN;44;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;19;19;43;8.78;490
+MN;44;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;19;19;357;72.86;490
+MN;44;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;19;19;35;7.14;490
+MN;44;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;19;19;35;7.14;490
+MN;44;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;19;19;5;1.02;490
+MN;45;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;60;60;20;2.85;701
+MN;45;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;60;60;330;47.08;701
+MN;45;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;60;60;351;50.07;701
+MN;45;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;60;60;6;1.01;594
+MN;45;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;60;60;48;8.08;594
+MN;45;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;60;60;449;75.59;594
+MN;45;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;60;60;20;3.37;594
+MN;45;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;60;60;57;9.60;594
+MN;45;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;60;60;14;2.36;594
+MN;46;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;37;37;19;1.25;1522
+MN;46;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;37;37;749;49.21;1522
+MN;46;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;37;37;754;49.54;1522
+MN;46;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;37;37;15;1.46;1026
+MN;46;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;37;37;70;6.82;1026
+MN;46;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;37;37;732;71.35;1026
+MN;46;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;37;37;43;4.19;1026
+MN;46;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;37;37;149;14.52;1026
+MN;46;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;37;37;17;1.66;1026
+MN;47;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;30;30;22;1.58;1389
+MN;47;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;30;30;557;40.10;1389
+MN;47;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;30;30;810;58.32;1389
+MN;47;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;30;30;11;0.96;1143
+MN;47;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;30;30;52;4.55;1143
+MN;47;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;30;30;882;77.17;1143
+MN;47;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;30;30;28;2.45;1143
+MN;47;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;30;30;159;13.91;1143
+MN;47;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;30;30;11;0.96;1143
+MN;48;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;25;25;39;2.10;1860
+MN;48;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;25;25;784;42.15;1860
+MN;48;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;25;25;1037;55.75;1860
+MN;48;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;25;25;21;1.34;1565
+MN;48;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;25;25;94;6.01;1565
+MN;48;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;25;25;1182;75.53;1565
+MN;48;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;25;25;68;4.35;1565
+MN;48;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;25;25;171;10.93;1565
+MN;48;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;25;25;29;1.85;1565
+MN;49;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;48;48;78;2.59;3011
+MN;49;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;48;48;1223;40.62;3011
+MN;49;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;48;48;1710;56.79;3011
+MN;49;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;48;48;29;1.57;1847
+MN;49;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;48;48;153;8.28;1847
+MN;49;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;48;48;1378;74.61;1847
+MN;49;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;48;48;48;2.60;1847
+MN;49;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;48;48;207;11.21;1847
+MN;49;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;48;48;32;1.73;1847
+MN;50;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;40;40;56;3.60;1555
+MN;50;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;40;40;749;48.17;1555
+MN;50;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;40;40;750;48.23;1555
+MN;50;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;40;40;27;1.05;2560
+MN;50;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;40;40;168;6.56;2560
+MN;50;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;40;40;1898;74.14;2560
+MN;50;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;40;40;100;3.91;2560
+MN;50;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;40;40;315;12.30;2560
+MN;50;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;40;40;52;2.03;2560
+MN;51;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;29;29;44;3.56;1235
+MN;51;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;29;29;679;54.98;1235
+MN;51;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;29;29;512;41.46;1235
+MN;51;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;29;29;39;3.60;1083
+MN;51;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;29;29;146;13.48;1083
+MN;51;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;29;29;699;64.54;1083
+MN;51;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;29;29;114;10.53;1083
+MN;51;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;29;29;70;6.46;1083
+MN;51;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;29;29;15;1.39;1083
+MN;52;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;28;28;35;1.83;1912
+MN;52;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;28;28;846;44.25;1912
+MN;52;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;28;28;1031;53.92;1912
+MN;52;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;28;28;32;0.87;3664
+MN;52;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;28;28;137;3.74;3664
+MN;52;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;28;28;2711;73.99;3664
+MN;52;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;28;28;175;4.78;3664
+MN;52;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;28;28;494;13.48;3664
+MN;52;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;28;28;115;3.14;3664
+MN;53;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;40;40;72;4.31;1670
+MN;53;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;40;40;960;57.49;1670
+MN;53;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;40;40;638;38.20;1670
+MN;53;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;40;40;51;3.77;1352
+MN;53;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;40;40;184;13.61;1352
+MN;53;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;40;40;861;63.68;1352
+MN;53;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;40;40;82;6.07;1352
+MN;53;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;40;40;123;9.10;1352
+MN;53;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;40;40;51;3.77;1352
+MN;54;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;33;33;7;2.25;311
+MN;54;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;33;33;159;51.13;311
+MN;54;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;33;33;145;46.62;311
+MN;54;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;33;33;6;1.21;497
+MN;54;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;33;33;41;8.25;497
+MN;54;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;33;33;384;77.26;497
+MN;54;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;33;33;14;2.82;497
+MN;54;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;33;33;38;7.65;497
+MN;54;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;33;33;14;2.82;497
+MN;55;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;82;84;221;2.47;8941
+MN;55;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;82;84;3920;43.84;8941
+MN;55;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;82;84;4800;53.69;8941
+MN;55;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;82;84;93;0.69;13556
+MN;55;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;82;84;339;2.50;13556
+MN;55;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;82;84;10383;76.59;13556
+MN;55;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;82;84;375;2.77;13556
+MN;55;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;82;84;1885;13.91;13556
+MN;55;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;82;84;481;3.55;13556
+MN;56;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;92;92;138;3.10;4450
+MN;56;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;92;92;2189;49.19;4450
+MN;56;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;92;92;2123;47.71;4450
+MN;56;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;92;92;51;1.45;3514
+MN;56;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;92;92;225;6.40;3514
+MN;56;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;92;92;2575;73.28;3514
+MN;56;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;92;92;150;4.27;3514
+MN;56;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;92;92;445;12.66;3514
+MN;56;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;92;92;68;1.94;3514
+MN;57;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;31;31;10;1.89;528
+MN;57;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;31;31;251;47.54;528
+MN;57;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;31;31;267;50.57;528
+MN;57;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;31;31;8;1.56;513
+MN;57;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;31;31;28;5.46;513
+MN;57;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;31;31;360;70.18;513
+MN;57;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;31;31;15;2.92;513
+MN;57;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;31;31;85;16.57;513
+MN;57;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;31;31;17;3.31;513
+MN;58;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;48;48;38;2.10;1808
+MN;58;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;48;48;639;35.34;1808
+MN;58;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;48;48;1131;62.56;1808
+MN;58;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;48;48;25;1.26;1985
+MN;58;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;48;48;93;4.69;1985
+MN;58;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;48;48;1513;76.22;1985
+MN;58;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;48;48;73;3.68;1985
+MN;58;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;48;48;244;12.29;1985
+MN;58;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;48;48;37;1.86;1985
+MN;59;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;22;22;10;1.72;581
+MN;59;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;22;22;260;44.75;581
+MN;59;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;22;22;311;53.53;581
+MN;59;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;22;22;12;3.53;340
+MN;59;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;22;22;16;4.71;340
+MN;59;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;22;22;246;72.35;340
+MN;59;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;22;22;10;2.94;340
+MN;59;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;22;22;50;14.71;340
+MN;59;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;22;22;6;1.76;340
+MN;60;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;82;82;30;2.04;1473
+MN;60;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;82;82;734;49.83;1473
+MN;60;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;82;82;709;48.13;1473
+MN;60;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;82;82;21;1.35;1558
+MN;60;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;82;82;100;6.42;1558
+MN;60;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;82;82;1158;74.33;1558
+MN;60;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;82;82;53;3.40;1558
+MN;60;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;82;82;193;12.39;1558
+MN;60;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;82;82;33;2.12;1558
+MN;61;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;31;31;14;1.86;751
+MN;61;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;31;31;298;39.68;751
+MN;61;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;31;31;439;58.46;751
+MN;61;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;31;31;4;0.47;845
+MN;61;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;31;31;34;4.02;845
+MN;61;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;31;31;669;79.17;845
+MN;61;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;31;31;18;2.13;845
+MN;61;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;31;31;113;13.37;845
+MN;61;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;31;31;7;0.83;845
+MN;62;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;168;169;527;2.89;18257
+MN;62;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;168;169;4802;26.30;18257
+MN;62;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;168;169;12928;70.81;18257
+MN;62;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;168;169;748;0.96;78117
+MN;62;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;168;169;1598;2.05;78117
+MN;62;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;168;169;60318;77.21;78117
+MN;62;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;168;169;2006;2.57;78117
+MN;62;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;168;169;10363;13.27;78117
+MN;62;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;168;169;3084;3.95;78117
+MN;63;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;21;21;7;2.79;251
+MN;63;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;21;21;120;47.81;251
+MN;63;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;21;21;124;49.40;251
+MN;63;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;21;21;4;1.43;280
+MN;63;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;21;21;24;8.57;280
+MN;63;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;21;21;201;71.79;280
+MN;63;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;21;21;12;4.29;280
+MN;63;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;21;21;35;12.50;280
+MN;63;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;21;21;4;1.43;280
+MN;64;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;43;43;26;3.01;863
+MN;64;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;43;43;402;46.58;863
+MN;64;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;43;43;435;50.41;863
+MN;64;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;43;43;4;0.59;680
+MN;64;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;43;43;45;6.62;680
+MN;64;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;43;43;506;74.41;680
+MN;64;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;43;43;37;5.44;680
+MN;64;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;43;43;75;11.03;680
+MN;64;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;43;43;13;1.91;680
+MN;65;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;38;38;17;2.05;831
+MN;65;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;38;38;336;40.43;831
+MN;65;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;38;38;478;57.52;831
+MN;65;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;38;38;5;0.64;784
+MN;65;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;38;38;47;5.99;784
+MN;65;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;38;38;602;76.79;784
+MN;65;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;38;38;20;2.55;784
+MN;65;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;38;38;93;11.86;784
+MN;65;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;38;38;17;2.17;784
+MN;66;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;31;31;82;2.68;3057
+MN;66;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;31;31;1214;39.71;3057
+MN;66;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;31;31;1761;57.61;3057
+MN;66;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;31;31;44;0.78;5641
+MN;66;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;31;31;147;2.61;5641
+MN;66;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;31;31;4332;76.79;5641
+MN;66;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;31;31;125;2.22;5641
+MN;66;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;31;31;832;14.75;5641
+MN;66;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;31;31;161;2.85;5641
+MN;67;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;24;24;15;2.73;549
+MN;67;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;24;24;281;51.18;549
+MN;67;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;24;24;253;46.08;549
+MN;67;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;24;24;5;1.25;401
+MN;67;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;24;24;27;6.73;401
+MN;67;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;24;24;288;71.82;401
+MN;67;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;24;24;14;3.49;401
+MN;67;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;24;24;60;14.96;401
+MN;67;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;24;24;7;1.75;401
+MN;68;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;44;44;22;2.19;1003
+MN;68;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;44;44;479;47.76;1003
+MN;68;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;44;44;502;50.05;1003
+MN;68;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;44;44;8;1.27;631
+MN;68;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;44;44;128;20.29;631
+MN;68;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;44;44;387;61.33;631
+MN;68;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;44;44;25;3.96;631
+MN;68;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;44;44;75;11.89;631
+MN;68;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;44;44;8;1.27;631
+MN;69;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;170;172;368;3.60;10226
+MN;69;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;170;172;4173;40.81;10226
+MN;69;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;170;172;5685;55.59;10226
+MN;69;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;170;172;234;0.88;26586
+MN;69;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;170;172;1005;3.78;26586
+MN;69;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;170;172;19848;74.66;26586
+MN;69;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;170;172;759;2.85;26586
+MN;69;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;170;172;4230;15.91;26586
+MN;69;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;170;172;510;1.92;26586
+MN;70;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;47;47;233;2.60;8961
+MN;70;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;47;47;3398;37.92;8961
+MN;70;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;47;47;5330;59.48;8961
+MN;70;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;47;47;73;0.81;8991
+MN;70;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;47;47;310;3.45;8991
+MN;70;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;47;47;6710;74.63;8991
+MN;70;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;47;47;306;3.40;8991
+MN;70;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;47;47;1257;13.98;8991
+MN;70;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;47;47;335;3.73;8991
+MN;71;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;35;35;107;2.00;5362
+MN;71;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;35;35;1850;34.50;5362
+MN;71;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;35;35;3405;63.50;5362
+MN;71;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;35;35;41;0.95;4329
+MN;71;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;35;35;140;3.23;4329
+MN;71;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;35;35;3311;76.48;4329
+MN;71;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;35;35;140;3.23;4329
+MN;71;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;35;35;574;13.26;4329
+MN;71;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;35;35;123;2.84;4329
+MN;72;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;25;25;30;2.64;1136
+MN;72;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;25;25;437;38.47;1136
+MN;72;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;25;25;669;58.89;1136
+MN;72;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;25;25;12;1.29;930
+MN;72;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;25;25;58;6.24;930
+MN;72;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;25;25;719;77.31;930
+MN;72;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;25;25;38;4.09;930
+MN;72;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;25;25;75;8.06;930
+MN;72;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;25;25;28;3.01;930
+MN;73;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;98;98;201;2.07;9727
+MN;73;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;98;98;4002;41.14;9727
+MN;73;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;98;98;5524;56.79;9727
+MN;73;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;98;98;88;0.94;9345
+MN;73;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;98;98;341;3.65;9345
+MN;73;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;98;98;7128;76.28;9345
+MN;73;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;98;98;311;3.33;9345
+MN;73;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;98;98;1156;12.37;9345
+MN;73;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;98;98;321;3.43;9345
+MN;74;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;20;26;38;2.13;1787
+MN;74;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;20;26;694;38.84;1787
+MN;74;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;20;26;1055;59.04;1787
+MN;74;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;20;26;20;1.03;1933
+MN;74;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;20;26;84;4.35;1933
+MN;74;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;20;26;1421;73.51;1933
+MN;74;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;20;26;85;4.40;1933
+MN;74;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;20;26;272;14.07;1933
+MN;74;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;20;26;51;2.64;1933
+MN;75;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;26;26;14;2.20;637
+MN;75;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;26;26;254;39.87;637
+MN;75;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;26;26;369;57.93;637
+MN;75;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;26;26;3;0.38;787
+MN;75;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;26;26;28;3.56;787
+MN;75;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;26;26;654;83.10;787
+MN;75;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;26;26;24;3.05;787
+MN;75;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;26;26;58;7.37;787
+MN;75;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;26;26;20;2.54;787
+MN;76;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;30;30;34;3.41;998
+MN;76;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;30;30;493;49.40;998
+MN;76;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;30;30;471;47.19;998
+MN;76;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;30;30;26;2.11;1231
+MN;76;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;30;30;105;8.53;1231
+MN;76;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;30;30;941;76.44;1231
+MN;76;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;30;30;46;3.74;1231
+MN;76;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;30;30;97;7.88;1231
+MN;76;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;30;30;16;1.30;1231
+MN;77;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;40;40;37;2.55;1449
+MN;77;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;40;40;615;42.44;1449
+MN;77;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;40;40;797;55.00;1449
+MN;77;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;40;40;20;1.81;1107
+MN;77;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;40;40;84;7.59;1107
+MN;77;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;40;40;809;73.08;1107
+MN;77;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;40;40;46;4.16;1107
+MN;77;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;40;40;132;11.92;1107
+MN;77;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;40;40;16;1.45;1107
+MN;78;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;20;20;4;1.72;233
+MN;78;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;20;20;81;34.76;233
+MN;78;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;20;20;148;63.52;233
+MN;78;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;20;20;3;1.12;268
+MN;78;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;20;20;12;4.48;268
+MN;78;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;20;20;205;76.49;268
+MN;78;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;20;20;13;4.85;268
+MN;78;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;20;20;32;11.94;268
+MN;78;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;20;20;3;1.12;268
+MN;79;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;33;33;28;2.02;1388
+MN;79;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;33;33;596;42.94;1388
+MN;79;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;33;33;764;55.04;1388
+MN;79;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;33;33;21;1.23;1703
+MN;79;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;33;33;73;4.29;1703
+MN;79;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;33;33;1323;77.69;1703
+MN;79;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;33;33;66;3.88;1703
+MN;79;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;33;33;187;10.98;1703
+MN;79;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;33;33;33;1.94;1703
+MN;80;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;25;25;29;2.56;1135
+MN;80;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;25;25;491;43.26;1135
+MN;80;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;25;25;615;54.19;1135
+MN;80;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;25;25;13;1.73;751
+MN;80;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;25;25;38;5.06;751
+MN;80;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;25;25;566;75.37;751
+MN;80;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;25;25;25;3.33;751
+MN;80;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;25;25;95;12.65;751
+MN;80;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;25;25;14;1.86;751
+MN;81;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;22;22;35;3.04;1153
+MN;81;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;22;22;500;43.37;1153
+MN;81;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;22;22;618;53.60;1153
+MN;81;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;22;22;20;1.72;1165
+MN;81;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;22;22;61;5.24;1165
+MN;81;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;22;22;906;77.77;1165
+MN;81;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;22;22;35;3.00;1165
+MN;81;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;22;22;122;10.47;1165
+MN;81;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;22;22;21;1.80;1165
+MN;82;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;87;87;252;1.74;14474
+MN;82;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;87;87;2685;18.55;14474
+MN;82;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;87;87;11537;79.71;14474
+MN;82;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;87;87;198;0.80;24673
+MN;82;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;87;87;604;2.45;24673
+MN;82;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;87;87;19196;77.80;24673
+MN;82;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;87;87;636;2.58;24673
+MN;82;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;87;87;3345;13.56;24673
+MN;82;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;87;87;694;2.81;24673
+MN;83;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;21;21;23;3.11;740
+MN;83;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;21;21;346;46.76;740
+MN;83;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;21;21;371;50.14;740
+MN;83;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;21;21;12;1.59;756
+MN;83;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;21;21;47;6.22;756
+MN;83;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;21;21;574;75.93;756
+MN;83;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;21;21;26;3.44;756
+MN;83;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;21;21;83;10.98;756
+MN;83;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;21;21;14;1.85;756
+MN;84;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;32;32;11;3.06;359
+MN;84;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;32;32;174;48.47;359
+MN;84;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;32;32;174;48.47;359
+MN;84;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;32;32;2;0.64;313
+MN;84;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;32;32;29;9.27;313
+MN;84;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;32;32;236;75.40;313
+MN;84;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;32;32;16;5.11;313
+MN;84;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;32;32;26;8.31;313
+MN;84;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;32;32;4;1.28;313
+MN;85;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;49;49;69;2.97;2325
+MN;85;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;49;49;1091;46.92;2325
+MN;85;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;49;49;1165;50.11;2325
+MN;85;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;49;49;52;1.28;4075
+MN;85;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;49;49;211;5.18;4075
+MN;85;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;49;49;3047;74.77;4075
+MN;85;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;49;49;147;3.61;4075
+MN;85;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;49;49;482;11.83;4075
+MN;85;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;49;49;136;3.34;4075
+MN;86;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;43;43;206;2.20;9357
+MN;86;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;43;43;3740;39.97;9357
+MN;86;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;43;43;5411;57.83;9357
+MN;86;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;43;43;84;1.16;7248
+MN;86;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;43;43;326;4.50;7248
+MN;86;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;43;43;5435;74.99;7248
+MN;86;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;43;43;268;3.70;7248
+MN;86;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;43;43;963;13.29;7248
+MN;86;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;43;43;172;2.37;7248
+MN;87;;0103;U.S. Senator Special Election;;0301;Nikolay Nikolayevich Bey;;;R;30;30;8;1.40;571
+MN;87;;0103;U.S. Senator Special Election;;0302;Bob Anderson;;;R;30;30;238;41.68;571
+MN;87;;0103;U.S. Senator Special Election;;0303;Karin Housley;;;R;30;30;325;56.92;571
+MN;87;;0103;U.S. Senator Special Election;;0401;Christopher Lovell Seymore Sr.;;;DFL;30;30;9;1.50;599
+MN;87;;0103;U.S. Senator Special Election;;0402;Gregg A. Iverson;;;DFL;30;30;27;4.51;599
+MN;87;;0103;U.S. Senator Special Election;;0403;Tina Smith;;;DFL;30;30;471;78.63;599
+MN;87;;0103;U.S. Senator Special Election;;0404;Nick Leonard;;;DFL;30;30;20;3.34;599
+MN;87;;0103;U.S. Senator Special Election;;0405;Richard W. Painter;;;DFL;30;30;61;10.18;599
+MN;87;;0103;U.S. Senator Special Election;;0406;Ali Chehem Ali;;;DFL;30;30;11;1.84;599

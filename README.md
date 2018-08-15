@@ -76,7 +76,7 @@ primary on 9/4
 data from: https://miboecfr.nictusa.com/election/results/DATA/2018PRI_MI_CENR_BY_COUNTY.xls
 
 ## MN 
-primary on 8/14
+precinct level data from https://electionresults.sos.state.mn.us/Select/Download/114 
 
 ## MS 
 data unavailable (6/19)

@@ -1,0 +1,1527 @@
+MN;02;0030;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;79;35.11;225
+MN;02;0030;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;146;64.89;225
+MN;02;0030;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;131;100.00;131
+MN;02;0805;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;335;81.31;412
+MN;02;0805;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;77;18.69;412
+MN;02;0810;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;57;17.87;319
+MN;02;0810;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;262;82.13;319
+MN;02;0815;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;268;81.46;329
+MN;02;0815;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;61;18.54;329
+MN;02;0820;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;49;18.15;270
+MN;02;0820;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;221;81.85;270
+MN;02;0825;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;262;83.17;315
+MN;02;0825;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;53;16.83;315
+MN;02;0830;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;53;16.93;313
+MN;02;0830;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;260;83.07;313
+MN;02;0835;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;221;81.55;271
+MN;02;0835;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;50;18.45;271
+MN;02;0840;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;36;13.74;262
+MN;02;0840;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;226;86.26;262
+MN;02;0905;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;169;50.30;336
+MN;02;0905;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;167;49.70;336
+MN;02;0905;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;243;100.00;243
+MN;02;1505;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;149;53.21;280
+MN;02;1505;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;131;46.79;280
+MN;02;1505;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;166;100.00;166
+MN;02;1510;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;126;50.20;251
+MN;02;1510;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;125;49.80;251
+MN;02;1510;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;136;100.00;136
+MN;02;1515;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;113;40.50;279
+MN;02;1515;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;166;59.50;279
+MN;02;1515;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;149;100.00;149
+MN;02;1905;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;117;59.09;198
+MN;02;1905;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;81;40.91;198
+MN;02;1905;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;119;100.00;119
+MN;02;1910;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;99;35.23;281
+MN;02;1910;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;182;64.77;281
+MN;02;1910;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;179;100.00;179
+MN;02;1915;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;135;60.27;224
+MN;02;1915;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;89;39.73;224
+MN;02;1915;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;150;100.00;150
+MN;02;1920;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;66;36.07;183
+MN;02;1920;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;117;63.93;183
+MN;02;1920;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;116;100.00;116
+MN;02;1925;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;112;51.38;218
+MN;02;1925;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;106;48.62;218
+MN;02;1925;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;124;100.00;124
+MN;02;1930;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;74;35.58;208
+MN;02;1930;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;134;64.42;208
+MN;02;1930;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;136;100.00;136
+MN;02;2005;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;31;81.58;38
+MN;02;2005;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;7;18.42;38
+MN;02;2305;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;122;50.00;244
+MN;02;2305;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;122;50.00;244
+MN;02;2305;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;143;100.00;143
+MN;02;2310;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;105;64.02;164
+MN;02;2310;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;59;35.98;164
+MN;02;2310;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;108;100.00;108
+MN;02;2520;0249;State Representative District 31B;31B;0302;Tom Hackbarth;;;R;1;1;57;45.97;124
+MN;02;2520;0249;State Representative District 31B;31B;0301;Calvin (Cal) K. Bahr;;;R;1;1;67;54.03;124
+MN;02;2520;0249;State Representative District 31B;31B;0401;Sue Larson;;;DFL;1;1;69;100.00;69
+MN;05;0005;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;32;100.00;32
+MN;05;0005;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;7;21.88;32
+MN;05;0005;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;25;78.13;32
+MN;05;0010;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;99;100.00;99
+MN;05;0010;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;34;34.69;98
+MN;05;0010;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;64;65.31;98
+MN;05;0015;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;9;100.00;9
+MN;05;0015;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;2;16.67;12
+MN;05;0015;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;10;83.33;12
+MN;05;0020;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;55;100.00;55
+MN;05;0020;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;6;19.35;31
+MN;05;0020;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;25;80.65;31
+MN;05;0025;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;63;100.00;63
+MN;05;0025;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;10;23.81;42
+MN;05;0025;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;32;76.19;42
+MN;05;0030;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;30;100.00;30
+MN;05;0030;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;10;32.26;31
+MN;05;0030;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;21;67.74;31
+MN;05;0035;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;56;100.00;56
+MN;05;0035;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;12;32.43;37
+MN;05;0035;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;25;67.57;37
+MN;05;0040;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;91;100.00;91
+MN;05;0040;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;19;35.85;53
+MN;05;0040;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;34;64.15;53
+MN;05;0045;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;43;100.00;43
+MN;05;0045;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;10;19.61;51
+MN;05;0045;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;41;80.39;51
+MN;05;0050;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;40;100.00;40
+MN;05;0050;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;16;37.21;43
+MN;05;0050;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;27;62.79;43
+MN;05;0060;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;55;100.00;55
+MN;05;0060;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;23;31.51;73
+MN;05;0060;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;50;68.49;73
+MN;05;0067;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;0;0.00;0
+MN;05;0067;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;0;0.00;0
+MN;05;0067;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;0;0.00;0
+MN;05;0090;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;87;100.00;87
+MN;05;0090;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;20;46.51;43
+MN;05;0090;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;23;53.49;43
+MN;05;0120;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;189;100.00;189
+MN;05;0120;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;58;32.58;178
+MN;05;0120;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;120;67.42;178
+MN;10;0036;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;126;53.39;236
+MN;10;0036;0281;State Representative District 47B;47B;0302;Vincent J. Beaudette;;;R;1;1;110;46.61;236
+MN;10;0036;0281;State Representative District 47B;47B;0401;Donzel Leggett;;;DFL;1;1;299;100.00;299
+MN;10;0037;0281;State Representative District 47B;47B;0302;Vincent J. Beaudette;;;R;1;1;128;48.67;263
+MN;10;0037;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;135;51.33;263
+MN;10;0037;0281;State Representative District 47B;47B;0401;Donzel Leggett;;;DFL;1;1;273;100.00;273
+MN;10;0038;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;114;50.67;225
+MN;10;0038;0281;State Representative District 47B;47B;0302;Vincent J. Beaudette;;;R;1;1;111;49.33;225
+MN;10;0038;0281;State Representative District 47B;47B;0401;Donzel Leggett;;;DFL;1;1;232;100.00;232
+MN;10;0040;0281;State Representative District 47B;47B;0302;Vincent J. Beaudette;;;R;1;1;98;36.84;266
+MN;10;0040;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;168;63.16;266
+MN;10;0040;0281;State Representative District 47B;47B;0401;Donzel Leggett;;;DFL;1;1;438;100.00;438
+MN;10;0045;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;271;66.26;409
+MN;10;0045;0281;State Representative District 47B;47B;0302;Vincent J. Beaudette;;;R;1;1;138;33.74;409
+MN;10;0045;0281;State Representative District 47B;47B;0401;Donzel Leggett;;;DFL;1;1;520;100.00;520
+MN;10;0050;0281;State Representative District 47B;47B;0302;Vincent J. Beaudette;;;R;1;1;105;36.59;287
+MN;10;0050;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;182;63.41;287
+MN;10;0050;0281;State Representative District 47B;47B;0401;Donzel Leggett;;;DFL;1;1;334;100.00;334
+MN;10;0055;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;149;53.41;279
+MN;10;0055;0281;State Representative District 47B;47B;0302;Vincent J. Beaudette;;;R;1;1;130;46.59;279
+MN;10;0055;0281;State Representative District 47B;47B;0401;Donzel Leggett;;;DFL;1;1;418;100.00;418
+MN;10;0112;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;0;0.00;0
+MN;10;0112;0281;State Representative District 47B;47B;0302;Vincent J. Beaudette;;;R;1;1;0;0.00;0
+MN;10;0112;0281;State Representative District 47B;47B;0401;Donzel Leggett;;;DFL;1;1;0;0.00;0
+MN;10;0115;0281;State Representative District 47B;47B;0302;Vincent J. Beaudette;;;R;1;1;63;44.37;142
+MN;10;0115;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;79;55.63;142
+MN;10;0115;0281;State Representative District 47B;47B;0401;Donzel Leggett;;;DFL;1;1;114;100.00;114
+MN;10;0117;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;100;46.08;217
+MN;10;0117;0281;State Representative District 47B;47B;0302;Vincent J. Beaudette;;;R;1;1;117;53.92;217
+MN;10;0117;0281;State Representative District 47B;47B;0401;Donzel Leggett;;;DFL;1;1;220;100.00;220
+MN;19;1010;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;142;100.00;142
+MN;19;1010;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;9;3.26;276
+MN;19;1010;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;5;1.81;276
+MN;19;1010;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;28;10.14;276
+MN;19;1010;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;59;21.38;276
+MN;19;1010;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;175;63.41;276
+MN;19;1020;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;119;100.00;119
+MN;19;1020;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;20;9.26;216
+MN;19;1020;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;12;5.56;216
+MN;19;1020;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;8;3.70;216
+MN;19;1020;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;100;46.30;216
+MN;19;1020;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;76;35.19;216
+MN;19;1030;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;139;100.00;139
+MN;19;1030;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;14;5.28;265
+MN;19;1030;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;7;2.64;265
+MN;19;1030;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;12;4.53;265
+MN;19;1030;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;65;24.53;265
+MN;19;1030;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;167;63.02;265
+MN;19;1040;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;160;100.00;160
+MN;19;1040;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;51;15.50;329
+MN;19;1040;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;15;4.56;329
+MN;19;1040;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;21;6.38;329
+MN;19;1040;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;131;39.82;329
+MN;19;1040;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;111;33.74;329
+MN;19;1050;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;190;100.00;190
+MN;19;1050;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;11;3.24;340
+MN;19;1050;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;7;2.06;340
+MN;19;1050;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;44;12.94;340
+MN;19;1050;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;68;20.00;340
+MN;19;1050;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;210;61.76;340
+MN;19;1060;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;100;100.00;100
+MN;19;1060;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;27;15.43;175
+MN;19;1060;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;5;2.86;175
+MN;19;1060;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;8;4.57;175
+MN;19;1060;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;74;42.29;175
+MN;19;1060;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;61;34.86;175
+MN;19;1110;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;169;100.00;169
+MN;19;1110;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;11;3.27;336
+MN;19;1110;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;17;5.06;336
+MN;19;1110;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;55;16.37;336
+MN;19;1110;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;99;29.46;336
+MN;19;1110;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;154;45.83;336
+MN;19;1120;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;195;100.00;195
+MN;19;1120;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;55;15.76;349
+MN;19;1120;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;10;2.87;349
+MN;19;1120;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;18;5.16;349
+MN;19;1120;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;168;48.14;349
+MN;19;1120;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;98;28.08;349
+MN;19;1130;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;139;100.00;139
+MN;19;1130;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;26;7.56;344
+MN;19;1130;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;13;3.78;344
+MN;19;1130;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;48;13.95;344
+MN;19;1130;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;108;31.40;344
+MN;19;1130;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;149;43.31;344
+MN;19;1140;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;121;100.00;121
+MN;19;1140;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;42;18.67;225
+MN;19;1140;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;8;3.56;225
+MN;19;1140;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;15;6.67;225
+MN;19;1140;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;70;31.11;225
+MN;19;1140;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;90;40.00;225
+MN;19;1150;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;77;100.00;77
+MN;19;1150;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;26;12.15;214
+MN;19;1150;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;11;5.14;214
+MN;19;1150;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;27;12.62;214
+MN;19;1150;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;81;37.85;214
+MN;19;1150;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;69;32.24;214
+MN;19;3060;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;252;100.00;252
+MN;19;3060;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;74;22.16;334
+MN;19;3060;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;14;4.19;334
+MN;19;3060;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;33;9.88;334
+MN;19;3060;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;118;35.33;334
+MN;19;3060;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;95;28.44;334
+MN;19;3070;0300;State Representative District 57A;57A;0301;Matt Lundin;;;R;1;1;145;100.00;145
+MN;19;3070;0300;State Representative District 57A;57A;0401;Kyle Koch;;;DFL;1;1;20;8.30;241
+MN;19;3070;0300;State Representative District 57A;57A;0405;Jake Cassidy;;;DFL;1;1;22;9.13;241
+MN;19;3070;0300;State Representative District 57A;57A;0402;Roxanne B Mindeman;;;DFL;1;1;24;9.96;241
+MN;19;3070;0300;State Representative District 57A;57A;0404;Linda Garrett-Johnson;;;DFL;1;1;105;43.57;241
+MN;19;3070;0300;State Representative District 57A;57A;0403;Robert Bierman;;;DFL;1;1;70;29.05;241
+MN;27;0200;0267;State Representative District 40B;40B;0301;Robert Marvin;;;R;1;1;99;100.00;99
+MN;27;0200;0267;State Representative District 40B;40B;0403;Cindy Yang;;;DFL;1;1;127;29.53;430
+MN;27;0200;0267;State Representative District 40B;40B;0402;Samantha Vang;;;DFL;1;1;279;64.88;430
+MN;27;0200;0267;State Representative District 40B;40B;0401;Alexander Koenig;;;DFL;1;1;24;5.58;430
+MN;27;0205;0267;State Representative District 40B;40B;0301;Robert Marvin;;;R;1;1;64;100.00;64
+MN;27;0205;0267;State Representative District 40B;40B;0403;Cindy Yang;;;DFL;1;1;124;39.24;316
+MN;27;0205;0267;State Representative District 40B;40B;0401;Alexander Koenig;;;DFL;1;1;40;12.66;316
+MN;27;0205;0267;State Representative District 40B;40B;0402;Samantha Vang;;;DFL;1;1;152;48.10;316
+MN;27;0210;0267;State Representative District 40B;40B;0301;Robert Marvin;;;R;1;1;110;100.00;110
+MN;27;0210;0267;State Representative District 40B;40B;0403;Cindy Yang;;;DFL;1;1;234;53.30;439
+MN;27;0210;0267;State Representative District 40B;40B;0402;Samantha Vang;;;DFL;1;1;163;37.13;439
+MN;27;0210;0267;State Representative District 40B;40B;0401;Alexander Koenig;;;DFL;1;1;42;9.57;439
+MN;27;0215;0267;State Representative District 40B;40B;0301;Robert Marvin;;;R;1;1;130;100.00;130
+MN;27;0215;0267;State Representative District 40B;40B;0403;Cindy Yang;;;DFL;1;1;187;38.80;482
+MN;27;0215;0267;State Representative District 40B;40B;0401;Alexander Koenig;;;DFL;1;1;69;14.32;482
+MN;27;0215;0267;State Representative District 40B;40B;0402;Samantha Vang;;;DFL;1;1;226;46.89;482
+MN;27;0220;0267;State Representative District 40B;40B;0301;Robert Marvin;;;R;1;1;107;100.00;107
+MN;27;0220;0267;State Representative District 40B;40B;0403;Cindy Yang;;;DFL;1;1;182;35.07;519
+MN;27;0220;0267;State Representative District 40B;40B;0402;Samantha Vang;;;DFL;1;1;285;54.91;519
+MN;27;0220;0267;State Representative District 40B;40B;0401;Alexander Koenig;;;DFL;1;1;52;10.02;519
+MN;27;0225;0267;State Representative District 40B;40B;0301;Robert Marvin;;;R;1;1;65;100.00;65
+MN;27;0225;0267;State Representative District 40B;40B;0403;Cindy Yang;;;DFL;1;1;114;36.89;309
+MN;27;0225;0267;State Representative District 40B;40B;0401;Alexander Koenig;;;DFL;1;1;28;9.06;309
+MN;27;0225;0267;State Representative District 40B;40B;0402;Samantha Vang;;;DFL;1;1;167;54.05;309
+MN;27;0230;0267;State Representative District 40B;40B;0301;Robert Marvin;;;R;1;1;70;100.00;70
+MN;27;0230;0267;State Representative District 40B;40B;0403;Cindy Yang;;;DFL;1;1;96;41.92;229
+MN;27;0230;0267;State Representative District 40B;40B;0402;Samantha Vang;;;DFL;1;1;108;47.16;229
+MN;27;0230;0267;State Representative District 40B;40B;0401;Alexander Koenig;;;DFL;1;1;25;10.92;229
+MN;27;0340;0267;State Representative District 40B;40B;0301;Robert Marvin;;;R;1;1;80;100.00;80
+MN;27;0340;0267;State Representative District 40B;40B;0401;Alexander Koenig;;;DFL;1;1;21;8.47;248
+MN;27;0340;0267;State Representative District 40B;40B;0402;Samantha Vang;;;DFL;1;1;116;46.77;248
+MN;27;0340;0267;State Representative District 40B;40B;0403;Cindy Yang;;;DFL;1;1;111;44.76;248
+MN;27;0345;0267;State Representative District 40B;40B;0301;Robert Marvin;;;R;1;1;92;100.00;92
+MN;27;0345;0267;State Representative District 40B;40B;0401;Alexander Koenig;;;DFL;1;1;33;10.00;330
+MN;27;0345;0267;State Representative District 40B;40B;0402;Samantha Vang;;;DFL;1;1;72;21.82;330
+MN;27;0345;0267;State Representative District 40B;40B;0403;Cindy Yang;;;DFL;1;1;225;68.18;330
+MN;27;0350;0267;State Representative District 40B;40B;0301;Robert Marvin;;;R;1;1;140;100.00;140
+MN;27;0350;0267;State Representative District 40B;40B;0401;Alexander Koenig;;;DFL;1;1;29;8.22;353
+MN;27;0350;0267;State Representative District 40B;40B;0402;Samantha Vang;;;DFL;1;1;137;38.81;353
+MN;27;0350;0267;State Representative District 40B;40B;0403;Cindy Yang;;;DFL;1;1;187;52.97;353
+MN;27;0640;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;42;58.33;72
+MN;27;0640;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;30;41.67;72
+MN;27;0640;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;62;100.00;62
+MN;27;0645;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;51;48.57;105
+MN;27;0645;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;54;51.43;105
+MN;27;0645;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;64;100.00;64
+MN;27;0650;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;157;46.31;339
+MN;27;0650;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;182;53.69;339
+MN;27;0650;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;200;100.00;200
+MN;27;1110;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;54;66.67;81
+MN;27;1110;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;27;33.33;81
+MN;27;1110;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;238;100.00;238
+MN;27;1115;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;22;27.16;81
+MN;27;1115;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;59;72.84;81
+MN;27;1115;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;349;100.00;349
+MN;27;1120;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;34;48.57;70
+MN;27;1120;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;36;51.43;70
+MN;27;1120;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;224;100.00;224
+MN;27;1125;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;39;52.70;74
+MN;27;1125;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;35;47.30;74
+MN;27;1125;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;355;100.00;355
+MN;27;1130;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;26;41.94;62
+MN;27;1130;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;36;58.06;62
+MN;27;1130;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;380;100.00;380
+MN;27;1135;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;44;42.31;104
+MN;27;1135;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;60;57.69;104
+MN;27;1135;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;354;100.00;354
+MN;27;1190;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;125;54.11;231
+MN;27;1190;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;106;45.89;231
+MN;27;1190;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;214;100.00;214
+MN;27;1195;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;96;55.49;173
+MN;27;1195;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;77;44.51;173
+MN;27;1195;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;181;100.00;181
+MN;27;1205;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;50;34.97;143
+MN;27;1205;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;93;65.03;143
+MN;27;1205;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;157;100.00;157
+MN;27;1215;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;67;42.68;157
+MN;27;1215;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;90;57.32;157
+MN;27;1215;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;200;100.00;200
+MN;27;1220;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;84;36.21;232
+MN;27;1220;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;148;63.79;232
+MN;27;1220;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;234;100.00;234
+MN;27;1225;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;92;48.42;190
+MN;27;1225;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;98;51.58;190
+MN;27;1225;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;150;100.00;150
+MN;27;1280;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;55;33.95;162
+MN;27;1280;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;107;66.05;162
+MN;27;1280;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;140;100.00;140
+MN;27;1285;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;98;29.25;335
+MN;27;1285;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;237;70.75;335
+MN;27;1285;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;228;100.00;228
+MN;27;1295;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;56;22.31;251
+MN;27;1295;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;195;77.69;251
+MN;27;1295;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;159;100.00;159
+MN;27;1420;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;7;26.92;26
+MN;27;1420;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;19;73.08;26
+MN;27;1420;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;7;1.15;610
+MN;27;1420;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;114;18.69;610
+MN;27;1420;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;28;4.59;610
+MN;27;1420;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;35;5.74;610
+MN;27;1420;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;198;32.46;610
+MN;27;1420;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;190;31.15;610
+MN;27;1420;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;38;6.23;610
+MN;27;1425;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;1;11.11;9
+MN;27;1425;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;8;88.89;9
+MN;27;1425;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;2;3.28;61
+MN;27;1425;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;11;18.03;61
+MN;27;1425;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;3;4.92;61
+MN;27;1425;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;7;11.48;61
+MN;27;1425;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;6;9.84;61
+MN;27;1425;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;9;14.75;61
+MN;27;1425;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;23;37.70;61
+MN;27;1430;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;8;40.00;20
+MN;27;1430;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;12;60.00;20
+MN;27;1430;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;4;0.53;755
+MN;27;1430;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;107;14.17;755
+MN;27;1430;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;47;6.23;755
+MN;27;1430;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;25;3.31;755
+MN;27;1430;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;142;18.81;755
+MN;27;1430;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;401;53.11;755
+MN;27;1430;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;29;3.84;755
+MN;27;1435;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;1;4.76;21
+MN;27;1435;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;20;95.24;21
+MN;27;1435;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;3;0.52;581
+MN;27;1435;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;103;17.73;581
+MN;27;1435;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;10;1.72;581
+MN;27;1435;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;33;5.68;581
+MN;27;1435;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;16;2.75;581
+MN;27;1435;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;307;52.84;581
+MN;27;1435;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;109;18.76;581
+MN;27;1440;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;0;0.00;1
+MN;27;1440;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;1;100.00;1
+MN;27;1440;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;3;2.05;146
+MN;27;1440;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;27;18.49;146
+MN;27;1440;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;9;6.16;146
+MN;27;1440;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;6;4.11;146
+MN;27;1440;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;54;36.99;146
+MN;27;1440;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;31;21.23;146
+MN;27;1440;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;16;10.96;146
+MN;27;1450;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;1;14.29;7
+MN;27;1450;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;6;85.71;7
+MN;27;1450;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;1;0.27;373
+MN;27;1450;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;69;18.50;373
+MN;27;1450;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;8;2.14;373
+MN;27;1450;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;14;3.75;373
+MN;27;1450;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;12;3.22;373
+MN;27;1450;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;163;43.70;373
+MN;27;1450;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;106;28.42;373
+MN;27;1455;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;0;0.00;5
+MN;27;1455;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;5;100.00;5
+MN;27;1455;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;3;2.34;128
+MN;27;1455;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;19;14.84;128
+MN;27;1455;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;13;10.16;128
+MN;27;1455;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;11;8.59;128
+MN;27;1455;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;41;32.03;128
+MN;27;1455;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;16;12.50;128
+MN;27;1455;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;25;19.53;128
+MN;27;1460;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;4;19.05;21
+MN;27;1460;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;17;80.95;21
+MN;27;1460;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;15;3.60;417
+MN;27;1460;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;106;25.42;417
+MN;27;1460;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;27;6.47;417
+MN;27;1460;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;31;7.43;417
+MN;27;1460;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;47;11.27;417
+MN;27;1460;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;67;16.07;417
+MN;27;1460;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;124;29.74;417
+MN;27;1465;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;6;18.75;32
+MN;27;1465;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;26;81.25;32
+MN;27;1465;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;23;2.73;843
+MN;27;1465;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;313;37.13;843
+MN;27;1465;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;61;7.24;843
+MN;27;1465;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;34;4.03;843
+MN;27;1465;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;212;25.15;843
+MN;27;1465;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;166;19.69;843
+MN;27;1465;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;34;4.03;843
+MN;27;1470;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;9;13.43;67
+MN;27;1470;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;58;86.57;67
+MN;27;1470;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;14;1.14;1231
+MN;27;1470;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;310;25.18;1231
+MN;27;1470;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;66;5.36;1231
+MN;27;1470;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;63;5.12;1231
+MN;27;1470;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;54;4.39;1231
+MN;27;1470;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;470;38.18;1231
+MN;27;1470;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;254;20.63;1231
+MN;27;1490;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;46;100.00;46
+MN;27;1490;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;295;44.03;670
+MN;27;1490;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;375;55.97;670
+MN;27;1495;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;67;100.00;67
+MN;27;1495;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;233;44.72;521
+MN;27;1495;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;288;55.28;521
+MN;27;1500;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;60;100.00;60
+MN;27;1500;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;318;43.92;724
+MN;27;1500;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;406;56.08;724
+MN;27;1502;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;23;100.00;23
+MN;27;1502;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;162;40.30;402
+MN;27;1502;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;240;59.70;402
+MN;27;1503;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;26;100.00;26
+MN;27;1503;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;102;41.13;248
+MN;27;1503;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;146;58.87;248
+MN;27;1505;0304;State Representative District 59A;59A;0301;Fred Statema;;;R;1;1;33;100.00;33
+MN;27;1505;0304;State Representative District 59A;59A;0401;Fue Lee;;;DFL;1;1;298;76.21;391
+MN;27;1505;0304;State Representative District 59A;59A;0402;Grace Moua;;;DFL;1;1;93;23.79;391
+MN;27;1510;0304;State Representative District 59A;59A;0301;Fred Statema;;;R;1;1;41;100.00;41
+MN;27;1510;0304;State Representative District 59A;59A;0401;Fue Lee;;;DFL;1;1;395;77.91;507
+MN;27;1510;0304;State Representative District 59A;59A;0402;Grace Moua;;;DFL;1;1;112;22.09;507
+MN;27;1515;0304;State Representative District 59A;59A;0301;Fred Statema;;;R;1;1;10;100.00;10
+MN;27;1515;0304;State Representative District 59A;59A;0401;Fue Lee;;;DFL;1;1;218;80.74;270
+MN;27;1515;0304;State Representative District 59A;59A;0402;Grace Moua;;;DFL;1;1;52;19.26;270
+MN;27;1520;0304;State Representative District 59A;59A;0301;Fred Statema;;;R;1;1;63;100.00;63
+MN;27;1520;0304;State Representative District 59A;59A;0401;Fue Lee;;;DFL;1;1;601;83.24;722
+MN;27;1520;0304;State Representative District 59A;59A;0402;Grace Moua;;;DFL;1;1;121;16.76;722
+MN;27;1525;0304;State Representative District 59A;59A;0301;Fred Statema;;;R;1;1;35;100.00;35
+MN;27;1525;0304;State Representative District 59A;59A;0401;Fue Lee;;;DFL;1;1;452;80.71;560
+MN;27;1525;0304;State Representative District 59A;59A;0402;Grace Moua;;;DFL;1;1;108;19.29;560
+MN;27;1530;0304;State Representative District 59A;59A;0301;Fred Statema;;;R;1;1;23;100.00;23
+MN;27;1530;0304;State Representative District 59A;59A;0401;Fue Lee;;;DFL;1;1;277;77.81;356
+MN;27;1530;0304;State Representative District 59A;59A;0402;Grace Moua;;;DFL;1;1;79;22.19;356
+MN;27;1535;0304;State Representative District 59A;59A;0301;Fred Statema;;;R;1;1;42;100.00;42
+MN;27;1535;0304;State Representative District 59A;59A;0401;Fue Lee;;;DFL;1;1;458;83.88;546
+MN;27;1535;0304;State Representative District 59A;59A;0402;Grace Moua;;;DFL;1;1;88;16.12;546
+MN;27;1540;0304;State Representative District 59A;59A;0301;Fred Statema;;;R;1;1;27;100.00;27
+MN;27;1540;0304;State Representative District 59A;59A;0401;Fue Lee;;;DFL;1;1;431;78.36;550
+MN;27;1540;0304;State Representative District 59A;59A;0402;Grace Moua;;;DFL;1;1;119;21.64;550
+MN;27;1555;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;19;100.00;19
+MN;27;1555;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;287;59.79;480
+MN;27;1555;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;193;40.21;480
+MN;27;1560;0304;State Representative District 59A;59A;0301;Fred Statema;;;R;1;1;24;100.00;24
+MN;27;1560;0304;State Representative District 59A;59A;0401;Fue Lee;;;DFL;1;1;258;76.33;338
+MN;27;1560;0304;State Representative District 59A;59A;0402;Grace Moua;;;DFL;1;1;80;23.67;338
+MN;27;1565;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;10;100.00;10
+MN;27;1565;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;173;64.79;267
+MN;27;1565;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;94;35.21;267
+MN;27;1570;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;12;100.00;12
+MN;27;1570;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;212;53.81;394
+MN;27;1570;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;182;46.19;394
+MN;27;1575;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;8;100.00;8
+MN;27;1575;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;197;58.98;334
+MN;27;1575;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;137;41.02;334
+MN;27;1580;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;10;100.00;10
+MN;27;1580;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;88;57.52;153
+MN;27;1580;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;65;42.48;153
+MN;27;1585;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;7;100.00;7
+MN;27;1585;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;168;55.81;301
+MN;27;1585;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;133;44.19;301
+MN;27;1590;0304;State Representative District 59A;59A;0301;Fred Statema;;;R;1;1;19;100.00;19
+MN;27;1590;0304;State Representative District 59A;59A;0401;Fue Lee;;;DFL;1;1;232;74.36;312
+MN;27;1590;0304;State Representative District 59A;59A;0402;Grace Moua;;;DFL;1;1;80;25.64;312
+MN;27;1595;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;12;100.00;12
+MN;27;1595;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;174;50.58;344
+MN;27;1595;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;170;49.42;344
+MN;27;1610;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;5;27.78;18
+MN;27;1610;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;13;72.22;18
+MN;27;1610;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;6;0.59;1016
+MN;27;1610;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;74;7.28;1016
+MN;27;1610;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;50;4.92;1016
+MN;27;1610;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;15;1.48;1016
+MN;27;1610;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;640;62.99;1016
+MN;27;1610;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;204;20.08;1016
+MN;27;1610;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;27;2.66;1016
+MN;27;1615;0307;State Representative District 60B;60B;0302;Fadumo Taani;;;R;1;1;51;91.07;56
+MN;27;1615;0307;State Representative District 60B;60B;0301;Joseph Patiño;;;R;1;1;5;8.93;56
+MN;27;1615;0307;State Representative District 60B;60B;0404;Angelo Jaramillo;;;DFL;1;1;3;0.26;1161
+MN;27;1615;0307;State Representative District 60B;60B;0405;Cordelia Pierson;;;DFL;1;1;34;2.93;1161
+MN;27;1615;0307;State Representative District 60B;60B;0402;Mary Mellen;;;DFL;1;1;17;1.46;1161
+MN;27;1615;0307;State Representative District 60B;60B;0406;Haaris Pasha;;;DFL;1;1;18;1.55;1161
+MN;27;1615;0307;State Representative District 60B;60B;0407;Joshua Preston;;;DFL;1;1;31;2.67;1161
+MN;27;1615;0307;State Representative District 60B;60B;0403;Peter Wagenius;;;DFL;1;1;52;4.48;1161
+MN;27;1615;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;1;1006;86.65;1161
+MN;27;1620;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;58;100.00;58
+MN;27;1620;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;185;52.11;355
+MN;27;1620;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;170;47.89;355
+MN;27;1625;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;4;100.00;4
+MN;27;1625;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;249;38.54;646
+MN;27;1625;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;49;7.59;646
+MN;27;1625;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;23;3.56;646
+MN;27;1625;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;210;32.51;646
+MN;27;1625;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;115;17.80;646
+MN;27;1630;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;22;100.00;22
+MN;27;1630;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;170;32.82;518
+MN;27;1630;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;56;10.81;518
+MN;27;1630;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;175;33.78;518
+MN;27;1630;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;17;3.28;518
+MN;27;1630;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;100;19.30;518
+MN;27;1635;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;10;100.00;10
+MN;27;1635;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;68;16.35;416
+MN;27;1635;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;77;18.51;416
+MN;27;1635;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;20;4.81;416
+MN;27;1635;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;139;33.41;416
+MN;27;1635;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;112;26.92;416
+MN;27;1640;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;21;100.00;21
+MN;27;1640;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;119;25.21;472
+MN;27;1640;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;88;18.64;472
+MN;27;1640;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;114;24.15;472
+MN;27;1640;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;36;7.63;472
+MN;27;1640;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;115;24.36;472
+MN;27;1642;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;24;100.00;24
+MN;27;1642;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;147;20.53;716
+MN;27;1642;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;209;29.19;716
+MN;27;1642;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;87;12.15;716
+MN;27;1642;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;160;22.35;716
+MN;27;1642;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;113;15.78;716
+MN;27;1645;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;8;100.00;8
+MN;27;1645;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;146;26.89;543
+MN;27;1645;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;397;73.11;543
+MN;27;1670;0305;State Representative District 59B;59B;0301;Lacy Johnson;;;R;1;1;52;100.00;52
+MN;27;1670;0305;State Representative District 59B;59B;0402;Lisa Neal-Delgado;;;DFL;1;1;249;43.68;570
+MN;27;1670;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;1;1;321;56.32;570
+MN;27;1690;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;10;100.00;10
+MN;27;1690;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;73;25.61;285
+MN;27;1690;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;72;25.26;285
+MN;27;1690;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;49;17.19;285
+MN;27;1690;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;49;17.19;285
+MN;27;1690;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;42;14.74;285
+MN;27;1700;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;6;42.86;14
+MN;27;1700;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;8;57.14;14
+MN;27;1700;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;234;100.00;234
+MN;27;1705;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;23;88.46;26
+MN;27;1705;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;3;11.54;26
+MN;27;1705;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;842;100.00;842
+MN;27;1710;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;6;60.00;10
+MN;27;1710;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;4;40.00;10
+MN;27;1710;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;413;100.00;413
+MN;27;1715;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;13;61.90;21
+MN;27;1715;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;8;38.10;21
+MN;27;1715;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;474;100.00;474
+MN;27;1720;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;6;19.35;31
+MN;27;1720;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;25;80.65;31
+MN;27;1720;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;699;100.00;699
+MN;27;1725;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;29;72.50;40
+MN;27;1725;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;11;27.50;40
+MN;27;1725;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;814;100.00;814
+MN;27;1730;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;17;32.08;53
+MN;27;1730;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;36;67.92;53
+MN;27;1730;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;1042;100.00;1042
+MN;27;1750;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;1;33.33;3
+MN;27;1750;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;2;66.67;3
+MN;27;1750;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;322;100.00;322
+MN;27;1755;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;7;23.33;30
+MN;27;1755;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;23;76.67;30
+MN;27;1755;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;948;100.00;948
+MN;27;1760;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;29;100.00;29
+MN;27;1760;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;172;23.47;733
+MN;27;1760;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;147;20.05;733
+MN;27;1760;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;207;28.24;733
+MN;27;1760;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;61;8.32;733
+MN;27;1760;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;146;19.92;733
+MN;27;1765;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;13;100.00;13
+MN;27;1765;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;112;18.09;619
+MN;27;1765;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;240;38.77;619
+MN;27;1765;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;37;5.98;619
+MN;27;1765;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;134;21.65;619
+MN;27;1765;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;96;15.51;619
+MN;27;1770;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;12;100.00;12
+MN;27;1770;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;38;16.03;237
+MN;27;1770;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;74;31.22;237
+MN;27;1770;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;68;28.69;237
+MN;27;1770;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;23;9.70;237
+MN;27;1770;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;34;14.35;237
+MN;27;1780;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;7;70.00;10
+MN;27;1780;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;3;30.00;10
+MN;27;1780;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;456;100.00;456
+MN;27;1790;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;4;36.36;11
+MN;27;1790;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;7;63.64;11
+MN;27;1790;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;261;100.00;261
+MN;27;1835;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;13;100.00;13
+MN;27;1835;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;121;16.46;735
+MN;27;1835;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;118;16.05;735
+MN;27;1835;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;100;13.61;735
+MN;27;1835;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;233;31.70;735
+MN;27;1835;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;163;22.18;735
+MN;27;1840;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;16;100.00;16
+MN;27;1840;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;86;14.31;601
+MN;27;1840;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;146;24.29;601
+MN;27;1840;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;153;25.46;601
+MN;27;1840;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;90;14.97;601
+MN;27;1840;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;126;20.97;601
+MN;27;1845;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;26;100.00;26
+MN;27;1845;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;131;14.43;908
+MN;27;1845;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;178;19.60;908
+MN;27;1845;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;176;19.38;908
+MN;27;1845;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;279;30.73;908
+MN;27;1845;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;144;15.86;908
+MN;27;1850;0310;State Representative District 62A;62A;0301;Bruce Lundeen;;;R;1;1;18;100.00;18
+MN;27;1850;0310;State Representative District 62A;62A;0405;Omar M. Fateh;;;DFL;1;1;116;13.14;883
+MN;27;1850;0310;State Representative District 62A;62A;0401;Jen Kader;;;DFL;1;1;103;11.66;883
+MN;27;1850;0310;State Representative District 62A;62A;0402;Hodan Hassan;;;DFL;1;1;237;26.84;883
+MN;27;1850;0310;State Representative District 62A;62A;0403;Osman Ahmed;;;DFL;1;1;301;34.09;883
+MN;27;1850;0310;State Representative District 62A;62A;0404;Margarita Ortega;;;DFL;1;1;126;14.27;883
+MN;27;1860;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;1;1;20;50.00;40
+MN;27;1860;0311;State Representative District 62B;62B;0302;Ronald W. Peterson;;;R;1;1;20;50.00;40
+MN;27;1860;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;1;1;570;100.00;570
+MN;27;2710;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;155;46.13;336
+MN;27;2710;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;181;53.87;336
+MN;27;2710;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;166;100.00;166
+MN;27;2715;0254;State Representative District 34A;34A;0302;Brad Ganzer;;;R;1;1;250;37.76;662
+MN;27;2715;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;1;1;412;62.24;662
+MN;27;2715;0254;State Representative District 34A;34A;0401;Dan Solon;;;DFL;1;1;289;100.00;289
+MN;27;2765;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;55;13.38;411
+MN;27;2765;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;356;86.62;411
+MN;27;2770;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;624;88.64;704
+MN;27;2770;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;80;11.36;704
+MN;27;2800;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;14;56.00;25
+MN;27;2800;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;11;44.00;25
+MN;27;2800;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;244;100.00;244
+MN;27;2805;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;10;24.39;41
+MN;27;2805;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;31;75.61;41
+MN;27;2805;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;243;100.00;243
+MN;27;2810;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;25;43.10;58
+MN;27;2810;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;33;56.90;58
+MN;27;2810;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;271;100.00;271
+MN;27;2815;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;31;38.27;81
+MN;27;2815;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;50;61.73;81
+MN;27;2815;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;518;100.00;518
+MN;27;2820;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;49;48.04;102
+MN;27;2820;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;53;51.96;102
+MN;27;2820;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;785;100.00;785
+MN;27;2825;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;27;35.06;77
+MN;27;2825;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;50;64.94;77
+MN;27;2825;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;458;100.00;458
+MN;27;2830;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;22;32.84;67
+MN;27;2830;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;45;67.16;67
+MN;27;2830;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;363;100.00;363
+MN;27;2835;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;27;44.26;61
+MN;27;2835;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;34;55.74;61
+MN;27;2835;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;288;100.00;288
+MN;27;2840;0279;State Representative District 46B;46B;0301;Bob Helland;;;R;1;1;28;39.44;71
+MN;27;2840;0279;State Representative District 46B;46B;0302;Melissa Moore;;;R;1;1;43;60.56;71
+MN;27;2840;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;1;1;388;100.00;388
+MN;41;0005;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;17;100.00;17
+MN;41;0005;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;16;80.00;20
+MN;41;0005;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;4;20.00;20
+MN;41;0010;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;3;100.00;3
+MN;41;0010;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;10;83.33;12
+MN;41;0010;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;16.67;12
+MN;41;0015;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;15;100.00;15
+MN;41;0015;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;13;68.42;19
+MN;41;0015;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;6;31.58;19
+MN;41;0020;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;11;100.00;11
+MN;41;0020;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;3;42.86;7
+MN;41;0020;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;4;57.14;7
+MN;41;0025;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;16;100.00;16
+MN;41;0025;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;0;0.00;0
+MN;41;0025;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;0;0.00;0
+MN;41;0030;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;6;100.00;6
+MN;41;0030;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;80.00;5
+MN;41;0030;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;1;20.00;5
+MN;41;0035;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;26;100.00;26
+MN;41;0035;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;24;60.00;40
+MN;41;0035;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;16;40.00;40
+MN;41;0040;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;21;100.00;21
+MN;41;0040;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;10;58.82;17
+MN;41;0040;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;7;41.18;17
+MN;41;0045;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;18;100.00;18
+MN;41;0045;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;8;53.33;15
+MN;41;0045;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;7;46.67;15
+MN;41;0050;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;48;100.00;48
+MN;41;0050;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;38;51.35;74
+MN;41;0050;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;36;48.65;74
+MN;41;0055;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;72;100.00;72
+MN;41;0055;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;17;68.00;25
+MN;41;0055;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;8;32.00;25
+MN;41;0060;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;18;100.00;18
+MN;41;0060;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;5;71.43;7
+MN;41;0060;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;28.57;7
+MN;41;0065;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;7;100.00;7
+MN;41;0065;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;6;40.00;15
+MN;41;0065;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;9;60.00;15
+MN;41;0070;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;14;100.00;14
+MN;41;0070;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;5;23.81;21
+MN;41;0070;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;16;76.19;21
+MN;41;0075;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;12;100.00;12
+MN;41;0075;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;8;66.67;12
+MN;41;0075;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;4;33.33;12
+MN;41;0080;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;13;100.00;13
+MN;41;0080;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;66.67;6
+MN;41;0080;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;33.33;6
+MN;41;0085;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;13;100.00;13
+MN;41;0085;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;3;30.00;10
+MN;41;0085;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;7;70.00;10
+MN;41;0090;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;13;100.00;13
+MN;41;0090;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;12;48.00;25
+MN;41;0090;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;13;52.00;25
+MN;41;0095;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;67;100.00;67
+MN;41;0095;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;37;58.73;63
+MN;41;0095;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;26;41.27;63
+MN;41;0100;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;8;100.00;8
+MN;41;0100;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;1;50.00;2
+MN;41;0100;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;1;50.00;2
+MN;42;0005;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;36;100.00;36
+MN;42;0005;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;8;57.14;14
+MN;42;0005;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;6;42.86;14
+MN;42;0010;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;47;100.00;47
+MN;42;0010;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;17;54.84;31
+MN;42;0010;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;14;45.16;31
+MN;42;0020;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;25;100.00;25
+MN;42;0020;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;10;62.50;16
+MN;42;0020;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;6;37.50;16
+MN;42;0030;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;21;100.00;21
+MN;42;0030;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;12;60.00;20
+MN;42;0030;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;8;40.00;20
+MN;42;0045;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;0;0.00;0
+MN;42;0045;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;0;0.00;3
+MN;42;0045;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;100.00;3
+MN;42;0050;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;4;100.00;4
+MN;42;0050;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;8;50.00;16
+MN;42;0050;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;8;50.00;16
+MN;42;0090;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;16;100.00;16
+MN;42;0090;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;57.14;7
+MN;42;0090;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;42.86;7
+MN;42;0130;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;20;100.00;20
+MN;42;0130;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;7;77.78;9
+MN;42;0130;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;22.22;9
+MN;42;0140;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;29;100.00;29
+MN;42;0140;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;44.44;9
+MN;42;0140;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;5;55.56;9
+MN;42;0145;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;29;100.00;29
+MN;42;0145;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;9;36.00;25
+MN;42;0145;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;16;64.00;25
+MN;42;0150;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;18;100.00;18
+MN;42;0150;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;2;28.57;7
+MN;42;0150;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;5;71.43;7
+MN;42;0155;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;37;100.00;37
+MN;42;0155;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;13;65.00;20
+MN;42;0155;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;7;35.00;20
+MN;42;0170;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;136;100.00;136
+MN;42;0170;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;66;49.25;134
+MN;42;0170;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;68;50.75;134
+MN;43;0005;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;81;100.00;81
+MN;43;0005;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;24;41.38;58
+MN;43;0005;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;34;58.62;58
+MN;43;0075;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;39;100.00;39
+MN;43;0075;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;14;58.33;24
+MN;43;0075;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;10;41.67;24
+MN;43;0080;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;322;100.00;322
+MN;43;0080;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;120;48.00;250
+MN;43;0080;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;130;52.00;250
+MN;43;0095;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;87;100.00;87
+MN;43;0095;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;19;38.78;49
+MN;43;0095;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;30;61.22;49
+MN;43;0105;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;55;100.00;55
+MN;43;0105;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;8;42.11;19
+MN;43;0105;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;11;57.89;19
+MN;47;0005;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;24;100.00;24
+MN;47;0005;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;9;56.25;16
+MN;47;0005;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;7;43.75;16
+MN;47;0010;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;4;100.00;4
+MN;47;0010;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;2;50.00;4
+MN;47;0010;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;2;50.00;4
+MN;47;0015;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;39;100.00;39
+MN;47;0015;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;7;29.17;24
+MN;47;0015;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;17;70.83;24
+MN;47;0020;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;78;100.00;78
+MN;47;0020;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;19;35.85;53
+MN;47;0020;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;34;64.15;53
+MN;47;0025;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;16;100.00;16
+MN;47;0025;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;11;44.00;25
+MN;47;0025;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;14;56.00;25
+MN;47;0030;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;17;100.00;17
+MN;47;0030;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;6;28.57;21
+MN;47;0030;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;15;71.43;21
+MN;47;0035;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;32;100.00;32
+MN;47;0035;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;5;26.32;19
+MN;47;0035;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;14;73.68;19
+MN;47;0040;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;30;100.00;30
+MN;47;0040;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;3;42.86;7
+MN;47;0040;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;4;57.14;7
+MN;47;0045;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;41;100.00;41
+MN;47;0045;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;2;9.09;22
+MN;47;0045;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;20;90.91;22
+MN;47;0050;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;73;100.00;73
+MN;47;0050;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;31;45.59;68
+MN;47;0050;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;37;54.41;68
+MN;47;0055;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;97;100.00;97
+MN;47;0055;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;19;26.76;71
+MN;47;0055;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;52;73.24;71
+MN;47;0060;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;27;100.00;27
+MN;47;0060;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;9;60.00;15
+MN;47;0060;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;6;40.00;15
+MN;47;0065;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;73;100.00;73
+MN;47;0065;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;13;28.89;45
+MN;47;0065;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;32;71.11;45
+MN;47;0070;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;42;100.00;42
+MN;47;0070;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;6;24.00;25
+MN;47;0070;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;19;76.00;25
+MN;47;0075;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;28;100.00;28
+MN;47;0075;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;11;37.93;29
+MN;47;0075;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;18;62.07;29
+MN;47;0080;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;43;100.00;43
+MN;47;0080;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;18;43.90;41
+MN;47;0080;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;23;56.10;41
+MN;47;0085;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;28;100.00;28
+MN;47;0085;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;8;33.33;24
+MN;47;0085;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;16;66.67;24
+MN;47;0090;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;37;100.00;37
+MN;47;0090;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;16;64.00;25
+MN;47;0090;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;9;36.00;25
+MN;47;0095;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;8;100.00;8
+MN;47;0095;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;3;100.00;3
+MN;47;0095;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;0;0.00;3
+MN;47;0100;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;92;100.00;92
+MN;47;0100;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;19;46.34;41
+MN;47;0100;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;22;53.66;41
+MN;47;0105;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;73;100.00;73
+MN;47;0105;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;16;21.33;75
+MN;47;0105;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;59;78.67;75
+MN;47;0110;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;61;100.00;61
+MN;47;0110;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;20;27.40;73
+MN;47;0110;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;53;72.60;73
+MN;47;0115;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;54;100.00;54
+MN;47;0115;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;21;41.18;51
+MN;47;0115;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;30;58.82;51
+MN;47;0120;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;63;100.00;63
+MN;47;0120;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;14;21.21;66
+MN;47;0120;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;52;78.79;66
+MN;47;0125;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;48;100.00;48
+MN;47;0125;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;9;27.27;33
+MN;47;0125;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;24;72.73;33
+MN;47;0130;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;82;100.00;82
+MN;47;0130;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;11;21.57;51
+MN;47;0130;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;40;78.43;51
+MN;47;0135;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;34;100.00;34
+MN;47;0135;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;11;57.89;19
+MN;47;0135;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;8;42.11;19
+MN;47;0140;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;15;100.00;15
+MN;47;0140;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;2;22.22;9
+MN;47;0140;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;7;77.78;9
+MN;47;0145;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;44;100.00;44
+MN;47;0145;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;12;46.15;26
+MN;47;0145;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;14;53.85;26
+MN;47;0150;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;38;100.00;38
+MN;47;0150;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;13;46.43;28
+MN;47;0150;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;15;53.57;28
+MN;49;0105;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;14;100.00;14
+MN;49;0105;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;3;14.29;21
+MN;49;0105;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;18;85.71;21
+MN;49;0140;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;21;100.00;21
+MN;49;0140;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;3;12.50;24
+MN;49;0140;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;21;87.50;24
+MN;51;0005;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;24;100.00;24
+MN;51;0005;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;7;53.85;13
+MN;51;0005;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;6;46.15;13
+MN;51;0010;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;21;100.00;21
+MN;51;0010;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;8;26.67;30
+MN;51;0010;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;22;73.33;30
+MN;51;0015;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;35;100.00;35
+MN;51;0015;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;8;20.00;40
+MN;51;0015;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;32;80.00;40
+MN;51;0020;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;17;100.00;17
+MN;51;0020;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;66.67;6
+MN;51;0020;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;33.33;6
+MN;51;0025;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;43;100.00;43
+MN;51;0025;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;5;31.25;16
+MN;51;0025;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;11;68.75;16
+MN;51;0030;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;46;100.00;46
+MN;51;0030;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;2;33.33;6
+MN;51;0030;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;4;66.67;6
+MN;51;0035;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;20;100.00;20
+MN;51;0035;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;18;48.65;37
+MN;51;0035;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;19;51.35;37
+MN;51;0040;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;15;100.00;15
+MN;51;0040;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;5;38.46;13
+MN;51;0040;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;8;61.54;13
+MN;51;0045;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;19;100.00;19
+MN;51;0045;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;3;25.00;12
+MN;51;0045;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;9;75.00;12
+MN;51;0046;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;8;100.00;8
+MN;51;0046;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;10;58.82;17
+MN;51;0046;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;7;41.18;17
+MN;51;0050;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;13;100.00;13
+MN;51;0050;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;12;63.16;19
+MN;51;0050;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;7;36.84;19
+MN;51;0055;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;36;100.00;36
+MN;51;0055;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;5;38.46;13
+MN;51;0055;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;8;61.54;13
+MN;51;0060;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;135;100.00;135
+MN;51;0060;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;35;20.47;171
+MN;51;0060;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;136;79.53;171
+MN;51;0065;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;9;100.00;9
+MN;51;0065;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;10;62.50;16
+MN;51;0065;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;6;37.50;16
+MN;51;0070;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;15;100.00;15
+MN;51;0070;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;5;62.50;8
+MN;51;0070;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;37.50;8
+MN;51;0075;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;24;100.00;24
+MN;51;0075;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;9;52.94;17
+MN;51;0075;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;8;47.06;17
+MN;51;0080;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;17;100.00;17
+MN;51;0080;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;11;29.73;37
+MN;51;0080;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;26;70.27;37
+MN;51;0085;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;58;100.00;58
+MN;51;0085;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;20;62.50;32
+MN;51;0085;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;12;37.50;32
+MN;51;0090;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;42;100.00;42
+MN;51;0090;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;16;44.44;36
+MN;51;0090;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;20;55.56;36
+MN;51;0095;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;46;100.00;46
+MN;51;0095;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;23.53;17
+MN;51;0095;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;13;76.47;17
+MN;51;0100;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;37;100.00;37
+MN;51;0100;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;10;41.67;24
+MN;51;0100;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;14;58.33;24
+MN;51;0105;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;39;100.00;39
+MN;51;0105;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;7;35.00;20
+MN;51;0105;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;13;65.00;20
+MN;51;0110;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;59;100.00;59
+MN;51;0110;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;29;55.77;52
+MN;51;0110;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;23;44.23;52
+MN;51;0115;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;45;100.00;45
+MN;51;0115;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;6;66.67;9
+MN;51;0115;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;33.33;9
+MN;51;0120;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;39;100.00;39
+MN;51;0120;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;12;75.00;16
+MN;51;0120;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;4;25.00;16
+MN;51;0125;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;33;100.00;33
+MN;51;0125;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;17;53.13;32
+MN;51;0125;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;15;46.88;32
+MN;51;0130;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;6;100.00;6
+MN;51;0130;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;6;40.00;15
+MN;51;0130;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;9;60.00;15
+MN;51;0135;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;270;100.00;270
+MN;51;0135;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;109;37.33;292
+MN;51;0135;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;183;62.67;292
+MN;51;0140;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;57;100.00;57
+MN;51;0140;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;16;39.02;41
+MN;51;0140;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;25;60.98;41
+MN;53;0080;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;72;100.00;72
+MN;53;0080;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;6;66.67;9
+MN;53;0080;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;33.33;9
+MN;53;0145;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;6;100.00;6
+MN;53;0145;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;0;0.00;2
+MN;53;0145;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;100.00;2
+MN;55;0066;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;0;1;0;0.00;0
+MN;55;0066;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;0;1;0;0.00;0
+MN;55;0066;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;0;1;0;0.00;0
+MN;55;0096;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;63;100.00;63
+MN;55;0096;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;101;90.18;112
+MN;55;0096;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;11;9.82;112
+MN;55;0098;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;127;100.00;127
+MN;55;0098;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;212;94.22;225
+MN;55;0098;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;13;5.78;225
+MN;55;0106;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;40;100.00;40
+MN;55;0106;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;67;93.06;72
+MN;55;0106;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;5;6.94;72
+MN;55;0122;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;49;100.00;49
+MN;55;0122;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;193;87.73;220
+MN;55;0122;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;27;12.27;220
+MN;55;0124;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;93;100.00;93
+MN;55;0124;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;527;95.99;549
+MN;55;0124;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;22;4.01;549
+MN;55;0126;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;118;100.00;118
+MN;55;0126;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;213;87.65;243
+MN;55;0126;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;30;12.35;243
+MN;55;0128;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;169;100.00;169
+MN;55;0128;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;300;93.46;321
+MN;55;0128;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;21;6.54;321
+MN;55;0134;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;212;100.00;212
+MN;55;0134;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;28;7.04;398
+MN;55;0134;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;370;92.96;398
+MN;55;0154;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;88;100.00;88
+MN;55;0154;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;231;87.17;265
+MN;55;0154;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;34;12.83;265
+MN;55;0156;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;19;100.00;19
+MN;55;0156;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;76;76.77;99
+MN;55;0156;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;23;23.23;99
+MN;55;0158;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;51;100.00;51
+MN;55;0158;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;139;86.88;160
+MN;55;0158;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;21;13.13;160
+MN;55;0160;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;55;100.00;55
+MN;55;0160;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;111;85.38;130
+MN;55;0160;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;19;14.62;130
+MN;55;0162;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;53;100.00;53
+MN;55;0162;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;120;85.71;140
+MN;55;0162;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;20;14.29;140
+MN;55;0164;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;18;100.00;18
+MN;55;0164;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;39;75.00;52
+MN;55;0164;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;13;25.00;52
+MN;55;0166;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;75;100.00;75
+MN;55;0166;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;26;14.94;174
+MN;55;0166;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;148;85.06;174
+MN;55;0168;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;54;100.00;54
+MN;55;0168;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;17;12.88;132
+MN;55;0168;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;115;87.12;132
+MN;55;0174;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;104;100.00;104
+MN;55;0174;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;152;88.89;171
+MN;55;0174;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;19;11.11;171
+MN;55;0178;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;159;100.00;159
+MN;55;0178;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;333;91.74;363
+MN;55;0178;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;30;8.26;363
+MN;55;0208;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;1;1;77;100.00;77
+MN;55;0208;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;1;1;107;84.92;126
+MN;55;0208;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;1;1;19;15.08;126
+MN;55;0211;0238;State Representative District 26A;26A;0301;Paul F. Wilson;;;R;0;1;0;0.00;0
+MN;55;0211;0238;State Representative District 26A;26A;0402;Abdulkadir Dahir Abdalla;;;DFL;0;1;0;0.00;0
+MN;55;0211;0238;State Representative District 26A;26A;0401;Tina Liebling;;;DFL;0;1;0;0.00;0
+MN;59;0005;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;17;100.00;17
+MN;59;0005;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;9;75.00;12
+MN;59;0005;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;25.00;12
+MN;59;0010;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;14;100.00;14
+MN;59;0010;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;3;42.86;7
+MN;59;0010;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;4;57.14;7
+MN;59;0015;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;31;100.00;31
+MN;59;0015;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;0;0.00;2
+MN;59;0015;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;100.00;2
+MN;59;0020;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;25;100.00;25
+MN;59;0020;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;13;92.86;14
+MN;59;0020;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;1;7.14;14
+MN;59;0025;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;109;100.00;109
+MN;59;0025;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;10;47.62;21
+MN;59;0025;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;11;52.38;21
+MN;59;0030;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;20;100.00;20
+MN;59;0030;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;0;0.00;1
+MN;59;0030;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;1;100.00;1
+MN;59;0035;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;16;100.00;16
+MN;59;0035;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;3;60.00;5
+MN;59;0035;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;40.00;5
+MN;59;0040;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;26;100.00;26
+MN;59;0040;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;3;60.00;5
+MN;59;0040;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;40.00;5
+MN;59;0045;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;26;100.00;26
+MN;59;0045;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;57.14;7
+MN;59;0045;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;42.86;7
+MN;59;0050;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;2;100.00;2
+MN;59;0050;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;1;33.33;3
+MN;59;0050;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;66.67;3
+MN;59;0055;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;8;100.00;8
+MN;59;0055;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;10;100.00;10
+MN;59;0055;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;0;0.00;10
+MN;59;0060;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;4;100.00;4
+MN;59;0060;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;2;25.00;8
+MN;59;0060;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;6;75.00;8
+MN;59;0065;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;18;100.00;18
+MN;59;0065;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;13;61.90;21
+MN;59;0065;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;8;38.10;21
+MN;59;0070;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;38;100.00;38
+MN;59;0070;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;1;33.33;3
+MN;59;0070;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;66.67;3
+MN;59;0075;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;48;100.00;48
+MN;59;0075;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;38;47.50;80
+MN;59;0075;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;42;52.50;80
+MN;59;0080;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;79;100.00;79
+MN;59;0080;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;32;44.44;72
+MN;59;0080;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;40;55.56;72
+MN;59;0100;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;11;100.00;11
+MN;59;0100;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;57.14;7
+MN;59;0100;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;42.86;7
+MN;59;0105;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;13;100.00;13
+MN;59;0105;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;9;75.00;12
+MN;59;0105;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;25.00;12
+MN;59;0110;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;25;100.00;25
+MN;59;0110;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;6;37.50;16
+MN;59;0110;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;10;62.50;16
+MN;59;0115;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;6;100.00;6
+MN;59;0115;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;57.14;7
+MN;59;0115;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;42.86;7
+MN;59;0120;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;26;100.00;26
+MN;59;0120;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;2;40.00;5
+MN;59;0120;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;60.00;5
+MN;59;0125;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;3;100.00;3
+MN;59;0125;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;0;0.00;1
+MN;59;0125;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;1;100.00;1
+MN;62;0220;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;28;57.14;49
+MN;62;0220;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;21;42.86;49
+MN;62;0220;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;93;100.00;93
+MN;62;0230;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;60;50.42;119
+MN;62;0230;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;59;49.58;119
+MN;62;0230;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;245;100.00;245
+MN;62;0240;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;50;37.59;133
+MN;62;0240;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;83;62.41;133
+MN;62;0240;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;383;100.00;383
+MN;62;0250;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;128;66.32;193
+MN;62;0250;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;65;33.68;193
+MN;62;0250;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;387;100.00;387
+MN;62;0330;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;253;92.00;275
+MN;62;0330;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;22;8.00;275
+MN;62;0335;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;33;10.93;302
+MN;62;0335;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;269;89.07;302
+MN;62;0340;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;43;13.40;321
+MN;62;0340;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;278;86.60;321
+MN;62;0345;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;53;10.84;489
+MN;62;0345;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;436;89.16;489
+MN;62;0530;0269;State Representative District 41B;41B;0401;Jeffrey Alan Wagner;;;DFL;1;1;53;11.30;469
+MN;62;0530;0269;State Representative District 41B;41B;0402;Mary Kunesh-Podein;;;DFL;1;1;416;88.70;469
+MN;62;0678;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;3;100.00;3
+MN;62;0678;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;18;31.03;58
+MN;62;0678;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;40;68.97;58
+MN;62;1110;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;38;100.00;38
+MN;62;1110;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;363;73.04;497
+MN;62;1110;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;134;26.96;497
+MN;62;1120;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;48;100.00;48
+MN;62;1120;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;145;31.73;457
+MN;62;1120;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;312;68.27;457
+MN;62;1170;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;104;100.00;104
+MN;62;1170;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;146;16.15;904
+MN;62;1170;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;758;83.85;904
+MN;62;1180;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;52;100.00;52
+MN;62;1180;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;483;73.40;658
+MN;62;1180;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;175;26.60;658
+MN;62;1190;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;97;100.00;97
+MN;62;1190;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;482;74.61;646
+MN;62;1190;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;164;25.39;646
+MN;62;1200;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;27;100.00;27
+MN;62;1200;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;43;21.50;200
+MN;62;1200;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;157;78.50;200
+MN;62;1230;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;49;100.00;49
+MN;62;1230;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;58;18.24;318
+MN;62;1230;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;260;81.76;318
+MN;62;1240;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;40;100.00;40
+MN;62;1240;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;137;60.09;228
+MN;62;1240;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;91;39.91;228
+MN;62;1290;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;46;100.00;46
+MN;62;1290;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;79;25.57;309
+MN;62;1290;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;230;74.43;309
+MN;62;1350;0319;State Representative District 66B;66B;0301;David E. Richard;;;R;1;1;15;100.00;15
+MN;62;1350;0319;State Representative District 66B;66B;0402;John Lesch;;;DFL;1;1;65;65.66;99
+MN;62;1350;0319;State Representative District 66B;66B;0401;Trahern Jeen Crews;;;DFL;1;1;34;34.34;99
+MN;67;0005;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;22;100.00;22
+MN;67;0005;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;1;50.00;2
+MN;67;0005;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;1;50.00;2
+MN;67;0010;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;27;100.00;27
+MN;67;0010;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;10;66.67;15
+MN;67;0010;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;5;33.33;15
+MN;67;0015;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;45;100.00;45
+MN;67;0015;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;9;42.86;21
+MN;67;0015;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;12;57.14;21
+MN;67;0020;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;16;100.00;16
+MN;67;0020;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;2;33.33;6
+MN;67;0020;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;4;66.67;6
+MN;67;0025;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;11;100.00;11
+MN;67;0025;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;1;25.00;4
+MN;67;0025;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;75.00;4
+MN;67;0030;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;7;100.00;7
+MN;67;0030;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;10;55.56;18
+MN;67;0030;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;8;44.44;18
+MN;67;0035;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;18;100.00;18
+MN;67;0035;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;5;100.00;5
+MN;67;0035;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;0;0.00;5
+MN;67;0040;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;4;100.00;4
+MN;67;0040;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;2;40.00;5
+MN;67;0040;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;60.00;5
+MN;67;0045;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;17;100.00;17
+MN;67;0045;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;6;60.00;10
+MN;67;0045;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;4;40.00;10
+MN;67;0050;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;3;100.00;3
+MN;67;0050;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;5;100.00;5
+MN;67;0050;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;0;0.00;5
+MN;67;0055;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;93;100.00;93
+MN;67;0055;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;35;36.08;97
+MN;67;0055;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;62;63.92;97
+MN;67;0060;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;22;100.00;22
+MN;67;0060;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;9;29.03;31
+MN;67;0060;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;22;70.97;31
+MN;67;0065;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;49;100.00;49
+MN;67;0065;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;28;50.00;56
+MN;67;0065;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;28;50.00;56
+MN;67;0070;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;31;100.00;31
+MN;67;0070;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;9;45.00;20
+MN;67;0070;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;11;55.00;20
+MN;67;0075;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;32;100.00;32
+MN;67;0075;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;2;20.00;10
+MN;67;0075;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;8;80.00;10
+MN;67;0077;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;27;100.00;27
+MN;67;0077;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;12;63.16;19
+MN;67;0077;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;7;36.84;19
+MN;67;0080;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;13;100.00;13
+MN;67;0080;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;57.14;7
+MN;67;0080;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;42.86;7
+MN;67;0085;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;23;100.00;23
+MN;67;0085;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;9;69.23;13
+MN;67;0085;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;4;30.77;13
+MN;67;0090;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;14;100.00;14
+MN;67;0090;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;4;100.00;4
+MN;67;0090;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;0;0.00;4
+MN;67;0095;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;20;100.00;20
+MN;67;0095;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;5;33.33;15
+MN;67;0095;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;10;66.67;15
+MN;67;0100;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;12;100.00;12
+MN;67;0100;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;6;66.67;9
+MN;67;0100;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;33.33;9
+MN;67;0105;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;30;100.00;30
+MN;67;0105;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;2;50.00;4
+MN;67;0105;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;2;50.00;4
+MN;67;0110;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;14;100.00;14
+MN;67;0110;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;0;0.00;1
+MN;67;0110;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;1;100.00;1
+MN;67;0115;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;18;100.00;18
+MN;67;0115;0230;State Representative District 22A;22A;0402;Brian Abrahamson;;;DFL;1;1;0;0.00;3
+MN;67;0115;0230;State Representative District 22A;22A;0401;Maxwell Kaufman;;;DFL;1;1;3;100.00;3
+MN;69;0010;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;28;100.00;28
+MN;69;0010;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;42;64.62;65
+MN;69;0010;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;23;35.38;65
+MN;69;0031;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;8;100.00;8
+MN;69;0031;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;8;38.10;21
+MN;69;0031;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;13;61.90;21
+MN;69;0055;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;39;100.00;39
+MN;69;0055;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;155;77.11;201
+MN;69;0055;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;46;22.89;201
+MN;69;0060;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;70;100.00;70
+MN;69;0060;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;148;83.62;177
+MN;69;0060;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;29;16.38;177
+MN;69;0115;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;59;100.00;59
+MN;69;0115;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;66;60.55;109
+MN;69;0115;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;43;39.45;109
+MN;69;0120;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;39;100.00;39
+MN;69;0120;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;41;73.21;56
+MN;69;0120;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;15;26.79;56
+MN;69;0130;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;34;100.00;34
+MN;69;0130;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;41;59.42;69
+MN;69;0130;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;28;40.58;69
+MN;69;0440;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;22;100.00;22
+MN;69;0440;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;16;55.17;29
+MN;69;0440;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;13;44.83;29
+MN;69;0470;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;55;100.00;55
+MN;69;0470;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;104;73.76;141
+MN;69;0470;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;37;26.24;141
+MN;69;0475;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;93;100.00;93
+MN;69;0475;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;222;68.10;326
+MN;69;0475;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;104;31.90;326
+MN;69;0480;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;27;100.00;27
+MN;69;0480;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;64;77.11;83
+MN;69;0480;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;19;22.89;83
+MN;69;0510;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;128;100.00;128
+MN;69;0510;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;233;67.93;343
+MN;69;0510;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;110;32.07;343
+MN;69;0540;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;92;100.00;92
+MN;69;0540;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;57;41.30;138
+MN;69;0540;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;81;58.70;138
+MN;69;0550;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;90;100.00;90
+MN;69;0550;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;167;71.98;232
+MN;69;0550;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;65;28.02;232
+MN;69;0570;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;81;100.00;81
+MN;69;0570;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;72;48.65;148
+MN;69;0570;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;76;51.35;148
+MN;69;0735;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;135;100.00;135
+MN;69;0735;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;317;84.08;377
+MN;69;0735;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;60;15.92;377
+MN;69;0750;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;34;100.00;34
+MN;69;0750;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;35;50.72;69
+MN;69;0750;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;34;49.28;69
+MN;69;0755;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;7;100.00;7
+MN;69;0755;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;10;71.43;14
+MN;69;0755;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;4;28.57;14
+MN;69;0760;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;13;100.00;13
+MN;69;0760;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;1;14.29;7
+MN;69;0760;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;6;85.71;7
+MN;69;0765;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;13;100.00;13
+MN;69;0765;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;36;81.82;44
+MN;69;0765;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;8;18.18;44
+MN;69;0785;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;1;100.00;1
+MN;69;0785;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;2;25.00;8
+MN;69;0785;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;6;75.00;8
+MN;69;0795;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;34;100.00;34
+MN;69;0795;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;41;61.19;67
+MN;69;0795;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;26;38.81;67
+MN;69;0797;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;4;100.00;4
+MN;69;0797;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;12;63.16;19
+MN;69;0797;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;7;36.84;19
+MN;69;0799;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;3;100.00;3
+MN;69;0799;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;7;77.78;9
+MN;69;0799;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;2;22.22;9
+MN;69;0800;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;16;100.00;16
+MN;69;0800;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;33;62.26;53
+MN;69;0800;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;20;37.74;53
+MN;69;0820;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;66;100.00;66
+MN;69;0820;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;158;63.97;247
+MN;69;0820;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;89;36.03;247
+MN;69;0825;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;73;100.00;73
+MN;69;0825;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;162;70.74;229
+MN;69;0825;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;67;29.26;229
+MN;69;0840;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;5;100.00;5
+MN;69;0840;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;4;44.44;9
+MN;69;0840;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;5;55.56;9
+MN;69;0845;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;12;100.00;12
+MN;69;0845;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;23;65.71;35
+MN;69;0845;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;12;34.29;35
+MN;69;0855;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;14;100.00;14
+MN;69;0855;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;9;50.00;18
+MN;69;0855;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;9;50.00;18
+MN;69;0857;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;44;100.00;44
+MN;69;0857;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;27;36.49;74
+MN;69;0857;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;47;63.51;74
+MN;69;0880;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;38;100.00;38
+MN;69;0880;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;47;43.93;107
+MN;69;0880;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;60;56.07;107
+MN;69;0881;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;5;100.00;5
+MN;69;0881;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;8;72.73;11
+MN;69;0881;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;3;27.27;11
+MN;69;0915;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;22;100.00;22
+MN;69;0915;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;27;42.19;64
+MN;69;0915;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;37;57.81;64
+MN;69;0942;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;4;100.00;4
+MN;69;0942;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;9;52.94;17
+MN;69;0942;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;8;47.06;17
+MN;69;0950;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;27;100.00;27
+MN;69;0950;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;28;53.85;52
+MN;69;0950;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;24;46.15;52
+MN;69;0960;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;64;100.00;64
+MN;69;0960;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;102;77.27;132
+MN;69;0960;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;30;22.73;132
+MN;69;0962;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;0;0.00;0
+MN;69;0962;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;0;0.00;0
+MN;69;0962;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;0;0.00;0
+MN;69;0976;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;0;0.00;0
+MN;69;0976;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;0;0.00;2
+MN;69;0976;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;2;100.00;2
+MN;69;0979;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;0;0.00;0
+MN;69;0979;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;2;100.00;2
+MN;69;0979;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;0;0.00;2
+MN;69;1035;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;34;100.00;34
+MN;69;1035;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;39;52.70;74
+MN;69;1035;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;35;47.30;74
+MN;69;1040;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;89;100.00;89
+MN;69;1040;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;190;68.10;279
+MN;69;1040;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;89;31.90;279
+MN;69;1045;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;79;100.00;79
+MN;69;1045;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;140;58.58;239
+MN;69;1045;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;99;41.42;239
+MN;69;1050;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;54;100.00;54
+MN;69;1050;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;137;72.87;188
+MN;69;1050;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;51;27.13;188
+MN;69;1055;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;70;100.00;70
+MN;69;1055;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;158;68.10;232
+MN;69;1055;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;74;31.90;232
+MN;69;1060;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;89;100.00;89
+MN;69;1060;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;142;65.74;216
+MN;69;1060;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;74;34.26;216
+MN;69;1125;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;20;100.00;20
+MN;69;1125;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;47;78.33;60
+MN;69;1125;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;13;21.67;60
+MN;69;1130;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;88;100.00;88
+MN;69;1130;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;346;88.95;389
+MN;69;1130;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;43;11.05;389
+MN;69;1135;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;89;100.00;89
+MN;69;1135;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;93;79.49;117
+MN;69;1135;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;24;20.51;117
+MN;69;1136;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;37;100.00;37
+MN;69;1136;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;114;82.01;139
+MN;69;1136;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;25;17.99;139
+MN;69;1150;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;43;100.00;43
+MN;69;1150;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;50;60.24;83
+MN;69;1150;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;33;39.76;83
+MN;69;1155;0199;State Representative District 6B;6B;0301;Skeeter Tomczak;;;R;1;1;13;100.00;13
+MN;69;1155;0199;State Representative District 6B;6B;0402;Dave Lislegard;;;DFL;1;1;36;69.23;52
+MN;69;1155;0199;State Representative District 6B;6B;0401;Shaun Hainey;;;DFL;1;1;16;30.77;52
+MN;70;0045;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;52;44.44;117
+MN;70;0045;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;65;55.56;117
+MN;70;0045;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;59;100.00;59
+MN;70;0060;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;79;51.30;154
+MN;70;0060;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;75;48.70;154
+MN;70;0060;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;64;100.00;64
+MN;70;0119;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;155;46.27;335
+MN;70;0119;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;180;53.73;335
+MN;70;0119;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;247;100.00;247
+MN;70;0120;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;93;43.46;214
+MN;70;0120;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;121;56.54;214
+MN;70;0120;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;147;100.00;147
+MN;70;0125;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;62;38.99;159
+MN;70;0125;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;97;61.01;159
+MN;70;0125;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;149;100.00;149
+MN;70;0130;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;56;26.92;208
+MN;70;0130;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;152;73.08;208
+MN;70;0130;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;235;100.00;235
+MN;70;0135;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;110;48.67;226
+MN;70;0135;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;116;51.33;226
+MN;70;0135;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;166;100.00;166
+MN;70;0136;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;122;43.26;282
+MN;70;0136;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;160;56.74;282
+MN;70;0136;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;237;100.00;237
+MN;70;0137;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;39;37.86;103
+MN;70;0137;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;64;62.14;103
+MN;70;0137;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;105;100.00;105
+MN;70;0138;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;150;56.60;265
+MN;70;0138;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;115;43.40;265
+MN;70;0138;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;150;100.00;150
+MN;70;0145;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;111;43.19;257
+MN;70;0145;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;146;56.81;257
+MN;70;0145;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;128;100.00;128
+MN;70;0150;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;75;28.30;265
+MN;70;0150;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;190;71.70;265
+MN;70;0150;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;201;100.00;201
+MN;70;0153;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;63;35.59;177
+MN;70;0153;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;114;64.41;177
+MN;70;0153;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;94;100.00;94
+MN;70;0156;0296;State Representative District 55A;55A;0302;Bob Loonan;;;R;1;1;83;36.40;228
+MN;70;0156;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;1;1;145;63.60;228
+MN;70;0156;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;1;1;155;100.00;155
+MN;71;0010;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;190;100.00;190
+MN;71;0010;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;118;67.05;176
+MN;71;0010;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;58;32.95;176
+MN;71;0015;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;296;100.00;296
+MN;71;0015;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;79;54.86;144
+MN;71;0015;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;65;45.14;144
+MN;71;0035;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;23;100.00;23
+MN;71;0035;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;20;80.00;25
+MN;71;0035;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;5;20.00;25
+MN;71;0040;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;127;100.00;127
+MN;71;0040;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;77;65.81;117
+MN;71;0040;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;40;34.19;117
+MN;71;0075;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;171;100.00;171
+MN;71;0075;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;76;67.86;112
+MN;71;0075;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;36;32.14;112
+MN;71;0080;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;154;100.00;154
+MN;71;0080;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;84;63.16;133
+MN;71;0080;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;49;36.84;133
+MN;71;0105;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;117;100.00;117
+MN;71;0105;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;34;69.39;49
+MN;71;0105;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;15;30.61;49
+MN;71;0122;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;88;100.00;88
+MN;71;0122;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;36;59.02;61
+MN;71;0122;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;25;40.98;61
+MN;74;0025;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;44;100.00;44
+MN;74;0025;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;4;30.77;13
+MN;74;0025;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;9;69.23;13
+MN;74;0030;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;35;100.00;35
+MN;74;0030;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;14;77.78;18
+MN;74;0030;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;4;22.22;18
+MN;74;0045;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;0;1;0;0.00;0
+MN;74;0045;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;0;1;0;0.00;0
+MN;74;0045;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;0;1;0;0.00;0
+MN;74;0060;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;0;1;0;0.00;0
+MN;74;0060;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;0;1;0;0.00;0
+MN;74;0060;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;0;1;0;0.00;0
+MN;74;0070;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;95;100.00;95
+MN;74;0070;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;31;15.74;197
+MN;74;0070;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;166;84.26;197
+MN;74;0075;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;176;100.00;176
+MN;74;0075;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;150;85.71;175
+MN;74;0075;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;25;14.29;175
+MN;74;0085;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;104;100.00;104
+MN;74;0085;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;30;27.78;108
+MN;74;0085;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;78;72.22;108
+MN;74;0090;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;209;100.00;209
+MN;74;0090;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;162;77.88;208
+MN;74;0090;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;46;22.12;208
+MN;74;0100;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;81;100.00;81
+MN;74;0100;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;19;23.75;80
+MN;74;0100;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;61;76.25;80
+MN;74;0105;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;91;100.00;91
+MN;74;0105;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;86;75.44;114
+MN;74;0105;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;28;24.56;114
+MN;74;0115;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;152;100.00;152
+MN;74;0115;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;29;15.03;193
+MN;74;0115;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;164;84.97;193
+MN;74;0120;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;180;100.00;180
+MN;74;0120;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;140;87.50;160
+MN;74;0120;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;20;12.50;160
+MN;74;0130;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;123;100.00;123
+MN;74;0130;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;19;14.96;127
+MN;74;0130;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;108;85.04;127
+MN;74;0135;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;138;100.00;138
+MN;74;0135;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;100;82.64;121
+MN;74;0135;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;21;17.36;121
+MN;74;0145;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;35;100.00;35
+MN;74;0145;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;8;27.59;29
+MN;74;0145;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;21;72.41;29
+MN;81;0010;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;50;100.00;50
+MN;81;0010;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;23;57.50;40
+MN;81;0010;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;17;42.50;40
+MN;81;0080;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;96;100.00;96
+MN;81;0080;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;27;22.69;119
+MN;81;0080;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;92;77.31;119
+MN;81;0085;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;28;100.00;28
+MN;81;0085;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;37;75.51;49
+MN;81;0085;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;12;24.49;49
+MN;81;0090;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;143;100.00;143
+MN;81;0090;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;41;24.85;165
+MN;81;0090;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;124;75.15;165
+MN;81;0095;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;36;100.00;36
+MN;81;0095;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;43;66.15;65
+MN;81;0095;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;22;33.85;65
+MN;81;0100;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;22;100.00;22
+MN;81;0100;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;11;40.74;27
+MN;81;0100;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;16;59.26;27
+MN;81;0105;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;92;100.00;92
+MN;81;0105;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;53;70.67;75
+MN;81;0105;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;22;29.33;75
+MN;81;0115;0234;State Representative District 24A;24A;0301;John Petersburg;;;R;1;1;107;100.00;107
+MN;81;0115;0234;State Representative District 24A;24A;0401;Ethan Cords;;;DFL;1;1;21;28.77;73
+MN;81;0115;0234;State Representative District 24A;24A;0402;Joe Heegard;;;DFL;1;1;52;71.23;73
+MN;82;0195;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;8;44.44;18
+MN;82;0195;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;10;55.56;18
+MN;82;0195;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;20;100.00;20
+MN;82;0225;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;52;46.43;112
+MN;82;0225;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;60;53.57;112
+MN;82;0225;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;168;100.00;168
+MN;82;0260;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;37;44.05;84
+MN;82;0260;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;47;55.95;84
+MN;82;0260;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;131;100.00;131
+MN;82;0375;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;63;46.67;135
+MN;82;0375;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;72;53.33;135
+MN;82;0375;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;288;100.00;288
+MN;82;0380;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;131;54.58;240
+MN;82;0380;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;109;45.42;240
+MN;82;0380;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;417;100.00;417
+MN;82;0385;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;55;59.78;92
+MN;82;0385;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;37;40.22;92
+MN;82;0385;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;222;100.00;222
+MN;82;0390;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;104;56.22;185
+MN;82;0390;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;81;43.78;185
+MN;82;0390;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;394;100.00;394
+MN;82;0395;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;88;55.00;160
+MN;82;0395;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;72;45.00;160
+MN;82;0395;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;414;100.00;414
+MN;82;0400;0292;State Representative District 53A;53A;0302;Andy Turonie;;;R;1;1;131;70.43;186
+MN;82;0400;0292;State Representative District 53A;53A;0301;Bill Dahn;;;R;1;1;55;29.57;186
+MN;82;0400;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;1;1;267;100.00;267
+MN;86;0045;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;106;100.00;106
+MN;86;0045;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;63;71.59;88
+MN;86;0045;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;25;28.41;88
+MN;86;0050;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;1;1;102;100.00;102
+MN;86;0050;0217;State Representative District 15B;15B;0402;Karla Scapanski;;;DFL;1;1;43;51.19;84
+MN;86;0050;0217;State Representative District 15B;15B;0401;Jessica Filiaggi;;;DFL;1;1;41;48.81;84
+MN;86;0055;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;240;100.00;240
+MN;86;0055;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;27;27.55;98
+MN;86;0055;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;71;72.45;98
+MN;86;0060;0222;State Representative District 18A;18A;0301;Dean Urdahl;;;R;1;1;162;100.00;162
+MN;86;0060;0222;State Representative District 18A;18A;0402;Robert M Wright;;;DFL;1;1;13;29.55;44
+MN;86;0060;0222;State Representative District 18A;18A;0401;Justin Vold;;;DFL;1;1;31;70.45;44

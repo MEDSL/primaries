@@ -1,0 +1,8 @@
+MN;;;0335;Attorney General;;0301;Doug Wardlow;;;R;4102;4112;135435;46.28;292646
+MN;;;0335;Attorney General;;0302;Robert Lessard;;;R;4102;4112;63322;21.64;292646
+MN;;;0335;Attorney General;;0303;Sharon Anderson;;;R;4102;4112;93889;32.08;292646
+MN;;;0335;Attorney General;;0401;Mike Rothman;;;DFL;4102;4112;44429;7.90;562519
+MN;;;0335;Attorney General;;0402;Debra Hilstrom;;;DFL;4102;4112;107462;19.10;562519
+MN;;;0335;Attorney General;;0403;Matt Pelikan;;;DFL;4102;4112;59747;10.62;562519
+MN;;;0335;Attorney General;;0404;Tom Foley;;;DFL;4102;4112;70466;12.53;562519
+MN;;;0335;Attorney General;;0405;Keith Ellison;;;DFL;4102;4112;280415;49.85;562519
